@@ -26,12 +26,14 @@
         {
           "reference_id": 3511,
           "content_id": 4343,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bronze Sea",
           "language": "eng"
         },
         {
           "reference_id": 5863,
           "content_id": 6695,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Laver",
           "language": "eng"
         }

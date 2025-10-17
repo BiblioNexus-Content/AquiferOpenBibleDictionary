@@ -32,18 +32,21 @@
         {
           "reference_id": 4580,
           "content_id": 381490,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यीशु मसीह की वंशावली",
           "language": "hin"
         },
         {
           "reference_id": 6461,
           "content_id": 594704,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "नहूम की पुस्तक",
           "language": "hin"
         },
         {
           "reference_id": 6999,
           "content_id": 184994,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भविष्यद्वक्ता, भविष्यद्वक्तिन",
           "language": "hin"
         }

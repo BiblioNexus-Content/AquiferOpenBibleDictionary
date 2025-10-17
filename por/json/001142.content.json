@@ -866,78 +866,91 @@
         {
           "reference_id": 2488,
           "content_id": 207146,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraão",
           "language": "por"
         },
         {
           "reference_id": 2531,
           "content_id": 481506,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Pessoa)",
           "language": "por"
         },
         {
           "reference_id": 4362,
           "content_id": 481532,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "EVA",
           "language": "por"
         },
         {
           "reference_id": 4399,
           "content_id": 481533,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Queda do homem",
           "language": "por"
         },
         {
           "reference_id": 3842,
           "content_id": 658625,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aliança",
           "language": "por"
         },
         {
           "reference_id": 3854,
           "content_id": 161794,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Criação",
           "language": "por"
         },
         {
           "reference_id": 5617,
           "content_id": 125284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "José",
           "language": "por"
         },
         {
           "reference_id": 6482,
           "content_id": 125305,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nações",
           "language": "por"
         },
         {
           "reference_id": 4448,
           "content_id": 481538,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dilúvio, O",
           "language": "por"
         },
         {
           "reference_id": 6778,
           "content_id": 481566,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Patriarcas, Período dos",
           "language": "por"
         },
         {
           "reference_id": 6581,
           "content_id": 658697,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Noé",
           "language": "por"
         },
         {
           "reference_id": 5226,
           "content_id": 682969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Isaque",
           "language": "por"
         },
         {
           "reference_id": 5331,
           "content_id": 682980,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jacó",
           "language": "por"
         }

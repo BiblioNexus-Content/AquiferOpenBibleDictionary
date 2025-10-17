@@ -128,30 +128,35 @@
         {
           "reference_id": 3009,
           "content_id": 481510,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Assíria, assírios",
           "language": "por"
         },
         {
           "reference_id": 3013,
           "content_id": 759634,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astrologia",
           "language": "por"
         },
         {
           "reference_id": 8148,
           "content_id": 683111,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ur (Local)",
           "language": "por"
         },
         {
           "reference_id": 3999,
           "content_id": 716992,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diáspora dos judeus",
           "language": "por"
         },
         {
           "reference_id": 3914,
           "content_id": 759715,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Daniel, Livro de",
           "language": "por"
         }

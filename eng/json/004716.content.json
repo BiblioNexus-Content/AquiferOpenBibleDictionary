@@ -158,30 +158,35 @@
         {
           "reference_id": 3035,
           "content_id": 3867,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Atonement",
           "language": "eng"
         },
         {
           "reference_id": 3809,
           "content_id": 4641,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conversion",
           "language": "eng"
         },
         {
           "reference_id": 7287,
           "content_id": 8119,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salvation",
           "language": "eng"
         },
         {
           "reference_id": 7166,
           "content_id": 7998,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Repentance",
           "language": "eng"
         },
         {
           "reference_id": 7137,
           "content_id": 7969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Redeemer, Redemption",
           "language": "eng"
         }

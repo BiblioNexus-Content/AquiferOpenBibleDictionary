@@ -296,12 +296,14 @@
         {
           "reference_id": 8182,
           "content_id": 9014,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vines, Vineyard",
           "language": "eng"
         },
         {
           "reference_id": 8238,
           "content_id": 9070,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Winepress",
           "language": "eng"
         }

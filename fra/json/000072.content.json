@@ -32,12 +32,14 @@
         {
           "reference_id": 8085,
           "content_id": 800744,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Arbre de la Connaissance du Bien et du Mal",
           "language": "fra"
         },
         {
           "reference_id": 8086,
           "content_id": 800745,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Arbre de Vie",
           "language": "fra"
         }

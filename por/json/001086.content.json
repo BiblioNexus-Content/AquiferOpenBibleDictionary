@@ -212,18 +212,21 @@
         {
           "reference_id": 4397,
           "content_id": 125258,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fé",
           "language": "por"
         },
         {
           "reference_id": 5864,
           "content_id": 124394,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lei, Conceito Bíblico De",
           "language": "por"
         },
         {
           "reference_id": 7298,
           "content_id": 759973,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Santificação",
           "language": "por"
         }

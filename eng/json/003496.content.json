@@ -13,12 +13,14 @@
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "Unknown",
           "label": "Plants",
           "language": "eng"
         },
         {
           "reference_id": 8206,
           "content_id": 9038,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Water Lily",
           "language": "eng"
         }

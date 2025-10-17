@@ -56,12 +56,14 @@
         {
           "reference_id": 5868,
           "content_id": 6700,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lazarus",
           "language": "eng"
         },
         {
           "reference_id": 6129,
           "content_id": 6961,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mary",
           "language": "eng"
         }

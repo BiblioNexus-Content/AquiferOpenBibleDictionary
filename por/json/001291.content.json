@@ -74,18 +74,21 @@
         {
           "reference_id": 2592,
           "content_id": 658599,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Agricultura",
           "language": "por"
         },
         {
           "reference_id": 3498,
           "content_id": 161785,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pão",
           "language": "por"
         },
         {
           "reference_id": 4454,
           "content_id": 125261,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Comida E Preparação De Alimentos",
           "language": "por"
         }

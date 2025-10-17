@@ -86,18 +86,21 @@
         {
           "reference_id": 2881,
           "content_id": 3713,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Archaeology and the Bible",
           "language": "eng"
         },
         {
           "reference_id": 3504,
           "content_id": 4336,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Brick, Brick Kiln",
           "language": "eng"
         },
         {
           "reference_id": 5196,
           "content_id": 6028,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inscriptions",
           "language": "eng"
         }

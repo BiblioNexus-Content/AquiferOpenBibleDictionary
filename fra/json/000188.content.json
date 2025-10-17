@@ -134,12 +134,14 @@
         {
           "reference_id": 3752,
           "content_id": 785174,
+          "resource_code": "Unknown",
           "label": "Claude",
           "language": "fra"
         },
         {
           "reference_id": 7230,
           "content_id": 390344,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rome, ville de",
           "language": "fra"
         }

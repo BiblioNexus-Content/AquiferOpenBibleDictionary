@@ -13,12 +13,14 @@
         {
           "reference_id": 6835,
           "content_id": 7667,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pergamos, Pergamum",
           "language": "eng"
         },
         {
           "reference_id": 8265,
           "content_id": 9097,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Writing",
           "language": "eng"
         }

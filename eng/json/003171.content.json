@@ -368,18 +368,21 @@
         {
           "reference_id": 5597,
           "content_id": 6429,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jonah (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6998,
           "content_id": 7830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophecy",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         }

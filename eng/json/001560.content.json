@@ -13,12 +13,14 @@
         {
           "reference_id": 3779,
           "content_id": 4611,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Coins",
           "language": "eng"
         },
         {
           "reference_id": 6362,
           "content_id": 7194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Money",
           "language": "eng"
         }

@@ -104,12 +104,14 @@
         {
           "reference_id": 6259,
           "content_id": 7091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messiah",
           "language": "eng"
         },
         {
           "reference_id": 7137,
           "content_id": 7969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Redeemer, Redemption",
           "language": "eng"
         }

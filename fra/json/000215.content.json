@@ -50,24 +50,28 @@
         {
           "reference_id": 2953,
           "content_id": 713618,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ascension de Christ",
           "language": "fra"
         },
         {
           "reference_id": 3717,
           "content_id": 27237,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christ",
           "language": "fra"
         },
         {
           "reference_id": 6742,
           "content_id": 341282,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Parabole",
           "language": "fra"
         },
         {
           "reference_id": 7740,
           "content_id": 341297,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fils de l'homme",
           "language": "fra"
         }

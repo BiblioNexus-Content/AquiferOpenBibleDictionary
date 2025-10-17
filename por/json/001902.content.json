@@ -98,12 +98,14 @@
         {
           "reference_id": 5673,
           "content_id": 815996,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justo",
           "language": "por"
         },
         {
           "reference_id": 8040,
           "content_id": 124410,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tito, Carta A",
           "language": "por"
         }

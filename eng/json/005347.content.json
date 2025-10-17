@@ -320,30 +320,35 @@
         {
           "reference_id": 2838,
           "content_id": 3670,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apostle, Apostleship",
           "language": "eng"
         },
         {
           "reference_id": 6321,
           "content_id": 7153,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Miracle",
           "language": "eng"
         },
         {
           "reference_id": 7923,
           "content_id": 8755,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Teacher",
           "language": "eng"
         },
         {
           "reference_id": 6998,
           "content_id": 7830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophecy",
           "language": "eng"
         },
         {
           "reference_id": 8061,
           "content_id": 8893,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tongues, Speaking in",
           "language": "eng"
         }

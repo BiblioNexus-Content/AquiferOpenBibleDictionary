@@ -164,12 +164,14 @@
         {
           "reference_id": 3842,
           "content_id": 4674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Covenant",
           "language": "eng"
         },
         {
           "reference_id": 8189,
           "content_id": 9021,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vow, Vows",
           "language": "eng"
         }

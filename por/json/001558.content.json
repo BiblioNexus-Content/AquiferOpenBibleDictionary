@@ -1286,36 +1286,42 @@
         {
           "reference_id": 4065,
           "content_id": 682907,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sonhos",
           "language": "por"
         },
         {
           "reference_id": 6679,
           "content_id": 759925,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Oráculo",
           "language": "por"
         },
         {
           "reference_id": 6999,
           "content_id": 161859,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Profeta, Profetisa",
           "language": "por"
         },
         {
           "reference_id": 6997,
           "content_id": 481572,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Promessa",
           "language": "por"
         },
         {
           "reference_id": 7000,
           "content_id": 759947,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Profetas, Falsos",
           "language": "por"
         },
         {
           "reference_id": 8187,
           "content_id": 806283,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Visão, Visões",
           "language": "por"
         }

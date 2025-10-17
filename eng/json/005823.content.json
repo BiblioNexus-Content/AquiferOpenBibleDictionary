@@ -56,12 +56,14 @@
         {
           "reference_id": 4149,
           "content_id": 4981,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Elect, Election",
           "language": "eng"
         },
         {
           "reference_id": 6976,
           "content_id": 7808,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Predestination",
           "language": "eng"
         }

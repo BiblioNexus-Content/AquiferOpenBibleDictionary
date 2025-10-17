@@ -116,30 +116,35 @@
         {
           "reference_id": 3158,
           "content_id": 716926,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Banqueiro, Bancário",
           "language": "por"
         },
         {
           "reference_id": 6362,
           "content_id": 683037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dinheiro",
           "language": "por"
         },
         {
           "reference_id": 6945,
           "content_id": 161858,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pobres, Os",
           "language": "por"
         },
         {
           "reference_id": 8258,
           "content_id": 161886,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Trabalho",
           "language": "por"
         },
         {
           "reference_id": 7202,
           "content_id": 161865,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Riquezas",
           "language": "por"
         }

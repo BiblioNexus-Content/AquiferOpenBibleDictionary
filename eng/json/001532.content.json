@@ -422,18 +422,21 @@
         {
           "reference_id": 3945,
           "content_id": 4777,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Place of the Dead",
           "language": "eng"
         },
         {
           "reference_id": 5205,
           "content_id": 6037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Intermediate State",
           "language": "eng"
         },
         {
           "reference_id": 8263,
           "content_id": 9095,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wrath of God",
           "language": "eng"
         }

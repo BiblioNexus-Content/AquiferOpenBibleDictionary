@@ -86,12 +86,14 @@
         {
           "reference_id": 5030,
           "content_id": 381542,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "हिब्बी",
           "language": "hin"
         },
         {
           "reference_id": 5121,
           "content_id": 733218,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "हुरियन",
           "language": "hin"
         }

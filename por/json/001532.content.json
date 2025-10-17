@@ -68,12 +68,14 @@
         {
           "reference_id": 4122,
           "content_id": 717005,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Egito, egípcio",
           "language": "por"
         },
         {
           "reference_id": 5617,
           "content_id": 125284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "José",
           "language": "por"
         }

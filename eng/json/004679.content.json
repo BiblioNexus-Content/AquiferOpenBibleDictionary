@@ -26,12 +26,14 @@
         {
           "reference_id": 4016,
           "content_id": 4848,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dinah",
           "language": "eng"
         },
         {
           "reference_id": 7895,
           "content_id": 8727,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tamar (Person)",
           "language": "eng"
         }

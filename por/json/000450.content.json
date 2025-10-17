@@ -620,42 +620,49 @@
         {
           "reference_id": 2782,
           "content_id": 125233,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animais",
           "language": "por"
         },
         {
           "reference_id": 3498,
           "content_id": 161785,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pão",
           "language": "por"
         },
         {
           "reference_id": 4403,
           "content_id": 124383,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vida Familiar E Relações",
           "language": "por"
         },
         {
           "reference_id": 6929,
           "content_id": 125318,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plantas",
           "language": "por"
         },
         {
           "reference_id": 5872,
           "content_id": 161838,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fermento*",
           "language": "por"
         },
         {
           "reference_id": 6166,
           "content_id": 717167,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Refeições, Significado de",
           "language": "por"
         },
         {
           "reference_id": 8132,
           "content_id": 717323,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pão ázimo",
           "language": "por"
         }

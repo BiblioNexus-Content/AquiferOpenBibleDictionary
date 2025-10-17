@@ -512,12 +512,14 @@
         {
           "reference_id": 6998,
           "content_id": 125320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Profecia",
           "language": "por"
         },
         {
           "reference_id": 7000,
           "content_id": 759947,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Profetas, Falsos",
           "language": "por"
         }

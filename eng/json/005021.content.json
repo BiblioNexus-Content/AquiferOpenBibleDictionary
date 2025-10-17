@@ -44,12 +44,14 @@
         {
           "reference_id": 7513,
           "content_id": 8345,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shemaiah",
           "language": "eng"
         },
         {
           "reference_id": 7573,
           "content_id": 8405,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shimea",
           "language": "eng"
         }

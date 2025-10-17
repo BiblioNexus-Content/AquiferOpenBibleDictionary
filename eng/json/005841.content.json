@@ -158,12 +158,14 @@
         {
           "reference_id": 4362,
           "content_id": 5194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eve",
           "language": "eng"
         },
         {
           "reference_id": 6099,
           "content_id": 6931,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Man",
           "language": "eng"
         }

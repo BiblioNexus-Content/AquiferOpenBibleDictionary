@@ -134,12 +134,14 @@
         {
           "reference_id": 6096,
           "content_id": 788773,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Humanité, Ancienne et nouvelle",
           "language": "fra"
         },
         {
           "reference_id": 6099,
           "content_id": 788774,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Être humain",
           "language": "fra"
         }

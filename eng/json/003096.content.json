@@ -32,12 +32,14 @@
         {
           "reference_id": 5522,
           "content_id": 6354,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 5627,
           "content_id": 6459,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joshua (Person)",
           "language": "eng"
         }

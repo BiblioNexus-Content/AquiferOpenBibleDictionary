@@ -212,96 +212,112 @@
         {
           "reference_id": 3946,
           "content_id": 4778,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dead Sea Scrolls",
           "language": "eng"
         },
         {
           "reference_id": 3999,
           "content_id": 4831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diaspora of the Jews",
           "language": "eng"
         },
         {
           "reference_id": 4328,
           "content_id": 5160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Essenes",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 4435,
           "content_id": 5267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "First Jewish Revolt",
           "language": "eng"
         },
         {
           "reference_id": 5535,
           "content_id": 6367,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jew",
           "language": "eng"
         },
         {
           "reference_id": 5645,
           "content_id": 6477,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judah, Tribe of",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 6864,
           "content_id": 7696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisees",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         },
         {
           "reference_id": 7302,
           "content_id": 8134,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sanhedrin",
           "language": "eng"
         },
         {
           "reference_id": 6882,
           "content_id": 7714,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Philo, Judaeus",
           "language": "eng"
         },
         {
           "reference_id": 8065,
           "content_id": 8897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torah",
           "language": "eng"
         },
         {
           "reference_id": 7892,
           "content_id": 8724,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "eng"
         },
         {
           "reference_id": 8077,
           "content_id": 8909,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition, Oral",
           "language": "eng"
         },
         {
           "reference_id": 8078,
           "content_id": 8910,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition",
           "language": "eng"
         }

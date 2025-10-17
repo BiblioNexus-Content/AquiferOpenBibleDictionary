@@ -182,12 +182,14 @@
         {
           "reference_id": 4522,
           "content_id": 125266,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Galileia",
           "language": "por"
         },
         {
           "reference_id": 6726,
           "content_id": 658705,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestina",
           "language": "por"
         }

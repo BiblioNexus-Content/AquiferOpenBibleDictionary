@@ -20,12 +20,14 @@
         {
           "reference_id": 3013,
           "content_id": 3845,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astrology",
           "language": "eng"
         },
         {
           "reference_id": 3806,
           "content_id": 4638,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Constellation",
           "language": "eng"
         }

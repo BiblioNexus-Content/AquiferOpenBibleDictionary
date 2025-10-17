@@ -32,12 +32,14 @@
         {
           "reference_id": 7539,
           "content_id": 8371,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shephuphan",
           "language": "eng"
         },
         {
           "reference_id": 7634,
           "content_id": 8466,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shuppim",
           "language": "eng"
         }

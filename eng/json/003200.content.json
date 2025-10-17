@@ -1670,30 +1670,35 @@
         {
           "reference_id": 3738,
           "content_id": 4570,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cities of Refuge",
           "language": "eng"
         },
         {
           "reference_id": 3803,
           "content_id": 4635,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conquest and Allotment of the Land",
           "language": "eng"
         },
         {
           "reference_id": 5900,
           "content_id": 6732,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Levitical Cities",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 5627,
           "content_id": 6459,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joshua (Person)",
           "language": "eng"
         }

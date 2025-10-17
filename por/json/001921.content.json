@@ -110,24 +110,28 @@
         {
           "reference_id": 3264,
           "content_id": 815895,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bema",
           "language": "por"
         },
         {
           "reference_id": 5663,
           "content_id": 481551,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Julgamento",
           "language": "por"
         },
         {
           "reference_id": 7370,
           "content_id": 124408,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Segunda Vinda De Cristo*",
           "language": "por"
         },
         {
           "reference_id": 5856,
           "content_id": 816001,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Juízo final",
           "language": "por"
         }

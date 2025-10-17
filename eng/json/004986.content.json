@@ -176,36 +176,42 @@
         {
           "reference_id": 4039,
           "content_id": 4871,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Divorce",
           "language": "eng"
         },
         {
           "reference_id": 4403,
           "content_id": 5235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Family Life and Relations",
           "language": "eng"
         },
         {
           "reference_id": 6099,
           "content_id": 6931,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Man",
           "language": "eng"
         },
         {
           "reference_id": 8186,
           "content_id": 9018,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Virgin",
           "language": "eng"
         },
         {
           "reference_id": 8254,
           "content_id": 9086,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Woman",
           "language": "eng"
         },
         {
           "reference_id": 6123,
           "content_id": 6955,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Marriage, Marriage Customs",
           "language": "eng"
         }

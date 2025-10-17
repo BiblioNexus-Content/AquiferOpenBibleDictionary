@@ -422,12 +422,14 @@
         {
           "reference_id": 3458,
           "content_id": 4290,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Body",
           "language": "eng"
         },
         {
           "reference_id": 7691,
           "content_id": 8523,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sin",
           "language": "eng"
         }

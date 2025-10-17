@@ -188,18 +188,21 @@
         {
           "reference_id": 3945,
           "content_id": 184901,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मृतकों का स्थान",
           "language": "hin"
         },
         {
           "reference_id": 4574,
           "content_id": 184924,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गेहेन्ना",
           "language": "hin"
         },
         {
           "reference_id": 7529,
           "content_id": 381856,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "शीओल* (अधोलोक)",
           "language": "hin"
         }

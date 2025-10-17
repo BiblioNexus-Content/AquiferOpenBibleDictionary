@@ -20,12 +20,14 @@
         {
           "reference_id": 3158,
           "content_id": 3990,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Banker, Banking",
           "language": "eng"
         },
         {
           "reference_id": 3956,
           "content_id": 4788,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Debt",
           "language": "eng"
         }

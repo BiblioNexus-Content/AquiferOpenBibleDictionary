@@ -428,12 +428,14 @@
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         },
         {
           "reference_id": 6383,
           "content_id": 184972,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मूसा",
           "language": "hin"
         }

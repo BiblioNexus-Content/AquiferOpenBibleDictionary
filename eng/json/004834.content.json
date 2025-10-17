@@ -26,12 +26,14 @@
         {
           "reference_id": 7278,
           "content_id": 8110,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salmon (Person)",
           "language": "eng"
         },
         {
           "reference_id": 7502,
           "content_id": 8334,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shelah",
           "language": "eng"
         }

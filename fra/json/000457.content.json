@@ -164,12 +164,14 @@
         {
           "reference_id": 4990,
           "content_id": 341267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hérodiens",
           "language": "fra"
         },
         {
           "reference_id": 5646,
           "content_id": 341271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaïsme",
           "language": "fra"
         }

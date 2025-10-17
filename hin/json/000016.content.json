@@ -13,18 +13,21 @@
         {
           "reference_id": 6929,
           "content_id": 180532,
+          "resource_code": "Unknown",
           "label": "पौधे",
           "language": "hin"
         },
         {
           "reference_id": 7894,
           "content_id": 381887,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "झाऊ",
           "language": "hin"
         },
         {
           "reference_id": 209686,
           "content_id": 734169,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "काँटेदार अल्हागी",
           "language": "hin"
         }

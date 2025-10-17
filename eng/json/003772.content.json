@@ -146,12 +146,14 @@
         {
           "reference_id": 4927,
           "content_id": 5759,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hebrews, Letter to the",
           "language": "eng"
         },
         {
           "reference_id": 6984,
           "content_id": 7816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Priests and Levites",
           "language": "eng"
         }

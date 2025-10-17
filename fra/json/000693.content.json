@@ -74,12 +74,14 @@
         {
           "reference_id": 2592,
           "content_id": 800675,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Agriculture",
           "language": "fra"
         },
         {
           "reference_id": 3498,
           "content_id": 602039,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pain",
           "language": "fra"
         }

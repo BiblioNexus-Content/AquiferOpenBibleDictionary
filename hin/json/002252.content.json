@@ -140,18 +140,21 @@
         {
           "reference_id": 2829,
           "content_id": 732490,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "अन्तकालिक ग्रन्थ",
           "language": "hin"
         },
         {
           "reference_id": 4065,
           "content_id": 381422,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "स्वप्न",
           "language": "hin"
         },
         {
           "reference_id": 6998,
           "content_id": 180534,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भविष्यवाणी",
           "language": "hin"
         }

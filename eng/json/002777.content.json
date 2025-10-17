@@ -140,12 +140,14 @@
         {
           "reference_id": 2881,
           "content_id": 3713,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Archaeology and the Bible",
           "language": "eng"
         },
         {
           "reference_id": 6963,
           "content_id": 7795,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pottery",
           "language": "eng"
         }

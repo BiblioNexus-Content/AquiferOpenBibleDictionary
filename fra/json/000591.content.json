@@ -344,18 +344,21 @@
         {
           "reference_id": 4518,
           "content_id": 785201,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Galatie",
           "language": "fra"
         },
         {
           "reference_id": 5647,
           "content_id": 713650,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaïsants",
           "language": "fra"
         },
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         }

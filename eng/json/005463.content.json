@@ -32,60 +32,70 @@
         {
           "reference_id": 4577,
           "content_id": 5409,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gemara",
           "language": "eng"
         },
         {
           "reference_id": 4753,
           "content_id": 5585,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Haggadah",
           "language": "eng"
         },
         {
           "reference_id": 6291,
           "content_id": 7123,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Midrash",
           "language": "eng"
         },
         {
           "reference_id": 6333,
           "content_id": 7165,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mishnah",
           "language": "eng"
         },
         {
           "reference_id": 4772,
           "content_id": 5604,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Halakah",
           "language": "eng"
         },
         {
           "reference_id": 5864,
           "content_id": 6696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Biblical Concept of Law",
           "language": "eng"
         },
         {
           "reference_id": 6864,
           "content_id": 7696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisees",
           "language": "eng"
         },
         {
           "reference_id": 8077,
           "content_id": 8909,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition, Oral",
           "language": "eng"
         },
         {
           "reference_id": 8078,
           "content_id": 8910,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition",
           "language": "eng"
         },
         {
           "reference_id": 8065,
           "content_id": 8897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torah",
           "language": "eng"
         }

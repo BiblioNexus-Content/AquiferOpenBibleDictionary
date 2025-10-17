@@ -980,30 +980,35 @@
         {
           "reference_id": 3812,
           "content_id": 716976,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ferreiro",
           "language": "por"
         },
         {
           "reference_id": 4673,
           "content_id": 717051,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ourives",
           "language": "por"
         },
         {
           "reference_id": 7796,
           "content_id": 481585,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pedras preciosas",
           "language": "por"
         },
         {
           "reference_id": 5219,
           "content_id": 658660,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ferreiro",
           "language": "por"
         },
         {
           "reference_id": 7666,
           "content_id": 717291,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ourives",
           "language": "por"
         }

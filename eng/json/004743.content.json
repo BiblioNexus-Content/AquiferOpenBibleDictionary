@@ -13,30 +13,35 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 2998,
           "content_id": 3830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Asp",
           "language": "eng"
         },
         {
           "reference_id": 5931,
           "content_id": 6763,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lizard",
           "language": "eng"
         },
         {
           "reference_id": 4562,
           "content_id": 5394,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gecko",
           "language": "eng"
         },
         {
           "reference_id": 7717,
           "content_id": 8549,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Snake",
           "language": "eng"
         }

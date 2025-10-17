@@ -38,18 +38,21 @@
         {
           "reference_id": 2531,
           "content_id": 3363,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Person)",
           "language": "eng"
         },
         {
           "reference_id": 3951,
           "content_id": 4783,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Death",
           "language": "eng"
         },
         {
           "reference_id": 7691,
           "content_id": 8523,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sin",
           "language": "eng"
         }

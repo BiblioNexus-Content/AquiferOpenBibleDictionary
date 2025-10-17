@@ -56,18 +56,21 @@
         {
           "reference_id": 5582,
           "content_id": 6414,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John, the Apostle",
           "language": "eng"
         },
         {
           "reference_id": 5583,
           "content_id": 6415,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John the Baptist",
           "language": "eng"
         },
         {
           "reference_id": 6119,
           "content_id": 6951,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John Mark",
           "language": "eng"
         }

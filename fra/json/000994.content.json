@@ -1148,42 +1148,49 @@
         {
           "reference_id": 2697,
           "content_id": 805959,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Autel",
           "language": "fra"
         },
         {
           "reference_id": 3497,
           "content_id": 341253,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pains de proposition, pain de la Présence",
           "language": "fra"
         },
         {
           "reference_id": 4416,
           "content_id": 341259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fêtes et festivals d'Israël",
           "language": "fra"
         },
         {
           "reference_id": 6984,
           "content_id": 341290,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sacrificateurs (prêtres) et lévites",
           "language": "fra"
         },
         {
           "reference_id": 5646,
           "content_id": 341271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaïsme",
           "language": "fra"
         },
         {
           "reference_id": 3937,
           "content_id": 662284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "David",
           "language": "fra"
         },
         {
           "reference_id": 6630,
           "content_id": 800726,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Offrandes et Sacrifices",
           "language": "fra"
         }

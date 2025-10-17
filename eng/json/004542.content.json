@@ -278,18 +278,21 @@
         {
           "reference_id": 5946,
           "content_id": 6778,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lord’s Prayer, the",
           "language": "eng"
         },
         {
           "reference_id": 6970,
           "content_id": 7802,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Praise",
           "language": "eng"
         },
         {
           "reference_id": 8262,
           "content_id": 9094,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Worship",
           "language": "eng"
         }

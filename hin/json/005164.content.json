@@ -62,24 +62,28 @@
         {
           "reference_id": 2671,
           "content_id": 207166,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सिकन्दरिया",
           "language": "hin"
         },
         {
           "reference_id": 4705,
           "content_id": 184932,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यूनान, यूनानी ",
           "language": "hin"
         },
         {
           "reference_id": 4955,
           "content_id": 381102,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यूनानवाद",
           "language": "hin"
         },
         {
           "reference_id": 4956,
           "content_id": 381103,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "युनानवादी",
           "language": "hin"
         }

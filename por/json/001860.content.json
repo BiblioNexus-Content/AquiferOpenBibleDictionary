@@ -32,30 +32,35 @@
         {
           "reference_id": 4772,
           "content_id": 717060,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Halacá",
           "language": "por"
         },
         {
           "reference_id": 5864,
           "content_id": 124394,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lei, Conceito Bíblico De",
           "language": "por"
         },
         {
           "reference_id": 8065,
           "content_id": 161880,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torá*",
           "language": "por"
         },
         {
           "reference_id": 8078,
           "content_id": 161881,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradição",
           "language": "por"
         },
         {
           "reference_id": 6864,
           "content_id": 161855,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fariseus",
           "language": "por"
         }

@@ -176,12 +176,14 @@
         {
           "reference_id": 3937,
           "content_id": 161797,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Davi",
           "language": "por"
         },
         {
           "reference_id": 6782,
           "content_id": 124401,
+          "resource_code": "Unknown",
           "label": "Paulo, O Apóstolo",
           "language": "por"
         }

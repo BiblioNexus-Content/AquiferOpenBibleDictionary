@@ -380,30 +380,35 @@
         {
           "reference_id": 3842,
           "content_id": 4674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Covenant",
           "language": "eng"
         },
         {
           "reference_id": 4665,
           "content_id": 5497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Being and Attributes of",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         },
         {
           "reference_id": 6998,
           "content_id": 7830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophecy",
           "language": "eng"
         },
         {
           "reference_id": 5062,
           "content_id": 5894,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hope",
           "language": "eng"
         }

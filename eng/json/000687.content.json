@@ -56,30 +56,35 @@
         {
           "reference_id": 3636,
           "content_id": 4468,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chaldea, Chaldeans",
           "language": "eng"
         },
         {
           "reference_id": 3914,
           "content_id": 4746,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Daniel",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         },
         {
           "reference_id": 6500,
           "content_id": 7332,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nebuchadnezzar, Nebuchadrezzar",
           "language": "eng"
         },
         {
           "reference_id": 3999,
           "content_id": 4831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diaspora of the Jews",
           "language": "eng"
         }

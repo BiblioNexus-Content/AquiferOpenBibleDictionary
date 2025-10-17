@@ -38,24 +38,28 @@
         {
           "reference_id": 2669,
           "content_id": 184855,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सिकन्दर",
           "language": "hin"
         },
         {
           "reference_id": 4955,
           "content_id": 381102,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यूनानवाद",
           "language": "hin"
         },
         {
           "reference_id": 6882,
           "content_id": 381773,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "फिलो*, यहूदी",
           "language": "hin"
         },
         {
           "reference_id": 4956,
           "content_id": 381103,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "युनानवादी",
           "language": "hin"
         }

@@ -284,18 +284,21 @@
         {
           "reference_id": 3397,
           "content_id": 4229,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Versions of the (Ancient)",
           "language": "eng"
         },
         {
           "reference_id": 4310,
           "content_id": 5142,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Second Book of Esdras",
           "language": "eng"
         },
         {
           "reference_id": 4659,
           "content_id": 5491,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gnosticism",
           "language": "eng"
         }

@@ -212,24 +212,28 @@
         {
           "reference_id": 2563,
           "content_id": 3395,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adoption",
           "language": "eng"
         },
         {
           "reference_id": 4397,
           "content_id": 5229,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Faith",
           "language": "eng"
         },
         {
           "reference_id": 7298,
           "content_id": 8130,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sanctification",
           "language": "eng"
         },
         {
           "reference_id": 5864,
           "content_id": 6696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Biblical Concept of Law",
           "language": "eng"
         }

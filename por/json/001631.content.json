@@ -212,18 +212,21 @@
         {
           "reference_id": 3035,
           "content_id": 716921,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Expiação",
           "language": "por"
         },
         {
           "reference_id": 7109,
           "content_id": 124404,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Resgate",
           "language": "por"
         },
         {
           "reference_id": 7287,
           "content_id": 124406,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salvação",
           "language": "por"
         }

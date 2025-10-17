@@ -20,18 +20,21 @@
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 7449,
           "content_id": 8281,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shammai",
           "language": "eng"
         },
         {
           "reference_id": 7892,
           "content_id": 8724,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "eng"
         }

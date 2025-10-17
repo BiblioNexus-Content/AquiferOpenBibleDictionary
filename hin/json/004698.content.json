@@ -248,18 +248,21 @@
         {
           "reference_id": 4039,
           "content_id": 184907,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "तलाक",
           "language": "hin"
         },
         {
           "reference_id": 4464,
           "content_id": 184920,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "व्यभिचार",
           "language": "hin"
         },
         {
           "reference_id": 6123,
           "content_id": 184963,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "विवाह, विवाह की प्रथाएँ",
           "language": "hin"
         }

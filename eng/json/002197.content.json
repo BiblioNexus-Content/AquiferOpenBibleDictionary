@@ -134,12 +134,14 @@
         {
           "reference_id": 3803,
           "content_id": 4635,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conquest and Allotment of the Land",
           "language": "eng"
         },
         {
           "reference_id": 4613,
           "content_id": 5445,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gibbar",
           "language": "eng"
         }

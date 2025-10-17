@@ -194,24 +194,28 @@
         {
           "reference_id": 4581,
           "content_id": 5413,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy",
           "language": "eng"
         },
         {
           "reference_id": 5184,
           "content_id": 6016,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Incarnation",
           "language": "eng"
         },
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 8185,
           "content_id": 9017,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Virgin Birth of Jesus",
           "language": "eng"
         }

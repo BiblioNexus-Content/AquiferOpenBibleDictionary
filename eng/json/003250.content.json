@@ -20,12 +20,14 @@
         {
           "reference_id": 3544,
           "content_id": 4376,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cab",
           "language": "eng"
         },
         {
           "reference_id": 8219,
           "content_id": 9051,
+          "resource_code": "Unknown",
           "label": "Weights and Measures",
           "language": "eng"
         }

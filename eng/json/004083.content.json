@@ -122,24 +122,28 @@
         {
           "reference_id": 4390,
           "content_id": 5222,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Ezra",
           "language": "eng"
         },
         {
           "reference_id": 4393,
           "content_id": 5225,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ezra (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         },
         {
           "reference_id": 6511,
           "content_id": 7343,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Nehemiah",
           "language": "eng"
         }

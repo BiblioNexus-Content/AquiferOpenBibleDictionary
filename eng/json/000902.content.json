@@ -20,12 +20,14 @@
         {
           "reference_id": 3369,
           "content_id": 4201,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bethsaida",
           "language": "eng"
         },
         {
           "reference_id": 3380,
           "content_id": 4212,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Beth-Zatha",
           "language": "eng"
         }

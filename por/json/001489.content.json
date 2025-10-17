@@ -86,18 +86,21 @@
         {
           "reference_id": 3951,
           "content_id": 161801,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Morte",
           "language": "por"
         },
         {
           "reference_id": 5663,
           "content_id": 481551,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Julgamento",
           "language": "por"
         },
         {
           "reference_id": 5836,
           "content_id": 161836,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lago De Fogo",
           "language": "por"
         }

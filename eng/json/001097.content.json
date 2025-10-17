@@ -122,24 +122,28 @@
         {
           "reference_id": 5370,
           "content_id": 6202,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "James (Person)",
           "language": "eng"
         },
         {
           "reference_id": 5617,
           "content_id": 6449,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joseph",
           "language": "eng"
         },
         {
           "reference_id": 5657,
           "content_id": 6489,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jude (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6129,
           "content_id": 6961,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mary",
           "language": "eng"
         }

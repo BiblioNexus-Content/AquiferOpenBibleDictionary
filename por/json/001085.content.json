@@ -164,12 +164,14 @@
         {
           "reference_id": 3842,
           "content_id": 658625,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aliança",
           "language": "por"
         },
         {
           "reference_id": 8189,
           "content_id": 161883,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Voto, Votos",
           "language": "por"
         }

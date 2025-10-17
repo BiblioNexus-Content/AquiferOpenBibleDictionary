@@ -260,12 +260,14 @@
         {
           "reference_id": 3421,
           "content_id": 811800,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Droit d'aînesse",
           "language": "fra"
         },
         {
           "reference_id": 6985,
           "content_id": 806106,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Primogéniture",
           "language": "fra"
         }

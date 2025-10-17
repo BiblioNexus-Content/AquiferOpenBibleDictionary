@@ -13,30 +13,35 @@
         {
           "reference_id": 3812,
           "content_id": 4644,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Coppersmith",
           "language": "eng"
         },
         {
           "reference_id": 4673,
           "content_id": 5505,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Goldsmith",
           "language": "eng"
         },
         {
           "reference_id": 5219,
           "content_id": 6051,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ironsmith",
           "language": "eng"
         },
         {
           "reference_id": 6313,
           "content_id": 7145,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Minerals and Metals",
           "language": "eng"
         },
         {
           "reference_id": 7666,
           "content_id": 8498,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Silversmith",
           "language": "eng"
         }

@@ -32,12 +32,14 @@
         {
           "reference_id": 6058,
           "content_id": 6890,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Malachi, Book of",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         }

@@ -104,12 +104,14 @@
         {
           "reference_id": 6259,
           "content_id": 125300,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messias",
           "language": "por"
         },
         {
           "reference_id": 7137,
           "content_id": 161863,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Redentor, Redenção",
           "language": "por"
         }

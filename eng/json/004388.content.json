@@ -50,36 +50,42 @@
         {
           "reference_id": 3992,
           "content_id": 4824,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Deuteronomy, Book of",
           "language": "eng"
         },
         {
           "reference_id": 4374,
           "content_id": 5206,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Exodus",
           "language": "eng"
         },
         {
           "reference_id": 4582,
           "content_id": 5414,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genesis, Book of",
           "language": "eng"
         },
         {
           "reference_id": 5901,
           "content_id": 6733,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leviticus, Book of",
           "language": "eng"
         },
         {
           "reference_id": 6601,
           "content_id": 7433,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Numbers, Book of",
           "language": "eng"
         },
         {
           "reference_id": 8065,
           "content_id": 8897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torah",
           "language": "eng"
         }

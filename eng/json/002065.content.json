@@ -86,12 +86,14 @@
         {
           "reference_id": 3531,
           "content_id": 4363,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Burial, Burial Customs",
           "language": "eng"
         },
         {
           "reference_id": 6405,
           "content_id": 7237,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mourning",
           "language": "eng"
         }

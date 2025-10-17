@@ -26,12 +26,14 @@
         {
           "reference_id": 4256,
           "content_id": 5088,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Enoch (Person)",
           "language": "eng"
         },
         {
           "reference_id": 4820,
           "content_id": 5652,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hanoch",
           "language": "eng"
         }

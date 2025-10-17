@@ -13,18 +13,21 @@
         {
           "reference_id": 3418,
           "content_id": 381014,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "पक्षी",
           "language": "hin"
         },
         {
           "reference_id": 6706,
           "content_id": 733624,
+          "resource_code": "Unknown",
           "label": "उल्लू",
           "language": "hin"
         },
         {
           "reference_id": 8205,
           "content_id": 734094,
+          "resource_code": "Unknown",
           "label": "पानी का पक्षी ",
           "language": "hin"
         }

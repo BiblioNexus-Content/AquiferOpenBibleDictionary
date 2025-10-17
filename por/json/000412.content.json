@@ -446,12 +446,14 @@
         {
           "reference_id": 6550,
           "content_id": 806250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Novos céus e nova terra",
           "language": "por"
         },
         {
           "reference_id": 6744,
           "content_id": 481565,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paraíso",
           "language": "por"
         }

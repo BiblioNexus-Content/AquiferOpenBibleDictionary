@@ -86,24 +86,28 @@
         {
           "reference_id": 2798,
           "content_id": 3630,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Antichrist",
           "language": "eng"
         },
         {
           "reference_id": 3951,
           "content_id": 4783,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Death",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 5836,
           "content_id": 6668,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lake of Fire",
           "language": "eng"
         }

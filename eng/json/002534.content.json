@@ -32,36 +32,42 @@
         {
           "reference_id": 4293,
           "content_id": 5125,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Epicureans",
           "language": "eng"
         },
         {
           "reference_id": 4659,
           "content_id": 5491,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gnosticism",
           "language": "eng"
         },
         {
           "reference_id": 4956,
           "content_id": 5788,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hellenists",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 7794,
           "content_id": 8626,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Stoicism, Stoics",
           "language": "eng"
         },
         {
           "reference_id": 4705,
           "content_id": 5537,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Greece, Greek",
           "language": "eng"
         }

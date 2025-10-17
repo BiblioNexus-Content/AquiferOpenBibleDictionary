@@ -188,18 +188,21 @@
         {
           "reference_id": 2669,
           "content_id": 133279,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alexandre",
           "language": "por"
         },
         {
           "reference_id": 2671,
           "content_id": 207148,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alexandria",
           "language": "por"
         },
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         }

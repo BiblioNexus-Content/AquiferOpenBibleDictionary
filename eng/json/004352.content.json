@@ -20,12 +20,14 @@
         {
           "reference_id": 4936,
           "content_id": 5768,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Heir",
           "language": "eng"
         },
         {
           "reference_id": 5190,
           "content_id": 6022,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inheritance",
           "language": "eng"
         }

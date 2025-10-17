@@ -62,18 +62,21 @@
         {
           "reference_id": 3035,
           "content_id": 3867,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Atonement",
           "language": "eng"
         },
         {
           "reference_id": 6630,
           "content_id": 7462,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Offerings and Sacrifices",
           "language": "eng"
         },
         {
           "reference_id": 7001,
           "content_id": 7833,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Propitiation",
           "language": "eng"
         }

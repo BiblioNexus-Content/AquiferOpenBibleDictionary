@@ -26,12 +26,14 @@
         {
           "reference_id": 2612,
           "content_id": 3444,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ahijah",
           "language": "eng"
         },
         {
           "reference_id": 2727,
           "content_id": 3559,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ammiel",
           "language": "eng"
         }

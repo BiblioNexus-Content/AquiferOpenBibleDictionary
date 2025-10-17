@@ -32,18 +32,21 @@
         {
           "reference_id": 3958,
           "content_id": 4790,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Decapolis",
           "language": "eng"
         },
         {
           "reference_id": 4503,
           "content_id": 5335,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gadara, Gadarenes",
           "language": "eng"
         },
         {
           "reference_id": 4644,
           "content_id": 5476,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Girgashites",
           "language": "eng"
         }

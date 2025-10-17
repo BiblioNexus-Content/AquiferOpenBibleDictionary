@@ -13,12 +13,14 @@
         {
           "reference_id": 3688,
           "content_id": 4520,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chief Priest",
           "language": "eng"
         },
         {
           "reference_id": 6984,
           "content_id": 7816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Priests and Levites",
           "language": "eng"
         }

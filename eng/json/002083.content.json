@@ -38,18 +38,21 @@
         {
           "reference_id": 3958,
           "content_id": 4790,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Decapolis",
           "language": "eng"
         },
         {
           "reference_id": 4593,
           "content_id": 5425,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gerasa, Gerasenes",
           "language": "eng"
         },
         {
           "reference_id": 4595,
           "content_id": 5427,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gergesa, Gergesenes",
           "language": "eng"
         }

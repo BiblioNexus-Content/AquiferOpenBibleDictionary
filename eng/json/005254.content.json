@@ -32,12 +32,14 @@
         {
           "reference_id": 3436,
           "content_id": 4268,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Blasphemy",
           "language": "eng"
         },
         {
           "reference_id": 7691,
           "content_id": 8523,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sin",
           "language": "eng"
         }

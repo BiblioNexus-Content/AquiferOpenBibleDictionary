@@ -32,18 +32,21 @@
         {
           "reference_id": 6257,
           "content_id": 7089,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mesopotamia",
           "language": "eng"
         },
         {
           "reference_id": 7392,
           "content_id": 8224,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sennacherib",
           "language": "eng"
         },
         {
           "reference_id": 7853,
           "content_id": 8685,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Syria, Syrians",
           "language": "eng"
         }

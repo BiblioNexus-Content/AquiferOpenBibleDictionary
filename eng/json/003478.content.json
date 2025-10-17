@@ -464,36 +464,42 @@
         {
           "reference_id": 2431,
           "content_id": 3263,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aaron",
           "language": "eng"
         },
         {
           "reference_id": 6383,
           "content_id": 7215,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moses",
           "language": "eng"
         },
         {
           "reference_id": 6630,
           "content_id": 7462,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Offerings and Sacrifices",
           "language": "eng"
         },
         {
           "reference_id": 7864,
           "content_id": 8696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tabernacle",
           "language": "eng"
         },
         {
           "reference_id": 6984,
           "content_id": 7816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Priests and Levites",
           "language": "eng"
         },
         {
           "reference_id": 7950,
           "content_id": 8782,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Temple",
           "language": "eng"
         }

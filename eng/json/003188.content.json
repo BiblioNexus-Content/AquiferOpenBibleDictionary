@@ -446,36 +446,42 @@
         {
           "reference_id": 3180,
           "content_id": 4012,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barnabas",
           "language": "eng"
         },
         {
           "reference_id": 3520,
           "content_id": 4352,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Brothers of Jesus",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 6778,
           "content_id": 7610,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Patriarchs, Period of the",
           "language": "eng"
         },
         {
           "reference_id": 5612,
           "content_id": 6444,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Josech",
           "language": "eng"
         },
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         }

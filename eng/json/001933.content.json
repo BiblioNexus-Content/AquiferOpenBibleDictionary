@@ -86,12 +86,14 @@
         {
           "reference_id": 2531,
           "content_id": 3363,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Person)",
           "language": "eng"
         },
         {
           "reference_id": 4534,
           "content_id": 5366,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Garden of Eden",
           "language": "eng"
         }

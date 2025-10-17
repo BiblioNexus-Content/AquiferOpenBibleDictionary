@@ -314,18 +314,21 @@
         {
           "reference_id": 5583,
           "content_id": 6415,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John the Baptist",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         },
         {
           "reference_id": 8334,
           "content_id": 9166,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Zechariah, Book of",
           "language": "eng"
         }

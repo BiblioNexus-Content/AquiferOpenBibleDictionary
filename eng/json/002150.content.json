@@ -194,30 +194,35 @@
         {
           "reference_id": 3945,
           "content_id": 4777,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Place of the Dead",
           "language": "eng"
         },
         {
           "reference_id": 3951,
           "content_id": 4783,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Death",
           "language": "eng"
         },
         {
           "reference_id": 7529,
           "content_id": 8361,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sheol",
           "language": "eng"
         },
         {
           "reference_id": 4743,
           "content_id": 5575,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hades",
           "language": "eng"
         },
         {
           "reference_id": 4957,
           "content_id": 5789,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hell",
           "language": "eng"
         }

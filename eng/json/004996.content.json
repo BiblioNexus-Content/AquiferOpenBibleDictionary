@@ -62,12 +62,14 @@
         {
           "reference_id": 3913,
           "content_id": 4745,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Daniel, Additions to",
           "language": "eng"
         },
         {
           "reference_id": 3914,
           "content_id": 4746,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Daniel",
           "language": "eng"
         }

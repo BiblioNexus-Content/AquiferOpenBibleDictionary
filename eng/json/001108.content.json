@@ -212,12 +212,14 @@
         {
           "reference_id": 4488,
           "content_id": 5320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Funeral Customs",
           "language": "eng"
         },
         {
           "reference_id": 6405,
           "content_id": 7237,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mourning",
           "language": "eng"
         }

@@ -134,18 +134,21 @@
         {
           "reference_id": 4918,
           "content_id": 125271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Coração",
           "language": "por"
         },
         {
           "reference_id": 6099,
           "content_id": 481558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homem",
           "language": "por"
         },
         {
           "reference_id": 7757,
           "content_id": 161871,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alma",
           "language": "por"
         }

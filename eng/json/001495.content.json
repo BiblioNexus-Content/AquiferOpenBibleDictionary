@@ -80,18 +80,21 @@
         {
           "reference_id": 3919,
           "content_id": 4751,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dan (Person)",
           "language": "eng"
         },
         {
           "reference_id": 3921,
           "content_id": 4753,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dan, Tribe of",
           "language": "eng"
         },
         {
           "reference_id": 8152,
           "content_id": 8984,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Uzal (Place)",
           "language": "eng"
         }

@@ -80,30 +80,35 @@
         {
           "reference_id": 3797,
           "content_id": 4629,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Confession",
           "language": "eng"
         },
         {
           "reference_id": 3809,
           "content_id": 4641,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conversion",
           "language": "eng"
         },
         {
           "reference_id": 7287,
           "content_id": 8119,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salvation",
           "language": "eng"
         },
         {
           "reference_id": 7147,
           "content_id": 7979,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Regeneration",
           "language": "eng"
         },
         {
           "reference_id": 4462,
           "content_id": 5294,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Forgiveness",
           "language": "eng"
         }

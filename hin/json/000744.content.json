@@ -866,72 +866,84 @@
         {
           "reference_id": 2488,
           "content_id": 207164,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "अब्राहम",
           "language": "hin"
         },
         {
           "reference_id": 2531,
           "content_id": 381278,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "आदम (व्यक्ति)",
           "language": "hin"
         },
         {
           "reference_id": 3842,
           "content_id": 381404,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "वाचा",
           "language": "hin"
         },
         {
           "reference_id": 4362,
           "content_id": 381471,
+          "resource_code": "Unknown",
           "label": "हव्वा",
           "language": "hin"
         },
         {
           "reference_id": 4399,
           "content_id": 381474,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मनुष्य का पतन",
           "language": "hin"
         },
         {
           "reference_id": 3854,
           "content_id": 184892,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सृष्टि",
           "language": "hin"
         },
         {
           "reference_id": 6482,
           "content_id": 180518,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "जातियाँ",
           "language": "hin"
         },
         {
           "reference_id": 5226,
           "content_id": 381111,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इसहाक",
           "language": "hin"
         },
         {
           "reference_id": 4448,
           "content_id": 381478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "जल-प्रलय ",
           "language": "hin"
         },
         {
           "reference_id": 5331,
           "content_id": 381585,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "याकूब",
           "language": "hin"
         },
         {
           "reference_id": 6581,
           "content_id": 381734,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "नूह",
           "language": "hin"
         },
         {
           "reference_id": 6778,
           "content_id": 381758,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "कुलपितायों का युग",
           "language": "hin"
         }

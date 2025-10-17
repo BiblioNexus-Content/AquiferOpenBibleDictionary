@@ -200,18 +200,21 @@
         {
           "reference_id": 5663,
           "content_id": 481551,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Julgamento",
           "language": "por"
         },
         {
           "reference_id": 7009,
           "content_id": 683066,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salmos, Livro de",
           "language": "por"
         },
         {
           "reference_id": 8263,
           "content_id": 717334,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ira de Deus",
           "language": "por"
         }

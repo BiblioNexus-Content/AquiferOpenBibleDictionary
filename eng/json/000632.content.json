@@ -242,24 +242,28 @@
         {
           "reference_id": 2603,
           "content_id": 3435,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ahaziah",
           "language": "eng"
         },
         {
           "reference_id": 5309,
           "content_id": 6141,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jaazaniah",
           "language": "eng"
         },
         {
           "reference_id": 8158,
           "content_id": 8990,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Uzziah",
           "language": "eng"
         },
         {
           "reference_id": 7427,
           "content_id": 8259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shadrach, Meshach, and Abednego",
           "language": "eng"
         }

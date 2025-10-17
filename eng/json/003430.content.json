@@ -152,36 +152,42 @@
         {
           "reference_id": 3940,
           "content_id": 4772,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Day of the Lord",
           "language": "eng"
         },
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 8263,
           "content_id": 9095,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wrath of God",
           "language": "eng"
         },
         {
           "reference_id": 5662,
           "content_id": 6494,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment Seat",
           "language": "eng"
         },
         {
           "reference_id": 5855,
           "content_id": 6687,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Days",
           "language": "eng"
         }

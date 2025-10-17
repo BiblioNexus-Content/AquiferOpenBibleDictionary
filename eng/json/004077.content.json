@@ -20,18 +20,21 @@
         {
           "reference_id": 6021,
           "content_id": 6853,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Magic",
           "language": "eng"
         },
         {
           "reference_id": 6181,
           "content_id": 7013,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Medium",
           "language": "eng"
         },
         {
           "reference_id": 7012,
           "content_id": 7844,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Psychics",
           "language": "eng"
         }

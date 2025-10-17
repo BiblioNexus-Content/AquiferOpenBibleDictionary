@@ -56,24 +56,28 @@
         {
           "reference_id": 3999,
           "content_id": 4831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diaspora of the Jews",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         },
         {
           "reference_id": 6726,
           "content_id": 7558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestine",
           "language": "eng"
         }

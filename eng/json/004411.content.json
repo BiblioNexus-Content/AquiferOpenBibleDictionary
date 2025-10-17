@@ -464,12 +464,14 @@
         {
           "reference_id": 7814,
           "content_id": 8646,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Suffering",
           "language": "eng"
         },
         {
           "reference_id": 8091,
           "content_id": 8923,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tribulation",
           "language": "eng"
         }

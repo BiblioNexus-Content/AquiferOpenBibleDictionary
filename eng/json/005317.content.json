@@ -62,12 +62,14 @@
         {
           "reference_id": 6021,
           "content_id": 6853,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Magic",
           "language": "eng"
         },
         {
           "reference_id": 7749,
           "content_id": 8581,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sorcery",
           "language": "eng"
         }

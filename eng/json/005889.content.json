@@ -20,12 +20,14 @@
         {
           "reference_id": 4612,
           "content_id": 5444,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Giants",
           "language": "eng"
         },
         {
           "reference_id": 7171,
           "content_id": 8003,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rephaim",
           "language": "eng"
         }

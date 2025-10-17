@@ -86,24 +86,28 @@
         {
           "reference_id": 4028,
           "content_id": 125256,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Doença",
           "language": "por"
         },
         {
           "reference_id": 4374,
           "content_id": 161808,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Livro de Êxodo",
           "language": "por"
         },
         {
           "reference_id": 6925,
           "content_id": 717235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pragas sobre o Egito",
           "language": "por"
         },
         {
           "reference_id": 6845,
           "content_id": 759942,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Peste",
           "language": "por"
         }

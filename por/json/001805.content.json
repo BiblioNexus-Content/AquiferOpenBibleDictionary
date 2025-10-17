@@ -212,12 +212,14 @@
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         },
         {
           "reference_id": 7239,
           "content_id": 161866,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chefe Da Sinagoga*",
           "language": "por"
         }

@@ -194,12 +194,14 @@
         {
           "reference_id": 2488,
           "content_id": 207158,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraham",
           "language": "fra"
         },
         {
           "reference_id": 3182,
           "content_id": 805979,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Stérilité",
           "language": "fra"
         }

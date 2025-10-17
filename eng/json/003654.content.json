@@ -146,18 +146,21 @@
         {
           "reference_id": 5168,
           "content_id": 6000,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Image of God",
           "language": "eng"
         },
         {
           "reference_id": 6092,
           "content_id": 6924,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Man, Natural",
           "language": "eng"
         },
         {
           "reference_id": 6096,
           "content_id": 6928,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Man, Old and New",
           "language": "eng"
         }

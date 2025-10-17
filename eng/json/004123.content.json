@@ -128,30 +128,35 @@
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         },
         {
           "reference_id": 4922,
           "content_id": 5754,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Heaven",
           "language": "eng"
         },
         {
           "reference_id": 5756,
           "content_id": 6588,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Kingdom of God, Kingdom of Heaven",
           "language": "eng"
         },
         {
           "reference_id": 6557,
           "content_id": 7389,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "New",
           "language": "eng"
         },
         {
           "reference_id": 6548,
           "content_id": 7380,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "New Creation, New Creature",
           "language": "eng"
         }

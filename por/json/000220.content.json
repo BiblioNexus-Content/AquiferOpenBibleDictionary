@@ -614,18 +614,21 @@
         {
           "reference_id": 3719,
           "content_id": 716969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cronologia da Bíblia (Novo Testamento)",
           "language": "por"
         },
         {
           "reference_id": 5962,
           "content_id": 816009,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lucas (Pessoa)",
           "language": "por"
         },
         {
           "reference_id": 6782,
           "content_id": 124401,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paulo, O Apóstolo",
           "language": "por"
         }

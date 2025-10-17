@@ -86,24 +86,28 @@
         {
           "reference_id": 6273,
           "content_id": 7105,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Micah, Book of",
           "language": "eng"
         },
         {
           "reference_id": 6275,
           "content_id": 7107,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Micaiah",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         },
         {
           "reference_id": 6276,
           "content_id": 7108,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mica",
           "language": "eng"
         }

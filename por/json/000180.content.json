@@ -122,18 +122,21 @@
         {
           "reference_id": 3746,
           "content_id": 658624,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cidade",
           "language": "por"
         },
         {
           "reference_id": 5057,
           "content_id": 125274,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Casas E Habitações",
           "language": "por"
         },
         {
           "reference_id": 7950,
           "content_id": 717312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Templo",
           "language": "por"
         }

@@ -1286,36 +1286,42 @@
         {
           "reference_id": 4065,
           "content_id": 4897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dreams",
           "language": "eng"
         },
         {
           "reference_id": 6679,
           "content_id": 7511,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Oracle",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         },
         {
           "reference_id": 6997,
           "content_id": 7829,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Promise",
           "language": "eng"
         },
         {
           "reference_id": 7000,
           "content_id": 7832,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophets, False",
           "language": "eng"
         },
         {
           "reference_id": 8187,
           "content_id": 9019,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vision, Visions",
           "language": "eng"
         }

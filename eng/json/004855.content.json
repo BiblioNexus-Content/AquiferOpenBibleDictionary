@@ -230,12 +230,14 @@
         {
           "reference_id": 3395,
           "content_id": 4227,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Manuscripts and Text of the (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 7288,
           "content_id": 8120,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Samaria",
           "language": "eng"
         }

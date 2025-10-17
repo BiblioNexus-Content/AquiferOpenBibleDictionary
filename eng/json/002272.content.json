@@ -13,24 +13,28 @@
         {
           "reference_id": 2592,
           "content_id": 3424,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Agriculture",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         },
         {
           "reference_id": 8182,
           "content_id": 9014,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vines, Vineyard",
           "language": "eng"
         },
         {
           "reference_id": 8240,
           "content_id": 9072,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wine",
           "language": "eng"
         }

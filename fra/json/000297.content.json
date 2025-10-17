@@ -176,18 +176,21 @@
         {
           "reference_id": 2572,
           "content_id": 662262,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "adultère",
           "language": "fra"
         },
         {
           "reference_id": 6123,
           "content_id": 662302,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "mariage, coutumes de mariage",
           "language": "fra"
         },
         {
           "reference_id": 7418,
           "content_id": 788780,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sexe, Sexualité",
           "language": "fra"
         }

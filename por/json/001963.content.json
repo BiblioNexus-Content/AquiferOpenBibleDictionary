@@ -194,12 +194,14 @@
         {
           "reference_id": 2592,
           "content_id": 658599,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Agricultura",
           "language": "por"
         },
         {
           "reference_id": 6929,
           "content_id": 125318,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plantas",
           "language": "por"
         }

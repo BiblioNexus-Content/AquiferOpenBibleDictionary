@@ -158,12 +158,14 @@
         {
           "reference_id": 4362,
           "content_id": 800694,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ève",
           "language": "fra"
         },
         {
           "reference_id": 6099,
           "content_id": 788774,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Être humain",
           "language": "fra"
         }

@@ -290,30 +290,35 @@
         {
           "reference_id": 3497,
           "content_id": 125241,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pão Da Presença",
           "language": "por"
         },
         {
           "reference_id": 4454,
           "content_id": 125261,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Comida E Preparação De Alimentos",
           "language": "por"
         },
         {
           "reference_id": 5872,
           "content_id": 161838,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fermento*",
           "language": "por"
         },
         {
           "reference_id": 8132,
           "content_id": 717323,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pão ázimo",
           "language": "por"
         },
         {
           "reference_id": 6166,
           "content_id": 717167,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Refeições, Significado de",
           "language": "por"
         }

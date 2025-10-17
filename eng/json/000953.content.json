@@ -182,42 +182,49 @@
         {
           "reference_id": 3392,
           "content_id": 4224,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Canon of the",
           "language": "eng"
         },
         {
           "reference_id": 3393,
           "content_id": 4225,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Inspiration of the",
           "language": "eng"
         },
         {
           "reference_id": 3394,
           "content_id": 4226,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Manuscripts and Text of the (New Testament)",
           "language": "eng"
         },
         {
           "reference_id": 3395,
           "content_id": 4227,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Manuscripts and Text of the (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 3396,
           "content_id": 4228,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Quotations of the Old Testament in the New Testament",
           "language": "eng"
         },
         {
           "reference_id": 3397,
           "content_id": 4229,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Versions of the (Ancient)",
           "language": "eng"
         },
         {
           "reference_id": 3398,
           "content_id": 4230,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Versions of the (English)",
           "language": "eng"
         }

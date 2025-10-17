@@ -770,24 +770,28 @@
         {
           "reference_id": 3559,
           "content_id": 716961,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Calendários, Antigos e modernos",
           "language": "por"
         },
         {
           "reference_id": 6630,
           "content_id": 658701,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ofertas e sacrifícios",
           "language": "por"
         },
         {
           "reference_id": 7864,
           "content_id": 481588,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tabernáculo",
           "language": "por"
         },
         {
           "reference_id": 7950,
           "content_id": 717312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Templo",
           "language": "por"
         }

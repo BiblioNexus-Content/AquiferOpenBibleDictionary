@@ -44,12 +44,14 @@
         {
           "reference_id": 6274,
           "content_id": 7106,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Micah (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6276,
           "content_id": 7108,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mica",
           "language": "eng"
         }

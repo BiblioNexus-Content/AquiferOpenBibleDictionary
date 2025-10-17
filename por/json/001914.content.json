@@ -38,24 +38,28 @@
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         },
         {
           "reference_id": 5864,
           "content_id": 124394,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lei, Conceito Bíblico De",
           "language": "por"
         },
         {
           "reference_id": 7892,
           "content_id": 161876,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmude*",
           "language": "por"
         },
         {
           "reference_id": 6864,
           "content_id": 161855,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fariseus",
           "language": "por"
         }

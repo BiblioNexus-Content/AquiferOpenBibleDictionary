@@ -104,30 +104,35 @@
         {
           "reference_id": 4403,
           "content_id": 5235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Family Life and Relations",
           "language": "eng"
         },
         {
           "reference_id": 6123,
           "content_id": 6955,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Marriage, Marriage Customs",
           "language": "eng"
         },
         {
           "reference_id": 7418,
           "content_id": 8250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sex, Sexuality",
           "language": "eng"
         },
         {
           "reference_id": 8185,
           "content_id": 9017,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Virgin Birth of Jesus",
           "language": "eng"
         },
         {
           "reference_id": 8254,
           "content_id": 9086,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Woman",
           "language": "eng"
         }

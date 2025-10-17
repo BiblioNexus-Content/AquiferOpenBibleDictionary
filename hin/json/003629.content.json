@@ -560,18 +560,21 @@
         {
           "reference_id": 3727,
           "content_id": 368576,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "कलीसिया",
           "language": "hin"
         },
         {
           "reference_id": 7179,
           "content_id": 180537,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "पुनरुत्थान",
           "language": "hin"
         },
         {
           "reference_id": 5947,
           "content_id": 184958,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रभु भोज",
           "language": "hin"
         }

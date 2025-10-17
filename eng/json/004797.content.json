@@ -254,12 +254,14 @@
         {
           "reference_id": 3548,
           "content_id": 4380,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "The Caesars",
           "language": "eng"
         },
         {
           "reference_id": 7229,
           "content_id": 8061,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Letter to the Romans",
           "language": "eng"
         }

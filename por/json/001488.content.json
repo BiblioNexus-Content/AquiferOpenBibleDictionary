@@ -362,12 +362,14 @@
         {
           "reference_id": 3797,
           "content_id": 125248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Confissão",
           "language": "por"
         },
         {
           "reference_id": 7166,
           "content_id": 125322,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Arrependimento",
           "language": "por"
         }

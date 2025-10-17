@@ -206,18 +206,21 @@
         {
           "reference_id": 5914,
           "content_id": 125293,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vida",
           "language": "por"
         },
         {
           "reference_id": 6548,
           "content_id": 481563,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nova criação, Nova criatura",
           "language": "por"
         },
         {
           "reference_id": 7147,
           "content_id": 124405,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Regeneração*",
           "language": "por"
         }

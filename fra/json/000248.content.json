@@ -782,24 +782,28 @@
         {
           "reference_id": 2523,
           "content_id": 207159,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Actes des Apôtres, Livre des",
           "language": "fra"
         },
         {
           "reference_id": 3819,
           "content_id": 769247,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Corinthiens, Deuxième Lettre aux",
           "language": "fra"
         },
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         },
         {
           "reference_id": 3820,
           "content_id": 785179,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Corinthe",
           "language": "fra"
         }

@@ -146,18 +146,21 @@
         {
           "reference_id": 4922,
           "content_id": 5754,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Heaven",
           "language": "eng"
         },
         {
           "reference_id": 5945,
           "content_id": 6777,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "The Lord’s Day",
           "language": "eng"
         },
         {
           "reference_id": 7250,
           "content_id": 8082,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sabbath",
           "language": "eng"
         }

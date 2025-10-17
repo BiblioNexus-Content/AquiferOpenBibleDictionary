@@ -170,12 +170,14 @@
         {
           "reference_id": 4331,
           "content_id": 5163,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Esther (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6842,
           "content_id": 7674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Persia, Persians",
           "language": "eng"
         }

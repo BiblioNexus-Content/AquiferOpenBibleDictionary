@@ -122,18 +122,21 @@
         {
           "reference_id": 3421,
           "content_id": 4253,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birthright",
           "language": "eng"
         },
         {
           "reference_id": 4432,
           "content_id": 5264,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Firstborn",
           "language": "eng"
         },
         {
           "reference_id": 5190,
           "content_id": 6022,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inheritance",
           "language": "eng"
         }

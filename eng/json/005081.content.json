@@ -140,24 +140,28 @@
         {
           "reference_id": 2488,
           "content_id": 3320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraham",
           "language": "eng"
         },
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 6482,
           "content_id": 7314,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nations",
           "language": "eng"
         },
         {
           "reference_id": 6581,
           "content_id": 7413,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Noah",
           "language": "eng"
         }

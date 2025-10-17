@@ -1268,30 +1268,35 @@
         {
           "reference_id": 5521,
           "content_id": 125280,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Cristo, Ensinamentos De",
           "language": "por"
         },
         {
           "reference_id": 5961,
           "content_id": 759880,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lucas, Evangelho de",
           "language": "por"
         },
         {
           "reference_id": 6118,
           "content_id": 125295,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Marcos, Evangelho De",
           "language": "por"
         },
         {
           "reference_id": 6157,
           "content_id": 125297,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mateus (Pessoa)",
           "language": "por"
         },
         {
           "reference_id": 7849,
           "content_id": 125339,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Evangelhos Sinóticos*",
           "language": "por"
         }

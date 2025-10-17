@@ -152,12 +152,14 @@
         {
           "reference_id": 4416,
           "content_id": 341259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fêtes et festivals d'Israël",
           "language": "fra"
         },
         {
           "reference_id": 5947,
           "content_id": 602062,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sainte Cène, Cène, repas du Seigneur",
           "language": "fra"
         }

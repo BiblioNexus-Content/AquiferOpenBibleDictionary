@@ -32,12 +32,14 @@
         {
           "reference_id": 6889,
           "content_id": 7721,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Phoenicia, Phoenicians",
           "language": "eng"
         },
         {
           "reference_id": 6890,
           "content_id": 7722,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Phoenix",
           "language": "eng"
         }

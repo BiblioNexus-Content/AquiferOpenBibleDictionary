@@ -362,24 +362,28 @@
         {
           "reference_id": 3399,
           "content_id": 594429,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल",
           "language": "hin"
         },
         {
           "reference_id": 5576,
           "content_id": 620690,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यूहन्ना रचित सुसमाचार",
           "language": "hin"
         },
         {
           "reference_id": 7188,
           "content_id": 381205,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रकाशन",
           "language": "hin"
         },
         {
           "reference_id": 5938,
           "content_id": 620714,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "लोगोस",
           "language": "hin"
         }

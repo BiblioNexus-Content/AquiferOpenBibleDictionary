@@ -446,12 +446,14 @@
         {
           "reference_id": 6782,
           "content_id": 124401,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paulo, O Apóstolo",
           "language": "por"
         },
         {
           "reference_id": 6879,
           "content_id": 816053,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Filipos",
           "language": "por"
         }

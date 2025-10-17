@@ -56,18 +56,21 @@
         {
           "reference_id": 3747,
           "content_id": 4579,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Civil Law and Justice",
           "language": "eng"
         },
         {
           "reference_id": 4039,
           "content_id": 4871,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Divorce",
           "language": "eng"
         },
         {
           "reference_id": 6123,
           "content_id": 6955,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Marriage, Marriage Customs",
           "language": "eng"
         }

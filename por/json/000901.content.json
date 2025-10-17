@@ -164,12 +164,14 @@
         {
           "reference_id": 4990,
           "content_id": 125273,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Herodianos*",
           "language": "por"
         },
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         }

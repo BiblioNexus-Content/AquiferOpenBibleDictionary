@@ -38,30 +38,35 @@
         {
           "reference_id": 4122,
           "content_id": 381434,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मिस्र, मिस्री",
           "language": "hin"
         },
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         },
         {
           "reference_id": 5494,
           "content_id": 381600,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यारोबाम",
           "language": "hin"
         },
         {
           "reference_id": 7730,
           "content_id": 594825,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सुलैमान (व्यक्ति)",
           "language": "hin"
         },
         {
           "reference_id": 7149,
           "content_id": 649505,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "रहबाम",
           "language": "hin"
         }

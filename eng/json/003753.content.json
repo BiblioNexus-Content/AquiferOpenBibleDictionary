@@ -13,18 +13,21 @@
         {
           "reference_id": 6021,
           "content_id": 6853,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Magic",
           "language": "eng"
         },
         {
           "reference_id": 6505,
           "content_id": 7337,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Necromancer, Necromancy",
           "language": "eng"
         },
         {
           "reference_id": 7012,
           "content_id": 7844,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Psychics",
           "language": "eng"
         }

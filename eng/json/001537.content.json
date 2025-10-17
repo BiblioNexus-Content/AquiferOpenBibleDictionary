@@ -128,18 +128,21 @@
         {
           "reference_id": 3170,
           "content_id": 4002,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barak",
           "language": "eng"
         },
         {
           "reference_id": 3954,
           "content_id": 4786,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Song of Deborah",
           "language": "eng"
         },
         {
           "reference_id": 5658,
           "content_id": 6490,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judges, Book of",
           "language": "eng"
         }

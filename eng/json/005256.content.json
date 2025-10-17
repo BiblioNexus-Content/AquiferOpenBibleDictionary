@@ -146,36 +146,42 @@
         {
           "reference_id": 3786,
           "content_id": 4618,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Commandments, the Ten",
           "language": "eng"
         },
         {
           "reference_id": 6748,
           "content_id": 7580,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paran",
           "language": "eng"
         },
         {
           "reference_id": 8231,
           "content_id": 9063,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness Wanderings",
           "language": "eng"
         },
         {
           "reference_id": 7635,
           "content_id": 8467,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shur",
           "language": "eng"
         },
         {
           "reference_id": 7690,
           "content_id": 8522,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness of Sin",
           "language": "eng"
         },
         {
           "reference_id": 8400,
           "content_id": 9232,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness of Zin",
           "language": "eng"
         }

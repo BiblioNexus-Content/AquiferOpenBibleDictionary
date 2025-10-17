@@ -44,12 +44,14 @@
         {
           "reference_id": 2749,
           "content_id": 3581,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Amulet",
           "language": "eng"
         },
         {
           "reference_id": 4480,
           "content_id": 5312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Frontlet",
           "language": "eng"
         }

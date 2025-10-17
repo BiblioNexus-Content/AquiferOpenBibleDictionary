@@ -32,30 +32,35 @@
         {
           "reference_id": 4293,
           "content_id": 381074,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इपिकूरी",
           "language": "hin"
         },
         {
           "reference_id": 4659,
           "content_id": 647173,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गूढ़ज्ञानवाद",
           "language": "hin"
         },
         {
           "reference_id": 7794,
           "content_id": 381232,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "स्टोइकवाद, स्टोइक",
           "language": "hin"
         },
         {
           "reference_id": 4956,
           "content_id": 381103,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "युनानवादी",
           "language": "hin"
         },
         {
           "reference_id": 4705,
           "content_id": 184932,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यूनान, यूनानी ",
           "language": "hin"
         }

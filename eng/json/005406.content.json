@@ -13,12 +13,14 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 212871,
           "content_id": 800562,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Swift",
           "language": "eng"
         }

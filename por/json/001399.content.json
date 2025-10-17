@@ -164,30 +164,35 @@
         {
           "reference_id": 2793,
           "content_id": 161775,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ungir",
           "language": "por"
         },
         {
           "reference_id": 4454,
           "content_id": 125261,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Comida E Preparação De Alimentos",
           "language": "por"
         },
         {
           "reference_id": 6929,
           "content_id": 125318,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plantas",
           "language": "por"
         },
         {
           "reference_id": 6179,
           "content_id": 161846,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Medicina E Prática Médica",
           "language": "por"
         },
         {
           "reference_id": 6641,
           "content_id": 717204,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Unguento",
           "language": "por"
         }

@@ -32,12 +32,14 @@
         {
           "reference_id": 3888,
           "content_id": 800687,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cusch (Lieu)",
           "language": "fra"
         },
         {
           "reference_id": 4341,
           "content_id": 756949,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Éthiopie",
           "language": "fra"
         }

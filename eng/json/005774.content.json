@@ -140,18 +140,21 @@
         {
           "reference_id": 2829,
           "content_id": 3661,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apocalypse",
           "language": "eng"
         },
         {
           "reference_id": 4065,
           "content_id": 4897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dreams",
           "language": "eng"
         },
         {
           "reference_id": 6998,
           "content_id": 7830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophecy",
           "language": "eng"
         }

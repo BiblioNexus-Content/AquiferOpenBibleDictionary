@@ -68,18 +68,21 @@
         {
           "reference_id": 4028,
           "content_id": 125256,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Doença",
           "language": "por"
         },
         {
           "reference_id": 6179,
           "content_id": 161846,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Medicina E Prática Médica",
           "language": "por"
         },
         {
           "reference_id": 6925,
           "content_id": 717235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pragas sobre o Egito",
           "language": "por"
         }

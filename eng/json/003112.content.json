@@ -86,18 +86,21 @@
         {
           "reference_id": 2596,
           "content_id": 3428,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ahab",
           "language": "eng"
         },
         {
           "reference_id": 4179,
           "content_id": 5011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Elijah",
           "language": "eng"
         },
         {
           "reference_id": 7650,
           "content_id": 8482,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sidon (Place), Sidonian",
           "language": "eng"
         }

@@ -13,12 +13,14 @@
         {
           "reference_id": 3125,
           "content_id": 3957,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Babylon, Babylonia",
           "language": "eng"
         },
         {
           "reference_id": 3999,
           "content_id": 4831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diaspora of the Jews",
           "language": "eng"
         }

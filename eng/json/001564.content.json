@@ -422,18 +422,21 @@
         {
           "reference_id": 6508,
           "content_id": 7340,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Negeb, Negev",
           "language": "eng"
         },
         {
           "reference_id": 6726,
           "content_id": 7558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestine",
           "language": "eng"
         },
         {
           "reference_id": 8232,
           "content_id": 9064,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness",
           "language": "eng"
         }

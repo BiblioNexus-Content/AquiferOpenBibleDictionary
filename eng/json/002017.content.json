@@ -20,18 +20,21 @@
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         },
         {
           "reference_id": 7142,
           "content_id": 7974,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Reed",
           "language": "eng"
         },
         {
           "reference_id": 7242,
           "content_id": 8074,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rush",
           "language": "eng"
         }

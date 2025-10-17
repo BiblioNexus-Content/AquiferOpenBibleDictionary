@@ -200,12 +200,14 @@
         {
           "reference_id": 5663,
           "content_id": 800710,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jugement",
           "language": "fra"
         },
         {
           "reference_id": 7009,
           "content_id": 713671,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Psaumes, Livre des",
           "language": "fra"
         }

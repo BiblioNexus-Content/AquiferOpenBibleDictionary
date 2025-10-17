@@ -272,18 +272,21 @@
         {
           "reference_id": 4656,
           "content_id": 5488,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Glory",
           "language": "eng"
         },
         {
           "reference_id": 7500,
           "content_id": 8332,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shekinah",
           "language": "eng"
         },
         {
           "reference_id": 7982,
           "content_id": 8814,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Theophany",
           "language": "eng"
         }

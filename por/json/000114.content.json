@@ -26,18 +26,21 @@
         {
           "reference_id": 4480,
           "content_id": 717040,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Frontal",
           "language": "por"
         },
         {
           "reference_id": 6021,
           "content_id": 717154,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Magia",
           "language": "por"
         },
         {
           "reference_id": 6896,
           "content_id": 717231,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Filactério",
           "language": "por"
         }

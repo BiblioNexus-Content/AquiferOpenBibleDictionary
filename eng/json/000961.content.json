@@ -1322,60 +1322,70 @@
         {
           "reference_id": 3747,
           "content_id": 4579,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Civil Law and Justice",
           "language": "eng"
         },
         {
           "reference_id": 3755,
           "content_id": 4587,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cleanness and Uncleanness, Regulations Concerning",
           "language": "eng"
         },
         {
           "reference_id": 3786,
           "content_id": 4618,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Commandments, the Ten",
           "language": "eng"
         },
         {
           "reference_id": 3861,
           "content_id": 4693,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Criminal Law and Punishment",
           "language": "eng"
         },
         {
           "reference_id": 4517,
           "content_id": 5349,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Letter to the Galatians",
           "language": "eng"
         },
         {
           "reference_id": 4794,
           "content_id": 5626,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hammurabi, Law Code of",
           "language": "eng"
         },
         {
           "reference_id": 7229,
           "content_id": 8061,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Letter to the Romans",
           "language": "eng"
         },
         {
           "reference_id": 8078,
           "content_id": 8910,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition",
           "language": "eng"
         },
         {
           "reference_id": 5672,
           "content_id": 6504,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justification, Justified",
           "language": "eng"
         },
         {
           "reference_id": 8065,
           "content_id": 8897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torah",
           "language": "eng"
         }

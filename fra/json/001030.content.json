@@ -38,18 +38,21 @@
         {
           "reference_id": 5646,
           "content_id": 341271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaïsme",
           "language": "fra"
         },
         {
           "reference_id": 6864,
           "content_id": 602069,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisiens",
           "language": "fra"
         },
         {
           "reference_id": 7892,
           "content_id": 602075,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "fra"
         }

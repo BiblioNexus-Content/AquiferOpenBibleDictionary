@@ -32,12 +32,14 @@
         {
           "reference_id": 5402,
           "content_id": 6234,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jashub",
           "language": "eng"
         },
         {
           "reference_id": 5562,
           "content_id": 6394,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Job",
           "language": "eng"
         }

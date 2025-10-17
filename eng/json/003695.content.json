@@ -632,42 +632,49 @@
         {
           "reference_id": 2572,
           "content_id": 3404,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adultery",
           "language": "eng"
         },
         {
           "reference_id": 3747,
           "content_id": 4579,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Civil Law and Justice",
           "language": "eng"
         },
         {
           "reference_id": 4403,
           "content_id": 5235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Family Life and Relations",
           "language": "eng"
         },
         {
           "reference_id": 7418,
           "content_id": 8250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sex, Sexuality",
           "language": "eng"
         },
         {
           "reference_id": 4039,
           "content_id": 4871,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Divorce",
           "language": "eng"
         },
         {
           "reference_id": 3793,
           "content_id": 4625,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Concubinage, Concubines",
           "language": "eng"
         },
         {
           "reference_id": 8186,
           "content_id": 9018,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Virgin",
           "language": "eng"
         }

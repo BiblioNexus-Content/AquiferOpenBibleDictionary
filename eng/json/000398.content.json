@@ -13,18 +13,21 @@
         {
           "reference_id": 2830,
           "content_id": 3662,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apocalyptic",
           "language": "eng"
         },
         {
           "reference_id": 3914,
           "content_id": 4746,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Daniel",
           "language": "eng"
         },
         {
           "reference_id": 7187,
           "content_id": 8019,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Revelation, Book of",
           "language": "eng"
         }

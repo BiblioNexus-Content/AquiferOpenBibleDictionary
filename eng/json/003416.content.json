@@ -338,12 +338,14 @@
         {
           "reference_id": 5481,
           "content_id": 6313,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Jeremiah",
           "language": "eng"
         },
         {
           "reference_id": 5483,
           "content_id": 6315,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jeremiah (Person)",
           "language": "eng"
         }

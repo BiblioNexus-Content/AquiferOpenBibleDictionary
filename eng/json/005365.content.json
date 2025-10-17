@@ -26,12 +26,14 @@
         {
           "reference_id": 4293,
           "content_id": 5125,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Epicureans",
           "language": "eng"
         },
         {
           "reference_id": 6885,
           "content_id": 7717,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Philosophy",
           "language": "eng"
         }

@@ -194,18 +194,21 @@
         {
           "reference_id": 2488,
           "content_id": 3320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraham",
           "language": "eng"
         },
         {
           "reference_id": 3182,
           "content_id": 4014,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barrenness",
           "language": "eng"
         },
         {
           "reference_id": 7401,
           "content_id": 8233,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Serah",
           "language": "eng"
         }

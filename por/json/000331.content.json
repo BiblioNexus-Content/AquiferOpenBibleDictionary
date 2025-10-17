@@ -74,18 +74,21 @@
         {
           "reference_id": 4143,
           "content_id": 124381,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ancião",
           "language": "por"
         },
         {
           "reference_id": 6771,
           "content_id": 124400,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pastor",
           "language": "por"
         },
         {
           "reference_id": 6978,
           "content_id": 124402,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Presbítero*",
           "language": "por"
         }

@@ -62,24 +62,28 @@
         {
           "reference_id": 3946,
           "content_id": 4778,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dead Sea Scrolls",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 6864,
           "content_id": 7696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisees",
           "language": "eng"
         },
         {
           "reference_id": 7055,
           "content_id": 7887,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Qumran",
           "language": "eng"
         }

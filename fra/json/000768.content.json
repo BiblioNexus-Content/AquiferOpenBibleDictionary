@@ -272,18 +272,21 @@
         {
           "reference_id": 7202,
           "content_id": 662320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "possessions, richesses",
           "language": "fra"
         },
         {
           "reference_id": 7205,
           "content_id": 800736,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Droiture",
           "language": "fra"
         },
         {
           "reference_id": 8211,
           "content_id": 341305,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Richesse",
           "language": "fra"
         }

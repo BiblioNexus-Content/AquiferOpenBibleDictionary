@@ -638,54 +638,63 @@
         {
           "reference_id": 3720,
           "content_id": 381399,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल का घटनाक्रम (पुराना नियम)",
           "language": "hin"
         },
         {
           "reference_id": 3786,
           "content_id": 594461,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "दस आज्ञाएँ",
           "language": "hin"
         },
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         },
         {
           "reference_id": 4375,
           "content_id": 381082,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "निर्गमन",
           "language": "hin"
         },
         {
           "reference_id": 4122,
           "content_id": 381434,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मिस्र, मिस्री",
           "language": "hin"
         },
         {
           "reference_id": 6383,
           "content_id": 184972,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मूसा",
           "language": "hin"
         },
         {
           "reference_id": 7950,
           "content_id": 185021,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मन्दिर",
           "language": "hin"
         },
         {
           "reference_id": 7864,
           "content_id": 381884,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "तम्बू",
           "language": "hin"
         },
         {
           "reference_id": 6925,
           "content_id": 578926,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मिस्र पर विपत्तियाँ",
           "language": "hin"
         }

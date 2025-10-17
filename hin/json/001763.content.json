@@ -602,12 +602,14 @@
         {
           "reference_id": 7653,
           "content_id": 185011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "चिन्ह ",
           "language": "hin"
         },
         {
           "reference_id": 7776,
           "content_id": 647220,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "आत्मिक वरदान ",
           "language": "hin"
         }

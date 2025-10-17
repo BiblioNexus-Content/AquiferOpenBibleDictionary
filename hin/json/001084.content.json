@@ -44,18 +44,21 @@
         {
           "reference_id": 2888,
           "content_id": 207168,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Architecture",
           "language": "hin"
         },
         {
           "reference_id": 7864,
           "content_id": 381884,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "तम्बू",
           "language": "hin"
         },
         {
           "reference_id": 7950,
           "content_id": 185021,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मन्दिर",
           "language": "hin"
         }

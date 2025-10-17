@@ -200,24 +200,28 @@
         {
           "reference_id": 6782,
           "content_id": 124401,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paulo, O Apóstolo",
           "language": "por"
         },
         {
           "reference_id": 8022,
           "content_id": 124409,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Timóteo, Primeira Carta A",
           "language": "por"
         },
         {
           "reference_id": 8041,
           "content_id": 124411,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tito (Pessoa)",
           "language": "por"
         },
         {
           "reference_id": 8024,
           "content_id": 717320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "TIMOTÉO, Segunda Carta a",
           "language": "por"
         }

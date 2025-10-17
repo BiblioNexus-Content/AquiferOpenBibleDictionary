@@ -26,18 +26,21 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 6706,
           "content_id": 7538,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Owl",
           "language": "eng"
         },
         {
           "reference_id": 7347,
           "content_id": 8179,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Seagull",
           "language": "eng"
         }

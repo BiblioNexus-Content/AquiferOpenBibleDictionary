@@ -50,12 +50,14 @@
         {
           "reference_id": 4839,
           "content_id": 5671,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Harim",
           "language": "eng"
         },
         {
           "reference_id": 6514,
           "content_id": 7346,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nehum",
           "language": "eng"
         }

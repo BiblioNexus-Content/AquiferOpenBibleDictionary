@@ -20,12 +20,14 @@
         {
           "reference_id": 3370,
           "content_id": 4202,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Beth-Shan, Beth-Shean",
           "language": "eng"
         },
         {
           "reference_id": 3958,
           "content_id": 4790,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Decapolis",
           "language": "eng"
         }

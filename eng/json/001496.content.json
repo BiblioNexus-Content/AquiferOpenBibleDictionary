@@ -242,18 +242,21 @@
         {
           "reference_id": 3919,
           "content_id": 4751,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dan (Person)",
           "language": "eng"
         },
         {
           "reference_id": 3920,
           "content_id": 4752,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dan (Place)",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         }

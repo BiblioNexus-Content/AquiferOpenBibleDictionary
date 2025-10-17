@@ -20,24 +20,28 @@
         {
           "reference_id": 3507,
           "content_id": 4339,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bride of Christ",
           "language": "eng"
         },
         {
           "reference_id": 3727,
           "content_id": 4559,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Church",
           "language": "eng"
         },
         {
           "reference_id": 5500,
           "content_id": 6332,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jerusalem, New",
           "language": "eng"
         },
         {
           "reference_id": 6123,
           "content_id": 6955,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Marriage, Marriage Customs",
           "language": "eng"
         }

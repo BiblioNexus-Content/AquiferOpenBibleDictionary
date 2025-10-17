@@ -80,30 +80,35 @@
         {
           "reference_id": 3797,
           "content_id": 125248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Confissão",
           "language": "por"
         },
         {
           "reference_id": 3809,
           "content_id": 125249,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conversão",
           "language": "por"
         },
         {
           "reference_id": 7147,
           "content_id": 124405,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Regeneração*",
           "language": "por"
         },
         {
           "reference_id": 7287,
           "content_id": 124406,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salvação",
           "language": "por"
         },
         {
           "reference_id": 4462,
           "content_id": 125262,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Perdão",
           "language": "por"
         }

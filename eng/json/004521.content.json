@@ -13,12 +13,14 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 6706,
           "content_id": 7538,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Owl",
           "language": "eng"
         }

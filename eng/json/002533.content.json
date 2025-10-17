@@ -464,42 +464,49 @@
         {
           "reference_id": 3945,
           "content_id": 4777,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Place of the Dead",
           "language": "eng"
         },
         {
           "reference_id": 3951,
           "content_id": 4783,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Death",
           "language": "eng"
         },
         {
           "reference_id": 7529,
           "content_id": 8361,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sheol",
           "language": "eng"
         },
         {
           "reference_id": 5205,
           "content_id": 6037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Intermediate State",
           "language": "eng"
         },
         {
           "reference_id": 4743,
           "content_id": 5575,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hades",
           "language": "eng"
         },
         {
           "reference_id": 4574,
           "content_id": 5406,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gehenna",
           "language": "eng"
         },
         {
           "reference_id": 8263,
           "content_id": 9095,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wrath of God",
           "language": "eng"
         }

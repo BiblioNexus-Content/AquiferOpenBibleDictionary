@@ -2906,420 +2906,490 @@
         {
           "reference_id": 2540,
           "content_id": 3372,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adder",
           "language": "eng"
         },
         {
           "reference_id": 2592,
           "content_id": 3424,
+          "resource_code": "Unknown",
           "label": "Agriculture",
           "language": "eng"
         },
         {
           "reference_id": 2815,
           "content_id": 3647,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ant",
           "language": "eng"
         },
         {
           "reference_id": 2795,
           "content_id": 3627,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Antelope",
           "language": "eng"
         },
         {
           "reference_id": 2819,
           "content_id": 3651,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ape",
           "language": "eng"
         },
         {
           "reference_id": 2998,
           "content_id": 3830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Asp",
           "language": "eng"
         },
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 3132,
           "content_id": 3964,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Badger",
           "language": "eng"
         },
         {
           "reference_id": 3205,
           "content_id": 4037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bat",
           "language": "eng"
         },
         {
           "reference_id": 3214,
           "content_id": 4046,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bear (Animal)",
           "language": "eng"
         },
         {
           "reference_id": 3247,
           "content_id": 4079,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Behemoth",
           "language": "eng"
         },
         {
           "reference_id": 3569,
           "content_id": 4401,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Camel",
           "language": "eng"
         },
         {
           "reference_id": 3244,
           "content_id": 4076,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bee",
           "language": "eng"
         },
         {
           "reference_id": 3614,
           "content_id": 4446,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Caterpillar",
           "language": "eng"
         },
         {
           "reference_id": 4443,
           "content_id": 5275,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Flea",
           "language": "eng"
         },
         {
           "reference_id": 4452,
           "content_id": 5284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fly",
           "language": "eng"
         },
         {
           "reference_id": 4454,
           "content_id": 5286,
+          "resource_code": "Unknown",
           "label": "Food and Food Preparation",
           "language": "eng"
         },
         {
           "reference_id": 4076,
           "content_id": 4908,
+          "resource_code": "Unknown",
           "label": "Dye, Dyeing, Dyer",
           "language": "eng"
         },
         {
           "reference_id": 3641,
           "content_id": 4473,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chameleon",
           "language": "eng"
         },
         {
           "reference_id": 3864,
           "content_id": 4696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Crocodile",
           "language": "eng"
         },
         {
           "reference_id": 3616,
           "content_id": 4448,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cattle",
           "language": "eng"
         },
         {
           "reference_id": 3814,
           "content_id": 4646,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Coral",
           "language": "eng"
         },
         {
           "reference_id": 3964,
           "content_id": 4796,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Deer",
           "language": "eng"
         },
         {
           "reference_id": 4048,
           "content_id": 4880,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dog",
           "language": "eng"
         },
         {
           "reference_id": 4051,
           "content_id": 4883,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Donkey",
           "language": "eng"
         },
         {
           "reference_id": 4063,
           "content_id": 4895,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dragon",
           "language": "eng"
         },
         {
           "reference_id": 4439,
           "content_id": 5271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fish",
           "language": "eng"
         },
         {
           "reference_id": 4471,
           "content_id": 5303,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fox",
           "language": "eng"
         },
         {
           "reference_id": 4479,
           "content_id": 5311,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Frog",
           "language": "eng"
         },
         {
           "reference_id": 3860,
           "content_id": 4692,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cricket",
           "language": "eng"
         },
         {
           "reference_id": 4695,
           "content_id": 5527,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Grasshopper",
           "language": "eng"
         },
         {
           "reference_id": 4834,
           "content_id": 5666,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hare",
           "language": "eng"
         },
         {
           "reference_id": 4931,
           "content_id": 5763,
+          "resource_code": "Unknown",
           "label": "Hedgehog",
           "language": "eng"
         },
         {
           "reference_id": 5328,
           "content_id": 6160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jackal",
           "language": "eng"
         },
         {
           "reference_id": 5880,
           "content_id": 6712,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leech",
           "language": "eng"
         },
         {
           "reference_id": 5896,
           "content_id": 6728,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leviathan",
           "language": "eng"
         },
         {
           "reference_id": 5931,
           "content_id": 6763,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lizard",
           "language": "eng"
         },
         {
           "reference_id": 5934,
           "content_id": 6766,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Locusts",
           "language": "eng"
         },
         {
           "reference_id": 6357,
           "content_id": 7189,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mole",
           "language": "eng"
         },
         {
           "reference_id": 6630,
           "content_id": 7462,
+          "resource_code": "Unknown",
           "label": "Offerings and Sacrifices",
           "language": "eng"
         },
         {
           "reference_id": 6925,
           "content_id": 7757,
+          "resource_code": "Unknown",
           "label": "Plagues upon Egypt",
           "language": "eng"
         },
         {
           "reference_id": 5059,
           "content_id": 5891,
+          "resource_code": "Unknown",
           "label": "Honey",
           "language": "eng"
         },
         {
           "reference_id": 6410,
           "content_id": 7242,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mule",
           "language": "eng"
         },
         {
           "reference_id": 4562,
           "content_id": 5394,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gecko",
           "language": "eng"
         },
         {
           "reference_id": 6406,
           "content_id": 7238,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mouse",
           "language": "eng"
         },
         {
           "reference_id": 4552,
           "content_id": 5384,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gazelle",
           "language": "eng"
         },
         {
           "reference_id": 4658,
           "content_id": 5490,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gnat",
           "language": "eng"
         },
         {
           "reference_id": 4663,
           "content_id": 5495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Goat",
           "language": "eng"
         },
         {
           "reference_id": 5025,
           "content_id": 5857,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hippopotamus",
           "language": "eng"
         },
         {
           "reference_id": 5075,
           "content_id": 5907,
+          "resource_code": "Unknown",
           "label": "Hornet, Wasp",
           "language": "eng"
         },
         {
           "reference_id": 5080,
           "content_id": 5912,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Horse",
           "language": "eng"
         },
         {
           "reference_id": 5132,
           "content_id": 5964,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hyena",
           "language": "eng"
         },
         {
           "reference_id": 5888,
           "content_id": 6720,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leopard",
           "language": "eng"
         },
         {
           "reference_id": 5928,
           "content_id": 6760,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lion",
           "language": "eng"
         },
         {
           "reference_id": 6900,
           "content_id": 7732,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pig",
           "language": "eng"
         },
         {
           "reference_id": 6950,
           "content_id": 7782,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Porcupine",
           "language": "eng"
         },
         {
           "reference_id": 7337,
           "content_id": 8169,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Scorpion",
           "language": "eng"
         },
         {
           "reference_id": 7496,
           "content_id": 8328,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sheep",
           "language": "eng"
         },
         {
           "reference_id": 7716,
           "content_id": 8548,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Snail",
           "language": "eng"
         },
         {
           "reference_id": 7717,
           "content_id": 8549,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Snake",
           "language": "eng"
         },
         {
           "reference_id": 7766,
           "content_id": 8598,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Spider",
           "language": "eng"
         },
         {
           "reference_id": 6387,
           "content_id": 7219,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moth",
           "language": "eng"
         },
         {
           "reference_id": 8130,
           "content_id": 8962,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Unicorn",
           "language": "eng"
         },
         {
           "reference_id": 8083,
           "content_id": 8915,
+          "resource_code": "Unknown",
           "label": "Travel",
           "language": "eng"
         },
         {
           "reference_id": 8222,
           "content_id": 9054,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Whale",
           "language": "eng"
         },
         {
           "reference_id": 8233,
           "content_id": 9065,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wild Ox",
           "language": "eng"
         },
         {
           "reference_id": 8253,
           "content_id": 9085,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wolf",
           "language": "eng"
         },
         {
           "reference_id": 8261,
           "content_id": 9093,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Worm",
           "language": "eng"
         },
         {
           "reference_id": 8197,
           "content_id": 9029,
+          "resource_code": "Unknown",
           "label": "Warfare",
           "language": "eng"
         },
         {
           "reference_id": 7779,
           "content_id": 8611,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sponge",
           "language": "eng"
         }

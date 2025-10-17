@@ -134,72 +134,84 @@
         {
           "reference_id": 3752,
           "content_id": 4584,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Claudius",
           "language": "eng"
         },
         {
           "reference_id": 4050,
           "content_id": 4882,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Domitian",
           "language": "eng"
         },
         {
           "reference_id": 7230,
           "content_id": 8062,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rome, City of",
           "language": "eng"
         },
         {
           "reference_id": 6536,
           "content_id": 7368,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nero",
           "language": "eng"
         },
         {
           "reference_id": 8001,
           "content_id": 8833,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tiberius",
           "language": "eng"
         },
         {
           "reference_id": 8177,
           "content_id": 9009,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vespasian",
           "language": "eng"
         },
         {
           "reference_id": 212865,
           "content_id": 787495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Julius Caesar",
           "language": "eng"
         },
         {
           "reference_id": 212866,
           "content_id": 787496,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Galba",
           "language": "eng"
         },
         {
           "reference_id": 212867,
           "content_id": 787497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Titus Caesar",
           "language": "eng"
         },
         {
           "reference_id": 212868,
           "content_id": 787498,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Trajan",
           "language": "eng"
         },
         {
           "reference_id": 212869,
           "content_id": 787499,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diocletian",
           "language": "eng"
         },
         {
           "reference_id": 212870,
           "content_id": 787500,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Constantine the Great",
           "language": "eng"
         }

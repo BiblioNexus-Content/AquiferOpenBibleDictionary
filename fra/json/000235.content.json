@@ -272,12 +272,14 @@
         {
           "reference_id": 4656,
           "content_id": 27244,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "La gloire",
           "language": "fra"
         },
         {
           "reference_id": 7500,
           "content_id": 769284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shekinah",
           "language": "fra"
         }

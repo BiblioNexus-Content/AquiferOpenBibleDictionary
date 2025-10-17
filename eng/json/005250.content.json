@@ -290,30 +290,35 @@
         {
           "reference_id": 4444,
           "content_id": 5276,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Flesh",
           "language": "eng"
         },
         {
           "reference_id": 5672,
           "content_id": 6504,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justification, Justified",
           "language": "eng"
         },
         {
           "reference_id": 7689,
           "content_id": 8521,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sin unto Death",
           "language": "eng"
         },
         {
           "reference_id": 7298,
           "content_id": 8130,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sanctification",
           "language": "eng"
         },
         {
           "reference_id": 8135,
           "content_id": 8967,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Unpardonable Sin, the",
           "language": "eng"
         }

@@ -86,12 +86,14 @@
         {
           "reference_id": 3958,
           "content_id": 4790,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Decapolis",
           "language": "eng"
         },
         {
           "reference_id": 6874,
           "content_id": 7706,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Philadelphia",
           "language": "eng"
         }

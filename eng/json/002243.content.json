@@ -194,12 +194,14 @@
         {
           "reference_id": 4414,
           "content_id": 5246,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fear",
           "language": "eng"
         },
         {
           "reference_id": 7002,
           "content_id": 7834,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Proselyte",
           "language": "eng"
         }

@@ -470,18 +470,21 @@
         {
           "reference_id": 3783,
           "content_id": 785177,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Colossiens, Lettre aux",
           "language": "fra"
         },
         {
           "reference_id": 4274,
           "content_id": 785193,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Éphèse",
           "language": "fra"
         },
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         }

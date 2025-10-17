@@ -26,18 +26,21 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 3541,
           "content_id": 4373,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Buzzard",
           "language": "eng"
         },
         {
           "reference_id": 4398,
           "content_id": 5230,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Falcon, Kestrel",
           "language": "eng"
         }

@@ -38,12 +38,14 @@
         {
           "reference_id": 3376,
           "content_id": 4208,
+          "resource_code": "Unknown",
           "label": "Bethuel, Bethul (Place)",
           "language": "eng"
         },
         {
           "reference_id": 3682,
           "content_id": 4514,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chesil",
           "language": "eng"
         }

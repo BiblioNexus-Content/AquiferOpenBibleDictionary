@@ -326,30 +326,35 @@
         {
           "reference_id": 2681,
           "content_id": 3513,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alliance",
           "language": "eng"
         },
         {
           "reference_id": 3841,
           "content_id": 4673,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "The New Covenant",
           "language": "eng"
         },
         {
           "reference_id": 8189,
           "content_id": 9021,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vow, Vows",
           "language": "eng"
         },
         {
           "reference_id": 6616,
           "content_id": 7448,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Oath",
           "language": "eng"
         },
         {
           "reference_id": 5864,
           "content_id": 6696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Biblical Concept of Law",
           "language": "eng"
         }

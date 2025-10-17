@@ -452,24 +452,28 @@
         {
           "reference_id": 2523,
           "content_id": 207159,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Actes des Apôtres, Livre des",
           "language": "fra"
         },
         {
           "reference_id": 2838,
           "content_id": 341249,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apôtre, Apôtre",
           "language": "fra"
         },
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         },
         {
           "reference_id": 3782,
           "content_id": 785176,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Colosses",
           "language": "fra"
         }

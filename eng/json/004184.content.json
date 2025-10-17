@@ -20,12 +20,14 @@
         {
           "reference_id": 6371,
           "content_id": 7203,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moreh, Oak of",
           "language": "eng"
         },
         {
           "reference_id": 6927,
           "content_id": 7759,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plain of the Pillar",
           "language": "eng"
         }

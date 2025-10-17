@@ -290,54 +290,63 @@
         {
           "reference_id": 3554,
           "content_id": 716960,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cálamo",
           "language": "por"
         },
         {
           "reference_id": 4472,
           "content_id": 717038,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Incenso",
           "language": "por"
         },
         {
           "reference_id": 6929,
           "content_id": 125318,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plantas",
           "language": "por"
         },
         {
           "reference_id": 4519,
           "content_id": 717041,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gálbano",
           "language": "por"
         },
         {
           "reference_id": 5138,
           "content_id": 717087,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hissopo",
           "language": "por"
         },
         {
           "reference_id": 6834,
           "content_id": 717226,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Perfume",
           "language": "por"
         },
         {
           "reference_id": 7864,
           "content_id": 481588,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tabernáculo",
           "language": "por"
         },
         {
           "reference_id": 7799,
           "content_id": 717301,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Árvore de Estoraque",
           "language": "por"
         },
         {
           "reference_id": 7950,
           "content_id": 717312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Templo",
           "language": "por"
         }

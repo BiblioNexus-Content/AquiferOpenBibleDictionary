@@ -26,12 +26,14 @@
         {
           "reference_id": 4871,
           "content_id": 5703,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hasmonean",
           "language": "eng"
         },
         {
           "reference_id": 4989,
           "content_id": 5821,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Herod, Herodian Family",
           "language": "eng"
         }

@@ -50,18 +50,21 @@
         {
           "reference_id": 2523,
           "content_id": 207159,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Actes des Apôtres, Livre des",
           "language": "fra"
         },
         {
           "reference_id": 4955,
           "content_id": 728127,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hellénisme",
           "language": "fra"
         },
         {
           "reference_id": 5646,
           "content_id": 341271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaïsme",
           "language": "fra"
         }

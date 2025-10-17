@@ -326,24 +326,28 @@
         {
           "reference_id": 2523,
           "content_id": 207147,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Atos dos Apóstolos, Livro dos",
           "language": "por"
         },
         {
           "reference_id": 5521,
           "content_id": 125280,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Cristo, Ensinamentos De",
           "language": "por"
         },
         {
           "reference_id": 7849,
           "content_id": 125339,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Evangelhos Sinóticos*",
           "language": "por"
         },
         {
           "reference_id": 5962,
           "content_id": 816009,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lucas (Pessoa)",
           "language": "por"
         }

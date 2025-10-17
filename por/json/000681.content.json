@@ -56,18 +56,21 @@
         {
           "reference_id": 5196,
           "content_id": 717092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inscrições",
           "language": "por"
         },
         {
           "reference_id": 5893,
           "content_id": 816002,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Escrita de cartas, Históricas",
           "language": "por"
         },
         {
           "reference_id": 7340,
           "content_id": 125326,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Escriba",
           "language": "por"
         }

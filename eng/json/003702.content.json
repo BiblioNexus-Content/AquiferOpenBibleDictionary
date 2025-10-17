@@ -13,24 +13,28 @@
         {
           "reference_id": 4435,
           "content_id": 5267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "First Jewish Revolt",
           "language": "eng"
         },
         {
           "reference_id": 4989,
           "content_id": 5821,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Herod, Herodian Family",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 8320,
           "content_id": 9152,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Zealot",
           "language": "eng"
         }

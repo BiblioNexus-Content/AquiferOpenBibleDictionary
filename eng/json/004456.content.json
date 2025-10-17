@@ -32,12 +32,14 @@
         {
           "reference_id": 4293,
           "content_id": 5125,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Epicureans",
           "language": "eng"
         },
         {
           "reference_id": 7794,
           "content_id": 8626,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Stoicism, Stoics",
           "language": "eng"
         }

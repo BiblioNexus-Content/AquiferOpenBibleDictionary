@@ -278,18 +278,21 @@
         {
           "reference_id": 5946,
           "content_id": 620715,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रभु की प्रार्थना",
           "language": "hin"
         },
         {
           "reference_id": 6970,
           "content_id": 381189,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "स्तुति",
           "language": "hin"
         },
         {
           "reference_id": 8262,
           "content_id": 381919,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "आराधना",
           "language": "hin"
         }

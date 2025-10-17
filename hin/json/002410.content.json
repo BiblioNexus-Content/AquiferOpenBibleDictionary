@@ -308,12 +308,14 @@
         {
           "reference_id": 3006,
           "content_id": 647142,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "आश्वासन",
           "language": "hin"
         },
         {
           "reference_id": 3131,
           "content_id": 647732,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "पीछे हटना",
           "language": "hin"
         }

@@ -62,36 +62,42 @@
         {
           "reference_id": 3720,
           "content_id": 381399,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल का घटनाक्रम (पुराना नियम)",
           "language": "hin"
         },
         {
           "reference_id": 4375,
           "content_id": 381082,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "निर्गमन",
           "language": "hin"
         },
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         },
         {
           "reference_id": 7681,
           "content_id": 381226,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सीनै पहाड़",
           "language": "hin"
         },
         {
           "reference_id": 8400,
           "content_id": 381937,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सीन, जंगल का",
           "language": "hin"
         },
         {
           "reference_id": 7690,
           "content_id": 578936,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सीन का जंगल ",
           "language": "hin"
         }

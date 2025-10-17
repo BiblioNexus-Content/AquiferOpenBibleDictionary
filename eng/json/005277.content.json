@@ -242,18 +242,21 @@
         {
           "reference_id": 3464,
           "content_id": 4296,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bond, Bondage",
           "language": "eng"
         },
         {
           "reference_id": 5905,
           "content_id": 6737,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Freedom, Liberty",
           "language": "eng"
         },
         {
           "reference_id": 6875,
           "content_id": 7707,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Letter to Philemon",
           "language": "eng"
         }

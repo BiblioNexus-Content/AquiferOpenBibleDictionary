@@ -128,30 +128,35 @@
         {
           "reference_id": 4308,
           "content_id": 815952,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Escatologia",
           "language": "por"
         },
         {
           "reference_id": 4922,
           "content_id": 481543,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Céu",
           "language": "por"
         },
         {
           "reference_id": 5756,
           "content_id": 125287,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Reino De Deus, Reino Do Céu",
           "language": "por"
         },
         {
           "reference_id": 6548,
           "content_id": 481563,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nova criação, Nova criatura",
           "language": "por"
         },
         {
           "reference_id": 6557,
           "content_id": 806251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Novo",
           "language": "por"
         }

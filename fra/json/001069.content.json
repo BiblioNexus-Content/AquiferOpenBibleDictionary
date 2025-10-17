@@ -104,18 +104,21 @@
         {
           "reference_id": 6123,
           "content_id": 662302,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "mariage, coutumes de mariage",
           "language": "fra"
         },
         {
           "reference_id": 7418,
           "content_id": 788780,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sexe, Sexualité",
           "language": "fra"
         },
         {
           "reference_id": 8254,
           "content_id": 788783,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Femme",
           "language": "fra"
         }

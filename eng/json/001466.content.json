@@ -62,18 +62,21 @@
         {
           "reference_id": 3884,
           "content_id": 4716,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cushan",
           "language": "eng"
         },
         {
           "reference_id": 3886,
           "content_id": 4718,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cushi",
           "language": "eng"
         },
         {
           "reference_id": 4341,
           "content_id": 5173,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ethiopia",
           "language": "eng"
         }

@@ -26,18 +26,21 @@
         {
           "reference_id": 3096,
           "content_id": 3928,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baalath-Beer",
           "language": "eng"
         },
         {
           "reference_id": 5394,
           "content_id": 6226,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jarmuth",
           "language": "eng"
         },
         {
           "reference_id": 7100,
           "content_id": 7932,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ramoth-Gilead",
           "language": "eng"
         }

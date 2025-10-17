@@ -146,12 +146,14 @@
         {
           "reference_id": 5672,
           "content_id": 6504,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justification, Justified",
           "language": "eng"
         },
         {
           "reference_id": 7689,
           "content_id": 8521,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sin unto Death",
           "language": "eng"
         }

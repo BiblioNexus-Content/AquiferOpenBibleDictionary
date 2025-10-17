@@ -200,12 +200,14 @@
         {
           "reference_id": 4149,
           "content_id": 4981,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Elect, Election",
           "language": "eng"
         },
         {
           "reference_id": 4459,
           "content_id": 5291,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Foreordination",
           "language": "eng"
         }

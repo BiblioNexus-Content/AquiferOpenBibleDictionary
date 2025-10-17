@@ -13,18 +13,21 @@
         {
           "reference_id": 4454,
           "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Food and Food Preparation",
           "language": "eng"
         },
         {
           "reference_id": 6918,
           "content_id": 7750,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pistachio",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         }

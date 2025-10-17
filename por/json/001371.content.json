@@ -230,36 +230,42 @@
         {
           "reference_id": 3787,
           "content_id": 759700,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "O novo mandamento",
           "language": "por"
         },
         {
           "reference_id": 3841,
           "content_id": 125250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aliança, A Nova",
           "language": "por"
         },
         {
           "reference_id": 7147,
           "content_id": 124405,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Regeneração*",
           "language": "por"
         },
         {
           "reference_id": 6096,
           "content_id": 481557,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homem, Velho e novo",
           "language": "por"
         },
         {
           "reference_id": 6548,
           "content_id": 481563,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nova criação, Nova criatura",
           "language": "por"
         },
         {
           "reference_id": 6550,
           "content_id": 806250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Novos céus e nova terra",
           "language": "por"
         }

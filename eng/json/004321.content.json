@@ -50,18 +50,21 @@
         {
           "reference_id": 6726,
           "content_id": 7558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestine",
           "language": "eng"
         },
         {
           "reference_id": 7681,
           "content_id": 8513,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sina, Sinai",
           "language": "eng"
         },
         {
           "reference_id": 8231,
           "content_id": 9063,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness Wanderings",
           "language": "eng"
         }

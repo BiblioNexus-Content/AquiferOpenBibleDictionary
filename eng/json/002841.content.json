@@ -13,12 +13,14 @@
         {
           "reference_id": 3572,
           "content_id": 4404,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Canaan, Canaanite",
           "language": "eng"
         },
         {
           "reference_id": 6726,
           "content_id": 7558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestine",
           "language": "eng"
         }

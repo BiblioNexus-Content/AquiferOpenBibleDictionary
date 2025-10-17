@@ -428,90 +428,105 @@
         {
           "reference_id": 2488,
           "content_id": 3320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraham",
           "language": "eng"
         },
         {
           "reference_id": 3720,
           "content_id": 4552,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronology of the Bible (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 3803,
           "content_id": 4635,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conquest and Allotment of the Land",
           "language": "eng"
         },
         {
           "reference_id": 3937,
           "content_id": 4769,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "David",
           "language": "eng"
         },
         {
           "reference_id": 4375,
           "content_id": 5207,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Exodus, the",
           "language": "eng"
         },
         {
           "reference_id": 3999,
           "content_id": 4831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diaspora of the Jews",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         },
         {
           "reference_id": 7327,
           "content_id": 8159,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Saul",
           "language": "eng"
         },
         {
           "reference_id": 7730,
           "content_id": 8562,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Solomon (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6778,
           "content_id": 7610,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Patriarchs, Period of the",
           "language": "eng"
         },
         {
           "reference_id": 4435,
           "content_id": 5267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "First Jewish Revolt",
           "language": "eng"
         },
         {
           "reference_id": 5535,
           "content_id": 6367,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jew",
           "language": "eng"
         },
         {
           "reference_id": 6383,
           "content_id": 7215,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moses",
           "language": "eng"
         },
         {
           "reference_id": 8231,
           "content_id": 9063,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness Wanderings",
           "language": "eng"
         }

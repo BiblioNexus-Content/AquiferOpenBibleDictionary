@@ -140,12 +140,14 @@
         {
           "reference_id": 4065,
           "content_id": 682907,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sonhos",
           "language": "por"
         },
         {
           "reference_id": 6998,
           "content_id": 125320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Profecia",
           "language": "por"
         }

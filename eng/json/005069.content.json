@@ -248,18 +248,21 @@
         {
           "reference_id": 4656,
           "content_id": 5488,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Glory",
           "language": "eng"
         },
         {
           "reference_id": 6905,
           "content_id": 7737,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pillar of Fire and Cloud",
           "language": "eng"
         },
         {
           "reference_id": 7982,
           "content_id": 8814,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Theophany",
           "language": "eng"
         }

@@ -218,18 +218,21 @@
         {
           "reference_id": 3158,
           "content_id": 662264,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "changeur, créancier, banquier, prêteur",
           "language": "fra"
         },
         {
           "reference_id": 6362,
           "content_id": 806088,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Argent",
           "language": "fra"
         },
         {
           "reference_id": 7920,
           "content_id": 341300,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Collecteur d'impôts, péager, publicain",
           "language": "fra"
         }

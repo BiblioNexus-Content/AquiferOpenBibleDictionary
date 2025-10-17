@@ -38,12 +38,14 @@
         {
           "reference_id": 5576,
           "content_id": 6408,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John, Gospel of",
           "language": "eng"
         },
         {
           "reference_id": 8257,
           "content_id": 9089,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Word, Word of God, Words of God",
           "language": "eng"
         }

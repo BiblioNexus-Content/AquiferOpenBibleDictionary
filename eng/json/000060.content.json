@@ -92,12 +92,14 @@
         {
           "reference_id": 3755,
           "content_id": 4587,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cleanness and Uncleanness, Regulations Concerning",
           "language": "eng"
         },
         {
           "reference_id": 4009,
           "content_id": 4841,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dietary Laws",
           "language": "eng"
         }

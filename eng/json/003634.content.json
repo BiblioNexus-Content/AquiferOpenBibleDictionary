@@ -26,12 +26,14 @@
         {
           "reference_id": 6060,
           "content_id": 6892,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Malcam",
           "language": "eng"
         },
         {
           "reference_id": 6302,
           "content_id": 7134,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Milcom",
           "language": "eng"
         }

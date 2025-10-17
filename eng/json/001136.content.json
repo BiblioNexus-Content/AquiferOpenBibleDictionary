@@ -194,48 +194,56 @@
         {
           "reference_id": 3013,
           "content_id": 3845,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astrology",
           "language": "eng"
         },
         {
           "reference_id": 3014,
           "content_id": 3846,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astronomy",
           "language": "eng"
         },
         {
           "reference_id": 4416,
           "content_id": 5248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Feasts and Festivals of Israel",
           "language": "eng"
         },
         {
           "reference_id": 5641,
           "content_id": 6473,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jubilee Year",
           "language": "eng"
         },
         {
           "reference_id": 6367,
           "content_id": 7199,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moon",
           "language": "eng"
         },
         {
           "reference_id": 3943,
           "content_id": 4775,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Day",
           "language": "eng"
         },
         {
           "reference_id": 6571,
           "content_id": 7403,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Night",
           "language": "eng"
         },
         {
           "reference_id": 7822,
           "content_id": 8654,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sun",
           "language": "eng"
         }

@@ -32,12 +32,14 @@
         {
           "reference_id": 3888,
           "content_id": 4720,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cush (Place)",
           "language": "eng"
         },
         {
           "reference_id": 4341,
           "content_id": 5173,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ethiopia",
           "language": "eng"
         }

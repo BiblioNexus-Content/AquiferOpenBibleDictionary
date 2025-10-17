@@ -278,42 +278,49 @@
         {
           "reference_id": 3720,
           "content_id": 4552,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronology of the Bible (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 4390,
           "content_id": 5222,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Ezra",
           "language": "eng"
         },
         {
           "reference_id": 4393,
           "content_id": 5225,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ezra (Person)",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 6512,
           "content_id": 7344,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nehemiah (Person)",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         }

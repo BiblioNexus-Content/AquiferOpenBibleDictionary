@@ -434,18 +434,21 @@
         {
           "reference_id": 3945,
           "content_id": 161799,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mortos, Lugar Dos",
           "language": "por"
         },
         {
           "reference_id": 4308,
           "content_id": 815952,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Escatologia",
           "language": "por"
         },
         {
           "reference_id": 7370,
           "content_id": 124408,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Segunda Vinda De Cristo*",
           "language": "por"
         }

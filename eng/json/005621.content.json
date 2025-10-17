@@ -98,18 +98,21 @@
         {
           "reference_id": 5673,
           "content_id": 6505,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justus",
           "language": "eng"
         },
         {
           "reference_id": 8040,
           "content_id": 8872,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Titus, Letter to",
           "language": "eng"
         },
         {
           "reference_id": 212867,
           "content_id": 787497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Titus Caesar",
           "language": "eng"
         }

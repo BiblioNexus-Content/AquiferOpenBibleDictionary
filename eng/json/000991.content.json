@@ -32,12 +32,14 @@
         {
           "reference_id": 2996,
           "content_id": 3828,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Asphalt",
           "language": "eng"
         },
         {
           "reference_id": 6313,
           "content_id": 7145,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Minerals and Metals",
           "language": "eng"
         }

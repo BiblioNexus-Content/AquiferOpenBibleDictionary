@@ -188,18 +188,21 @@
         {
           "reference_id": 3439,
           "content_id": 4271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Blindness",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 7147,
           "content_id": 7979,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Regeneration",
           "language": "eng"
         }

@@ -182,30 +182,35 @@
         {
           "reference_id": 3392,
           "content_id": 759674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bíblia, Cânone da",
           "language": "por"
         },
         {
           "reference_id": 3393,
           "content_id": 207151,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bíblia, Inspiração da",
           "language": "por"
         },
         {
           "reference_id": 3394,
           "content_id": 124374,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bíblia*, Manuscritos E Texto Do (Novo Testamento)",
           "language": "por"
         },
         {
           "reference_id": 3396,
           "content_id": 125239,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bíblia*, Citações Do Antigo Testamento No Novo Testamento",
           "language": "por"
         },
         {
           "reference_id": 3395,
           "content_id": 716942,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bíblia, Manuscritos e Texto do (Antigo Testamento)",
           "language": "por"
         }

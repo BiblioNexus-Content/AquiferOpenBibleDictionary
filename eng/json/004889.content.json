@@ -242,24 +242,28 @@
         {
           "reference_id": 2779,
           "content_id": 3611,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Angel",
           "language": "eng"
         },
         {
           "reference_id": 3976,
           "content_id": 4808,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Demon-Possession",
           "language": "eng"
         },
         {
           "reference_id": 5957,
           "content_id": 6789,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lucifer",
           "language": "eng"
         },
         {
           "reference_id": 3977,
           "content_id": 4809,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Demon",
           "language": "eng"
         }

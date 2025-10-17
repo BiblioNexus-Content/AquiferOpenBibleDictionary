@@ -86,12 +86,14 @@
         {
           "reference_id": 5030,
           "content_id": 5862,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hivites",
           "language": "eng"
         },
         {
           "reference_id": 5121,
           "content_id": 5953,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hurrians",
           "language": "eng"
         }

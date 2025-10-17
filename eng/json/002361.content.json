@@ -128,12 +128,14 @@
         {
           "reference_id": 4782,
           "content_id": 5614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hamath, Entrance of",
           "language": "eng"
         },
         {
           "reference_id": 4784,
           "content_id": 5616,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hamath-Zobah",
           "language": "eng"
         }

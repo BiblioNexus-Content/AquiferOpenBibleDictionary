@@ -74,18 +74,21 @@
         {
           "reference_id": 4143,
           "content_id": 4975,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Elder",
           "language": "eng"
         },
         {
           "reference_id": 6771,
           "content_id": 7603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pastor",
           "language": "eng"
         },
         {
           "reference_id": 6978,
           "content_id": 7810,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Presbyter",
           "language": "eng"
         }

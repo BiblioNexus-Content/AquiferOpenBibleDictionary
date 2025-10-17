@@ -230,12 +230,14 @@
         {
           "reference_id": 3395,
           "content_id": 594428,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल की पाण्डुलिपियाँ और पाठ (पुराना नियम)",
           "language": "hin"
         },
         {
           "reference_id": 7288,
           "content_id": 649540,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सामरिया",
           "language": "hin"
         }

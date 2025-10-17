@@ -296,30 +296,35 @@
         {
           "reference_id": 3999,
           "content_id": 716992,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diáspora dos judeus",
           "language": "por"
         },
         {
           "reference_id": 5260,
           "content_id": 682974,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Israel, História de",
           "language": "por"
         },
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         },
         {
           "reference_id": 6864,
           "content_id": 161855,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fariseus",
           "language": "por"
         },
         {
           "reference_id": 5647,
           "content_id": 815991,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaizantes",
           "language": "por"
         }

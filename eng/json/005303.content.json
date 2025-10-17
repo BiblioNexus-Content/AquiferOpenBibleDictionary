@@ -13,18 +13,21 @@
         {
           "reference_id": 4403,
           "content_id": 5235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Family Life and Relations",
           "language": "eng"
         },
         {
           "reference_id": 4581,
           "content_id": 5413,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy",
           "language": "eng"
         },
         {
           "reference_id": 7739,
           "content_id": 8571,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Son of God",
           "language": "eng"
         }

@@ -1070,18 +1070,21 @@
         {
           "reference_id": 4626,
           "content_id": 647171,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गिदोन",
           "language": "hin"
         },
         {
           "reference_id": 5474,
           "content_id": 649082,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यिप्तह",
           "language": "hin"
         },
         {
           "reference_id": 7294,
           "content_id": 594777,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "शिमशोन",
           "language": "hin"
         }

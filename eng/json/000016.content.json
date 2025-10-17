@@ -26,12 +26,14 @@
         {
           "reference_id": 3913,
           "content_id": 4745,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Daniel, Additions to",
           "language": "eng"
         },
         {
           "reference_id": 7427,
           "content_id": 8259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shadrach, Meshach, and Abednego",
           "language": "eng"
         }

@@ -182,18 +182,21 @@
         {
           "reference_id": 5617,
           "content_id": 6449,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joseph",
           "language": "eng"
         },
         {
           "reference_id": 5644,
           "content_id": 6476,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judah (Person)",
           "language": "eng"
         },
         {
           "reference_id": 7969,
           "content_id": 8801,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Thaddaeus, the Apostle",
           "language": "eng"
         }

@@ -32,18 +32,21 @@
         {
           "reference_id": 2995,
           "content_id": 3827,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aspen",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         },
         {
           "reference_id": 8236,
           "content_id": 9068,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Brook of the Willows",
           "language": "eng"
         }

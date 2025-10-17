@@ -260,18 +260,21 @@
         {
           "reference_id": 3162,
           "content_id": 3994,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baptism of Fire",
           "language": "eng"
         },
         {
           "reference_id": 3163,
           "content_id": 3995,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baptism of Jesus",
           "language": "eng"
         },
         {
           "reference_id": 3164,
           "content_id": 3996,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baptism of the Spirit",
           "language": "eng"
         }

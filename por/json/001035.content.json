@@ -812,72 +812,84 @@
         {
           "reference_id": 2953,
           "content_id": 806176,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ascensão de Cristo",
           "language": "por"
         },
         {
           "reference_id": 3716,
           "content_id": 815915,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cristologia",
           "language": "por"
         },
         {
           "reference_id": 3717,
           "content_id": 125245,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cristo",
           "language": "por"
         },
         {
           "reference_id": 5184,
           "content_id": 125277,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Encarnação*",
           "language": "por"
         },
         {
           "reference_id": 5522,
           "content_id": 125281,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Cristo",
           "language": "por"
         },
         {
           "reference_id": 4580,
           "content_id": 682940,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogia de Jesus Cristo",
           "language": "por"
         },
         {
           "reference_id": 7328,
           "content_id": 124407,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salvador",
           "language": "por"
         },
         {
           "reference_id": 5756,
           "content_id": 125287,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Reino De Deus, Reino Do Céu",
           "language": "por"
         },
         {
           "reference_id": 6259,
           "content_id": 125300,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messias",
           "language": "por"
         },
         {
           "reference_id": 6742,
           "content_id": 125309,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Parábola",
           "language": "por"
         },
         {
           "reference_id": 7739,
           "content_id": 125335,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Filho De Deus",
           "language": "por"
         },
         {
           "reference_id": 7740,
           "content_id": 125336,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Filho Do Homem",
           "language": "por"
         }

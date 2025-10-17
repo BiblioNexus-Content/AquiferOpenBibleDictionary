@@ -32,18 +32,21 @@
         {
           "reference_id": 4417,
           "content_id": 5249,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Felix, Antonius",
           "language": "eng"
         },
         {
           "reference_id": 4422,
           "content_id": 5254,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Festus, Porcius",
           "language": "eng"
         },
         {
           "reference_id": 6902,
           "content_id": 7734,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pilate, Pontius",
           "language": "eng"
         }

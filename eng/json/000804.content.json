@@ -26,12 +26,14 @@
         {
           "reference_id": 2977,
           "content_id": 3809,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ashtaroth, Ashterathite",
           "language": "eng"
         },
         {
           "reference_id": 5900,
           "content_id": 6732,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Levitical Cities",
           "language": "eng"
         }

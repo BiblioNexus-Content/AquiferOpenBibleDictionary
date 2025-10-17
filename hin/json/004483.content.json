@@ -13,30 +13,35 @@
         {
           "reference_id": 2998,
           "content_id": 732539,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "नाग (एस्प)",
           "language": "hin"
         },
         {
           "reference_id": 3641,
           "content_id": 594453,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गिरगिट",
           "language": "hin"
         },
         {
           "reference_id": 4562,
           "content_id": 594539,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "छिपकली",
           "language": "hin"
         },
         {
           "reference_id": 5931,
           "content_id": 733388,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "छिपकली",
           "language": "hin"
         },
         {
           "reference_id": 7717,
           "content_id": 733920,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "साँप",
           "language": "hin"
         }

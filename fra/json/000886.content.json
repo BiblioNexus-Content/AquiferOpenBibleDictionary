@@ -134,18 +134,21 @@
         {
           "reference_id": 4328,
           "content_id": 390332,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Esséniens, Essènes",
           "language": "fra"
         },
         {
           "reference_id": 5646,
           "content_id": 341271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaïsme",
           "language": "fra"
         },
         {
           "reference_id": 6864,
           "content_id": 602069,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisiens",
           "language": "fra"
         }

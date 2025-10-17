@@ -74,36 +74,42 @@
         {
           "reference_id": 4328,
           "content_id": 815953,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Essênios",
           "language": "por"
         },
         {
           "reference_id": 5535,
           "content_id": 161833,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judeu",
           "language": "por"
         },
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         },
         {
           "reference_id": 7892,
           "content_id": 161876,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmude*",
           "language": "por"
         },
         {
           "reference_id": 8065,
           "content_id": 161880,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torá*",
           "language": "por"
         },
         {
           "reference_id": 8078,
           "content_id": 161881,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradição",
           "language": "por"
         }

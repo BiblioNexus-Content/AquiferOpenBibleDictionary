@@ -176,12 +176,14 @@
         {
           "reference_id": 8024,
           "content_id": 8856,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Timothy, Second Letter to",
           "language": "eng"
         },
         {
           "reference_id": 8040,
           "content_id": 8872,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Titus, Letter to",
           "language": "eng"
         }

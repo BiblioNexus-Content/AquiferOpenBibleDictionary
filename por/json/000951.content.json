@@ -146,12 +146,14 @@
         {
           "reference_id": 6099,
           "content_id": 481558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homem",
           "language": "por"
         },
         {
           "reference_id": 8254,
           "content_id": 481592,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mulher",
           "language": "por"
         }

@@ -146,12 +146,14 @@
         {
           "reference_id": 6099,
           "content_id": 6931,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Man",
           "language": "eng"
         },
         {
           "reference_id": 8254,
           "content_id": 9086,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Woman",
           "language": "eng"
         }

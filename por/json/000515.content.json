@@ -536,36 +536,42 @@
         {
           "reference_id": 3716,
           "content_id": 815915,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cristologia",
           "language": "por"
         },
         {
           "reference_id": 3720,
           "content_id": 481519,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cronologia da Bíblia (Antigo Testamento)",
           "language": "por"
         },
         {
           "reference_id": 5756,
           "content_id": 125287,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Reino De Deus, Reino Do Céu",
           "language": "por"
         },
         {
           "reference_id": 6259,
           "content_id": 125300,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messias",
           "language": "por"
         },
         {
           "reference_id": 5260,
           "content_id": 682974,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Israel, História de",
           "language": "por"
         },
         {
           "reference_id": 5763,
           "content_id": 683007,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rei",
           "language": "por"
         }

@@ -26,12 +26,14 @@
         {
           "reference_id": 6864,
           "content_id": 161855,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fariseus",
           "language": "por"
         },
         {
           "reference_id": 7923,
           "content_id": 125342,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mestre",
           "language": "por"
         }

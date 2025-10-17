@@ -122,18 +122,21 @@
         {
           "reference_id": 5370,
           "content_id": 125278,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tiago (Pessoa)",
           "language": "por"
         },
         {
           "reference_id": 5617,
           "content_id": 125284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "José",
           "language": "por"
         },
         {
           "reference_id": 6129,
           "content_id": 816024,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Maria",
           "language": "por"
         }

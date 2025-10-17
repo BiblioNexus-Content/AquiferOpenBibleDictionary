@@ -13,12 +13,14 @@
         {
           "reference_id": 2667,
           "content_id": 3499,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alexander (Balas) Epiphanes",
           "language": "eng"
         },
         {
           "reference_id": 2806,
           "content_id": 3638,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Antiochus IV",
           "language": "eng"
         }

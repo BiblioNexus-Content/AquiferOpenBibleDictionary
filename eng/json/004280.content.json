@@ -26,42 +26,49 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 4702,
           "content_id": 5534,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Great Owl",
           "language": "eng"
         },
         {
           "reference_id": 7339,
           "content_id": 8171,
+          "resource_code": "Unknown",
           "label": "Screech Owl",
           "language": "eng"
         },
         {
           "reference_id": 6698,
           "content_id": 7530,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ostrich",
           "language": "eng"
         },
         {
           "reference_id": 212862,
           "content_id": 787492,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barn Owl, White Owl",
           "language": "eng"
         },
         {
           "reference_id": 212863,
           "content_id": 787493,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Scops Owl",
           "language": "eng"
         },
         {
           "reference_id": 212864,
           "content_id": 787494,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Little Owl",
           "language": "eng"
         }

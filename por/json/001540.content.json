@@ -284,24 +284,28 @@
         {
           "reference_id": 4122,
           "content_id": 717005,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Egito, egípcio",
           "language": "por"
         },
         {
           "reference_id": 4374,
           "content_id": 161808,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Livro de Êxodo",
           "language": "por"
         },
         {
           "reference_id": 6383,
           "content_id": 161847,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moisés",
           "language": "por"
         },
         {
           "reference_id": 6926,
           "content_id": 717236,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Praga",
           "language": "por"
         }

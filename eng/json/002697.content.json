@@ -44,12 +44,14 @@
         {
           "reference_id": 5116,
           "content_id": 5948,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Huppim",
           "language": "eng"
         },
         {
           "reference_id": 5119,
           "content_id": 5951,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Huram",
           "language": "eng"
         }

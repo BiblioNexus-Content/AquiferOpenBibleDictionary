@@ -188,30 +188,35 @@
         {
           "reference_id": 2669,
           "content_id": 728112,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alexandre",
           "language": "fra"
         },
         {
           "reference_id": 2671,
           "content_id": 207160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alexandrie",
           "language": "fra"
         },
         {
           "reference_id": 5646,
           "content_id": 341271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaïsme",
           "language": "fra"
         },
         {
           "reference_id": 4955,
           "content_id": 728127,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hellénisme",
           "language": "fra"
         },
         {
           "reference_id": 4956,
           "content_id": 728128,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hellénistes",
           "language": "fra"
         }

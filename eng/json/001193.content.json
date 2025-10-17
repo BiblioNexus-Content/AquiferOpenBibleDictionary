@@ -13,24 +13,28 @@
         {
           "reference_id": 2592,
           "content_id": 3424,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Agriculture",
           "language": "eng"
         },
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "Unknown",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 6630,
           "content_id": 7462,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Offerings and Sacrifices",
           "language": "eng"
         },
         {
           "reference_id": 4454,
           "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Food and Food Preparation",
           "language": "eng"
         }

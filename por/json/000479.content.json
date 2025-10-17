@@ -146,24 +146,28 @@
         {
           "reference_id": 3457,
           "content_id": 806184,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Corpo de Cristo",
           "language": "por"
         },
         {
           "reference_id": 3727,
           "content_id": 815916,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Igreja",
           "language": "por"
         },
         {
           "reference_id": 6099,
           "content_id": 481558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homem",
           "language": "por"
         },
         {
           "reference_id": 7179,
           "content_id": 161864,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ressurreição",
           "language": "por"
         }

@@ -13,12 +13,14 @@
         {
           "reference_id": 6416,
           "content_id": 7248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Music",
           "language": "eng"
         },
         {
           "reference_id": 7009,
           "content_id": 7841,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Psalms, Book of",
           "language": "eng"
         }

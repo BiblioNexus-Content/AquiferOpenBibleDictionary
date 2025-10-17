@@ -596,12 +596,14 @@
         {
           "reference_id": 3520,
           "content_id": 4352,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Brothers of Jesus",
           "language": "eng"
         },
         {
           "reference_id": 5370,
           "content_id": 6202,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "James (Person)",
           "language": "eng"
         }

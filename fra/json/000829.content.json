@@ -380,18 +380,21 @@
         {
           "reference_id": 3842,
           "content_id": 800686,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alliance",
           "language": "fra"
         },
         {
           "reference_id": 5062,
           "content_id": 27248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’espérance",
           "language": "fra"
         },
         {
           "reference_id": 6999,
           "content_id": 602070,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "prophète, prophétesse",
           "language": "fra"
         }

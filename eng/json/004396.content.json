@@ -32,12 +32,14 @@
         {
           "reference_id": 3109,
           "content_id": 3941,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baal-Peor",
           "language": "eng"
         },
         {
           "reference_id": 3573,
           "content_id": 4405,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Canaanite Deities and Religion",
           "language": "eng"
         }

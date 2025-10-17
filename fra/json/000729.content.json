@@ -128,18 +128,21 @@
         {
           "reference_id": 4308,
           "content_id": 713633,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatologie",
           "language": "fra"
         },
         {
           "reference_id": 4922,
           "content_id": 713643,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cieux",
           "language": "fra"
         },
         {
           "reference_id": 6548,
           "content_id": 788776,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nouvelle création, Nouvelle créature",
           "language": "fra"
         }

@@ -26,12 +26,14 @@
         {
           "reference_id": 3190,
           "content_id": 4022,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Basemath",
           "language": "eng"
         },
         {
           "reference_id": 6034,
           "content_id": 6866,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mahalath (Person)",
           "language": "eng"
         }

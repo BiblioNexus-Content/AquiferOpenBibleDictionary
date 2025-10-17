@@ -20,12 +20,14 @@
         {
           "reference_id": 4550,
           "content_id": 648728,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गाज़ाथियों",
           "language": "hin"
         },
         {
           "reference_id": 4551,
           "content_id": 381097,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गाज़ा",
           "language": "hin"
         }

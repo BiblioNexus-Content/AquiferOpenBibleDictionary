@@ -164,24 +164,28 @@
         {
           "reference_id": 3014,
           "content_id": 481511,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astronomia",
           "language": "por"
         },
         {
           "reference_id": 3559,
           "content_id": 716961,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Calendários, Antigos e modernos",
           "language": "por"
         },
         {
           "reference_id": 3943,
           "content_id": 481525,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dia",
           "language": "por"
         },
         {
           "reference_id": 6367,
           "content_id": 481561,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lua",
           "language": "por"
         }

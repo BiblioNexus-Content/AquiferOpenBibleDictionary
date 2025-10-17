@@ -536,36 +536,42 @@
         {
           "reference_id": 3716,
           "content_id": 4548,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christology",
           "language": "eng"
         },
         {
           "reference_id": 3720,
           "content_id": 4552,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronology of the Bible (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 5756,
           "content_id": 6588,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Kingdom of God, Kingdom of Heaven",
           "language": "eng"
         },
         {
           "reference_id": 5763,
           "content_id": 6595,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "King",
           "language": "eng"
         },
         {
           "reference_id": 6259,
           "content_id": 7091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messiah",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         }

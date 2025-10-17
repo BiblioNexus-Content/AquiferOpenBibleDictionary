@@ -13,12 +13,14 @@
         {
           "reference_id": 4448,
           "content_id": 5280,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Flood, the",
           "language": "eng"
         },
         {
           "reference_id": 6581,
           "content_id": 7413,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Noah",
           "language": "eng"
         }

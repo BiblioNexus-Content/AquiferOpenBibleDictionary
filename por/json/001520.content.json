@@ -272,30 +272,35 @@
         {
           "reference_id": 2691,
           "content_id": 716897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Esmolas",
           "language": "por"
         },
         {
           "reference_id": 7202,
           "content_id": 161865,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Riquezas",
           "language": "por"
         },
         {
           "reference_id": 8211,
           "content_id": 125349,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Riqueza",
           "language": "por"
         },
         {
           "reference_id": 7205,
           "content_id": 658722,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Retidão",
           "language": "por"
         },
         {
           "reference_id": 8193,
           "content_id": 683114,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salários",
           "language": "por"
         }

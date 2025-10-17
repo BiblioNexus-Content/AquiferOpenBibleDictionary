@@ -56,42 +56,49 @@
         {
           "reference_id": 2749,
           "content_id": 3581,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Amulet",
           "language": "eng"
         },
         {
           "reference_id": 3573,
           "content_id": 4405,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Canaanite Deities and Religion",
           "language": "eng"
         },
         {
           "reference_id": 6655,
           "content_id": 7487,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Omen",
           "language": "eng"
         },
         {
           "reference_id": 7745,
           "content_id": 8577,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Soothsayer",
           "language": "eng"
         },
         {
           "reference_id": 4480,
           "content_id": 5312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Frontlet",
           "language": "eng"
         },
         {
           "reference_id": 7012,
           "content_id": 7844,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Psychics",
           "language": "eng"
         },
         {
           "reference_id": 7749,
           "content_id": 8581,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sorcery",
           "language": "eng"
         }

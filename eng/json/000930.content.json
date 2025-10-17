@@ -56,12 +56,14 @@
         {
           "reference_id": 3341,
           "content_id": 4173,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bethesda",
           "language": "eng"
         },
         {
           "reference_id": 3380,
           "content_id": 4212,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Beth-Zatha",
           "language": "eng"
         }

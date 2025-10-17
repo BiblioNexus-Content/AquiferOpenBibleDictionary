@@ -13,12 +13,14 @@
         {
           "reference_id": 4465,
           "content_id": 5297,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fort, Fortification",
           "language": "eng"
         },
         {
           "reference_id": 8202,
           "content_id": 9034,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Watchtower",
           "language": "eng"
         }

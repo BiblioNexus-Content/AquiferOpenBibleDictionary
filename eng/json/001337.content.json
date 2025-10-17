@@ -638,36 +638,42 @@
         {
           "reference_id": 3165,
           "content_id": 3997,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baptism",
           "language": "eng"
         },
         {
           "reference_id": 3734,
           "content_id": 4566,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Circumcision",
           "language": "eng"
         },
         {
           "reference_id": 4009,
           "content_id": 4841,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dietary Laws",
           "language": "eng"
         },
         {
           "reference_id": 6630,
           "content_id": 7462,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Offerings and Sacrifices",
           "language": "eng"
         },
         {
           "reference_id": 8127,
           "content_id": 8959,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Uncircumcision",
           "language": "eng"
         },
         {
           "reference_id": 5864,
           "content_id": 6696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Biblical Concept of Law",
           "language": "eng"
         }

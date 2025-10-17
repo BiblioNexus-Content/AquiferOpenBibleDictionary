@@ -362,12 +362,14 @@
         {
           "reference_id": 3797,
           "content_id": 4629,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Confession",
           "language": "eng"
         },
         {
           "reference_id": 7166,
           "content_id": 7998,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Repentance",
           "language": "eng"
         }

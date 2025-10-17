@@ -242,12 +242,14 @@
         {
           "reference_id": 3716,
           "content_id": 4548,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christology",
           "language": "eng"
         },
         {
           "reference_id": 5227,
           "content_id": 6059,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Isaiah, Book of",
           "language": "eng"
         }

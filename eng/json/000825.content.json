@@ -74,18 +74,21 @@
         {
           "reference_id": 5662,
           "content_id": 6494,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment Seat",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 5856,
           "content_id": 6688,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Judgment",
           "language": "eng"
         }

@@ -476,24 +476,28 @@
         {
           "reference_id": 6416,
           "content_id": 390338,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Musique",
           "language": "fra"
         },
         {
           "reference_id": 7006,
           "content_id": 811867,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Proverbes, Livre des",
           "language": "fra"
         },
         {
           "reference_id": 8245,
           "content_id": 27258,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sagesse",
           "language": "fra"
         },
         {
           "reference_id": 7009,
           "content_id": 713671,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Psaumes, Livre des",
           "language": "fra"
         }

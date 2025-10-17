@@ -98,18 +98,21 @@
         {
           "reference_id": 3573,
           "content_id": 4405,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Canaanite Deities and Religion",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 6726,
           "content_id": 7558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestine",
           "language": "eng"
         }

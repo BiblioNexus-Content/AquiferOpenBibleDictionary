@@ -62,18 +62,21 @@
         {
           "reference_id": 4778,
           "content_id": 5610,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hallelujah",
           "language": "eng"
         },
         {
           "reference_id": 4779,
           "content_id": 5611,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hallel",
           "language": "eng"
         },
         {
           "reference_id": 6259,
           "content_id": 7091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messiah",
           "language": "eng"
         }

@@ -194,24 +194,28 @@
         {
           "reference_id": 6179,
           "content_id": 7011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Medicine and Medical Practice",
           "language": "eng"
         },
         {
           "reference_id": 6640,
           "content_id": 7472,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Oil",
           "language": "eng"
         },
         {
           "reference_id": 6648,
           "content_id": 7480,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Olive, Olive Tree",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         }

@@ -32,12 +32,14 @@
         {
           "reference_id": 3841,
           "content_id": 4673,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "The New Covenant",
           "language": "eng"
         },
         {
           "reference_id": 3842,
           "content_id": 4674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Covenant",
           "language": "eng"
         }

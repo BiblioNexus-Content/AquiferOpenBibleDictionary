@@ -146,12 +146,14 @@
         {
           "reference_id": 6099,
           "content_id": 381682,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मनुष्य",
           "language": "hin"
         },
         {
           "reference_id": 8254,
           "content_id": 381918,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "महिला",
           "language": "hin"
         }

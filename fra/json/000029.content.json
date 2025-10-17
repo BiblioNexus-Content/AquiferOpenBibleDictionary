@@ -68,12 +68,14 @@
         {
           "reference_id": 2488,
           "content_id": 207158,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraham",
           "language": "fra"
         },
         {
           "reference_id": 7308,
           "content_id": 806124,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sara",
           "language": "fra"
         }

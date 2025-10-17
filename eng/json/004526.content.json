@@ -404,42 +404,49 @@
         {
           "reference_id": 3720,
           "content_id": 4552,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronology of the Bible (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 3999,
           "content_id": 4831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diaspora of the Jews",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 4390,
           "content_id": 5222,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Ezra",
           "language": "eng"
         },
         {
           "reference_id": 6511,
           "content_id": 7343,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Nehemiah",
           "language": "eng"
         },
         {
           "reference_id": 4754,
           "content_id": 5586,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Haggai, Book of",
           "language": "eng"
         },
         {
           "reference_id": 8334,
           "content_id": 9166,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Zechariah, Book of",
           "language": "eng"
         }

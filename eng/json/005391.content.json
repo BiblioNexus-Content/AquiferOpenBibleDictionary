@@ -164,24 +164,28 @@
         {
           "reference_id": 3014,
           "content_id": 3846,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astronomy",
           "language": "eng"
         },
         {
           "reference_id": 3559,
           "content_id": 4391,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Calendars, Ancient and Modern",
           "language": "eng"
         },
         {
           "reference_id": 6367,
           "content_id": 7199,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moon",
           "language": "eng"
         },
         {
           "reference_id": 3943,
           "content_id": 4775,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Day",
           "language": "eng"
         }

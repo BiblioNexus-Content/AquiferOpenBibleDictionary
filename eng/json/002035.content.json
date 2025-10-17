@@ -182,12 +182,14 @@
         {
           "reference_id": 4149,
           "content_id": 4981,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Elect, Election",
           "language": "eng"
         },
         {
           "reference_id": 4458,
           "content_id": 5290,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Foreknowledge",
           "language": "eng"
         }

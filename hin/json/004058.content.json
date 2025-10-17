@@ -122,18 +122,21 @@
         {
           "reference_id": 3720,
           "content_id": 381399,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल का घटनाक्रम (पुराना नियम)",
           "language": "hin"
         },
         {
           "reference_id": 3999,
           "content_id": 368583,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यहूदियों का प्रवास",
           "language": "hin"
         },
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         }

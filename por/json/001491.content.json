@@ -62,36 +62,42 @@
         {
           "reference_id": 3720,
           "content_id": 481519,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cronologia da Bíblia (Antigo Testamento)",
           "language": "por"
         },
         {
           "reference_id": 4375,
           "content_id": 682930,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Êxodo, o",
           "language": "por"
         },
         {
           "reference_id": 5260,
           "content_id": 682974,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Israel, História de",
           "language": "por"
         },
         {
           "reference_id": 8400,
           "content_id": 683123,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Zim, Deserto de",
           "language": "por"
         },
         {
           "reference_id": 7681,
           "content_id": 717292,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sina, Sinai",
           "language": "por"
         },
         {
           "reference_id": 7690,
           "content_id": 717293,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Deserto de Sim",
           "language": "por"
         }

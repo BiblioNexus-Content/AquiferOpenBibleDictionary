@@ -13,12 +13,14 @@
         {
           "reference_id": 5922,
           "content_id": 6754,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lily",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "Unknown",
           "label": "Plants",
           "language": "eng"
         }

@@ -20,12 +20,14 @@
         {
           "reference_id": 4577,
           "content_id": 5409,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gemara",
           "language": "eng"
         },
         {
           "reference_id": 7892,
           "content_id": 8724,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "eng"
         }

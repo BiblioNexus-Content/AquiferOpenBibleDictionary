@@ -332,12 +332,14 @@
         {
           "reference_id": 6726,
           "content_id": 7558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestine",
           "language": "eng"
         },
         {
           "reference_id": 7353,
           "content_id": 8185,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sea of Galilee",
           "language": "eng"
         }

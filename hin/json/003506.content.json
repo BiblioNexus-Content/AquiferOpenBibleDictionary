@@ -74,18 +74,21 @@
         {
           "reference_id": 3999,
           "content_id": 368583,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यहूदियों का प्रवास",
           "language": "hin"
         },
         {
           "reference_id": 4666,
           "content_id": 368597,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "परमेश्वर का भय मानने वाले",
           "language": "hin"
         },
         {
           "reference_id": 5535,
           "content_id": 184948,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यहूदी",
           "language": "hin"
         }

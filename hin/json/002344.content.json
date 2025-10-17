@@ -13,12 +13,14 @@
         {
           "reference_id": 4366,
           "content_id": 732989,
+          "resource_code": "Unknown",
           "label": "बुराई",
           "language": "hin"
         },
         {
           "reference_id": 7691,
           "content_id": 180550,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "पाप",
           "language": "hin"
         }

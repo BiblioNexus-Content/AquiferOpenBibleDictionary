@@ -56,18 +56,21 @@
         {
           "reference_id": 3999,
           "content_id": 716992,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diáspora dos judeus",
           "language": "por"
         },
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         },
         {
           "reference_id": 6726,
           "content_id": 658705,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestina",
           "language": "por"
         }

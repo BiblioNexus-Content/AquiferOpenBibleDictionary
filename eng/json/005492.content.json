@@ -218,18 +218,21 @@
         {
           "reference_id": 3158,
           "content_id": 3990,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Banker, Banking",
           "language": "eng"
         },
         {
           "reference_id": 6362,
           "content_id": 7194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Money",
           "language": "eng"
         },
         {
           "reference_id": 7920,
           "content_id": 8752,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tax Collector",
           "language": "eng"
         }

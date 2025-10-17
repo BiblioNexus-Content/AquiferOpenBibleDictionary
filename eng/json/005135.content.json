@@ -56,12 +56,14 @@
         {
           "reference_id": 7502,
           "content_id": 8334,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shelah",
           "language": "eng"
         },
         {
           "reference_id": 7565,
           "content_id": 8397,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shiloh",
           "language": "eng"
         }

@@ -734,18 +734,21 @@
         {
           "reference_id": 3937,
           "content_id": 161797,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Davi",
           "language": "por"
         },
         {
           "reference_id": 7296,
           "content_id": 717269,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Samuel (Pessoa)",
           "language": "por"
         },
         {
           "reference_id": 7327,
           "content_id": 717270,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Saul",
           "language": "por"
         }

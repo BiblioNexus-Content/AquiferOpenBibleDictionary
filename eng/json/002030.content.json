@@ -620,42 +620,49 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 3498,
           "content_id": 4330,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bread",
           "language": "eng"
         },
         {
           "reference_id": 4403,
           "content_id": 5235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Family Life and Relations",
           "language": "eng"
         },
         {
           "reference_id": 5872,
           "content_id": 6704,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leaven",
           "language": "eng"
         },
         {
           "reference_id": 6166,
           "content_id": 6998,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Meaning of Meals in the Bible",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         },
         {
           "reference_id": 8132,
           "content_id": 8964,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Unleavened Bread",
           "language": "eng"
         }

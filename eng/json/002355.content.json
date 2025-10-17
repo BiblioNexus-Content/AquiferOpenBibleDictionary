@@ -62,12 +62,14 @@
         {
           "reference_id": 4778,
           "content_id": 5610,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hallelujah",
           "language": "eng"
         },
         {
           "reference_id": 7892,
           "content_id": 8724,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "eng"
         }

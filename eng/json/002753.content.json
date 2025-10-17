@@ -158,12 +158,14 @@
         {
           "reference_id": 4667,
           "content_id": 5499,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Names of",
           "language": "eng"
         },
         {
           "reference_id": 6259,
           "content_id": 7091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messiah",
           "language": "eng"
         }

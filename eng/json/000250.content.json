@@ -26,12 +26,14 @@
         {
           "reference_id": 4955,
           "content_id": 5787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hellenism",
           "language": "eng"
         },
         {
           "reference_id": 6882,
           "content_id": 7714,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Philo, Judaeus",
           "language": "eng"
         }

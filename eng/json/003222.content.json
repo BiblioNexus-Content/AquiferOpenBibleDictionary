@@ -212,36 +212,42 @@
         {
           "reference_id": 2523,
           "content_id": 3355,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of the Acts of the Apostles",
           "language": "eng"
         },
         {
           "reference_id": 4435,
           "content_id": 5267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "First Jewish Revolt",
           "language": "eng"
         },
         {
           "reference_id": 4517,
           "content_id": 5349,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Letter to the Galatians",
           "language": "eng"
         },
         {
           "reference_id": 6782,
           "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paul, the Apostle",
           "language": "eng"
         },
         {
           "reference_id": 5499,
           "content_id": 6331,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jerusalem Council",
           "language": "eng"
         },
         {
           "reference_id": 5535,
           "content_id": 6367,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jew",
           "language": "eng"
         }

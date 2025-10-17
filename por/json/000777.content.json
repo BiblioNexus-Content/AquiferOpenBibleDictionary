@@ -62,18 +62,21 @@
         {
           "reference_id": 3746,
           "content_id": 658624,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cidade",
           "language": "por"
         },
         {
           "reference_id": 8197,
           "content_id": 760047,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Guerra",
           "language": "por"
         },
         {
           "reference_id": 8202,
           "content_id": 717329,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torre de vigia",
           "language": "por"
         }

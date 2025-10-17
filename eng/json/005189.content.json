@@ -50,12 +50,14 @@
         {
           "reference_id": 7623,
           "content_id": 8455,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shua",
           "language": "eng"
         },
         {
           "reference_id": 7625,
           "content_id": 8457,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shuhah",
           "language": "eng"
         }

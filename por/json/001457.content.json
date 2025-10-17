@@ -956,90 +956,105 @@
         {
           "reference_id": 2782,
           "content_id": 125233,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animais",
           "language": "por"
         },
         {
           "reference_id": 3541,
           "content_id": 759685,
+          "resource_code": "Unknown",
           "label": "Açor",
           "language": "por"
         },
         {
           "reference_id": 3821,
           "content_id": 759705,
+          "resource_code": "Unknown",
           "label": "Corvo-marinho",
           "language": "por"
         },
         {
           "reference_id": 4398,
           "content_id": 759750,
+          "resource_code": "Unknown",
           "label": "Falcão",
           "language": "por"
         },
         {
           "reference_id": 4702,
           "content_id": 759780,
+          "resource_code": "Unknown",
           "label": "Corujão",
           "language": "por"
         },
         {
           "reference_id": 4470,
           "content_id": 806208,
+          "resource_code": "Unknown",
           "label": "Aves domésticas",
           "language": "por"
         },
         {
           "reference_id": 4993,
           "content_id": 759809,
+          "resource_code": "Unknown",
           "label": "Garça",
           "language": "por"
         },
         {
           "reference_id": 5061,
           "content_id": 759815,
+          "resource_code": "Unknown",
           "label": "Poupa",
           "language": "por"
         },
         {
           "reference_id": 5142,
           "content_id": 759821,
+          "resource_code": "Unknown",
           "label": "Íbis",
           "language": "por"
         },
         {
           "reference_id": 5797,
           "content_id": 759866,
+          "resource_code": "Unknown",
           "label": "Milhano, milhafre",
           "language": "por"
         },
         {
           "reference_id": 6761,
           "content_id": 806255,
+          "resource_code": "Unknown",
           "label": "Perdiz",
           "language": "por"
         },
         {
           "reference_id": 6804,
           "content_id": 806256,
+          "resource_code": "Unknown",
           "label": "Pelicano",
           "language": "por"
         },
         {
           "reference_id": 6899,
           "content_id": 806258,
+          "resource_code": "Unknown",
           "label": "Pombo",
           "language": "por"
         },
         {
           "reference_id": 7048,
           "content_id": 806261,
+          "resource_code": "Unknown",
           "label": "Codorna",
           "language": "por"
         },
         {
           "reference_id": 212864,
           "content_id": 806294,
+          "resource_code": "Unknown",
           "label": "Coruja pequena",
           "language": "por"
         }

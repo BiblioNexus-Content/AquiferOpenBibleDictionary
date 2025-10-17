@@ -266,54 +266,63 @@
         {
           "reference_id": 2855,
           "content_id": 3687,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Arabah",
           "language": "eng"
         },
         {
           "reference_id": 3803,
           "content_id": 4635,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conquest and Allotment of the Land",
           "language": "eng"
         },
         {
           "reference_id": 6508,
           "content_id": 7340,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Negeb, Negev",
           "language": "eng"
         },
         {
           "reference_id": 5607,
           "content_id": 6439,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jordan River",
           "language": "eng"
         },
         {
           "reference_id": 3947,
           "content_id": 4779,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dead Sea",
           "language": "eng"
         },
         {
           "reference_id": 3958,
           "content_id": 4790,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Decapolis",
           "language": "eng"
         },
         {
           "reference_id": 7533,
           "content_id": 8365,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shephelah",
           "language": "eng"
         },
         {
           "reference_id": 8082,
           "content_id": 8914,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Transjordan",
           "language": "eng"
         },
         {
           "reference_id": 7353,
           "content_id": 8185,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sea of Galilee",
           "language": "eng"
         }

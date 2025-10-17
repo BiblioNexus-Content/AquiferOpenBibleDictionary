@@ -860,12 +860,14 @@
         {
           "reference_id": 3716,
           "content_id": 785171,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christologie",
           "language": "fra"
         },
         {
           "reference_id": 6466,
           "content_id": 800722,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Signification des noms dans la Bible",
           "language": "fra"
         }

@@ -38,12 +38,14 @@
         {
           "reference_id": 3515,
           "content_id": 4347,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Brook of Egypt",
           "language": "eng"
         },
         {
           "reference_id": 6572,
           "content_id": 7404,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nile River",
           "language": "eng"
         }

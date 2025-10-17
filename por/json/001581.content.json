@@ -38,18 +38,21 @@
         {
           "reference_id": 2531,
           "content_id": 481506,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Pessoa)",
           "language": "por"
         },
         {
           "reference_id": 3951,
           "content_id": 161801,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Morte",
           "language": "por"
         },
         {
           "reference_id": 7691,
           "content_id": 125334,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pecado",
           "language": "por"
         }

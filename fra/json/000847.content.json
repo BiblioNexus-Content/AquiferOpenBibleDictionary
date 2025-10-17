@@ -32,12 +32,14 @@
         {
           "reference_id": 3625,
           "content_id": 390328,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dénombrement, recensement",
           "language": "fra"
         },
         {
           "reference_id": 3719,
           "content_id": 713624,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronologie de la Bible (Nouveau Testament)",
           "language": "fra"
         }

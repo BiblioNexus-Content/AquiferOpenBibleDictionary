@@ -272,12 +272,14 @@
         {
           "reference_id": 3424,
           "content_id": 27235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’évêque",
           "language": "fra"
         },
         {
           "reference_id": 4143,
           "content_id": 27241,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Un ancien",
           "language": "fra"
         }

@@ -92,12 +92,14 @@
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 5292,
           "content_id": 6124,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Izhar",
           "language": "eng"
         }

@@ -110,12 +110,14 @@
         {
           "reference_id": 4574,
           "content_id": 161812,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Geena*",
           "language": "por"
         },
         {
           "reference_id": 5856,
           "content_id": 816001,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Juízo final",
           "language": "por"
         }

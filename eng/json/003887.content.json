@@ -13,54 +13,63 @@
         {
           "reference_id": 3424,
           "content_id": 4256,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bishop",
           "language": "eng"
         },
         {
           "reference_id": 3457,
           "content_id": 4289,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Body of Christ",
           "language": "eng"
         },
         {
           "reference_id": 3944,
           "content_id": 4776,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Deacon, Deaconess",
           "language": "eng"
         },
         {
           "reference_id": 4143,
           "content_id": 4975,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Elder",
           "language": "eng"
         },
         {
           "reference_id": 6680,
           "content_id": 7512,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ordain, Ordination",
           "language": "eng"
         },
         {
           "reference_id": 3727,
           "content_id": 4559,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Church",
           "language": "eng"
         },
         {
           "reference_id": 6978,
           "content_id": 7810,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Presbyter",
           "language": "eng"
         },
         {
           "reference_id": 6983,
           "content_id": 7815,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Priesthood",
           "language": "eng"
         },
         {
           "reference_id": 7776,
           "content_id": 8608,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Spiritual Gifts",
           "language": "eng"
         }

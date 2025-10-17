@@ -176,12 +176,14 @@
         {
           "reference_id": 8024,
           "content_id": 717320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "TIMOTÉO, Segunda Carta a",
           "language": "por"
         },
         {
           "reference_id": 8040,
           "content_id": 124410,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tito, Carta A",
           "language": "por"
         }

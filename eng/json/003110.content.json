@@ -13,18 +13,21 @@
         {
           "reference_id": 6333,
           "content_id": 7165,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mishnah",
           "language": "eng"
         },
         {
           "reference_id": 7892,
           "content_id": 8724,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "eng"
         },
         {
           "reference_id": 7910,
           "content_id": 8742,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Targum",
           "language": "eng"
         }

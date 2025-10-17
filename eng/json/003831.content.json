@@ -884,42 +884,49 @@
         {
           "reference_id": 3035,
           "content_id": 3867,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Atonement",
           "language": "eng"
         },
         {
           "reference_id": 3494,
           "content_id": 4326,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Branch",
           "language": "eng"
         },
         {
           "reference_id": 7739,
           "content_id": 8571,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Son of God",
           "language": "eng"
         },
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 3716,
           "content_id": 4548,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christology",
           "language": "eng"
         },
         {
           "reference_id": 7137,
           "content_id": 7969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Redeemer, Redemption",
           "language": "eng"
         },
         {
           "reference_id": 7740,
           "content_id": 8572,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Son of Man",
           "language": "eng"
         }

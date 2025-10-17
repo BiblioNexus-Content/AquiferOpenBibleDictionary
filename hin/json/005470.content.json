@@ -254,24 +254,28 @@
         {
           "reference_id": 4726,
           "content_id": 648782,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "हबक्कूक (व्यक्ति)",
           "language": "hin"
         },
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         },
         {
           "reference_id": 6998,
           "content_id": 180534,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भविष्यवाणी",
           "language": "hin"
         },
         {
           "reference_id": 6999,
           "content_id": 184994,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भविष्यद्वक्ता, भविष्यद्वक्तिन",
           "language": "hin"
         }

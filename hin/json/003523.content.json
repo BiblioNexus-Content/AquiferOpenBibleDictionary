@@ -1268,24 +1268,28 @@
         {
           "reference_id": 5961,
           "content_id": 381136,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "लूका का सुसमाचार",
           "language": "hin"
         },
         {
           "reference_id": 6118,
           "content_id": 180506,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मरकुस का सुसमाचार",
           "language": "hin"
         },
         {
           "reference_id": 6157,
           "content_id": 180508,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मत्ती (व्यक्ति)",
           "language": "hin"
         },
         {
           "reference_id": 7849,
           "content_id": 180556,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "समदर्शी सुसमाचार",
           "language": "hin"
         }

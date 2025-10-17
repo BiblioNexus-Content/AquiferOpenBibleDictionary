@@ -26,12 +26,14 @@
         {
           "reference_id": 2779,
           "content_id": 3611,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Angel",
           "language": "eng"
         },
         {
           "reference_id": 3678,
           "content_id": 4510,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cherub, Cherubim",
           "language": "eng"
         }

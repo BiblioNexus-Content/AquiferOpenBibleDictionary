@@ -452,24 +452,28 @@
         {
           "reference_id": 2523,
           "content_id": 3355,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of the Acts of the Apostles",
           "language": "eng"
         },
         {
           "reference_id": 2838,
           "content_id": 3670,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apostle, Apostleship",
           "language": "eng"
         },
         {
           "reference_id": 3782,
           "content_id": 4614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Colossae, Colosse",
           "language": "eng"
         },
         {
           "reference_id": 6782,
           "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paul, the Apostle",
           "language": "eng"
         }

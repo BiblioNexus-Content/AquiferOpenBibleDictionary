@@ -62,12 +62,14 @@
         {
           "reference_id": 4785,
           "content_id": 5617,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hamath",
           "language": "eng"
         },
         {
           "reference_id": 5877,
           "content_id": 6709,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lebo-Hamath",
           "language": "eng"
         }
