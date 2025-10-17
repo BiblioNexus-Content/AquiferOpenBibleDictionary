@@ -134,12 +134,14 @@
         {
           "reference_id": 3009,
           "content_id": 481510,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Assíria, assírios",
           "language": "por"
         },
         {
           "reference_id": 4794,
           "content_id": 717061,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hamurabi, Código de leis de",
           "language": "por"
         }

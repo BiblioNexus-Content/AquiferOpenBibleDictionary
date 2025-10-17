@@ -68,12 +68,14 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "Unknown",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 5025,
           "content_id": 5857,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hippopotamus",
           "language": "eng"
         }

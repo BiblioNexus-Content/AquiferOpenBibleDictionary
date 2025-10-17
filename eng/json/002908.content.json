@@ -386,30 +386,35 @@
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 4582,
           "content_id": 5414,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genesis, Book of",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 6778,
           "content_id": 7610,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Patriarchs, Period of the",
           "language": "eng"
         },
         {
           "reference_id": 6607,
           "content_id": 7439,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nuzi, Nuzi Tablets",
           "language": "eng"
         }

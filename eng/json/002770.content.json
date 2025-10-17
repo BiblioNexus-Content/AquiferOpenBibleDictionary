@@ -13,12 +13,14 @@
         {
           "reference_id": 4028,
           "content_id": 4860,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Disease",
           "language": "eng"
         },
         {
           "reference_id": 6179,
           "content_id": 7011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Medicine and Medical Practice",
           "language": "eng"
         }

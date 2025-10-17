@@ -80,12 +80,14 @@
         {
           "reference_id": 6482,
           "content_id": 7314,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nations",
           "language": "eng"
         },
         {
           "reference_id": 6581,
           "content_id": 7413,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Noah",
           "language": "eng"
         }

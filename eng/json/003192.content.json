@@ -26,12 +26,14 @@
         {
           "reference_id": 3180,
           "content_id": 4012,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barnabas",
           "language": "eng"
         },
         {
           "reference_id": 5617,
           "content_id": 6449,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joseph",
           "language": "eng"
         }

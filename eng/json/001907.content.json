@@ -206,18 +206,21 @@
         {
           "reference_id": 5914,
           "content_id": 6746,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Life",
           "language": "eng"
         },
         {
           "reference_id": 6548,
           "content_id": 7380,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "New Creation, New Creature",
           "language": "eng"
         },
         {
           "reference_id": 7147,
           "content_id": 7979,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Regeneration",
           "language": "eng"
         }

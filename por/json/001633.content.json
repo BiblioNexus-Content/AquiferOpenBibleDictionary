@@ -152,18 +152,21 @@
         {
           "reference_id": 4416,
           "content_id": 125259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Festas E Festivais De Israel",
           "language": "por"
         },
         {
           "reference_id": 4454,
           "content_id": 125261,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Comida E Preparação De Alimentos",
           "language": "por"
         },
         {
           "reference_id": 5947,
           "content_id": 161840,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ceia Do Senhor, A",
           "language": "por"
         }

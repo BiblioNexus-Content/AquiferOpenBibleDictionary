@@ -26,12 +26,14 @@
         {
           "reference_id": 5664,
           "content_id": 6496,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Judith",
           "language": "eng"
         },
         {
           "reference_id": 6637,
           "content_id": 7469,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Oholibamah",
           "language": "eng"
         }

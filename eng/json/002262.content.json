@@ -1268,30 +1268,35 @@
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 5961,
           "content_id": 6793,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Luke, Gospel of",
           "language": "eng"
         },
         {
           "reference_id": 6118,
           "content_id": 6950,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mark, Gospel of",
           "language": "eng"
         },
         {
           "reference_id": 7849,
           "content_id": 8681,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Synoptic Gospels",
           "language": "eng"
         },
         {
           "reference_id": 6157,
           "content_id": 6989,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Matthew (Person)",
           "language": "eng"
         }

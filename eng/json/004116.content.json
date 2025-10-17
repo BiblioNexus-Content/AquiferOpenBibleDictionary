@@ -230,42 +230,49 @@
         {
           "reference_id": 3787,
           "content_id": 4619,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Commandment, the New",
           "language": "eng"
         },
         {
           "reference_id": 3841,
           "content_id": 4673,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "The New Covenant",
           "language": "eng"
         },
         {
           "reference_id": 5500,
           "content_id": 6332,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jerusalem, New",
           "language": "eng"
         },
         {
           "reference_id": 6096,
           "content_id": 6928,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Man, Old and New",
           "language": "eng"
         },
         {
           "reference_id": 6548,
           "content_id": 7380,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "New Creation, New Creature",
           "language": "eng"
         },
         {
           "reference_id": 6550,
           "content_id": 7382,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "New Heavens and New Earth",
           "language": "eng"
         },
         {
           "reference_id": 7147,
           "content_id": 7979,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Regeneration",
           "language": "eng"
         }

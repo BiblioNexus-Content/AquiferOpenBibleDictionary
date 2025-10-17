@@ -32,12 +32,14 @@
         {
           "reference_id": 2469,
           "content_id": 3301,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abijah",
           "language": "eng"
         },
         {
           "reference_id": 2470,
           "content_id": 3302,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abijam",
           "language": "eng"
         }

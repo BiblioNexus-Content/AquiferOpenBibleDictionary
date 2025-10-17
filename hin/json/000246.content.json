@@ -284,18 +284,21 @@
         {
           "reference_id": 3397,
           "content_id": 732659,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल के संस्करण (प्राचीन)",
           "language": "hin"
         },
         {
           "reference_id": 4310,
           "content_id": 732973,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "एस्ड्रास की दूसरी पुस्तक",
           "language": "hin"
         },
         {
           "reference_id": 4659,
           "content_id": 647173,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गूढ़ज्ञानवाद",
           "language": "hin"
         }

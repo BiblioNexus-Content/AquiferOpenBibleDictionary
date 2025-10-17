@@ -13,24 +13,28 @@
         {
           "reference_id": 2540,
           "content_id": 3372,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adder",
           "language": "eng"
         },
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 7409,
           "content_id": 8241,
+          "resource_code": "Unknown",
           "label": "Serpent",
           "language": "eng"
         },
         {
           "reference_id": 2998,
           "content_id": 3830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Asp",
           "language": "eng"
         }

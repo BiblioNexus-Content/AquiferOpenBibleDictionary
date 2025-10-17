@@ -140,24 +140,28 @@
         {
           "reference_id": 2531,
           "content_id": 695282,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Personne)",
           "language": "fra"
         },
         {
           "reference_id": 3716,
           "content_id": 785171,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christologie",
           "language": "fra"
         },
         {
           "reference_id": 7691,
           "content_id": 341296,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Péché",
           "language": "fra"
         },
         {
           "reference_id": 4399,
           "content_id": 788767,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chute de l'humanité",
           "language": "fra"
         }

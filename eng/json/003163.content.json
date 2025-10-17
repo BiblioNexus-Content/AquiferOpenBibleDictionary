@@ -32,12 +32,14 @@
         {
           "reference_id": 5591,
           "content_id": 6423,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jokneam",
           "language": "eng"
         },
         {
           "reference_id": 5742,
           "content_id": 6574,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Kibzaim",
           "language": "eng"
         }

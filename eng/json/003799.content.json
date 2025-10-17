@@ -140,12 +140,14 @@
         {
           "reference_id": 5902,
           "content_id": 6734,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tribe of Levi",
           "language": "eng"
         },
         {
           "reference_id": 6984,
           "content_id": 7816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Priests and Levites",
           "language": "eng"
         }

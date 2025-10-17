@@ -356,12 +356,14 @@
         {
           "reference_id": 3755,
           "content_id": 4587,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cleanness and Uncleanness, Regulations Concerning",
           "language": "eng"
         },
         {
           "reference_id": 5901,
           "content_id": 6733,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leviticus, Book of",
           "language": "eng"
         }

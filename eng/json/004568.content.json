@@ -116,24 +116,28 @@
         {
           "reference_id": 2798,
           "content_id": 3630,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Antichrist",
           "language": "eng"
         },
         {
           "reference_id": 4401,
           "content_id": 5233,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "False Christs, False Messiahs",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         },
         {
           "reference_id": 6998,
           "content_id": 7830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophecy",
           "language": "eng"
         }

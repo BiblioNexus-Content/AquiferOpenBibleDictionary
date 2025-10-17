@@ -218,18 +218,21 @@
         {
           "reference_id": 3158,
           "content_id": 716926,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Banqueiro, Bancário",
           "language": "por"
         },
         {
           "reference_id": 6362,
           "content_id": 683037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dinheiro",
           "language": "por"
         },
         {
           "reference_id": 7920,
           "content_id": 125341,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cobrador De Impostos",
           "language": "por"
         }

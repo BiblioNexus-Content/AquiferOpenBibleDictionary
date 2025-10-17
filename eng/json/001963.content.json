@@ -92,18 +92,21 @@
         {
           "reference_id": 4390,
           "content_id": 5222,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Ezra",
           "language": "eng"
         },
         {
           "reference_id": 4392,
           "content_id": 5224,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ezrah",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         }

@@ -26,18 +26,21 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "Unknown",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 4063,
           "content_id": 4895,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dragon",
           "language": "eng"
         },
         {
           "reference_id": 5896,
           "content_id": 6728,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leviathan",
           "language": "eng"
         }

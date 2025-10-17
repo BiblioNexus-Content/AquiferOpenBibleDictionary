@@ -608,18 +608,21 @@
         {
           "reference_id": 4362,
           "content_id": 481532,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "EVA",
           "language": "por"
         },
         {
           "reference_id": 6096,
           "content_id": 481557,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homem, Velho e novo",
           "language": "por"
         },
         {
           "reference_id": 6548,
           "content_id": 481563,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nova criação, Nova criatura",
           "language": "por"
         }

@@ -74,48 +74,56 @@
         {
           "reference_id": 4328,
           "content_id": 5160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Essenes",
           "language": "eng"
         },
         {
           "reference_id": 5535,
           "content_id": 6367,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jew",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 7259,
           "content_id": 8091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sadducees",
           "language": "eng"
         },
         {
           "reference_id": 8065,
           "content_id": 8897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torah",
           "language": "eng"
         },
         {
           "reference_id": 7892,
           "content_id": 8724,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "eng"
         },
         {
           "reference_id": 8077,
           "content_id": 8909,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition, Oral",
           "language": "eng"
         },
         {
           "reference_id": 8078,
           "content_id": 8910,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition",
           "language": "eng"
         }

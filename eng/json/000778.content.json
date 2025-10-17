@@ -176,24 +176,28 @@
         {
           "reference_id": 2798,
           "content_id": 3630,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Antichrist",
           "language": "eng"
         },
         {
           "reference_id": 2915,
           "content_id": 3747,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Armageddon",
           "language": "eng"
         },
         {
           "reference_id": 6120,
           "content_id": 6952,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mark of God, Mark of the Beast",
           "language": "eng"
         },
         {
           "reference_id": 7187,
           "content_id": 8019,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Revelation, Book of",
           "language": "eng"
         }

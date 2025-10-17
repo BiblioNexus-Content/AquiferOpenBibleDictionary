@@ -446,30 +446,35 @@
         {
           "reference_id": 3180,
           "content_id": 815891,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barnabé",
           "language": "por"
         },
         {
           "reference_id": 3520,
           "content_id": 125242,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Irmãos De Jesus*",
           "language": "por"
         },
         {
           "reference_id": 6778,
           "content_id": 481566,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Patriarcas, Período dos",
           "language": "por"
         },
         {
           "reference_id": 4580,
           "content_id": 682940,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogia de Jesus Cristo",
           "language": "por"
         },
         {
           "reference_id": 5260,
           "content_id": 682974,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Israel, História de",
           "language": "por"
         }

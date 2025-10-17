@@ -26,12 +26,14 @@
         {
           "reference_id": 2540,
           "content_id": 3372,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adder",
           "language": "eng"
         },
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         }

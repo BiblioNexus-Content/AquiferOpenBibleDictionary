@@ -32,12 +32,14 @@
         {
           "reference_id": 7751,
           "content_id": 8583,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sore",
           "language": "eng"
         },
         {
           "reference_id": 8110,
           "content_id": 8942,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tumor",
           "language": "eng"
         }

@@ -38,24 +38,28 @@
         {
           "reference_id": 3951,
           "content_id": 4783,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Death",
           "language": "eng"
         },
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         },
         {
           "reference_id": 4399,
           "content_id": 5231,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fall of Man",
           "language": "eng"
         },
         {
           "reference_id": 5856,
           "content_id": 6688,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Judgment",
           "language": "eng"
         }

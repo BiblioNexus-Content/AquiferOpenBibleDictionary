@@ -20,12 +20,14 @@
         {
           "reference_id": 3779,
           "content_id": 4611,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Coins",
           "language": "eng"
         },
         {
           "reference_id": 8219,
           "content_id": 9051,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Weights and Measures",
           "language": "eng"
         }

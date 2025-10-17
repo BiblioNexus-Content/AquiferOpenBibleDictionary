@@ -140,12 +140,14 @@
         {
           "reference_id": 3867,
           "content_id": 716983,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Coroa",
           "language": "por"
         },
         {
           "reference_id": 5663,
           "content_id": 481551,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Julgamento",
           "language": "por"
         }

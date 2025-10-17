@@ -20,12 +20,14 @@
         {
           "reference_id": 3719,
           "content_id": 184885,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल का कालक्रम (नया नियम)",
           "language": "hin"
         },
         {
           "reference_id": 5196,
           "content_id": 381110,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "शिलालेख",
           "language": "hin"
         }

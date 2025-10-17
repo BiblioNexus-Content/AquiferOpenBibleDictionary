@@ -44,12 +44,14 @@
         {
           "reference_id": 3803,
           "content_id": 4635,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conquest and Allotment of the Land",
           "language": "eng"
         },
         {
           "reference_id": 5626,
           "content_id": 6458,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joshua, Book of",
           "language": "eng"
         }

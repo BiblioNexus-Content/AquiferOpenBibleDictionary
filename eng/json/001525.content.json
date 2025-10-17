@@ -200,18 +200,21 @@
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         },
         {
           "reference_id": 5855,
           "content_id": 6687,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Days",
           "language": "eng"
         },
         {
           "reference_id": 5856,
           "content_id": 6688,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Judgment",
           "language": "eng"
         }

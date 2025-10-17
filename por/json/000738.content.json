@@ -32,12 +32,14 @@
         {
           "reference_id": 6889,
           "content_id": 816055,
+          "resource_code": "Unknown",
           "label": "Fenícia, Fenícios",
           "language": "por"
         },
         {
           "reference_id": 6890,
           "content_id": 816056,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fênix",
           "language": "por"
         }

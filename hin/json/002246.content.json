@@ -68,24 +68,28 @@
         {
           "reference_id": 2913,
           "content_id": 381319,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "वाचा का सन्दूक",
           "language": "hin"
         },
         {
           "reference_id": 7001,
           "content_id": 647210,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रायश्चित",
           "language": "hin"
         },
         {
           "reference_id": 7950,
           "content_id": 185021,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मन्दिर",
           "language": "hin"
         },
         {
           "reference_id": 7864,
           "content_id": 381884,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "तम्बू",
           "language": "hin"
         }

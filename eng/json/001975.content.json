@@ -800,30 +800,35 @@
         {
           "reference_id": 4114,
           "content_id": 4946,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Education",
           "language": "eng"
         },
         {
           "reference_id": 6123,
           "content_id": 6955,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Marriage, Marriage Customs",
           "language": "eng"
         },
         {
           "reference_id": 7418,
           "content_id": 8250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sex, Sexuality",
           "language": "eng"
         },
         {
           "reference_id": 8229,
           "content_id": 9061,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Widow",
           "language": "eng"
         },
         {
           "reference_id": 8254,
           "content_id": 9086,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Woman",
           "language": "eng"
         }

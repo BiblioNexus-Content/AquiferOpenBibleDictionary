@@ -110,24 +110,28 @@
         {
           "reference_id": 3264,
           "content_id": 4096,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bema",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 7370,
           "content_id": 8202,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Second Coming of Christ",
           "language": "eng"
         },
         {
           "reference_id": 5856,
           "content_id": 6688,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Judgment",
           "language": "eng"
         }

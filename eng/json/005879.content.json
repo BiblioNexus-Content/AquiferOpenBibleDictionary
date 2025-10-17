@@ -38,12 +38,14 @@
         {
           "reference_id": 5583,
           "content_id": 6415,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John the Baptist",
           "language": "eng"
         },
         {
           "reference_id": 8335,
           "content_id": 9167,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Zechariah (Person)",
           "language": "eng"
         }

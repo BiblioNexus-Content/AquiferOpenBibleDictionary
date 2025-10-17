@@ -38,12 +38,14 @@
         {
           "reference_id": 3548,
           "content_id": 4380,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "The Caesars",
           "language": "eng"
         },
         {
           "reference_id": 7230,
           "content_id": 8062,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rome, City of",
           "language": "eng"
         }

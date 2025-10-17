@@ -38,18 +38,21 @@
         {
           "reference_id": 3035,
           "content_id": 3867,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Atonement",
           "language": "eng"
         },
         {
           "reference_id": 4377,
           "content_id": 5209,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Expiation",
           "language": "eng"
         },
         {
           "reference_id": 8263,
           "content_id": 9095,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wrath of God",
           "language": "eng"
         }

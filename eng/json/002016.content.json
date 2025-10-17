@@ -26,12 +26,14 @@
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         },
         {
           "reference_id": 7764,
           "content_id": 8596,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Spelt",
           "language": "eng"
         }

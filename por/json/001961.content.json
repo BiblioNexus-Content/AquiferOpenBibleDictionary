@@ -800,30 +800,35 @@
         {
           "reference_id": 4114,
           "content_id": 125257,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Educação",
           "language": "por"
         },
         {
           "reference_id": 6123,
           "content_id": 161843,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Casamento, Costumes matrimoniais",
           "language": "por"
         },
         {
           "reference_id": 7418,
           "content_id": 481579,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sexo, Sexualidade",
           "language": "por"
         },
         {
           "reference_id": 8254,
           "content_id": 481592,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mulher",
           "language": "por"
         },
         {
           "reference_id": 8229,
           "content_id": 760049,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Viúva",
           "language": "por"
         }

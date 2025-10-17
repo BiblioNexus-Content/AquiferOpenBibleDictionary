@@ -362,12 +362,14 @@
         {
           "reference_id": 3171,
           "content_id": 788703,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barbare",
           "language": "fra"
         },
         {
           "reference_id": 6518,
           "content_id": 662309,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "prochain",
           "language": "fra"
         }

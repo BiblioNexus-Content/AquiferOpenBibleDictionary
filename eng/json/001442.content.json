@@ -20,24 +20,28 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "Unknown",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 3243,
           "content_id": 4075,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Beetle",
           "language": "eng"
         },
         {
           "reference_id": 4695,
           "content_id": 5527,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Grasshopper",
           "language": "eng"
         },
         {
           "reference_id": 5934,
           "content_id": 6766,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Locusts",
           "language": "eng"
         }

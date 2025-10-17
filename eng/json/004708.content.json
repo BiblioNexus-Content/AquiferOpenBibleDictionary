@@ -116,12 +116,14 @@
         {
           "reference_id": 4374,
           "content_id": 5206,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Exodus",
           "language": "eng"
         },
         {
           "reference_id": 4375,
           "content_id": 5207,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Exodus, the",
           "language": "eng"
         }

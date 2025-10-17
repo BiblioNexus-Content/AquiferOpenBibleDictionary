@@ -218,12 +218,14 @@
         {
           "reference_id": 3852,
           "content_id": 4684,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Creation Myths",
           "language": "eng"
         },
         {
           "reference_id": 4665,
           "content_id": 5497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Being and Attributes of",
           "language": "eng"
         }

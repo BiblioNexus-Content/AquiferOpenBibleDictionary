@@ -200,18 +200,21 @@
         {
           "reference_id": 4308,
           "content_id": 815952,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Escatologia",
           "language": "por"
         },
         {
           "reference_id": 5855,
           "content_id": 816000,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Últimos dias",
           "language": "por"
         },
         {
           "reference_id": 5856,
           "content_id": 816001,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Juízo final",
           "language": "por"
         }

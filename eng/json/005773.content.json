@@ -92,24 +92,28 @@
         {
           "reference_id": 3716,
           "content_id": 4548,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christology",
           "language": "eng"
         },
         {
           "reference_id": 5184,
           "content_id": 6016,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Incarnation",
           "language": "eng"
         },
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 8186,
           "content_id": 9018,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Virgin",
           "language": "eng"
         }

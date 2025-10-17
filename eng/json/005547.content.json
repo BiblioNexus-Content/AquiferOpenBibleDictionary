@@ -32,12 +32,14 @@
         {
           "reference_id": 7912,
           "content_id": 8744,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tarshish (Person)",
           "language": "eng"
         },
         {
           "reference_id": 7913,
           "content_id": 8745,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tarshish (Place)",
           "language": "eng"
         }

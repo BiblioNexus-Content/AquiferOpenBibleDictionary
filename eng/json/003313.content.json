@@ -20,12 +20,14 @@
         {
           "reference_id": 2524,
           "content_id": 3356,
+          "resource_code": "Unknown",
           "label": "Aczib",
           "language": "eng"
         },
         {
           "reference_id": 3685,
           "content_id": 4517,
+          "resource_code": "Unknown",
           "label": "Chezib",
           "language": "eng"
         }

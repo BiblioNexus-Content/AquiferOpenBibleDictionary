@@ -26,12 +26,14 @@
         {
           "reference_id": 5196,
           "content_id": 6028,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inscriptions",
           "language": "eng"
         },
         {
           "reference_id": 6352,
           "content_id": 7184,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moab, Moabites",
           "language": "eng"
         }

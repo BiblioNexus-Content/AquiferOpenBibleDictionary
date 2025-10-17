@@ -362,12 +362,14 @@
         {
           "reference_id": 3399,
           "content_id": 759675,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bíblia",
           "language": "por"
         },
         {
           "reference_id": 7188,
           "content_id": 759964,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Revelação",
           "language": "por"
         }

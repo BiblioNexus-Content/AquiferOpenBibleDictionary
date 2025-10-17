@@ -20,12 +20,14 @@
         {
           "reference_id": 3105,
           "content_id": 3937,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baal (Idol)",
           "language": "eng"
         },
         {
           "reference_id": 4667,
           "content_id": 5499,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Names of",
           "language": "eng"
         }

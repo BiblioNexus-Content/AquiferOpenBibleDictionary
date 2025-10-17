@@ -644,30 +644,35 @@
         {
           "reference_id": 3449,
           "content_id": 759677,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gabar-se",
           "language": "por"
         },
         {
           "reference_id": 4665,
           "content_id": 124386,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Deus, Ser E Atributos De",
           "language": "por"
         },
         {
           "reference_id": 8211,
           "content_id": 125349,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Riqueza",
           "language": "por"
         },
         {
           "reference_id": 6905,
           "content_id": 161857,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pilar De Fogo E Nuvem",
           "language": "por"
         },
         {
           "reference_id": 7500,
           "content_id": 658733,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shekinah",
           "language": "por"
         }

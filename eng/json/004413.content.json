@@ -308,12 +308,14 @@
         {
           "reference_id": 3006,
           "content_id": 3838,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Assurance",
           "language": "eng"
         },
         {
           "reference_id": 3131,
           "content_id": 3963,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Backsliding",
           "language": "eng"
         }

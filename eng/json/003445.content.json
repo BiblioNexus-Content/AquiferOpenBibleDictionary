@@ -134,24 +134,28 @@
         {
           "reference_id": 3498,
           "content_id": 4330,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bread",
           "language": "eng"
         },
         {
           "reference_id": 4416,
           "content_id": 5248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Feasts and Festivals of Israel",
           "language": "eng"
         },
         {
           "reference_id": 4454,
           "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Food and Food Preparation",
           "language": "eng"
         },
         {
           "reference_id": 8132,
           "content_id": 8964,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Unleavened Bread",
           "language": "eng"
         }

@@ -182,18 +182,21 @@
         {
           "reference_id": 4308,
           "content_id": 713633,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatologie",
           "language": "fra"
         },
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         },
         {
           "reference_id": 7986,
           "content_id": 785273,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Thessalonique",
           "language": "fra"
         }

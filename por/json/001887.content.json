@@ -596,12 +596,14 @@
         {
           "reference_id": 3520,
           "content_id": 125242,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Irmãos De Jesus*",
           "language": "por"
         },
         {
           "reference_id": 5370,
           "content_id": 125278,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tiago (Pessoa)",
           "language": "por"
         }

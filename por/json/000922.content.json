@@ -146,18 +146,21 @@
         {
           "reference_id": 5168,
           "content_id": 481547,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Imagem de Deus",
           "language": "por"
         },
         {
           "reference_id": 6092,
           "content_id": 481556,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homem, Natural",
           "language": "por"
         },
         {
           "reference_id": 6096,
           "content_id": 481557,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homem, Velho e novo",
           "language": "por"
         }

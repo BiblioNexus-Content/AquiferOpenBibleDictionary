@@ -200,18 +200,21 @@
         {
           "reference_id": 4308,
           "content_id": 713633,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatologie",
           "language": "fra"
         },
         {
           "reference_id": 5855,
           "content_id": 713653,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Derniers jours",
           "language": "fra"
         },
         {
           "reference_id": 5856,
           "content_id": 769266,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dernier Jugement",
           "language": "fra"
         }

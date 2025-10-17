@@ -140,12 +140,14 @@
         {
           "reference_id": 3867,
           "content_id": 4699,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Crown",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         }

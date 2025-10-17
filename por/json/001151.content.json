@@ -230,18 +230,21 @@
         {
           "reference_id": 3014,
           "content_id": 481511,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astronomia",
           "language": "por"
         },
         {
           "reference_id": 3559,
           "content_id": 716961,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Calendários, Antigos e modernos",
           "language": "por"
         },
         {
           "reference_id": 4416,
           "content_id": 125259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Festas E Festivais De Israel",
           "language": "por"
         }

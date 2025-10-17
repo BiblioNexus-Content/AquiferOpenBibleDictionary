@@ -314,18 +314,21 @@
         {
           "reference_id": 3678,
           "content_id": 381396,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "करूब, करूबों",
           "language": "hin"
         },
         {
           "reference_id": 7323,
           "content_id": 180541,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "शैतान",
           "language": "hin"
         },
         {
           "reference_id": 7403,
           "content_id": 733849,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "साराप, साराफिम",
           "language": "hin"
         }

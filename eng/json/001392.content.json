@@ -296,30 +296,35 @@
         {
           "reference_id": 4397,
           "content_id": 5229,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Faith",
           "language": "eng"
         },
         {
           "reference_id": 4691,
           "content_id": 5523,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Grace",
           "language": "eng"
         },
         {
           "reference_id": 7298,
           "content_id": 8130,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sanctification",
           "language": "eng"
         },
         {
           "reference_id": 7166,
           "content_id": 7998,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Repentance",
           "language": "eng"
         },
         {
           "reference_id": 5672,
           "content_id": 6504,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justification, Justified",
           "language": "eng"
         }

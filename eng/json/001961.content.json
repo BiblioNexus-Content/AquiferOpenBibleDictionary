@@ -62,12 +62,14 @@
         {
           "reference_id": 4375,
           "content_id": 5207,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Exodus, the",
           "language": "eng"
         },
         {
           "reference_id": 8231,
           "content_id": 9063,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness Wanderings",
           "language": "eng"
         }

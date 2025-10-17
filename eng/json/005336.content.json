@@ -13,12 +13,14 @@
         {
           "reference_id": 5185,
           "content_id": 6017,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Incense",
           "language": "eng"
         },
         {
           "reference_id": 6834,
           "content_id": 7666,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Perfume",
           "language": "eng"
         }

@@ -32,18 +32,21 @@
         {
           "reference_id": 3958,
           "content_id": 161802,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Decápolis*",
           "language": "por"
         },
         {
           "reference_id": 4503,
           "content_id": 161810,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gadara*, Gadarenos",
           "language": "por"
         },
         {
           "reference_id": 4644,
           "content_id": 161816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Girgaseus",
           "language": "por"
         }

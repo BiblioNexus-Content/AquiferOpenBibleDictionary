@@ -116,30 +116,35 @@
         {
           "reference_id": 3158,
           "content_id": 3990,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Banker, Banking",
           "language": "eng"
         },
         {
           "reference_id": 6362,
           "content_id": 7194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Money",
           "language": "eng"
         },
         {
           "reference_id": 6945,
           "content_id": 7777,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Poor, the",
           "language": "eng"
         },
         {
           "reference_id": 8258,
           "content_id": 9090,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Work",
           "language": "eng"
         },
         {
           "reference_id": 7202,
           "content_id": 8034,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Riches",
           "language": "eng"
         }

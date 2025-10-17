@@ -20,12 +20,14 @@
         {
           "reference_id": 3418,
           "content_id": 658615,
+          "resource_code": "Unknown",
           "label": "Pássaros",
           "language": "por"
         },
         {
           "reference_id": 4702,
           "content_id": 759780,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Corujão",
           "language": "por"
         }

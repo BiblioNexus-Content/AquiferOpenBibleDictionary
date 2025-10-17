@@ -566,18 +566,21 @@
         {
           "reference_id": 3165,
           "content_id": 3997,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baptism",
           "language": "eng"
         },
         {
           "reference_id": 3755,
           "content_id": 4587,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cleanness and Uncleanness, Regulations Concerning",
           "language": "eng"
         },
         {
           "reference_id": 8127,
           "content_id": 8959,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Uncircumcision",
           "language": "eng"
         }

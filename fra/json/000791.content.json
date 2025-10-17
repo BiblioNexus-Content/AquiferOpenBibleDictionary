@@ -32,12 +32,14 @@
         {
           "reference_id": 4293,
           "content_id": 785194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Épicuriens",
           "language": "fra"
         },
         {
           "reference_id": 7794,
           "content_id": 785265,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Stoïcisme, Stoïciens",
           "language": "fra"
         }

@@ -13,30 +13,35 @@
         {
           "reference_id": 2592,
           "content_id": 3424,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Agriculture",
           "language": "eng"
         },
         {
           "reference_id": 6308,
           "content_id": 7140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Millet",
           "language": "eng"
         },
         {
           "reference_id": 7764,
           "content_id": 8596,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Spelt",
           "language": "eng"
         },
         {
           "reference_id": 8223,
           "content_id": 9055,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wheat",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         }

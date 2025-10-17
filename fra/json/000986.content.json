@@ -32,18 +32,21 @@
         {
           "reference_id": 6864,
           "content_id": 602069,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisiens",
           "language": "fra"
         },
         {
           "reference_id": 8065,
           "content_id": 602077,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torah",
           "language": "fra"
         },
         {
           "reference_id": 8078,
           "content_id": 602078,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition",
           "language": "fra"
         }

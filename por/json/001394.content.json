@@ -1562,30 +1562,35 @@
         {
           "reference_id": 3035,
           "content_id": 716921,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Expiação",
           "language": "por"
         },
         {
           "reference_id": 3755,
           "content_id": 125246,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Purificação E Impureza, Regulamentos Sobre",
           "language": "por"
         },
         {
           "reference_id": 4416,
           "content_id": 125259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Festas E Festivais De Israel",
           "language": "por"
         },
         {
           "reference_id": 7864,
           "content_id": 481588,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tabernáculo",
           "language": "por"
         },
         {
           "reference_id": 7950,
           "content_id": 717312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Templo",
           "language": "por"
         }

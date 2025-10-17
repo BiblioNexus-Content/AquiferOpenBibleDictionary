@@ -44,12 +44,14 @@
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         },
         {
           "reference_id": 7984,
           "content_id": 785272,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Thessaloniciens, Première Lettre aux",
           "language": "fra"
         }

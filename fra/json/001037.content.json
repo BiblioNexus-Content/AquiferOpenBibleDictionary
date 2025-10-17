@@ -266,18 +266,21 @@
         {
           "reference_id": 3052,
           "content_id": 805977,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vengeur du Sang",
           "language": "fra"
         },
         {
           "reference_id": 3861,
           "content_id": 756943,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Droit pénal et sanctions",
           "language": "fra"
         },
         {
           "reference_id": 7302,
           "content_id": 390346,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sanhédrin",
           "language": "fra"
         }

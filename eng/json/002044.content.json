@@ -20,12 +20,14 @@
         {
           "reference_id": 2846,
           "content_id": 3678,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Appian Way",
           "language": "eng"
         },
         {
           "reference_id": 4467,
           "content_id": 5299,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Forum",
           "language": "eng"
         }

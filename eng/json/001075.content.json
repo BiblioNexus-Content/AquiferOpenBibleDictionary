@@ -13,12 +13,14 @@
         {
           "reference_id": 4403,
           "content_id": 5235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Family Life and Relations",
           "language": "eng"
         },
         {
           "reference_id": 4454,
           "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Food and Food Preparation",
           "language": "eng"
         }

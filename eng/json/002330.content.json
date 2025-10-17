@@ -13,12 +13,14 @@
         {
           "reference_id": 4772,
           "content_id": 5604,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Halakah",
           "language": "eng"
         },
         {
           "reference_id": 7892,
           "content_id": 8724,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "eng"
         }

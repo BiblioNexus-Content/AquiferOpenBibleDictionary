@@ -74,18 +74,21 @@
         {
           "reference_id": 5662,
           "content_id": 682991,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Trono do julgamento",
           "language": "por"
         },
         {
           "reference_id": 5663,
           "content_id": 481551,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Julgamento",
           "language": "por"
         },
         {
           "reference_id": 5856,
           "content_id": 816001,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Juízo final",
           "language": "por"
         }

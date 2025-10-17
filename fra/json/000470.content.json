@@ -128,18 +128,21 @@
         {
           "reference_id": 2531,
           "content_id": 695282,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Personne)",
           "language": "fra"
         },
         {
           "reference_id": 6092,
           "content_id": 788772,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homme Naturel (ou Animal)",
           "language": "fra"
         },
         {
           "reference_id": 6099,
           "content_id": 788774,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Être humain",
           "language": "fra"
         }

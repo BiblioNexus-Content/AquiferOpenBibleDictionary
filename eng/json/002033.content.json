@@ -362,12 +362,14 @@
         {
           "reference_id": 3171,
           "content_id": 4003,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barbarian",
           "language": "eng"
         },
         {
           "reference_id": 6518,
           "content_id": 7350,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Neighbor",
           "language": "eng"
         }

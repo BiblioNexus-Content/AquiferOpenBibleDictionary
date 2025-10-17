@@ -446,12 +446,14 @@
         {
           "reference_id": 6782,
           "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paul, the Apostle",
           "language": "eng"
         },
         {
           "reference_id": 6879,
           "content_id": 7711,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Philippi",
           "language": "eng"
         }

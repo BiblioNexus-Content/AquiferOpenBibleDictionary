@@ -488,24 +488,28 @@
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "tyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         },
         {
           "reference_id": 6955,
           "content_id": 649467,
+          "resource_code": "Unknown",
           "label": "निर्वासन उपरांत अवधि",
           "language": "hin"
         },
         {
           "reference_id": 6998,
           "content_id": 180534,
+          "resource_code": "Unknown",
           "label": "भविष्यवाणी",
           "language": "hin"
         },
         {
           "reference_id": 6999,
           "content_id": 184994,
+          "resource_code": "Unknown",
           "label": "भविष्यद्वक्ता, भविष्यद्वक्तिन",
           "language": "hin"
         }

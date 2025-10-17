@@ -86,24 +86,28 @@
         {
           "reference_id": 4028,
           "content_id": 4860,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Disease",
           "language": "eng"
         },
         {
           "reference_id": 4374,
           "content_id": 5206,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Exodus",
           "language": "eng"
         },
         {
           "reference_id": 6925,
           "content_id": 7757,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plagues upon Egypt",
           "language": "eng"
         },
         {
           "reference_id": 6845,
           "content_id": 7677,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pestilence",
           "language": "eng"
         }

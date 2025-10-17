@@ -644,18 +644,21 @@
         {
           "reference_id": 6905,
           "content_id": 662314,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "colonne de feu et colonne de nuée, Shekinah",
           "language": "fra"
         },
         {
           "reference_id": 8211,
           "content_id": 341305,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Richesse",
           "language": "fra"
         },
         {
           "reference_id": 7500,
           "content_id": 769284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shekinah",
           "language": "fra"
         }

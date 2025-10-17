@@ -506,18 +506,21 @@
         {
           "reference_id": 5563,
           "content_id": 6395,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Job (Person)",
           "language": "eng"
         },
         {
           "reference_id": 8242,
           "content_id": 9074,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wisdom Literature",
           "language": "eng"
         },
         {
           "reference_id": 8245,
           "content_id": 9077,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wisdom",
           "language": "eng"
         }

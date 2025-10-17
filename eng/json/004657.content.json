@@ -32,12 +32,14 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 7496,
           "content_id": 8328,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sheep",
           "language": "eng"
         }

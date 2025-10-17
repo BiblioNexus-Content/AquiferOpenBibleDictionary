@@ -284,24 +284,28 @@
         {
           "reference_id": 4122,
           "content_id": 4954,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Egypt, Egyptian",
           "language": "eng"
         },
         {
           "reference_id": 4374,
           "content_id": 5206,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Exodus",
           "language": "eng"
         },
         {
           "reference_id": 6926,
           "content_id": 7758,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plague",
           "language": "eng"
         },
         {
           "reference_id": 6383,
           "content_id": 7215,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moses",
           "language": "eng"
         }

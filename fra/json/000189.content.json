@@ -194,12 +194,14 @@
         {
           "reference_id": 4414,
           "content_id": 769255,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Peur",
           "language": "fra"
         },
         {
           "reference_id": 7002,
           "content_id": 769277,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prosélyte",
           "language": "fra"
         }

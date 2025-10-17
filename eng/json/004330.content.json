@@ -206,12 +206,14 @@
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         },
         {
           "reference_id": 7370,
           "content_id": 8202,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Second Coming of Christ",
           "language": "eng"
         }

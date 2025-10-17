@@ -122,12 +122,14 @@
         {
           "reference_id": 3842,
           "content_id": 800686,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alliance",
           "language": "fra"
         },
         {
           "reference_id": 6616,
           "content_id": 811858,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Serment",
           "language": "fra"
         }

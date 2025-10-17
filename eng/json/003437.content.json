@@ -13,30 +13,35 @@
         {
           "reference_id": 3842,
           "content_id": 4674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Covenant",
           "language": "eng"
         },
         {
           "reference_id": 3992,
           "content_id": 4824,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Deuteronomy, Book of",
           "language": "eng"
         },
         {
           "reference_id": 5901,
           "content_id": 6733,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leviticus, Book of",
           "language": "eng"
         },
         {
           "reference_id": 4374,
           "content_id": 5206,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Exodus",
           "language": "eng"
         },
         {
           "reference_id": 6383,
           "content_id": 7215,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moses",
           "language": "eng"
         }

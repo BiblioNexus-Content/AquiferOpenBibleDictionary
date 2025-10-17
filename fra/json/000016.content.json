@@ -614,24 +614,28 @@
         {
           "reference_id": 3719,
           "content_id": 713624,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronologie de la Bible (Nouveau Testament)",
           "language": "fra"
         },
         {
           "reference_id": 5962,
           "content_id": 785219,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Luc (Personne)",
           "language": "fra"
         },
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         },
         {
           "reference_id": 7983,
           "content_id": 713677,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Théophile",
           "language": "fra"
         }

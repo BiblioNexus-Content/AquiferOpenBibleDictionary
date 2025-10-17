@@ -128,12 +128,14 @@
         {
           "reference_id": 3954,
           "content_id": 716987,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cântico de Débora",
           "language": "por"
         },
         {
           "reference_id": 5658,
           "content_id": 682990,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Juízes, Livro de",
           "language": "por"
         }

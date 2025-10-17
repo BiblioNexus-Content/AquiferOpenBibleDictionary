@@ -140,12 +140,14 @@
         {
           "reference_id": 3867,
           "content_id": 184893,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मुकुट",
           "language": "hin"
         },
         {
           "reference_id": 5663,
           "content_id": 381620,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "न्याय",
           "language": "hin"
         }

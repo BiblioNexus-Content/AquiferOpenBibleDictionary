@@ -104,24 +104,28 @@
         {
           "reference_id": 4374,
           "content_id": 5206,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Exodus",
           "language": "eng"
         },
         {
           "reference_id": 4667,
           "content_id": 5499,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Names of",
           "language": "eng"
         },
         {
           "reference_id": 7982,
           "content_id": 8814,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Theophany",
           "language": "eng"
         },
         {
           "reference_id": 6383,
           "content_id": 7215,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moses",
           "language": "eng"
         }

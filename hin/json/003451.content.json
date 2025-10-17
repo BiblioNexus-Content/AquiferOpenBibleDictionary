@@ -62,24 +62,28 @@
         {
           "reference_id": 3720,
           "content_id": 381399,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल का घटनाक्रम (पुराना नियम)",
           "language": "hin"
         },
         {
           "reference_id": 3803,
           "content_id": 381043,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भूमि पर विजय और बटवारा",
           "language": "hin"
         },
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         },
         {
           "reference_id": 5626,
           "content_id": 381614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यहोशू की पुस्तक",
           "language": "hin"
         }

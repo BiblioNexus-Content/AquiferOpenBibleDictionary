@@ -1082,24 +1082,28 @@
         {
           "reference_id": 6935,
           "content_id": 658711,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Poesia, bíblica",
           "language": "por"
         },
         {
           "reference_id": 7730,
           "content_id": 760019,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salomão (pessoa)",
           "language": "por"
         },
         {
           "reference_id": 8245,
           "content_id": 717333,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sabedoria",
           "language": "por"
         },
         {
           "reference_id": 8242,
           "content_id": 806286,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Literatura de sabedoria",
           "language": "por"
         }

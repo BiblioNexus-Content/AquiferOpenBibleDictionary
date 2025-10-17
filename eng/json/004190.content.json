@@ -122,18 +122,21 @@
         {
           "reference_id": 2437,
           "content_id": 3269,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abda",
           "language": "eng"
         },
         {
           "reference_id": 6617,
           "content_id": 7449,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Obadiah, Book of",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         }

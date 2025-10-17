@@ -92,18 +92,21 @@
         {
           "reference_id": 4375,
           "content_id": 5207,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Exodus, the",
           "language": "eng"
         },
         {
           "reference_id": 6862,
           "content_id": 7694,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharaoh",
           "language": "eng"
         },
         {
           "reference_id": 6925,
           "content_id": 7757,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plagues upon Egypt",
           "language": "eng"
         }

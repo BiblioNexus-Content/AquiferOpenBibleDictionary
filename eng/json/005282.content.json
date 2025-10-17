@@ -80,12 +80,14 @@
         {
           "reference_id": 6313,
           "content_id": 7145,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Minerals and Metals",
           "language": "eng"
         },
         {
           "reference_id": 7796,
           "content_id": 8628,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Stones, Precious",
           "language": "eng"
         }

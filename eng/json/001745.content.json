@@ -74,12 +74,14 @@
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 5446,
           "content_id": 6278,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jehoiakim",
           "language": "eng"
         }

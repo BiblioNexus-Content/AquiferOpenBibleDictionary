@@ -26,12 +26,14 @@
         {
           "reference_id": 3554,
           "content_id": 4386,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Calamus",
           "language": "eng"
         },
         {
           "reference_id": 3577,
           "content_id": 4409,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cane, Sweet Cane",
           "language": "eng"
         }

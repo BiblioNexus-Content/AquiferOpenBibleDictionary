@@ -13,12 +13,14 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "Unknown",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         }

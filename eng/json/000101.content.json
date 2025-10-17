@@ -608,18 +608,21 @@
         {
           "reference_id": 4362,
           "content_id": 5194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eve",
           "language": "eng"
         },
         {
           "reference_id": 6096,
           "content_id": 6928,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Man, Old and New",
           "language": "eng"
         },
         {
           "reference_id": 6548,
           "content_id": 7380,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "New Creation, New Creature",
           "language": "eng"
         }

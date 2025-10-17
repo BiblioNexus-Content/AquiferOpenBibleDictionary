@@ -140,24 +140,28 @@
         {
           "reference_id": 2531,
           "content_id": 481506,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Pessoa)",
           "language": "por"
         },
         {
           "reference_id": 3716,
           "content_id": 815915,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cristologia",
           "language": "por"
         },
         {
           "reference_id": 7691,
           "content_id": 125334,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pecado",
           "language": "por"
         },
         {
           "reference_id": 4399,
           "content_id": 481533,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Queda do homem",
           "language": "por"
         }

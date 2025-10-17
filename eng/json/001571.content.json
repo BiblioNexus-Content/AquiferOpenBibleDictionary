@@ -428,12 +428,14 @@
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 6383,
           "content_id": 7215,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moses",
           "language": "eng"
         }

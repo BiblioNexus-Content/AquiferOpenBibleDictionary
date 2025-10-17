@@ -74,18 +74,21 @@
         {
           "reference_id": 2592,
           "content_id": 3424,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Agriculture",
           "language": "eng"
         },
         {
           "reference_id": 4416,
           "content_id": 5248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Feasts and Festivals of Israel",
           "language": "eng"
         },
         {
           "reference_id": 8182,
           "content_id": 9014,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vines, Vineyard",
           "language": "eng"
         }

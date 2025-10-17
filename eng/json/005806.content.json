@@ -86,12 +86,14 @@
         {
           "reference_id": 3735,
           "content_id": 4567,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cistern",
           "language": "eng"
         },
         {
           "reference_id": 5330,
           "content_id": 6162,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jacob’s Well",
           "language": "eng"
         }

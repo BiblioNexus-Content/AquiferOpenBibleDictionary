@@ -860,36 +860,42 @@
         {
           "reference_id": 3716,
           "content_id": 4548,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christology",
           "language": "eng"
         },
         {
           "reference_id": 4665,
           "content_id": 5497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Being and Attributes of",
           "language": "eng"
         },
         {
           "reference_id": 6259,
           "content_id": 7091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messiah",
           "language": "eng"
         },
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 5053,
           "content_id": 5885,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Holy Spirit",
           "language": "eng"
         },
         {
           "reference_id": 6466,
           "content_id": 7298,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Meaning of Names in the Bible",
           "language": "eng"
         }

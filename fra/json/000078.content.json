@@ -122,18 +122,21 @@
         {
           "reference_id": 3746,
           "content_id": 800684,
+          "resource_code": "tyndaleBibleDictionary",
           "label": "Ville",
           "language": "fra"
         },
         {
           "reference_id": 5057,
           "content_id": 341268,
+          "resource_code": "tyndaleBibleDictionary",
           "label": "Maisons et Habitations",
           "language": "fra"
         },
         {
           "reference_id": 7950,
           "content_id": 390351,
+          "resource_code": "tyndaleBibleDictionary",
           "label": "Temple",
           "language": "fra"
         }

@@ -13,12 +13,14 @@
         {
           "reference_id": 4366,
           "content_id": 5198,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Evil",
           "language": "eng"
         },
         {
           "reference_id": 7691,
           "content_id": 8523,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sin",
           "language": "eng"
         }

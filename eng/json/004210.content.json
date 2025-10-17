@@ -164,36 +164,42 @@
         {
           "reference_id": 2793,
           "content_id": 3625,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Anoint",
           "language": "eng"
         },
         {
           "reference_id": 4454,
           "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Food and Food Preparation",
           "language": "eng"
         },
         {
           "reference_id": 6179,
           "content_id": 7011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Medicine and Medical Practice",
           "language": "eng"
         },
         {
           "reference_id": 6641,
           "content_id": 7473,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ointment",
           "language": "eng"
         },
         {
           "reference_id": 6648,
           "content_id": 7480,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Olive, Olive Tree",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         }

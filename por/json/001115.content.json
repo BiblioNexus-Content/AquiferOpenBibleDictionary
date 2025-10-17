@@ -464,36 +464,42 @@
         {
           "reference_id": 2431,
           "content_id": 716881,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Arão",
           "language": "por"
         },
         {
           "reference_id": 6383,
           "content_id": 161847,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moisés",
           "language": "por"
         },
         {
           "reference_id": 6984,
           "content_id": 125319,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sacerdotes E Levitas",
           "language": "por"
         },
         {
           "reference_id": 7864,
           "content_id": 481588,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tabernáculo",
           "language": "por"
         },
         {
           "reference_id": 6630,
           "content_id": 658701,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ofertas e sacrifícios",
           "language": "por"
         },
         {
           "reference_id": 7950,
           "content_id": 717312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Templo",
           "language": "por"
         }

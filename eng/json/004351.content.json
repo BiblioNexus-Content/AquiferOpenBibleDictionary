@@ -116,36 +116,42 @@
         {
           "reference_id": 2488,
           "content_id": 3320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraham",
           "language": "eng"
         },
         {
           "reference_id": 3720,
           "content_id": 4552,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronology of the Bible (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 5331,
           "content_id": 6163,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jacob",
           "language": "eng"
         },
         {
           "reference_id": 5617,
           "content_id": 6449,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joseph",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 5226,
           "content_id": 6058,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Isaac",
           "language": "eng"
         }

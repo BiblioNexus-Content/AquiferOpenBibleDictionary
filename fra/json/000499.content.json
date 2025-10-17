@@ -596,12 +596,14 @@
         {
           "reference_id": 3520,
           "content_id": 341254,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Frères de Jésus",
           "language": "fra"
         },
         {
           "reference_id": 5370,
           "content_id": 27249,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jacques (Personne)",
           "language": "fra"
         }

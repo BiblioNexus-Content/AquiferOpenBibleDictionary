@@ -13,12 +13,14 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 5934,
           "content_id": 6766,
+          "resource_code": "Unknown",
           "label": "Locusts",
           "language": "eng"
         }

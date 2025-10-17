@@ -13,12 +13,14 @@
         {
           "reference_id": 3946,
           "content_id": 4778,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dead Sea Scrolls",
           "language": "eng"
         },
         {
           "reference_id": 4328,
           "content_id": 5160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Essenes",
           "language": "eng"
         }

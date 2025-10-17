@@ -812,78 +812,91 @@
         {
           "reference_id": 2953,
           "content_id": 3785,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ascension of Christ",
           "language": "eng"
         },
         {
           "reference_id": 3716,
           "content_id": 4548,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christology",
           "language": "eng"
         },
         {
           "reference_id": 5184,
           "content_id": 6016,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Incarnation",
           "language": "eng"
         },
         {
           "reference_id": 5522,
           "content_id": 6354,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 3717,
           "content_id": 4549,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christ",
           "language": "eng"
         },
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 5756,
           "content_id": 6588,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Kingdom of God, Kingdom of Heaven",
           "language": "eng"
         },
         {
           "reference_id": 6259,
           "content_id": 7091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messiah",
           "language": "eng"
         },
         {
           "reference_id": 6742,
           "content_id": 7574,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Parable",
           "language": "eng"
         },
         {
           "reference_id": 7739,
           "content_id": 8571,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Son of God",
           "language": "eng"
         },
         {
           "reference_id": 7328,
           "content_id": 8160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Savior",
           "language": "eng"
         },
         {
           "reference_id": 7740,
           "content_id": 8572,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Son of Man",
           "language": "eng"
         },
         {
           "reference_id": 8185,
           "content_id": 9017,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Virgin Birth of Jesus",
           "language": "eng"
         }

@@ -1046,18 +1046,21 @@
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 5763,
           "content_id": 6595,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "King",
           "language": "eng"
         },
         {
           "reference_id": 6742,
           "content_id": 7574,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Parable",
           "language": "eng"
         }

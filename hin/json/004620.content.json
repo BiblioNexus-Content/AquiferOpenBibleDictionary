@@ -464,36 +464,42 @@
         {
           "reference_id": 2431,
           "content_id": 578860,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "हारून",
           "language": "hin"
         },
         {
           "reference_id": 6383,
           "content_id": 184972,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मूसा",
           "language": "hin"
         },
         {
           "reference_id": 6984,
           "content_id": 180533,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "याजक और लेवी",
           "language": "hin"
         },
         {
           "reference_id": 7950,
           "content_id": 185021,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मन्दिर",
           "language": "hin"
         },
         {
           "reference_id": 6630,
           "content_id": 381743,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भेंट और बलिदान",
           "language": "hin"
         },
         {
           "reference_id": 7864,
           "content_id": 381884,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "तम्बू",
           "language": "hin"
         }

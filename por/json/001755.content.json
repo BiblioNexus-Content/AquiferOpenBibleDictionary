@@ -140,24 +140,28 @@
         {
           "reference_id": 2488,
           "content_id": 207146,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraão",
           "language": "por"
         },
         {
           "reference_id": 4580,
           "content_id": 682940,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogia de Jesus Cristo",
           "language": "por"
         },
         {
           "reference_id": 6482,
           "content_id": 125305,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nações",
           "language": "por"
         },
         {
           "reference_id": 6581,
           "content_id": 658697,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Noé",
           "language": "por"
         }

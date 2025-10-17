@@ -176,12 +176,14 @@
         {
           "reference_id": 5893,
           "content_id": 6725,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Letter Writing, Ancient",
           "language": "eng"
         },
         {
           "reference_id": 8265,
           "content_id": 9097,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Writing",
           "language": "eng"
         }

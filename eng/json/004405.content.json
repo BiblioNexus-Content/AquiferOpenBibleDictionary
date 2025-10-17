@@ -290,24 +290,28 @@
         {
           "reference_id": 3832,
           "content_id": 4664,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cosmetics",
           "language": "eng"
         },
         {
           "reference_id": 6640,
           "content_id": 7472,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Oil",
           "language": "eng"
         },
         {
           "reference_id": 6641,
           "content_id": 7473,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ointment",
           "language": "eng"
         },
         {
           "reference_id": 6833,
           "content_id": 7665,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Perfumer",
           "language": "eng"
         }

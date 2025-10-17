@@ -32,12 +32,14 @@
         {
           "reference_id": 4725,
           "content_id": 5557,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Habakkuk",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         }

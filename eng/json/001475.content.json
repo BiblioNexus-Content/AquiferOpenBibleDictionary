@@ -32,12 +32,14 @@
         {
           "reference_id": 6414,
           "content_id": 7246,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Musical Instruments",
           "language": "eng"
         },
         {
           "reference_id": 6416,
           "content_id": 7248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Music",
           "language": "eng"
         }

@@ -362,12 +362,14 @@
         {
           "reference_id": 3171,
           "content_id": 381006,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "जंगली",
           "language": "hin"
         },
         {
           "reference_id": 6518,
           "content_id": 184976,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "पड़ोसी",
           "language": "hin"
         }

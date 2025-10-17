@@ -68,12 +68,14 @@
         {
           "reference_id": 3920,
           "content_id": 4752,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dan (Place)",
           "language": "eng"
         },
         {
           "reference_id": 3921,
           "content_id": 4753,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dan, Tribe of",
           "language": "eng"
         }

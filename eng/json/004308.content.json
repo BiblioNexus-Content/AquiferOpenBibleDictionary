@@ -38,12 +38,14 @@
         {
           "reference_id": 3039,
           "content_id": 3871,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Attalia",
           "language": "eng"
         },
         {
           "reference_id": 6836,
           "content_id": 7668,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Perga",
           "language": "eng"
         }

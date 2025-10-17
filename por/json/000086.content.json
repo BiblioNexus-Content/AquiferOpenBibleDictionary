@@ -326,30 +326,35 @@
         {
           "reference_id": 2681,
           "content_id": 682851,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aliança",
           "language": "por"
         },
         {
           "reference_id": 3841,
           "content_id": 125250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aliança, A Nova",
           "language": "por"
         },
         {
           "reference_id": 5864,
           "content_id": 124394,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lei, Conceito Bíblico De",
           "language": "por"
         },
         {
           "reference_id": 8189,
           "content_id": 161883,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Voto, Votos",
           "language": "por"
         },
         {
           "reference_id": 6616,
           "content_id": 683050,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Juramento",
           "language": "por"
         }

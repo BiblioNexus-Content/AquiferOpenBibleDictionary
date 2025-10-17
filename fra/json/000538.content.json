@@ -212,30 +212,35 @@
         {
           "reference_id": 2523,
           "content_id": 207159,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Actes des Apôtres, Livre des",
           "language": "fra"
         },
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         },
         {
           "reference_id": 5535,
           "content_id": 602058,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Juif",
           "language": "fra"
         },
         {
           "reference_id": 4517,
           "content_id": 713640,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lettre aux Galates",
           "language": "fra"
         },
         {
           "reference_id": 5499,
           "content_id": 769262,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Concile de Jérusalem",
           "language": "fra"
         }

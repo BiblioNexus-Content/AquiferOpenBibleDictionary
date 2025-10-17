@@ -32,18 +32,21 @@
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         },
         {
           "reference_id": 8085,
           "content_id": 8917,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tree of Knowledge of Good and Evil",
           "language": "eng"
         },
         {
           "reference_id": 8086,
           "content_id": 8918,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tree of Life",
           "language": "eng"
         }

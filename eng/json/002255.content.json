@@ -20,12 +20,14 @@
         {
           "reference_id": 3739,
           "content_id": 4571,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cities of the Plain",
           "language": "eng"
         },
         {
           "reference_id": 7725,
           "content_id": 8557,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sodom and Gomorrah",
           "language": "eng"
         }

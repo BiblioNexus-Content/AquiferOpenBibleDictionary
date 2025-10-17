@@ -62,12 +62,14 @@
         {
           "reference_id": 2749,
           "content_id": 3581,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Amulet",
           "language": "eng"
         },
         {
           "reference_id": 6896,
           "content_id": 7728,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Phylactery",
           "language": "eng"
         }

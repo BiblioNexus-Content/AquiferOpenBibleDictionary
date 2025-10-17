@@ -698,18 +698,21 @@
         {
           "reference_id": 3421,
           "content_id": 682888,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Direito de nascimento",
           "language": "por"
         },
         {
           "reference_id": 4432,
           "content_id": 682933,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Primogênito",
           "language": "por"
         },
         {
           "reference_id": 4936,
           "content_id": 124389,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Herdeiro",
           "language": "por"
         }

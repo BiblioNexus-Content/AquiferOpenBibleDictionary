@@ -26,12 +26,14 @@
         {
           "reference_id": 4293,
           "content_id": 785194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Épicuriens",
           "language": "fra"
         },
         {
           "reference_id": 6885,
           "content_id": 785239,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Philosophie",
           "language": "fra"
         }

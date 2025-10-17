@@ -176,18 +176,21 @@
         {
           "reference_id": 2572,
           "content_id": 133278,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adultério",
           "language": "por"
         },
         {
           "reference_id": 6123,
           "content_id": 161843,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Casamento, Costumes matrimoniais",
           "language": "por"
         },
         {
           "reference_id": 7418,
           "content_id": 481579,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sexo, Sexualidade",
           "language": "por"
         }

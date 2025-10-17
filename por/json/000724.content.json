@@ -224,18 +224,21 @@
         {
           "reference_id": 3720,
           "content_id": 481519,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cronologia da Bíblia (Antigo Testamento)",
           "language": "por"
         },
         {
           "reference_id": 5260,
           "content_id": 682974,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Israel, História de",
           "language": "por"
         },
         {
           "reference_id": 5763,
           "content_id": 683007,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rei",
           "language": "por"
         }

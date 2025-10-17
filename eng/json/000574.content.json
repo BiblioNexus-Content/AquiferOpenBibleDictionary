@@ -128,18 +128,21 @@
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 5757,
           "content_id": 6589,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Kings, Books of First and Second",
           "language": "eng"
         },
         {
           "reference_id": 6257,
           "content_id": 7089,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mesopotamia",
           "language": "eng"
         }

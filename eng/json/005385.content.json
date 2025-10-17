@@ -188,12 +188,14 @@
         {
           "reference_id": 6839,
           "content_id": 7671,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Persecution",
           "language": "eng"
         },
         {
           "reference_id": 8091,
           "content_id": 8923,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tribulation",
           "language": "eng"
         }

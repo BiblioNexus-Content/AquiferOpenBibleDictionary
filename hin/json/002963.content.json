@@ -134,30 +134,35 @@
         {
           "reference_id": 3034,
           "content_id": 381000,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रायश्चित का दिवस ",
           "language": "hin"
         },
         {
           "reference_id": 4377,
           "content_id": 594519,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रायश्चित",
           "language": "hin"
         },
         {
           "reference_id": 6630,
           "content_id": 381743,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भेंट और बलिदान",
           "language": "hin"
         },
         {
           "reference_id": 7001,
           "content_id": 647210,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रायश्चित",
           "language": "hin"
         },
         {
           "reference_id": 7137,
           "content_id": 184998,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "छुड़ानेवाला, छुटकारा",
           "language": "hin"
         }

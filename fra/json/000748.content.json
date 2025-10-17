@@ -290,18 +290,21 @@
         {
           "reference_id": 3497,
           "content_id": 341253,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pains de proposition, pain de la Présence",
           "language": "fra"
         },
         {
           "reference_id": 5872,
           "content_id": 662301,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "levain",
           "language": "fra"
         },
         {
           "reference_id": 6166,
           "content_id": 662304,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "repas, importance des",
           "language": "fra"
         }

@@ -146,24 +146,28 @@
         {
           "reference_id": 3947,
           "content_id": 4779,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dead Sea",
           "language": "eng"
         },
         {
           "reference_id": 6180,
           "content_id": 7012,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mediterranean Sea",
           "language": "eng"
         },
         {
           "reference_id": 7353,
           "content_id": 8185,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sea of Galilee",
           "language": "eng"
         },
         {
           "reference_id": 7139,
           "content_id": 7971,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Red Sea",
           "language": "eng"
         }

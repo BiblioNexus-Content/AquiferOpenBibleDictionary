@@ -98,12 +98,14 @@
         {
           "reference_id": 3424,
           "content_id": 4256,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bishop",
           "language": "eng"
         },
         {
           "reference_id": 4143,
           "content_id": 4975,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Elder",
           "language": "eng"
         }

@@ -20,12 +20,14 @@
         {
           "reference_id": 4550,
           "content_id": 5382,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gazathites",
           "language": "eng"
         },
         {
           "reference_id": 4551,
           "content_id": 5383,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gaza",
           "language": "eng"
         }

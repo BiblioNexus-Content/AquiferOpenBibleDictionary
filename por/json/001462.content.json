@@ -116,36 +116,42 @@
         {
           "reference_id": 2488,
           "content_id": 207146,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abraão",
           "language": "por"
         },
         {
           "reference_id": 3720,
           "content_id": 481519,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cronologia da Bíblia (Antigo Testamento)",
           "language": "por"
         },
         {
           "reference_id": 5617,
           "content_id": 125284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "José",
           "language": "por"
         },
         {
           "reference_id": 5226,
           "content_id": 682969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Isaque",
           "language": "por"
         },
         {
           "reference_id": 5260,
           "content_id": 682974,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Israel, História de",
           "language": "por"
         },
         {
           "reference_id": 5331,
           "content_id": 682980,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jacó",
           "language": "por"
         }

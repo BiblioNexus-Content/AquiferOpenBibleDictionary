@@ -314,54 +314,63 @@
         {
           "reference_id": 3940,
           "content_id": 4772,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Day of the Lord",
           "language": "eng"
         },
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 7117,
           "content_id": 7949,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rapture",
           "language": "eng"
         },
         {
           "reference_id": 5662,
           "content_id": 6494,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment Seat",
           "language": "eng"
         },
         {
           "reference_id": 5855,
           "content_id": 6687,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Days",
           "language": "eng"
         },
         {
           "reference_id": 7179,
           "content_id": 8011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Resurrection",
           "language": "eng"
         },
         {
           "reference_id": 7187,
           "content_id": 8019,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Revelation, Book of",
           "language": "eng"
         },
         {
           "reference_id": 8091,
           "content_id": 8923,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tribulation",
           "language": "eng"
         }

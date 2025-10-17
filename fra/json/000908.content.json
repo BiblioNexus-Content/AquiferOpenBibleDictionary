@@ -116,12 +116,14 @@
         {
           "reference_id": 2881,
           "content_id": 788760,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Archéologie biblique",
           "language": "fra"
         },
         {
           "reference_id": 5196,
           "content_id": 728129,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inscriptions",
           "language": "fra"
         }

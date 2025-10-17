@@ -20,18 +20,21 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 6706,
           "content_id": 7538,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Owl",
           "language": "eng"
         },
         {
           "reference_id": 7339,
           "content_id": 8171,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Screech Owl",
           "language": "eng"
         }

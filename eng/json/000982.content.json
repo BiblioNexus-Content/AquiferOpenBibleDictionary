@@ -140,18 +140,21 @@
         {
           "reference_id": 4432,
           "content_id": 5264,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Firstborn",
           "language": "eng"
         },
         {
           "reference_id": 4936,
           "content_id": 5768,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Heir",
           "language": "eng"
         },
         {
           "reference_id": 5190,
           "content_id": 6022,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inheritance",
           "language": "eng"
         }

@@ -26,12 +26,14 @@
         {
           "reference_id": 4122,
           "content_id": 4954,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Egypt, Egyptian",
           "language": "eng"
         },
         {
           "reference_id": 7098,
           "content_id": 7930,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rameses (Place)",
           "language": "eng"
         }

@@ -146,12 +146,14 @@
         {
           "reference_id": 6361,
           "content_id": 7193,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Money Changer",
           "language": "eng"
         },
         {
           "reference_id": 6362,
           "content_id": 7194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Money",
           "language": "eng"
         }

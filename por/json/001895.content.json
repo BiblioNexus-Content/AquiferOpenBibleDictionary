@@ -98,18 +98,21 @@
         {
           "reference_id": 6782,
           "content_id": 124401,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paulo, O Apóstolo",
           "language": "por"
         },
         {
           "reference_id": 8022,
           "content_id": 124409,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Timóteo, Primeira Carta A",
           "language": "por"
         },
         {
           "reference_id": 8040,
           "content_id": 124410,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tito, Carta A",
           "language": "por"
         }

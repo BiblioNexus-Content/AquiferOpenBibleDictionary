@@ -74,18 +74,21 @@
         {
           "reference_id": 6974,
           "content_id": 368631,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रार्थना",
           "language": "hin"
         },
         {
           "reference_id": 7406,
           "content_id": 733850,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "पहाड़ी उपदेश",
           "language": "hin"
         },
         {
           "reference_id": 8262,
           "content_id": 381919,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "आराधना",
           "language": "hin"
         }

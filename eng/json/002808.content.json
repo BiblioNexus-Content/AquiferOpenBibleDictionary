@@ -1292,42 +1292,49 @@
         {
           "reference_id": 5228,
           "content_id": 6060,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Isaiah (Person)",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 6259,
           "content_id": 7091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messiah",
           "language": "eng"
         },
         {
           "reference_id": 6999,
           "content_id": 7831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophet, Prophetess",
           "language": "eng"
         },
         {
           "reference_id": 6998,
           "content_id": 7830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophecy",
           "language": "eng"
         },
         {
           "reference_id": 7411,
           "content_id": 8243,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Servant of the Lord",
           "language": "eng"
         },
         {
           "reference_id": 8185,
           "content_id": 9017,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Virgin Birth of Jesus",
           "language": "eng"
         }

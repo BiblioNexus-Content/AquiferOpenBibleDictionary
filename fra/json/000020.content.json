@@ -44,12 +44,14 @@
         {
           "reference_id": 4688,
           "content_id": 788726,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gouverneur",
           "language": "fra"
         },
         {
           "reference_id": 6995,
           "content_id": 785244,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Proconsul",
           "language": "fra"
         }

@@ -782,24 +782,28 @@
         {
           "reference_id": 2523,
           "content_id": 207147,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Atos dos Apóstolos, Livro dos",
           "language": "por"
         },
         {
           "reference_id": 3819,
           "content_id": 716978,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Coríntios, Segunda Carta aos",
           "language": "por"
         },
         {
           "reference_id": 6782,
           "content_id": 124401,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paulo, O Apóstolo",
           "language": "por"
         },
         {
           "reference_id": 3820,
           "content_id": 815930,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Corinto",
           "language": "por"
         }

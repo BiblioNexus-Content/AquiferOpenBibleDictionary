@@ -86,18 +86,21 @@
         {
           "reference_id": 2881,
           "content_id": 381312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "पुरातत्व और बाइबल",
           "language": "hin"
         },
         {
           "reference_id": 3504,
           "content_id": 578870,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "ईंट और ईंट का भट्टा",
           "language": "hin"
         },
         {
           "reference_id": 5196,
           "content_id": 381110,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "शिलालेख",
           "language": "hin"
         }

@@ -38,12 +38,14 @@
         {
           "reference_id": 3920,
           "content_id": 4752,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dan (Place)",
           "language": "eng"
         },
         {
           "reference_id": 5833,
           "content_id": 6665,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Laishah",
           "language": "eng"
         }

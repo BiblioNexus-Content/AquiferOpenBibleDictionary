@@ -1052,12 +1052,14 @@
         {
           "reference_id": 3766,
           "content_id": 756940,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tissu et fabrication de tissu",
           "language": "fra"
         },
         {
           "reference_id": 4076,
           "content_id": 785189,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Teinture, Teinturier",
           "language": "fra"
         }

@@ -134,18 +134,21 @@
         {
           "reference_id": 4328,
           "content_id": 5160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Essenes",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 6864,
           "content_id": 7696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisees",
           "language": "eng"
         }

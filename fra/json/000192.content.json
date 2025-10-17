@@ -128,18 +128,21 @@
         {
           "reference_id": 3009,
           "content_id": 800677,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Assyrie, Assyriens",
           "language": "fra"
         },
         {
           "reference_id": 3999,
           "content_id": 713630,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diaspora Juive",
           "language": "fra"
         },
         {
           "reference_id": 8148,
           "content_id": 806153,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ur (Lieu)",
           "language": "fra"
         }

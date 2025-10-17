@@ -326,18 +326,21 @@
         {
           "reference_id": 2681,
           "content_id": 381290,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गठबंधन",
           "language": "hin"
         },
         {
           "reference_id": 8189,
           "content_id": 185032,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मन्नत, मन्नतें",
           "language": "hin"
         },
         {
           "reference_id": 6616,
           "content_id": 381741,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "शपथ",
           "language": "hin"
         }

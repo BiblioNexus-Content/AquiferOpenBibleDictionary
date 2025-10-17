@@ -314,12 +314,14 @@
         {
           "reference_id": 3678,
           "content_id": 800683,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chérubin",
           "language": "fra"
         },
         {
           "reference_id": 7323,
           "content_id": 341291,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Satan",
           "language": "fra"
         }

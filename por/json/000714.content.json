@@ -20,24 +20,28 @@
         {
           "reference_id": 4685,
           "content_id": 125267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Evangelho",
           "language": "por"
         },
         {
           "reference_id": 5961,
           "content_id": 759880,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lucas, Evangelho de",
           "language": "por"
         },
         {
           "reference_id": 6118,
           "content_id": 125295,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Marcos, Evangelho De",
           "language": "por"
         },
         {
           "reference_id": 6156,
           "content_id": 125296,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mateus, Evangelho De",
           "language": "por"
         }

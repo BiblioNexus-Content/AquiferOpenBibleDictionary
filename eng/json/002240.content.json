@@ -13,12 +13,14 @@
         {
           "reference_id": 4667,
           "content_id": 5499,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Names of",
           "language": "eng"
         },
         {
           "reference_id": 8096,
           "content_id": 8928,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Trinity",
           "language": "eng"
         }

@@ -146,18 +146,21 @@
         {
           "reference_id": 4922,
           "content_id": 481543,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Céu",
           "language": "por"
         },
         {
           "reference_id": 5945,
           "content_id": 816007,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "O dia do Senhor",
           "language": "por"
         },
         {
           "reference_id": 7250,
           "content_id": 125323,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sábado",
           "language": "por"
         }

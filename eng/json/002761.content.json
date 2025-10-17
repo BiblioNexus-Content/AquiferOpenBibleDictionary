@@ -200,18 +200,21 @@
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 7009,
           "content_id": 7841,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Psalms, Book of",
           "language": "eng"
         },
         {
           "reference_id": 8263,
           "content_id": 9095,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wrath of God",
           "language": "eng"
         }

@@ -104,18 +104,21 @@
         {
           "reference_id": 4374,
           "content_id": 161808,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Livro de Êxodo",
           "language": "por"
         },
         {
           "reference_id": 4667,
           "content_id": 161818,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nomes De Deus",
           "language": "por"
         },
         {
           "reference_id": 6383,
           "content_id": 161847,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moisés",
           "language": "por"
         }

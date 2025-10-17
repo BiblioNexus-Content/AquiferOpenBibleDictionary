@@ -260,24 +260,28 @@
         {
           "reference_id": 3421,
           "content_id": 4253,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birthright",
           "language": "eng"
         },
         {
           "reference_id": 4936,
           "content_id": 5768,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Heir",
           "language": "eng"
         },
         {
           "reference_id": 5190,
           "content_id": 6022,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inheritance",
           "language": "eng"
         },
         {
           "reference_id": 6985,
           "content_id": 7817,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Primogeniture",
           "language": "eng"
         }

@@ -110,30 +110,35 @@
         {
           "reference_id": 6078,
           "content_id": 620725,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "धन (मम्मोन)",
           "language": "hin"
         },
         {
           "reference_id": 6362,
           "content_id": 381710,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "धन",
           "language": "hin"
         },
         {
           "reference_id": 6945,
           "content_id": 184991,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गरीब",
           "language": "hin"
         },
         {
           "reference_id": 8193,
           "content_id": 381916,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मज़दूरी",
           "language": "hin"
         },
         {
           "reference_id": 7202,
           "content_id": 185000,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "दौलत",
           "language": "hin"
         }

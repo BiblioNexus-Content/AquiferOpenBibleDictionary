@@ -452,24 +452,28 @@
         {
           "reference_id": 2523,
           "content_id": 207147,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Atos dos Apóstolos, Livro dos",
           "language": "por"
         },
         {
           "reference_id": 2838,
           "content_id": 125234,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apóstolo, Apostolado",
           "language": "por"
         },
         {
           "reference_id": 6782,
           "content_id": 124401,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paulo, O Apóstolo",
           "language": "por"
         },
         {
           "reference_id": 3782,
           "content_id": 815926,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Colossos, Colossas",
           "language": "por"
         }

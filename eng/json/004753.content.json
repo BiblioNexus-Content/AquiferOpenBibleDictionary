@@ -56,12 +56,14 @@
         {
           "reference_id": 3990,
           "content_id": 4822,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Deuel",
           "language": "eng"
         },
         {
           "reference_id": 5528,
           "content_id": 6360,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jethro",
           "language": "eng"
         }

@@ -32,12 +32,14 @@
         {
           "reference_id": 5827,
           "content_id": 6659,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ladan",
           "language": "eng"
         },
         {
           "reference_id": 5908,
           "content_id": 6740,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Libni",
           "language": "eng"
         }

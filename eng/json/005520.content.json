@@ -1148,78 +1148,91 @@
         {
           "reference_id": 2697,
           "content_id": 3529,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Altar",
           "language": "eng"
         },
         {
           "reference_id": 2913,
           "content_id": 3745,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ark of the Covenant",
           "language": "eng"
         },
         {
           "reference_id": 3937,
           "content_id": 4769,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "David",
           "language": "eng"
         },
         {
           "reference_id": 4416,
           "content_id": 5248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Feasts and Festivals of Israel",
           "language": "eng"
         },
         {
           "reference_id": 4435,
           "content_id": 5267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "First Jewish Revolt",
           "language": "eng"
         },
         {
           "reference_id": 3497,
           "content_id": 4329,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bread of the Presence",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 6630,
           "content_id": 7462,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Offerings and Sacrifices",
           "language": "eng"
         },
         {
           "reference_id": 7683,
           "content_id": 8515,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Singer",
           "language": "eng"
         },
         {
           "reference_id": 7730,
           "content_id": 8562,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Solomon (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6984,
           "content_id": 7816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Priests and Levites",
           "language": "eng"
         },
         {
           "reference_id": 6231,
           "content_id": 7063,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mercy Seat",
           "language": "eng"
         },
         {
           "reference_id": 7299,
           "content_id": 8131,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sanctuary",
           "language": "eng"
         }

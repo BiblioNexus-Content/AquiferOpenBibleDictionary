@@ -26,12 +26,14 @@
         {
           "reference_id": 3180,
           "content_id": 815891,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Barnabé",
           "language": "por"
         },
         {
           "reference_id": 5617,
           "content_id": 125284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "José",
           "language": "por"
         }

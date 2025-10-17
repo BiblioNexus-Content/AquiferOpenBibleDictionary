@@ -572,30 +572,35 @@
         {
           "reference_id": 2523,
           "content_id": 207159,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Actes des Apôtres, Livre des",
           "language": "fra"
         },
         {
           "reference_id": 2589,
           "content_id": 662263,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "siècles",
           "language": "fra"
         },
         {
           "reference_id": 6782,
           "content_id": 27251,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "L’apôtre Paul",
           "language": "fra"
         },
         {
           "reference_id": 2838,
           "content_id": 341249,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apôtre, Apôtre",
           "language": "fra"
         },
         {
           "reference_id": 4580,
           "content_id": 806021,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Généalogie de Jésus-Christ",
           "language": "fra"
         }

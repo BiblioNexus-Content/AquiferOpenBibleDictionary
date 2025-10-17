@@ -218,12 +218,14 @@
         {
           "reference_id": 3984,
           "content_id": 4816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Desert",
           "language": "eng"
         },
         {
           "reference_id": 8231,
           "content_id": 9063,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness Wanderings",
           "language": "eng"
         }

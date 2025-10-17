@@ -13,12 +13,14 @@
         {
           "reference_id": 3392,
           "content_id": 4224,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Canon of the",
           "language": "eng"
         },
         {
           "reference_id": 3397,
           "content_id": 4229,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Versions of the (Ancient)",
           "language": "eng"
         }

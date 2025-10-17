@@ -146,12 +146,14 @@
         {
           "reference_id": 4922,
           "content_id": 713643,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cieux",
           "language": "fra"
         },
         {
           "reference_id": 5945,
           "content_id": 713655,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jour du Seigneur, le",
           "language": "fra"
         }

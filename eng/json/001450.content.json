@@ -476,36 +476,42 @@
         {
           "reference_id": 3035,
           "content_id": 3867,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Atonement",
           "language": "eng"
         },
         {
           "reference_id": 3861,
           "content_id": 4693,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Criminal Law and Punishment",
           "language": "eng"
         },
         {
           "reference_id": 7416,
           "content_id": 8248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Seven Last Sayings of Jesus",
           "language": "eng"
         },
         {
           "reference_id": 4172,
           "content_id": 5004,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eli, Eli, Lama Sabachthani?",
           "language": "eng"
         },
         {
           "reference_id": 7137,
           "content_id": 7969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Redeemer, Redemption",
           "language": "eng"
         },
         {
           "reference_id": 4675,
           "content_id": 5507,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Golgotha",
           "language": "eng"
         }

@@ -20,12 +20,14 @@
         {
           "reference_id": 2915,
           "content_id": 3747,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Armageddon",
           "language": "eng"
         },
         {
           "reference_id": 6182,
           "content_id": 7014,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Megiddo, Megiddon",
           "language": "eng"
         }

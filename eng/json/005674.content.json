@@ -128,18 +128,21 @@
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         },
         {
           "reference_id": 6839,
           "content_id": 7671,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Persecution",
           "language": "eng"
         },
         {
           "reference_id": 7814,
           "content_id": 8646,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Suffering",
           "language": "eng"
         }

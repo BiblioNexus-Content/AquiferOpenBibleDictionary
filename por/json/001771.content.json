@@ -242,12 +242,14 @@
         {
           "reference_id": 3716,
           "content_id": 815915,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cristologia",
           "language": "por"
         },
         {
           "reference_id": 5227,
           "content_id": 682970,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Isaías, Livro de",
           "language": "por"
         }

@@ -146,24 +146,28 @@
         {
           "reference_id": 3947,
           "content_id": 682902,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mar Morto",
           "language": "por"
         },
         {
           "reference_id": 6180,
           "content_id": 759894,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mar Mediterrâneo",
           "language": "por"
         },
         {
           "reference_id": 7353,
           "content_id": 125327,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mar Da Galileia",
           "language": "por"
         },
         {
           "reference_id": 7139,
           "content_id": 717258,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mar Vermelho",
           "language": "por"
         }

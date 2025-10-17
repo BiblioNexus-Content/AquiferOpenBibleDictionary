@@ -122,12 +122,14 @@
         {
           "reference_id": 4656,
           "content_id": 5488,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Glory",
           "language": "eng"
         },
         {
           "reference_id": 7179,
           "content_id": 8011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Resurrection",
           "language": "eng"
         }

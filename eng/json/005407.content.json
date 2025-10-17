@@ -13,18 +13,21 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 6706,
           "content_id": 7538,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Owl",
           "language": "eng"
         },
         {
           "reference_id": 8205,
           "content_id": 9037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Water Hen",
           "language": "eng"
         }

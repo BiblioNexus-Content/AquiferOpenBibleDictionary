@@ -56,12 +56,14 @@
         {
           "reference_id": 2477,
           "content_id": 3309,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abishag",
           "language": "eng"
         },
         {
           "reference_id": 7628,
           "content_id": 8460,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shulammite",
           "language": "eng"
         }

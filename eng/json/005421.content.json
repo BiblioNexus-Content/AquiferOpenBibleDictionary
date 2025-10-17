@@ -20,24 +20,28 @@
         {
           "reference_id": 4685,
           "content_id": 5517,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gospel",
           "language": "eng"
         },
         {
           "reference_id": 5961,
           "content_id": 6793,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Luke, Gospel of",
           "language": "eng"
         },
         {
           "reference_id": 6118,
           "content_id": 6950,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mark, Gospel of",
           "language": "eng"
         },
         {
           "reference_id": 6156,
           "content_id": 6988,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gospel of Matthew",
           "language": "eng"
         }

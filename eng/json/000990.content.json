@@ -32,30 +32,35 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 4890,
           "content_id": 5722,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hawk",
           "language": "eng"
         },
         {
           "reference_id": 4931,
           "content_id": 5763,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hedgehog",
           "language": "eng"
         },
         {
           "reference_id": 6950,
           "content_id": 7782,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Porcupine",
           "language": "eng"
         },
         {
           "reference_id": 6804,
           "content_id": 7636,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pelican",
           "language": "eng"
         }

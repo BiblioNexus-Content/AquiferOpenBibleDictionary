@@ -122,18 +122,21 @@
         {
           "reference_id": 2437,
           "content_id": 648189,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "अब्दा",
           "language": "hin"
         },
         {
           "reference_id": 6617,
           "content_id": 733594,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "ओबद्याह की पुस्तक",
           "language": "hin"
         },
         {
           "reference_id": 6999,
           "content_id": 184994,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भविष्यद्वक्ता, भविष्यद्वक्तिन",
           "language": "hin"
         }

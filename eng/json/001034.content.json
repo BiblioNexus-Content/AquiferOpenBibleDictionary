@@ -230,12 +230,14 @@
         {
           "reference_id": 4393,
           "content_id": 5225,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ezra (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         }

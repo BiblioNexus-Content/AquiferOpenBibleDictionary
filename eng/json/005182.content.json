@@ -32,12 +32,14 @@
         {
           "reference_id": 7520,
           "content_id": 8352,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shemer",
           "language": "eng"
         },
         {
           "reference_id": 7583,
           "content_id": 8415,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shimrith",
           "language": "eng"
         }

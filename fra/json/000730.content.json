@@ -458,30 +458,35 @@
         {
           "reference_id": 2531,
           "content_id": 695282,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Personne)",
           "language": "fra"
         },
         {
           "reference_id": 3854,
           "content_id": 662281,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Création",
           "language": "fra"
         },
         {
           "reference_id": 4333,
           "content_id": 27242,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "La vie éternelle",
           "language": "fra"
         },
         {
           "reference_id": 6550,
           "content_id": 728137,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nouveaux Cieux et Nouvelle Terre",
           "language": "fra"
         },
         {
           "reference_id": 6096,
           "content_id": 788773,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Humanité, Ancienne et nouvelle",
           "language": "fra"
         }

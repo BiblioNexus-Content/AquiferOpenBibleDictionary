@@ -20,12 +20,14 @@
         {
           "reference_id": 3739,
           "content_id": 4571,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cities of the Plain",
           "language": "eng"
         },
         {
           "reference_id": 8418,
           "content_id": 9250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Zoar",
           "language": "eng"
         }

@@ -374,24 +374,28 @@
         {
           "reference_id": 4665,
           "content_id": 5497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Being and Attributes of",
           "language": "eng"
         },
         {
           "reference_id": 4691,
           "content_id": 5523,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Grace",
           "language": "eng"
         },
         {
           "reference_id": 8263,
           "content_id": 9095,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wrath of God",
           "language": "eng"
         },
         {
           "reference_id": 6232,
           "content_id": 7064,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mercy",
           "language": "eng"
         }

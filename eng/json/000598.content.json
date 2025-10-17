@@ -134,36 +134,42 @@
         {
           "reference_id": 3034,
           "content_id": 3866,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Day of Atonement",
           "language": "eng"
         },
         {
           "reference_id": 4377,
           "content_id": 5209,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Expiation",
           "language": "eng"
         },
         {
           "reference_id": 6630,
           "content_id": 7462,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Offerings and Sacrifices",
           "language": "eng"
         },
         {
           "reference_id": 7001,
           "content_id": 7833,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Propitiation",
           "language": "eng"
         },
         {
           "reference_id": 7109,
           "content_id": 7941,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ransom",
           "language": "eng"
         },
         {
           "reference_id": 7137,
           "content_id": 7969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Redeemer, Redemption",
           "language": "eng"
         }

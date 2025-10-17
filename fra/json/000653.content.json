@@ -1268,12 +1268,14 @@
         {
           "reference_id": 5961,
           "content_id": 785218,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Luc, Évangile de",
           "language": "fra"
         },
         {
           "reference_id": 6157,
           "content_id": 341277,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Matthieu (personne)",
           "language": "fra"
         }

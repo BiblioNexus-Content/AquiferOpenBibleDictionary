@@ -80,12 +80,14 @@
         {
           "reference_id": 3779,
           "content_id": 662278,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pièces",
           "language": "fra"
         },
         {
           "reference_id": 6362,
           "content_id": 806088,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Argent",
           "language": "fra"
         }

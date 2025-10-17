@@ -158,12 +158,14 @@
         {
           "reference_id": 2831,
           "content_id": 3663,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apocrypha",
           "language": "eng"
         },
         {
           "reference_id": 6084,
           "content_id": 6916,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Manasseh (Person)",
           "language": "eng"
         }

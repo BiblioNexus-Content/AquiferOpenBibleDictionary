@@ -38,12 +38,14 @@
         {
           "reference_id": 5581,
           "content_id": 6413,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John (Person)",
           "language": "eng"
         },
         {
           "reference_id": 5597,
           "content_id": 6429,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jonah (Person)",
           "language": "eng"
         }

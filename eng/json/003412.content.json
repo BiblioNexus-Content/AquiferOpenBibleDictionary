@@ -50,18 +50,21 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 5838,
           "content_id": 6670,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lamb of God",
           "language": "eng"
         },
         {
           "reference_id": 7496,
           "content_id": 8328,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sheep",
           "language": "eng"
         }

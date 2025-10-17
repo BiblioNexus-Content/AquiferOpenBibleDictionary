@@ -32,12 +32,14 @@
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 5331,
           "content_id": 6163,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jacob",
           "language": "eng"
         }

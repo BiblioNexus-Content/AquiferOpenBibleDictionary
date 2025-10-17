@@ -644,36 +644,42 @@
         {
           "reference_id": 3449,
           "content_id": 4281,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Boast",
           "language": "eng"
         },
         {
           "reference_id": 4665,
           "content_id": 5497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Being and Attributes of",
           "language": "eng"
         },
         {
           "reference_id": 7982,
           "content_id": 8814,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Theophany",
           "language": "eng"
         },
         {
           "reference_id": 6905,
           "content_id": 7737,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pillar of Fire and Cloud",
           "language": "eng"
         },
         {
           "reference_id": 8211,
           "content_id": 9043,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wealth",
           "language": "eng"
         },
         {
           "reference_id": 7500,
           "content_id": 8332,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shekinah",
           "language": "eng"
         }

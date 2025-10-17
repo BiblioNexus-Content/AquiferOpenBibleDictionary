@@ -56,30 +56,35 @@
         {
           "reference_id": 2601,
           "content_id": 3433,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ahasuerus",
           "language": "eng"
         },
         {
           "reference_id": 4330,
           "content_id": 5162,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Esther",
           "language": "eng"
         },
         {
           "reference_id": 6842,
           "content_id": 7674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Persia, Persians",
           "language": "eng"
         },
         {
           "reference_id": 4390,
           "content_id": 5222,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Ezra",
           "language": "eng"
         },
         {
           "reference_id": 6511,
           "content_id": 7343,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Nehemiah",
           "language": "eng"
         }

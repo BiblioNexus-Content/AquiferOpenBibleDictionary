@@ -20,12 +20,14 @@
         {
           "reference_id": 2782,
           "content_id": 125233,
+          "resource_code": "Unknown",
           "label": "Animais",
           "language": "por"
         },
         {
           "reference_id": 3243,
           "content_id": 759660,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Besouro",
           "language": "por"
         }

@@ -560,24 +560,28 @@
         {
           "reference_id": 3458,
           "content_id": 161784,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Corpo",
           "language": "por"
         },
         {
           "reference_id": 3727,
           "content_id": 815916,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Igreja",
           "language": "por"
         },
         {
           "reference_id": 5947,
           "content_id": 161840,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ceia Do Senhor, A",
           "language": "por"
         },
         {
           "reference_id": 7179,
           "content_id": 161864,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ressurreição",
           "language": "por"
         }

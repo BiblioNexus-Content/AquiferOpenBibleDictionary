@@ -44,12 +44,14 @@
         {
           "reference_id": 3491,
           "content_id": 716952,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bosra",
           "language": "por"
         },
         {
           "reference_id": 3738,
           "content_id": 759697,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cidades de refúgio",
           "language": "por"
         }

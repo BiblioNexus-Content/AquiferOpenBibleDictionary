@@ -98,18 +98,21 @@
         {
           "reference_id": 4667,
           "content_id": 5499,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Names of",
           "language": "eng"
         },
         {
           "reference_id": 7739,
           "content_id": 8571,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Son of God",
           "language": "eng"
         },
         {
           "reference_id": 7778,
           "content_id": 8610,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Spirit",
           "language": "eng"
         }

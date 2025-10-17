@@ -188,24 +188,28 @@
         {
           "reference_id": 3945,
           "content_id": 662285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "séjour des morts",
           "language": "fra"
         },
         {
           "reference_id": 4574,
           "content_id": 662294,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "géhenne",
           "language": "fra"
         },
         {
           "reference_id": 4957,
           "content_id": 341266,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Enfer",
           "language": "fra"
         },
         {
           "reference_id": 7529,
           "content_id": 811874,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sheol",
           "language": "fra"
         }

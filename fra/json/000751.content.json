@@ -266,30 +266,35 @@
         {
           "reference_id": 2855,
           "content_id": 805965,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vallée de la plaine, Araba",
           "language": "fra"
         },
         {
           "reference_id": 3803,
           "content_id": 785178,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Conquête et attribution de la terre",
           "language": "fra"
         },
         {
           "reference_id": 3958,
           "content_id": 602046,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Décapole",
           "language": "fra"
         },
         {
           "reference_id": 3947,
           "content_id": 805996,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mer Morte",
           "language": "fra"
         },
         {
           "reference_id": 6508,
           "content_id": 806092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Néguev, Négueb",
           "language": "fra"
         }

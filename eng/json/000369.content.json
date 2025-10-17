@@ -44,30 +44,35 @@
         {
           "reference_id": 3217,
           "content_id": 4049,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Beast",
           "language": "eng"
         },
         {
           "reference_id": 4401,
           "content_id": 5233,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "False Christs, False Messiahs",
           "language": "eng"
         },
         {
           "reference_id": 6120,
           "content_id": 6952,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mark of God, Mark of the Beast",
           "language": "eng"
         },
         {
           "reference_id": 7187,
           "content_id": 8019,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Revelation, Book of",
           "language": "eng"
         },
         {
           "reference_id": 7000,
           "content_id": 7832,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophets, False",
           "language": "eng"
         }

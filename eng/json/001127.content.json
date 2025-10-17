@@ -62,54 +62,63 @@
         {
           "reference_id": 2449,
           "content_id": 3281,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Abel (Person)",
           "language": "eng"
         },
         {
           "reference_id": 2531,
           "content_id": 3363,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Person)",
           "language": "eng"
         },
         {
           "reference_id": 3881,
           "content_id": 4713,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Curse, Cursed",
           "language": "eng"
         },
         {
           "reference_id": 4107,
           "content_id": 4939,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eden",
           "language": "eng"
         },
         {
           "reference_id": 4256,
           "content_id": 5088,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Enoch (Person)",
           "language": "eng"
         },
         {
           "reference_id": 4362,
           "content_id": 5194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eve",
           "language": "eng"
         },
         {
           "reference_id": 6415,
           "content_id": 7247,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Musician",
           "language": "eng"
         },
         {
           "reference_id": 6587,
           "content_id": 7419,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nod",
           "language": "eng"
         },
         {
           "reference_id": 7258,
           "content_id": 8090,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sacrifice",
           "language": "eng"
         }

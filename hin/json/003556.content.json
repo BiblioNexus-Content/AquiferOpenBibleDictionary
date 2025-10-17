@@ -122,12 +122,14 @@
         {
           "reference_id": 3842,
           "content_id": 381404,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "वाचा",
           "language": "hin"
         },
         {
           "reference_id": 6616,
           "content_id": 381741,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "शपथ",
           "language": "hin"
         }

@@ -152,24 +152,28 @@
         {
           "reference_id": 4416,
           "content_id": 5248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Feasts and Festivals of Israel",
           "language": "eng"
         },
         {
           "reference_id": 4454,
           "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Food and Food Preparation",
           "language": "eng"
         },
         {
           "reference_id": 5947,
           "content_id": 6779,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lord’s Supper, the",
           "language": "eng"
         },
         {
           "reference_id": 6769,
           "content_id": 7601,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Passover",
           "language": "eng"
         }

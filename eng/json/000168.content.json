@@ -248,36 +248,42 @@
         {
           "reference_id": 3720,
           "content_id": 4552,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronology of the Bible (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 4179,
           "content_id": 5011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Elijah",
           "language": "eng"
         },
         {
           "reference_id": 5537,
           "content_id": 6369,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jezebel",
           "language": "eng"
         },
         {
           "reference_id": 5757,
           "content_id": 6589,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Kings, Books of First and Second",
           "language": "eng"
         },
         {
           "reference_id": 5763,
           "content_id": 6595,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "King",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         }

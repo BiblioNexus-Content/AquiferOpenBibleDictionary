@@ -38,12 +38,14 @@
         {
           "reference_id": 2669,
           "content_id": 133279,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Alexandre",
           "language": "por"
         },
         {
           "reference_id": 6882,
           "content_id": 481568,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Filo, Judeu",
           "language": "por"
         }

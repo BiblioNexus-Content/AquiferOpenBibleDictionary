@@ -200,24 +200,28 @@
         {
           "reference_id": 3842,
           "content_id": 4674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Covenant",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 6778,
           "content_id": 7610,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Patriarchs, Period of the",
           "language": "eng"
         },
         {
           "reference_id": 7308,
           "content_id": 8140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sarah",
           "language": "eng"
         }

@@ -74,18 +74,21 @@
         {
           "reference_id": 3355,
           "content_id": 381367,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बैतलहम",
           "language": "hin"
         },
         {
           "reference_id": 5501,
           "content_id": 381601,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यरूशलेम",
           "language": "hin"
         },
         {
           "reference_id": 8402,
           "content_id": 594885,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सिय्योन",
           "language": "hin"
         }

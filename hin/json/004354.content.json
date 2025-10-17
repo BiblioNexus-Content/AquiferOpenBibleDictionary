@@ -176,30 +176,35 @@
         {
           "reference_id": 4039,
           "content_id": 184907,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "तलाक",
           "language": "hin"
         },
         {
           "reference_id": 6123,
           "content_id": 184963,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "विवाह, विवाह की प्रथाएँ",
           "language": "hin"
         },
         {
           "reference_id": 6099,
           "content_id": 381682,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मनुष्य",
           "language": "hin"
         },
         {
           "reference_id": 8186,
           "content_id": 381915,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "कुँवारी",
           "language": "hin"
         },
         {
           "reference_id": 8254,
           "content_id": 381918,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "महिला",
           "language": "hin"
         }

@@ -146,12 +146,14 @@
         {
           "reference_id": 6099,
           "content_id": 788774,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Être humain",
           "language": "fra"
         },
         {
           "reference_id": 8254,
           "content_id": 788783,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Femme",
           "language": "fra"
         }

@@ -164,12 +164,14 @@
         {
           "reference_id": 3519,
           "content_id": 4351,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Brothers (and Sisters)",
           "language": "eng"
         },
         {
           "reference_id": 4403,
           "content_id": 5235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Family Life and Relations",
           "language": "eng"
         }

@@ -506,18 +506,21 @@
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 6864,
           "content_id": 7696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisees",
           "language": "eng"
         },
         {
           "reference_id": 8264,
           "content_id": 9096,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Writer",
           "language": "eng"
         }

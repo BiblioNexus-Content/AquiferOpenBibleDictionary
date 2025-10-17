@@ -110,30 +110,35 @@
         {
           "reference_id": 6078,
           "content_id": 6910,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mammon",
           "language": "eng"
         },
         {
           "reference_id": 6362,
           "content_id": 7194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Money",
           "language": "eng"
         },
         {
           "reference_id": 6945,
           "content_id": 7777,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Poor, the",
           "language": "eng"
         },
         {
           "reference_id": 8193,
           "content_id": 9025,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wages",
           "language": "eng"
         },
         {
           "reference_id": 7202,
           "content_id": 8034,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Riches",
           "language": "eng"
         }

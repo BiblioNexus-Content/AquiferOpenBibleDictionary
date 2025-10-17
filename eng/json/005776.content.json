@@ -122,12 +122,14 @@
         {
           "reference_id": 3842,
           "content_id": 4674,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Covenant",
           "language": "eng"
         },
         {
           "reference_id": 6616,
           "content_id": 7448,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Oath",
           "language": "eng"
         }

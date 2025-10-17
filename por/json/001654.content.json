@@ -56,12 +56,14 @@
         {
           "reference_id": 3990,
           "content_id": 759718,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Deuel",
           "language": "por"
         },
         {
           "reference_id": 5528,
           "content_id": 682983,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jetro",
           "language": "por"
         }

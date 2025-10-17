@@ -314,30 +314,35 @@
         {
           "reference_id": 3678,
           "content_id": 4510,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cherub, Cherubim",
           "language": "eng"
         },
         {
           "reference_id": 3976,
           "content_id": 4808,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Demon-Possession",
           "language": "eng"
         },
         {
           "reference_id": 7403,
           "content_id": 8235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Seraph, Seraphim",
           "language": "eng"
         },
         {
           "reference_id": 7323,
           "content_id": 8155,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Satan",
           "language": "eng"
         },
         {
           "reference_id": 3977,
           "content_id": 4809,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Demon",
           "language": "eng"
         }

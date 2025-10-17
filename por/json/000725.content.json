@@ -1436,12 +1436,14 @@
         {
           "reference_id": 3999,
           "content_id": 716992,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diáspora dos judeus",
           "language": "por"
         },
         {
           "reference_id": 6998,
           "content_id": 125320,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Profecia",
           "language": "por"
         }

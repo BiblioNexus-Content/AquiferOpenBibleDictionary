@@ -320,30 +320,35 @@
         {
           "reference_id": 3951,
           "content_id": 161801,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Morte",
           "language": "por"
         },
         {
           "reference_id": 4957,
           "content_id": 125272,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inferno",
           "language": "por"
         },
         {
           "reference_id": 5954,
           "content_id": 124395,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Amor",
           "language": "por"
         },
         {
           "reference_id": 5663,
           "content_id": 481551,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Julgamento",
           "language": "por"
         },
         {
           "reference_id": 5856,
           "content_id": 816001,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Juízo final",
           "language": "por"
         }

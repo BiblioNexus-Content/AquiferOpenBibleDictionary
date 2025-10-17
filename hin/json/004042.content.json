@@ -296,30 +296,35 @@
         {
           "reference_id": 3999,
           "content_id": 368583,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यहूदियों का प्रवास",
           "language": "hin"
         },
         {
           "reference_id": 5260,
           "content_id": 368603,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "इस्राएल का इतिहास ",
           "language": "hin"
         },
         {
           "reference_id": 5647,
           "content_id": 368607,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "यहूदीकरणवादी",
           "language": "hin"
         },
         {
           "reference_id": 6955,
           "content_id": 649467,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "निर्वासन उपरांत अवधि",
           "language": "hin"
         },
         {
           "reference_id": 6864,
           "content_id": 184987,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "फरीसी",
           "language": "hin"
         }

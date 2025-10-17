@@ -20,12 +20,14 @@
         {
           "reference_id": 3719,
           "content_id": 713624,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronologie de la Bible (Nouveau Testament)",
           "language": "fra"
         },
         {
           "reference_id": 5196,
           "content_id": 728129,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inscriptions",
           "language": "fra"
         }

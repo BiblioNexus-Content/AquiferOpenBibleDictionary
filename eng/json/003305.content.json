@@ -20,12 +20,14 @@
         {
           "reference_id": 3680,
           "content_id": 4512,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chesalon",
           "language": "eng"
         },
         {
           "reference_id": 5415,
           "content_id": 6247,
+          "resource_code": "Unknown",
           "label": "Jearim, Mount",
           "language": "eng"
         }

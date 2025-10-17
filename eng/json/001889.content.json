@@ -68,18 +68,21 @@
         {
           "reference_id": 3937,
           "content_id": 4769,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "David",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 7327,
           "content_id": 8159,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Saul",
           "language": "eng"
         }

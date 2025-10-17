@@ -512,12 +512,14 @@
         {
           "reference_id": 6998,
           "content_id": 7830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophecy",
           "language": "eng"
         },
         {
           "reference_id": 7000,
           "content_id": 7832,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophets, False",
           "language": "eng"
         }

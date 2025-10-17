@@ -86,18 +86,21 @@
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 6848,
           "content_id": 7680,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Peter, the Apostle",
           "language": "eng"
         },
         {
           "reference_id": 7670,
           "content_id": 8502,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Simeon, Tribe of",
           "language": "eng"
         }

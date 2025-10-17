@@ -224,18 +224,21 @@
         {
           "reference_id": 4665,
           "content_id": 5497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Being and Attributes of",
           "language": "eng"
         },
         {
           "reference_id": 5954,
           "content_id": 6786,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Love",
           "language": "eng"
         },
         {
           "reference_id": 6232,
           "content_id": 7064,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mercy",
           "language": "eng"
         }

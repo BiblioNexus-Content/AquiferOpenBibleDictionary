@@ -38,12 +38,14 @@
         {
           "reference_id": 2561,
           "content_id": 3393,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adoniram",
           "language": "eng"
         },
         {
           "reference_id": 5606,
           "content_id": 6438,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joram",
           "language": "eng"
         }

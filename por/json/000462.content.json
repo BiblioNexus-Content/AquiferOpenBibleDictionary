@@ -296,30 +296,35 @@
         {
           "reference_id": 4397,
           "content_id": 125258,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fé",
           "language": "por"
         },
         {
           "reference_id": 4691,
           "content_id": 124387,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Graça",
           "language": "por"
         },
         {
           "reference_id": 7166,
           "content_id": 125322,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Arrependimento",
           "language": "por"
         },
         {
           "reference_id": 5672,
           "content_id": 682993,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justificação, Justificado",
           "language": "por"
         },
         {
           "reference_id": 7298,
           "content_id": 759973,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Santificação",
           "language": "por"
         }

@@ -62,24 +62,28 @@
         {
           "reference_id": 5565,
           "content_id": 6397,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joda",
           "language": "eng"
         },
         {
           "reference_id": 5644,
           "content_id": 6476,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judah (Person)",
           "language": "eng"
         },
         {
           "reference_id": 5645,
           "content_id": 6477,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judah, Tribe of",
           "language": "eng"
         },
         {
           "reference_id": 5657,
           "content_id": 6489,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jude (Person)",
           "language": "eng"
         }

@@ -92,12 +92,14 @@
         {
           "reference_id": 4922,
           "content_id": 481543,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Céu",
           "language": "por"
         },
         {
           "reference_id": 6550,
           "content_id": 806250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Novos céus e nova terra",
           "language": "por"
         }

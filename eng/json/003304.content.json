@@ -13,12 +13,14 @@
         {
           "reference_id": 2523,
           "content_id": 3355,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of the Acts of the Apostles",
           "language": "eng"
         },
         {
           "reference_id": 4685,
           "content_id": 5517,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gospel",
           "language": "eng"
         }

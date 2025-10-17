@@ -362,24 +362,28 @@
         {
           "reference_id": 3399,
           "content_id": 4231,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible",
           "language": "eng"
         },
         {
           "reference_id": 5576,
           "content_id": 6408,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John, Gospel of",
           "language": "eng"
         },
         {
           "reference_id": 5938,
           "content_id": 6770,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Logos",
           "language": "eng"
         },
         {
           "reference_id": 7188,
           "content_id": 8020,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Revelation",
           "language": "eng"
         }

@@ -356,18 +356,21 @@
         {
           "reference_id": 3786,
           "content_id": 716972,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mandamentos, Os dez",
           "language": "por"
         },
         {
           "reference_id": 5945,
           "content_id": 816007,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "O dia do Senhor",
           "language": "por"
         },
         {
           "reference_id": 7248,
           "content_id": 717263,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jornada Sabática",
           "language": "por"
         }

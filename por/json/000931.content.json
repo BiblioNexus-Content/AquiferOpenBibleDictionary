@@ -62,18 +62,21 @@
         {
           "reference_id": 4778,
           "content_id": 806215,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aleluia",
           "language": "por"
         },
         {
           "reference_id": 4779,
           "content_id": 806216,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hallel",
           "language": "por"
         },
         {
           "reference_id": 6259,
           "content_id": 125300,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messias",
           "language": "por"
         }

@@ -104,12 +104,14 @@
         {
           "reference_id": 3779,
           "content_id": 716971,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moedas",
           "language": "por"
         },
         {
           "reference_id": 6362,
           "content_id": 683037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dinheiro",
           "language": "por"
         }

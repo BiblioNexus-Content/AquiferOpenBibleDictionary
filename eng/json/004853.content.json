@@ -368,24 +368,28 @@
         {
           "reference_id": 5672,
           "content_id": 6504,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justification, Justified",
           "language": "eng"
         },
         {
           "reference_id": 7135,
           "content_id": 7967,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Reconciliation",
           "language": "eng"
         },
         {
           "reference_id": 7328,
           "content_id": 8160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Savior",
           "language": "eng"
         },
         {
           "reference_id": 7137,
           "content_id": 7969,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Redeemer, Redemption",
           "language": "eng"
         }

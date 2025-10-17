@@ -98,12 +98,14 @@
         {
           "reference_id": 3164,
           "content_id": 3996,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baptism of the Spirit",
           "language": "eng"
         },
         {
           "reference_id": 3165,
           "content_id": 3997,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Baptism",
           "language": "eng"
         }

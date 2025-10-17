@@ -164,18 +164,21 @@
         {
           "reference_id": 6085,
           "content_id": 6917,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Manasseh, Tribe of",
           "language": "eng"
         },
         {
           "reference_id": 6383,
           "content_id": 7215,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moses",
           "language": "eng"
         },
         {
           "reference_id": 6973,
           "content_id": 7805,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prayer of Manasseh",
           "language": "eng"
         }

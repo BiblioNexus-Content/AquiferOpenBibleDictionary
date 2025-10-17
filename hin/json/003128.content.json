@@ -182,30 +182,35 @@
         {
           "reference_id": 3392,
           "content_id": 184870,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रमाणिक धर्मग्रंथ बाइबल",
           "language": "hin"
         },
         {
           "reference_id": 3393,
           "content_id": 207169,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबिल*, की प्रेरणा",
           "language": "hin"
         },
         {
           "reference_id": 3395,
           "content_id": 594428,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल की पाण्डुलिपियाँ और पाठ (पुराना नियम)",
           "language": "hin"
         },
         {
           "reference_id": 3398,
           "content_id": 620619,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल के संस्करण (अंग्रेज़ी)",
           "language": "hin"
         },
         {
           "reference_id": 3397,
           "content_id": 732659,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बाइबल के संस्करण (प्राचीन)",
           "language": "hin"
         }

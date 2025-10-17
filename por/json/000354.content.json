@@ -38,12 +38,14 @@
         {
           "reference_id": 6963,
           "content_id": 481571,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Olaria",
           "language": "por"
         },
         {
           "reference_id": 8265,
           "content_id": 760051,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Escrita",
           "language": "por"
         }

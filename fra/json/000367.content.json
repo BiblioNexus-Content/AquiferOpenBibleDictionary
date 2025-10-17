@@ -146,18 +146,21 @@
         {
           "reference_id": 5168,
           "content_id": 695286,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Image de Dieu",
           "language": "fra"
         },
         {
           "reference_id": 6092,
           "content_id": 788772,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homme Naturel (ou Animal)",
           "language": "fra"
         },
         {
           "reference_id": 6096,
           "content_id": 788773,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Humanité, Ancienne et nouvelle",
           "language": "fra"
         }

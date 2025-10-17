@@ -110,12 +110,14 @@
         {
           "reference_id": 4574,
           "content_id": 5406,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gehenna",
           "language": "eng"
         },
         {
           "reference_id": 5856,
           "content_id": 6688,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Judgment",
           "language": "eng"
         }

@@ -326,18 +326,21 @@
         {
           "reference_id": 2681,
           "content_id": 805957,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Entente",
           "language": "fra"
         },
         {
           "reference_id": 8189,
           "content_id": 602080,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "vœu, vœux",
           "language": "fra"
         },
         {
           "reference_id": 6616,
           "content_id": 811858,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Serment",
           "language": "fra"
         }

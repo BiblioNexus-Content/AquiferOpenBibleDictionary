@@ -38,30 +38,35 @@
         {
           "reference_id": 4122,
           "content_id": 4954,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Egypt, Egyptian",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 5494,
           "content_id": 6326,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jeroboam",
           "language": "eng"
         },
         {
           "reference_id": 7149,
           "content_id": 7981,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rehoboam",
           "language": "eng"
         },
         {
           "reference_id": 7730,
           "content_id": 8562,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Solomon (Person)",
           "language": "eng"
         }

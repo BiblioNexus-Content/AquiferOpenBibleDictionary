@@ -44,12 +44,14 @@
         {
           "reference_id": 4112,
           "content_id": 658633,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Edom, Edomitas",
           "language": "por"
         },
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         }

@@ -1436,18 +1436,21 @@
         {
           "reference_id": 3999,
           "content_id": 4831,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Diaspora of the Jews",
           "language": "eng"
         },
         {
           "reference_id": 4384,
           "content_id": 5216,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ezekiel (Person)",
           "language": "eng"
         },
         {
           "reference_id": 6998,
           "content_id": 7830,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prophecy",
           "language": "eng"
         }

@@ -1160,18 +1160,21 @@
         {
           "reference_id": 6848,
           "content_id": 125315,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pedro, O Apóstolo",
           "language": "por"
         },
         {
           "reference_id": 7773,
           "content_id": 658741,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Espíritos em prisão",
           "language": "por"
         },
         {
           "reference_id": 7814,
           "content_id": 481586,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sofrimento",
           "language": "por"
         }

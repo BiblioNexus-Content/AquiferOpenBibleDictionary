@@ -638,60 +638,70 @@
         {
           "reference_id": 3720,
           "content_id": 481519,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cronologia da Bíblia (Antigo Testamento)",
           "language": "por"
         },
         {
           "reference_id": 3786,
           "content_id": 716972,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mandamentos, Os dez",
           "language": "por"
         },
         {
           "reference_id": 4416,
           "content_id": 125259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Festas E Festivais De Israel",
           "language": "por"
         },
         {
           "reference_id": 4375,
           "content_id": 682930,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Êxodo, o",
           "language": "por"
         },
         {
           "reference_id": 5260,
           "content_id": 682974,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Israel, História de",
           "language": "por"
         },
         {
           "reference_id": 4122,
           "content_id": 717005,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Egito, egípcio",
           "language": "por"
         },
         {
           "reference_id": 6383,
           "content_id": 161847,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moisés",
           "language": "por"
         },
         {
           "reference_id": 7864,
           "content_id": 481588,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tabernáculo",
           "language": "por"
         },
         {
           "reference_id": 6925,
           "content_id": 717235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pragas sobre o Egito",
           "language": "por"
         },
         {
           "reference_id": 7950,
           "content_id": 717312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Templo",
           "language": "por"
         }

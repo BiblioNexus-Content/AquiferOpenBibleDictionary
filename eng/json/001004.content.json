@@ -62,12 +62,14 @@
         {
           "reference_id": 4966,
           "content_id": 5798,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hemorrhage",
           "language": "eng"
         },
         {
           "reference_id": 6179,
           "content_id": 7011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Medicine and Medical Practice",
           "language": "eng"
         }

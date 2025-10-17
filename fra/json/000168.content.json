@@ -104,18 +104,21 @@
         {
           "reference_id": 4374,
           "content_id": 662291,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Exode (livre)",
           "language": "fra"
         },
         {
           "reference_id": 4667,
           "content_id": 713641,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dieu, Noms de",
           "language": "fra"
         },
         {
           "reference_id": 6383,
           "content_id": 602066,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moïse",
           "language": "fra"
         }

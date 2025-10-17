@@ -86,12 +86,14 @@
         {
           "reference_id": 3868,
           "content_id": 4700,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Crucifixion",
           "language": "eng"
         },
         {
           "reference_id": 7416,
           "content_id": 8248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Seven Last Sayings of Jesus",
           "language": "eng"
         }

@@ -296,18 +296,21 @@
         {
           "reference_id": 4665,
           "content_id": 5497,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "God, Being and Attributes of",
           "language": "eng"
         },
         {
           "reference_id": 5672,
           "content_id": 6504,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justification, Justified",
           "language": "eng"
         },
         {
           "reference_id": 5864,
           "content_id": 6696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Biblical Concept of Law",
           "language": "eng"
         }

@@ -1286,36 +1286,42 @@
         {
           "reference_id": 4065,
           "content_id": 381422,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "स्वप्न",
           "language": "hin"
         },
         {
           "reference_id": 6679,
           "content_id": 381170,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "वाणी",
           "language": "hin"
         },
         {
           "reference_id": 6999,
           "content_id": 184994,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भविष्यद्वक्ता, भविष्यद्वक्तिन",
           "language": "hin"
         },
         {
           "reference_id": 6997,
           "content_id": 368633,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "प्रतिज्ञा",
           "language": "hin"
         },
         {
           "reference_id": 7000,
           "content_id": 594748,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "झूठे भविष्यद्वक्ता",
           "language": "hin"
         },
         {
           "reference_id": 8187,
           "content_id": 647801,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "दर्शन",
           "language": "hin"
         }

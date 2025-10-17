@@ -62,36 +62,42 @@
         {
           "reference_id": 3720,
           "content_id": 4552,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chronology of the Bible (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 4375,
           "content_id": 5207,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Exodus, the",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 7681,
           "content_id": 8513,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sina, Sinai",
           "language": "eng"
         },
         {
           "reference_id": 7690,
           "content_id": 8522,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness of Sin",
           "language": "eng"
         },
         {
           "reference_id": 8400,
           "content_id": 9232,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness of Zin",
           "language": "eng"
         }

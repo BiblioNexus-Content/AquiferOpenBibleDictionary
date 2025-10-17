@@ -80,96 +80,112 @@
         {
           "reference_id": 2830,
           "content_id": 3662,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apocalyptic",
           "language": "eng"
         },
         {
           "reference_id": 3914,
           "content_id": 4746,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Daniel",
           "language": "eng"
         },
         {
           "reference_id": 3951,
           "content_id": 4783,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Death",
           "language": "eng"
         },
         {
           "reference_id": 4333,
           "content_id": 5165,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eternal Life",
           "language": "eng"
         },
         {
           "reference_id": 3940,
           "content_id": 4772,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Day of the Lord",
           "language": "eng"
         },
         {
           "reference_id": 4922,
           "content_id": 5754,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Heaven",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 7179,
           "content_id": 8011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Resurrection",
           "language": "eng"
         },
         {
           "reference_id": 7370,
           "content_id": 8202,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Second Coming of Christ",
           "language": "eng"
         },
         {
           "reference_id": 5205,
           "content_id": 6037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Intermediate State",
           "language": "eng"
         },
         {
           "reference_id": 6307,
           "content_id": 7139,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Millennium",
           "language": "eng"
         },
         {
           "reference_id": 5855,
           "content_id": 6687,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Days",
           "language": "eng"
         },
         {
           "reference_id": 5856,
           "content_id": 6688,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Last Judgment",
           "language": "eng"
         },
         {
           "reference_id": 4957,
           "content_id": 5789,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hell",
           "language": "eng"
         },
         {
           "reference_id": 8263,
           "content_id": 9095,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wrath of God",
           "language": "eng"
         },
         {
           "reference_id": 8091,
           "content_id": 8923,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tribulation",
           "language": "eng"
         }

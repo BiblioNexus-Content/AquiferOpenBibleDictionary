@@ -164,12 +164,14 @@
         {
           "reference_id": 2691,
           "content_id": 594355,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "दान",
           "language": "hin"
         },
         {
           "reference_id": 6945,
           "content_id": 184991,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "गरीब",
           "language": "hin"
         }

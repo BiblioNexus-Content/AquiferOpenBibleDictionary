@@ -13,12 +13,14 @@
         {
           "reference_id": 7098,
           "content_id": 7930,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rameses (Place)",
           "language": "eng"
         },
         {
           "reference_id": 7105,
           "content_id": 7937,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ramses (Person)",
           "language": "eng"
         }

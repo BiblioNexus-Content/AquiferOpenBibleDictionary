@@ -26,18 +26,21 @@
         {
           "reference_id": 3418,
           "content_id": 658615,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pássaros",
           "language": "por"
         },
         {
           "reference_id": 3541,
           "content_id": 759685,
+          "resource_code": "Unknown",
           "label": "Açor",
           "language": "por"
         },
         {
           "reference_id": 4398,
           "content_id": 759750,
+          "resource_code": "Unknown",
           "label": "Falcão",
           "language": "por"
         }

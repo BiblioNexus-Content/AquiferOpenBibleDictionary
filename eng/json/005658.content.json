@@ -38,30 +38,35 @@
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 5864,
           "content_id": 6696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Biblical Concept of Law",
           "language": "eng"
         },
         {
           "reference_id": 6864,
           "content_id": 7696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pharisees",
           "language": "eng"
         },
         {
           "reference_id": 8077,
           "content_id": 8909,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tradition, Oral",
           "language": "eng"
         },
         {
           "reference_id": 7892,
           "content_id": 8724,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Talmud",
           "language": "eng"
         }

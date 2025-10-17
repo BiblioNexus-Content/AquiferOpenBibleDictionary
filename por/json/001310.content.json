@@ -158,12 +158,14 @@
         {
           "reference_id": 4362,
           "content_id": 481532,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "EVA",
           "language": "por"
         },
         {
           "reference_id": 6099,
           "content_id": 481558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Homem",
           "language": "por"
         }

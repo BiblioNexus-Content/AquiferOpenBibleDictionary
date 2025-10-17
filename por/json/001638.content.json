@@ -1046,18 +1046,21 @@
         {
           "reference_id": 5521,
           "content_id": 125280,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Cristo, Ensinamentos De",
           "language": "por"
         },
         {
           "reference_id": 5763,
           "content_id": 683007,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rei",
           "language": "por"
         },
         {
           "reference_id": 6742,
           "content_id": 125309,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Parábola",
           "language": "por"
         }

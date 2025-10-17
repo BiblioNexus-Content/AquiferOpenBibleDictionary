@@ -638,36 +638,42 @@
         {
           "reference_id": 3165,
           "content_id": 124372,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Batismo",
           "language": "por"
         },
         {
           "reference_id": 3734,
           "content_id": 124378,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Circuncisão",
           "language": "por"
         },
         {
           "reference_id": 5864,
           "content_id": 124394,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lei, Conceito Bíblico De",
           "language": "por"
         },
         {
           "reference_id": 4009,
           "content_id": 481526,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Leis dietéticas",
           "language": "por"
         },
         {
           "reference_id": 6630,
           "content_id": 658701,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ofertas e sacrifícios",
           "language": "por"
         },
         {
           "reference_id": 8127,
           "content_id": 683110,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Incircuncisão",
           "language": "por"
         }

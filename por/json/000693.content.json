@@ -128,36 +128,42 @@
         {
           "reference_id": 3945,
           "content_id": 161799,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Mortos, Lugar Dos",
           "language": "por"
         },
         {
           "reference_id": 4743,
           "content_id": 717057,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hades",
           "language": "por"
         },
         {
           "reference_id": 4957,
           "content_id": 125272,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inferno",
           "language": "por"
         },
         {
           "reference_id": 4922,
           "content_id": 481543,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Céu",
           "language": "por"
         },
         {
           "reference_id": 6744,
           "content_id": 481565,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paraíso",
           "language": "por"
         },
         {
           "reference_id": 7529,
           "content_id": 683088,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sheol",
           "language": "por"
         }

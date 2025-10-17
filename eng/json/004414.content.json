@@ -134,12 +134,14 @@
         {
           "reference_id": 6177,
           "content_id": 7009,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Medes, Media, Median",
           "language": "eng"
         },
         {
           "reference_id": 6955,
           "content_id": 7787,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Postexilic Period",
           "language": "eng"
         }

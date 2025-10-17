@@ -314,42 +314,49 @@
         {
           "reference_id": 3940,
           "content_id": 806193,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dia do Senhor",
           "language": "por"
         },
         {
           "reference_id": 4308,
           "content_id": 815952,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Escatologia",
           "language": "por"
         },
         {
           "reference_id": 5663,
           "content_id": 481551,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Julgamento",
           "language": "por"
         },
         {
           "reference_id": 5662,
           "content_id": 682991,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Trono do julgamento",
           "language": "por"
         },
         {
           "reference_id": 7179,
           "content_id": 161864,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ressurreição",
           "language": "por"
         },
         {
           "reference_id": 5855,
           "content_id": 816000,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Últimos dias",
           "language": "por"
         },
         {
           "reference_id": 7187,
           "content_id": 481576,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apocalipse, Livro de",
           "language": "por"
         }

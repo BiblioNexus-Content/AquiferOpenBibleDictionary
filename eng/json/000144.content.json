@@ -248,18 +248,21 @@
         {
           "reference_id": 4039,
           "content_id": 4871,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Divorce",
           "language": "eng"
         },
         {
           "reference_id": 4464,
           "content_id": 5296,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sexual Immorality",
           "language": "eng"
         },
         {
           "reference_id": 6123,
           "content_id": 6955,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Marriage, Marriage Customs",
           "language": "eng"
         }

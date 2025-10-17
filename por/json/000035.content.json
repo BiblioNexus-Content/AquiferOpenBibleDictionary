@@ -20,18 +20,21 @@
         {
           "reference_id": 3418,
           "content_id": 658615,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pássaros",
           "language": "por"
         },
         {
           "reference_id": 4398,
           "content_id": 759750,
+          "resource_code": "Unknown",
           "label": "Falcão",
           "language": "por"
         },
         {
           "reference_id": 5797,
           "content_id": 759866,
+          "resource_code": "Unknown",
           "label": "Milhano, milhafre",
           "language": "por"
         }

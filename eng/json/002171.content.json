@@ -20,12 +20,14 @@
         {
           "reference_id": 4503,
           "content_id": 5335,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gadara, Gadarenes",
           "language": "eng"
         },
         {
           "reference_id": 4593,
           "content_id": 5425,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gerasa, Gerasenes",
           "language": "eng"
         }

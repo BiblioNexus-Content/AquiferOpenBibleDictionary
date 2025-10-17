@@ -722,30 +722,35 @@
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 5961,
           "content_id": 6793,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Luke, Gospel of",
           "language": "eng"
         },
         {
           "reference_id": 7849,
           "content_id": 8681,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Synoptic Gospels",
           "language": "eng"
         },
         {
           "reference_id": 6119,
           "content_id": 6951,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John Mark",
           "language": "eng"
         },
         {
           "reference_id": 6156,
           "content_id": 6988,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gospel of Matthew",
           "language": "eng"
         }

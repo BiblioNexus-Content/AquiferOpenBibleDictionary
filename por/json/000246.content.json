@@ -146,12 +146,14 @@
         {
           "reference_id": 6361,
           "content_id": 125302,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cambista (Trocador De Dinheiro)",
           "language": "por"
         },
         {
           "reference_id": 6362,
           "content_id": 683037,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dinheiro",
           "language": "por"
         }

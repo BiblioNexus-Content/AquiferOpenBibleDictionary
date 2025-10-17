@@ -62,18 +62,21 @@
         {
           "reference_id": 3746,
           "content_id": 4578,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "City",
           "language": "eng"
         },
         {
           "reference_id": 8197,
           "content_id": 9029,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Warfare",
           "language": "eng"
         },
         {
           "reference_id": 8202,
           "content_id": 9034,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Watchtower",
           "language": "eng"
         }

@@ -110,108 +110,126 @@
         {
           "reference_id": 3399,
           "content_id": 759675,
+          "resource_code": "Unknown",
           "label": "Bíblia",
           "language": "por"
         },
         {
           "reference_id": 3727,
           "content_id": 815916,
+          "resource_code": "Unknown",
           "label": "Igreja",
           "language": "por"
         },
         {
           "reference_id": 5522,
           "content_id": 125281,
+          "resource_code": "Unknown",
           "label": "Jesus Cristo",
           "language": "por"
         },
         {
           "reference_id": 5646,
           "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaísmo",
           "language": "por"
         },
         {
           "reference_id": 4989,
           "content_id": 161824,
+          "resource_code": "Unknown",
           "label": "Herodes, Família Herodiana*",
           "language": "por"
         },
         {
           "reference_id": 4435,
           "content_id": 815964,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Primeira Revolta Judaica",
           "language": "por"
         },
         {
           "reference_id": 6782,
           "content_id": 124401,
+          "resource_code": "Unknown",
           "label": "Paulo, O Apóstolo",
           "language": "por"
         },
         {
           "reference_id": 7287,
           "content_id": 124406,
+          "resource_code": "Unknown",
           "label": "Salvação",
           "language": "por"
         },
         {
           "reference_id": 6259,
           "content_id": 125300,
+          "resource_code": "Unknown",
           "label": "Messias",
           "language": "por"
         },
         {
           "reference_id": 7677,
           "content_id": 125332,
+          "resource_code": "Unknown",
           "label": "Simão, O Zelote",
           "language": "por"
         },
         {
           "reference_id": 5663,
           "content_id": 481551,
+          "resource_code": "Unknown",
           "label": "Julgamento",
           "language": "por"
         },
         {
           "reference_id": 5763,
           "content_id": 683007,
+          "resource_code": "Unknown",
           "label": "Rei",
           "language": "por"
         },
         {
           "reference_id": 5961,
           "content_id": 759880,
+          "resource_code": "Unknown",
           "label": "Lucas, Evangelho de",
           "language": "por"
         },
         {
           "reference_id": 5655,
           "content_id": 815992,
+          "resource_code": "Unknown",
           "label": "Judeia, Judeus",
           "language": "por"
         },
         {
           "reference_id": 7743,
           "content_id": 125337,
+          "resource_code": "Unknown",
           "label": "Filhos Do Trovão",
           "language": "por"
         },
         {
           "reference_id": 8065,
           "content_id": 161880,
+          "resource_code": "Unknown",
           "label": "Torá*",
           "language": "por"
         },
         {
           "reference_id": 7950,
           "content_id": 717312,
+          "resource_code": "Unknown",
           "label": "Templo",
           "language": "por"
         },
         {
           "reference_id": 8198,
           "content_id": 717328,
+          "resource_code": "Unknown",
           "label": "Guerra santa",
           "language": "por"
         }

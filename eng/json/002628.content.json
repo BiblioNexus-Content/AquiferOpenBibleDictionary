@@ -20,18 +20,21 @@
         {
           "reference_id": 2985,
           "content_id": 3817,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ash",
           "language": "eng"
         },
         {
           "reference_id": 6615,
           "content_id": 7447,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Oak",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Plants",
           "language": "eng"
         }

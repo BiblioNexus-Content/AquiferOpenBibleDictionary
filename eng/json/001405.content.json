@@ -26,12 +26,14 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 6804,
           "content_id": 7636,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pelican",
           "language": "eng"
         }

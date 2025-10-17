@@ -560,24 +560,28 @@
         {
           "reference_id": 3458,
           "content_id": 4290,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Body",
           "language": "eng"
         },
         {
           "reference_id": 3727,
           "content_id": 4559,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Church",
           "language": "eng"
         },
         {
           "reference_id": 5947,
           "content_id": 6779,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lord’s Supper, the",
           "language": "eng"
         },
         {
           "reference_id": 7179,
           "content_id": 8011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Resurrection",
           "language": "eng"
         }

@@ -182,12 +182,14 @@
         {
           "reference_id": 4522,
           "content_id": 5354,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Galilee",
           "language": "eng"
         },
         {
           "reference_id": 6726,
           "content_id": 7558,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestine",
           "language": "eng"
         }

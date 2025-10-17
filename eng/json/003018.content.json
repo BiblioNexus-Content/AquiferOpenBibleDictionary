@@ -74,18 +74,21 @@
         {
           "reference_id": 2603,
           "content_id": 3435,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ahaziah",
           "language": "eng"
         },
         {
           "reference_id": 2604,
           "content_id": 3436,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ahaz",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         }

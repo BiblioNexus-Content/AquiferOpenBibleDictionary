@@ -56,36 +56,42 @@
         {
           "reference_id": 5012,
           "content_id": 5844,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hieroglyphics",
           "language": "eng"
         },
         {
           "reference_id": 5196,
           "content_id": 6028,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Inscriptions",
           "language": "eng"
         },
         {
           "reference_id": 7340,
           "content_id": 8172,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Scribe",
           "language": "eng"
         },
         {
           "reference_id": 8264,
           "content_id": 9096,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Writer",
           "language": "eng"
         },
         {
           "reference_id": 5893,
           "content_id": 6725,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Letter Writing, Ancient",
           "language": "eng"
         },
         {
           "reference_id": 5825,
           "content_id": 6657,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lachish Letters",
           "language": "eng"
         }

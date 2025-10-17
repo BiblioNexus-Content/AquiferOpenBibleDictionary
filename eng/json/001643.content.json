@@ -13,18 +13,21 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "Unknown",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 3864,
           "content_id": 4696,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Crocodile",
           "language": "eng"
         },
         {
           "reference_id": 5328,
           "content_id": 6160,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jackal",
           "language": "eng"
         }

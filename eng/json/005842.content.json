@@ -13,12 +13,14 @@
         {
           "reference_id": 6321,
           "content_id": 7153,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Miracle",
           "language": "eng"
         },
         {
           "reference_id": 7653,
           "content_id": 8485,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sign",
           "language": "eng"
         }

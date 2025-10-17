@@ -50,30 +50,35 @@
         {
           "reference_id": 2531,
           "content_id": 3363,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Adam (Person)",
           "language": "eng"
         },
         {
           "reference_id": 4362,
           "content_id": 5194,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eve",
           "language": "eng"
         },
         {
           "reference_id": 4399,
           "content_id": 5231,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fall of Man",
           "language": "eng"
         },
         {
           "reference_id": 4534,
           "content_id": 5366,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Garden of Eden",
           "language": "eng"
         },
         {
           "reference_id": 8086,
           "content_id": 8918,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tree of Life",
           "language": "eng"
         }

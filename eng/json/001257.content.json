@@ -206,12 +206,14 @@
         {
           "reference_id": 2779,
           "content_id": 3611,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Angel",
           "language": "eng"
         },
         {
           "reference_id": 7403,
           "content_id": 8235,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Seraph, Seraphim",
           "language": "eng"
         }

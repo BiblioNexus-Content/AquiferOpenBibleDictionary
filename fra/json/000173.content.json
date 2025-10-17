@@ -194,36 +194,42 @@
         {
           "reference_id": 3014,
           "content_id": 695283,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astronomie",
           "language": "fra"
         },
         {
           "reference_id": 3943,
           "content_id": 713629,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jour",
           "language": "fra"
         },
         {
           "reference_id": 4416,
           "content_id": 341259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fêtes et festivals d'Israël",
           "language": "fra"
         },
         {
           "reference_id": 6571,
           "content_id": 390339,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nuit",
           "language": "fra"
         },
         {
           "reference_id": 7822,
           "content_id": 788782,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Soleil",
           "language": "fra"
         },
         {
           "reference_id": 5641,
           "content_id": 800709,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Année du jubilé",
           "language": "fra"
         }

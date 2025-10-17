@@ -98,18 +98,21 @@
         {
           "reference_id": 6782,
           "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paul, the Apostle",
           "language": "eng"
         },
         {
           "reference_id": 8022,
           "content_id": 8854,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Timothy, First Letter to",
           "language": "eng"
         },
         {
           "reference_id": 8040,
           "content_id": 8872,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Titus, Letter to",
           "language": "eng"
         }

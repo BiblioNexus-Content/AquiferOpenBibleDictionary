@@ -326,12 +326,14 @@
         {
           "reference_id": 2523,
           "content_id": 207159,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Actes des Apôtres, Livre des",
           "language": "fra"
         },
         {
           "reference_id": 5962,
           "content_id": 785219,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Luc (Personne)",
           "language": "fra"
         }

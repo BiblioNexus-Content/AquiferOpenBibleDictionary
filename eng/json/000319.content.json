@@ -26,18 +26,21 @@
         {
           "reference_id": 4480,
           "content_id": 5312,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Frontlet",
           "language": "eng"
         },
         {
           "reference_id": 6021,
           "content_id": 6853,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Magic",
           "language": "eng"
         },
         {
           "reference_id": 6896,
           "content_id": 7728,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Phylactery",
           "language": "eng"
         }

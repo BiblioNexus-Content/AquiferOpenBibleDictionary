@@ -332,12 +332,14 @@
         {
           "reference_id": 3716,
           "content_id": 785171,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christologie",
           "language": "fra"
         },
         {
           "reference_id": 4667,
           "content_id": 713641,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dieu, Noms de",
           "language": "fra"
         }

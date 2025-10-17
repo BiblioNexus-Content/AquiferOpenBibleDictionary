@@ -572,42 +572,49 @@
         {
           "reference_id": 2523,
           "content_id": 3355,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of the Acts of the Apostles",
           "language": "eng"
         },
         {
           "reference_id": 2589,
           "content_id": 3421,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Age",
           "language": "eng"
         },
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 4435,
           "content_id": 5267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "First Jewish Revolt",
           "language": "eng"
         },
         {
           "reference_id": 2838,
           "content_id": 3670,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apostle, Apostleship",
           "language": "eng"
         },
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 6782,
           "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paul, the Apostle",
           "language": "eng"
         }

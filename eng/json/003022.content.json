@@ -74,12 +74,14 @@
         {
           "reference_id": 3266,
           "content_id": 4098,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Benaiah",
           "language": "eng"
         },
         {
           "reference_id": 5585,
           "content_id": 6417,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Joiada",
           "language": "eng"
         }

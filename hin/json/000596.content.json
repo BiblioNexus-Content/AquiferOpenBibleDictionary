@@ -674,18 +674,21 @@
         {
           "reference_id": 3747,
           "content_id": 732806,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "नागरिक व्यवस्था और न्याय",
           "language": "hin"
         },
         {
           "reference_id": 3837,
           "content_id": 368577,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "न्यायालय और मुकदमे",
           "language": "hin"
         },
         {
           "reference_id": 4794,
           "content_id": 594565,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "हम्मुराबी की कानून संहिता",
           "language": "hin"
         }

@@ -20,24 +20,28 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 4398,
           "content_id": 5230,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Falcon, Kestrel",
           "language": "eng"
         },
         {
           "reference_id": 5797,
           "content_id": 6629,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Kite",
           "language": "eng"
         },
         {
           "reference_id": 8191,
           "content_id": 9023,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Vulture",
           "language": "eng"
         }

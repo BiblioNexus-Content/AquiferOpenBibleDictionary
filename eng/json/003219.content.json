@@ -176,18 +176,21 @@
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 5038,
           "content_id": 5870,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Hodaviah",
           "language": "eng"
         },
         {
           "reference_id": 5645,
           "content_id": 6477,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judah, Tribe of",
           "language": "eng"
         }

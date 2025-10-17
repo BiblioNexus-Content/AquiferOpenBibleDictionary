@@ -50,12 +50,14 @@
         {
           "reference_id": 7104,
           "content_id": 7936,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ram (Person)",
           "language": "eng"
         },
         {
           "reference_id": 7853,
           "content_id": 8685,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Syria, Syrians",
           "language": "eng"
         }

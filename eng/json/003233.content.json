@@ -1070,18 +1070,21 @@
         {
           "reference_id": 4626,
           "content_id": 5458,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gideon",
           "language": "eng"
         },
         {
           "reference_id": 5474,
           "content_id": 6306,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jephthah",
           "language": "eng"
         },
         {
           "reference_id": 7294,
           "content_id": 8126,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Samson",
           "language": "eng"
         }

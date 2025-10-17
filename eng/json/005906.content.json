@@ -110,156 +110,182 @@
         {
           "reference_id": 3399,
           "content_id": 4231,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible",
           "language": "eng"
         },
         {
           "reference_id": 3727,
           "content_id": 4559,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Church",
           "language": "eng"
         },
         {
           "reference_id": 4989,
           "content_id": 5821,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Herod, Herodian Family",
           "language": "eng"
         },
         {
           "reference_id": 4435,
           "content_id": 5267,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "First Jewish Revolt",
           "language": "eng"
         },
         {
           "reference_id": 5522,
           "content_id": 6354,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ",
           "language": "eng"
         },
         {
           "reference_id": 5616,
           "content_id": 6448,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Josephus, Flavius",
           "language": "eng"
         },
         {
           "reference_id": 5646,
           "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaism",
           "language": "eng"
         },
         {
           "reference_id": 5651,
           "content_id": 6483,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judas Iscariot",
           "language": "eng"
         },
         {
           "reference_id": 5653,
           "content_id": 6485,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judas of Galilee",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 5763,
           "content_id": 6595,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "King",
           "language": "eng"
         },
         {
           "reference_id": 5961,
           "content_id": 6793,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Luke, Gospel of",
           "language": "eng"
         },
         {
           "reference_id": 6130,
           "content_id": 6962,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Masada",
           "language": "eng"
         },
         {
           "reference_id": 5655,
           "content_id": 6487,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judea, Judeans",
           "language": "eng"
         },
         {
           "reference_id": 6259,
           "content_id": 7091,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Messiah",
           "language": "eng"
         },
         {
           "reference_id": 7230,
           "content_id": 8062,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Rome, City of",
           "language": "eng"
         },
         {
           "reference_id": 7287,
           "content_id": 8119,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Salvation",
           "language": "eng"
         },
         {
           "reference_id": 7674,
           "content_id": 8506,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Simon Peter",
           "language": "eng"
         },
         {
           "reference_id": 7950,
           "content_id": 8782,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Temple",
           "language": "eng"
         },
         {
           "reference_id": 7815,
           "content_id": 8647,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Suicide",
           "language": "eng"
         },
         {
           "reference_id": 7677,
           "content_id": 8509,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Simon the Zealot",
           "language": "eng"
         },
         {
           "reference_id": 7743,
           "content_id": 8575,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sons of Thunder",
           "language": "eng"
         },
         {
           "reference_id": 6782,
           "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paul, the Apostle",
           "language": "eng"
         },
         {
           "reference_id": 7776,
           "content_id": 8608,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Spiritual Gifts",
           "language": "eng"
         },
         {
           "reference_id": 8198,
           "content_id": 9030,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Holy War",
           "language": "eng"
         },
         {
           "reference_id": 8065,
           "content_id": 8897,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Torah",
           "language": "eng"
         }

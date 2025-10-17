@@ -266,36 +266,42 @@
         {
           "reference_id": 2430,
           "content_id": 3262,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aaron’s Rod",
           "language": "eng"
         },
         {
           "reference_id": 4375,
           "content_id": 5207,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Exodus, the",
           "language": "eng"
         },
         {
           "reference_id": 5260,
           "content_id": 6092,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "History of Israel",
           "language": "eng"
         },
         {
           "reference_id": 6984,
           "content_id": 7816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Priests and Levites",
           "language": "eng"
         },
         {
           "reference_id": 8231,
           "content_id": 9063,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Wilderness Wanderings",
           "language": "eng"
         },
         {
           "reference_id": 5902,
           "content_id": 6734,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tribe of Levi",
           "language": "eng"
         }

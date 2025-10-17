@@ -20,12 +20,14 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 4702,
           "content_id": 5534,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Great Owl",
           "language": "eng"
         }

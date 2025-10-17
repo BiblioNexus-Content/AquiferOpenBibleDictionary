@@ -13,12 +13,14 @@
         {
           "reference_id": 3395,
           "content_id": 4227,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bible, Manuscripts and Text of the (Old Testament)",
           "language": "eng"
         },
         {
           "reference_id": 7055,
           "content_id": 7887,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Qumran",
           "language": "eng"
         }

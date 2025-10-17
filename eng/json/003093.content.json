@@ -122,30 +122,35 @@
         {
           "reference_id": 3716,
           "content_id": 4548,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Christology",
           "language": "eng"
         },
         {
           "reference_id": 3937,
           "content_id": 4769,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "David",
           "language": "eng"
         },
         {
           "reference_id": 5517,
           "content_id": 6349,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesse (Person)",
           "language": "eng"
         },
         {
           "reference_id": 5521,
           "content_id": 6353,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Jesus Christ, Teachings of",
           "language": "eng"
         },
         {
           "reference_id": 4580,
           "content_id": 5412,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Genealogy of Jesus Christ",
           "language": "eng"
         }

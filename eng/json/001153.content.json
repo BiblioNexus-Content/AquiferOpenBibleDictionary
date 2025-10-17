@@ -13,12 +13,14 @@
         {
           "reference_id": 2928,
           "content_id": 3760,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Aromatic Cane",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "Unknown",
           "label": "Plants",
           "language": "eng"
         }

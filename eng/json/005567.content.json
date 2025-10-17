@@ -44,18 +44,21 @@
         {
           "reference_id": 6782,
           "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paul, the Apostle",
           "language": "eng"
         },
         {
           "reference_id": 7984,
           "content_id": 8816,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Thessalonians, First Letter to the",
           "language": "eng"
         },
         {
           "reference_id": 7985,
           "content_id": 8817,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Second Letter to the Thessalonians",
           "language": "eng"
         }

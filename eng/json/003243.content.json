@@ -32,12 +32,14 @@
         {
           "reference_id": 3518,
           "content_id": 4350,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Broom",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "Unknown",
           "label": "Plants",
           "language": "eng"
         }

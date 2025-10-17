@@ -20,12 +20,14 @@
         {
           "reference_id": 5735,
           "content_id": 6567,
+          "resource_code": "Unknown",
           "label": "Kesulloth",
           "language": "eng"
         },
         {
           "reference_id": 7871,
           "content_id": 8703,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tabor (Place)",
           "language": "eng"
         }

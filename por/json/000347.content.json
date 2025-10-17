@@ -38,12 +38,14 @@
         {
           "reference_id": 4416,
           "content_id": 125259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Festas E Festivais De Israel",
           "language": "por"
         },
         {
           "reference_id": 6786,
           "content_id": 717217,
+          "resource_code": "Unknown",
           "label": "Tenda",
           "language": "por"
         }

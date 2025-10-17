@@ -212,12 +212,14 @@
         {
           "reference_id": 5646,
           "content_id": 341271,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judaïsme",
           "language": "fra"
         },
         {
           "reference_id": 7239,
           "content_id": 785248,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Chef de la synagogue",
           "language": "fra"
         }

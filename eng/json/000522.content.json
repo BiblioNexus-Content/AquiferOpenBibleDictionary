@@ -13,18 +13,21 @@
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "Unknown",
           "label": "Plants",
           "language": "eng"
         },
         {
           "reference_id": 7894,
           "content_id": 8726,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tamarisk",
           "language": "eng"
         },
         {
           "reference_id": 209686,
           "content_id": 718743,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Prickly Alhagi",
           "language": "eng"
         }

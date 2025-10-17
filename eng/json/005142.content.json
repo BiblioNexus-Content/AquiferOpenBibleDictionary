@@ -206,12 +206,14 @@
         {
           "reference_id": 7448,
           "content_id": 8280,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shammah",
           "language": "eng"
         },
         {
           "reference_id": 7514,
           "content_id": 8346,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Shema (Person)",
           "language": "eng"
         }

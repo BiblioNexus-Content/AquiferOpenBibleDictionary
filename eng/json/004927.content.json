@@ -13,12 +13,14 @@
         {
           "reference_id": 3418,
           "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
           "language": "eng"
         },
         {
           "reference_id": 3873,
           "content_id": 4705,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cuckoo, Cuckow",
           "language": "eng"
         }

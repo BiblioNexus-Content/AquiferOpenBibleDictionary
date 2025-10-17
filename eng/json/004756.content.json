@@ -1004,24 +1004,28 @@
         {
           "reference_id": 2830,
           "content_id": 3662,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Apocalyptic",
           "language": "eng"
         },
         {
           "reference_id": 3914,
           "content_id": 4746,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of Daniel",
           "language": "eng"
         },
         {
           "reference_id": 5582,
           "content_id": 6414,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "John, the Apostle",
           "language": "eng"
         },
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         }

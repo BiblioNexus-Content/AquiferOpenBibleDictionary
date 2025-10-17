@@ -476,54 +476,63 @@
         {
           "reference_id": 4103,
           "content_id": 620652,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "सभोपदेशक की पुस्तक",
           "language": "hin"
         },
         {
           "reference_id": 5562,
           "content_id": 620688,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "अय्यूब की पुस्तक",
           "language": "hin"
         },
         {
           "reference_id": 6416,
           "content_id": 184973,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "संगीत",
           "language": "hin"
         },
         {
           "reference_id": 7009,
           "content_id": 368634,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "भजन संहिता की पुस्तक",
           "language": "hin"
         },
         {
           "reference_id": 7006,
           "content_id": 381790,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "नीतिवचन की पुस्तक",
           "language": "hin"
         },
         {
           "reference_id": 5841,
           "content_id": 594655,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "विलापगीत की पुस्तक",
           "language": "hin"
         },
         {
           "reference_id": 8245,
           "content_id": 381265,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बुद्धि",
           "language": "hin"
         },
         {
           "reference_id": 7735,
           "content_id": 647796,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "श्रेष्ठगीत",
           "language": "hin"
         },
         {
           "reference_id": 8242,
           "content_id": 647804,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "बुद्धि साहित्य",
           "language": "hin"
         }

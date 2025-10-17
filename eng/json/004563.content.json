@@ -26,18 +26,21 @@
         {
           "reference_id": 4524,
           "content_id": 5356,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gallio Inscription",
           "language": "eng"
         },
         {
           "reference_id": 4525,
           "content_id": 5357,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gallio",
           "language": "eng"
         },
         {
           "reference_id": 7405,
           "content_id": 8237,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sergius Paulus",
           "language": "eng"
         }

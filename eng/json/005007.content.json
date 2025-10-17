@@ -32,12 +32,14 @@
         {
           "reference_id": 3009,
           "content_id": 3841,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Assyria, Assyrians",
           "language": "eng"
         },
         {
           "reference_id": 3434,
           "content_id": 4266,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Black Obelisk",
           "language": "eng"
         }

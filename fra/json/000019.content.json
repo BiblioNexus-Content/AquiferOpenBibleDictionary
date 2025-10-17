@@ -608,18 +608,21 @@
         {
           "reference_id": 4362,
           "content_id": 800694,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ève",
           "language": "fra"
         },
         {
           "reference_id": 6096,
           "content_id": 788773,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Humanité, Ancienne et nouvelle",
           "language": "fra"
         },
         {
           "reference_id": 6548,
           "content_id": 788776,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Nouvelle création, Nouvelle créature",
           "language": "fra"
         }

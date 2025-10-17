@@ -32,12 +32,14 @@
         {
           "reference_id": 6015,
           "content_id": 6847,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Magadan",
           "language": "eng"
         },
         {
           "reference_id": 6017,
           "content_id": 6849,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Magdala",
           "language": "eng"
         }

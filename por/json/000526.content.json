@@ -422,18 +422,21 @@
         {
           "reference_id": 6508,
           "content_id": 683045,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Neguebe, Negev",
           "language": "por"
         },
         {
           "reference_id": 6726,
           "content_id": 658705,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Palestina",
           "language": "por"
         },
         {
           "reference_id": 8232,
           "content_id": 125351,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Região Selvagem",
           "language": "por"
         }

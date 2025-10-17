@@ -86,12 +86,14 @@
         {
           "reference_id": 5825,
           "content_id": 6657,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lachish Letters",
           "language": "eng"
         },
         {
           "reference_id": 8265,
           "content_id": 9097,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Writing",
           "language": "eng"
         }

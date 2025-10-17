@@ -74,36 +74,42 @@
         {
           "reference_id": 2721,
           "content_id": 3553,
+          "resource_code": "Unknown",
           "label": "Amillennialism",
           "language": "eng"
         },
         {
           "reference_id": 4308,
           "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Eschatology",
           "language": "eng"
         },
         {
           "reference_id": 5663,
           "content_id": 6495,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Judgment",
           "language": "eng"
         },
         {
           "reference_id": 7179,
           "content_id": 8011,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Resurrection",
           "language": "eng"
         },
         {
           "reference_id": 7187,
           "content_id": 8019,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Revelation, Book of",
           "language": "eng"
         },
         {
           "reference_id": 7370,
           "content_id": 8202,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Second Coming of Christ",
           "language": "eng"
         }

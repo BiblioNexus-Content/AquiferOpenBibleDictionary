@@ -92,18 +92,21 @@
         {
           "reference_id": 4375,
           "content_id": 381082,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "निर्गमन",
           "language": "hin"
         },
         {
           "reference_id": 6862,
           "content_id": 381770,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "फ़िरौन",
           "language": "hin"
         },
         {
           "reference_id": 6925,
           "content_id": 578926,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मिस्र पर विपत्तियाँ",
           "language": "hin"
         }

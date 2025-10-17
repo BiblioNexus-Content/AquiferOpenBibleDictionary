@@ -290,24 +290,28 @@
         {
           "reference_id": 4444,
           "content_id": 481537,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Carne",
           "language": "por"
         },
         {
           "reference_id": 5672,
           "content_id": 682993,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Justificação, Justificado",
           "language": "por"
         },
         {
           "reference_id": 8135,
           "content_id": 125348,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Pecado Lmperdoável*, O",
           "language": "por"
         },
         {
           "reference_id": 7298,
           "content_id": 759973,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Santificação",
           "language": "por"
         }

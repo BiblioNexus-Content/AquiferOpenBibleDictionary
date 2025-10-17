@@ -13,54 +13,63 @@
         {
           "reference_id": 2782,
           "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Animals",
           "language": "eng"
         },
         {
           "reference_id": 3244,
           "content_id": 4076,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Bee",
           "language": "eng"
         },
         {
           "reference_id": 4443,
           "content_id": 5275,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Flea",
           "language": "eng"
         },
         {
           "reference_id": 4452,
           "content_id": 5284,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Fly",
           "language": "eng"
         },
         {
           "reference_id": 4658,
           "content_id": 5490,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Gnat",
           "language": "eng"
         },
         {
           "reference_id": 3860,
           "content_id": 4692,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cricket",
           "language": "eng"
         },
         {
           "reference_id": 4695,
           "content_id": 5527,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Grasshopper",
           "language": "eng"
         },
         {
           "reference_id": 5934,
           "content_id": 6766,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Locusts",
           "language": "eng"
         },
         {
           "reference_id": 6387,
           "content_id": 7219,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Moth",
           "language": "eng"
         }

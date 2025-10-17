@@ -134,18 +134,21 @@
         {
           "reference_id": 4918,
           "content_id": 341265,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cœur",
           "language": "fra"
         },
         {
           "reference_id": 6099,
           "content_id": 788774,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Être humain",
           "language": "fra"
         },
         {
           "reference_id": 7757,
           "content_id": 662323,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Âme",
           "language": "fra"
         }

@@ -422,18 +422,21 @@
         {
           "reference_id": 3945,
           "content_id": 184901,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मृतकों का स्थान",
           "language": "hin"
         },
         {
           "reference_id": 5205,
           "content_id": 381562,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "मध्यवर्ती अवस्था",
           "language": "hin"
         },
         {
           "reference_id": 8263,
           "content_id": 594868,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "परमेश्वर का क्रोध",
           "language": "hin"
         }

@@ -194,48 +194,56 @@
         {
           "reference_id": 3013,
           "content_id": 759634,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astrologia",
           "language": "por"
         },
         {
           "reference_id": 3014,
           "content_id": 481511,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Astronomia",
           "language": "por"
         },
         {
           "reference_id": 4416,
           "content_id": 125259,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Festas E Festivais De Israel",
           "language": "por"
         },
         {
           "reference_id": 3943,
           "content_id": 481525,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Dia",
           "language": "por"
         },
         {
           "reference_id": 5641,
           "content_id": 481550,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Ano do Jubileu",
           "language": "por"
         },
         {
           "reference_id": 6367,
           "content_id": 481561,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Lua",
           "language": "por"
         },
         {
           "reference_id": 6571,
           "content_id": 161851,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Noite",
           "language": "por"
         },
         {
           "reference_id": 7822,
           "content_id": 481587,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Sol",
           "language": "por"
         }

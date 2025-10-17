@@ -146,18 +146,21 @@
         {
           "reference_id": 6748,
           "content_id": 811860,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paran",
           "language": "fra"
         },
         {
           "reference_id": 7635,
           "content_id": 811876,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Schur",
           "language": "fra"
         },
         {
           "reference_id": 8400,
           "content_id": 811888,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Tsin, Désert de",
           "language": "fra"
         }

@@ -13,12 +13,14 @@
         {
           "reference_id": 3766,
           "content_id": 4598,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Cloth and Cloth Manufacturing",
           "language": "eng"
         },
         {
           "reference_id": 6929,
           "content_id": 7761,
+          "resource_code": "Unknown",
           "label": "Plants",
           "language": "eng"
         }

@@ -782,24 +782,28 @@
         {
           "reference_id": 2523,
           "content_id": 3355,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Book of the Acts of the Apostles",
           "language": "eng"
         },
         {
           "reference_id": 3819,
           "content_id": 4651,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Corinthians, Second Letter to the",
           "language": "eng"
         },
         {
           "reference_id": 3820,
           "content_id": 4652,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Corinth",
           "language": "eng"
         },
         {
           "reference_id": 6782,
           "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
           "label": "Paul, the Apostle",
           "language": "eng"
         }
