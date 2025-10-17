@@ -1,31 +1,19 @@
 [
   {
-    "content_id": 5223,
-    "reference_id": 4391,
-    "title": "Ezrahite",
+    "content_id": 5224,
+    "reference_id": 4392,
+    "title": "Ezrah",
     "media_type": "Text",
-    "index_reference": "ezrahite",
+    "index_reference": "ezrah",
     "language": "eng",
-    "content": "<h1>EZRAHITE</h1><p>Word occurring only three times in the OT. Twice it is used as a title for Ethan (<a href=\"https://ref.ly/1Kgs4:31\">1&nbsp;Kgs 4:31</a>; <a href=\"https://ref.ly/Ps89:1\">Ps 89 title</a>) and once as a name given to Heman (<a href=\"https://ref.ly/Ps88:1\">Ps 88 title</a>). It is no longer thought to be a family name, but instead signifies a member of a pre-Israelite family.</p>",
+    "content": "<h1>EZRAH</h1><p>Father of four sons from Judah’s tribe (<a href=\"https://ref.ly/1Chr4:17\">1&nbsp;Chr 4:17</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11004031",
-          "start_ref_usfm": "1KI 4:31",
-          "end_ref": "11004031",
-          "end_ref_usfm": "1KI 4:31"
-        },
-        {
-          "start_ref": "19088001",
-          "start_ref_usfm": "PSA 88:1",
-          "end_ref": "19088001",
-          "end_ref_usfm": "PSA 88:1"
-        },
-        {
-          "start_ref": "19089001",
-          "start_ref_usfm": "PSA 89:1",
-          "end_ref": "19089001",
-          "end_ref_usfm": "PSA 89:1"
+          "start_ref": "13004017",
+          "start_ref_usfm": "1CH 4:17",
+          "end_ref": "13004017",
+          "end_ref_usfm": "1CH 4:17"
         }
       ],
       "resource": []

@@ -1,112 +1,48 @@
 [
   {
-    "content_id": 5269,
-    "reference_id": 4437,
-    "title": "Fishermen",
+    "content_id": 5270,
+    "reference_id": 4438,
+    "title": "Fish Gate",
     "media_type": "Text",
-    "index_reference": "fishermen",
+    "index_reference": "fish gate",
     "language": "eng",
-    "content": "<h1>FISHERMEN</h1><p>Fishermen are people who catch fish to earn a living. In ancient Israel, fishing was an important job that many people did to earn money and feed their families. The Bible mentions fishing and fishermen many times, both in the Old Testament (<a href=\"https://ref.ly/Isa19:8\">Isaiah 19:8</a>; <a href=\"https://ref.ly/Jer16:16\">Jeremiah 16:16</a>; <a href=\"https://ref.ly/Ezek47:10\">Ezekiel 47:10</a>) and the New Testament (<a href=\"https://ref.ly/Matt4:18-Matt4:19\">Matthew 4:18–19</a>; <a href=\"https://ref.ly/Mark1:16-Mark1:17\">Mark 1:16–17</a>; <a href=\"https://ref.ly/Luke5:2\">Luke 5:2</a>; <a href=\"https://ref.ly/John21:7\">John 21:7</a>). </p><p>Fishermen were recognized as their own social class in society. Jesus included several fishermen among his disciples (<a href=\"https://ref.ly/Matt4:18-Matt4:22\">Matthew 4:18–22</a>; <a href=\"https://ref.ly/Mark1:16-Mark1:20\">Mark 1:16–20</a>; compare <a href=\"https://ref.ly/Luke5:2-Luke5:11\">Luke 5:2–11</a>). Their work was difficult and not always rewarding (<a href=\"https://ref.ly/Luke5:2-Luke5:5\">Luke 5:2–5</a>); <a href=\"https://ref.ly/John21:3\">John 21:3</a>). Jesus compared the work of his disciples to the work of fishermen. Jesus&apos;s disciples would be “fishers of men.&quot; They would “catch” people for the kingdom (<a href=\"https://ref.ly/Matt4:19\">Matthew 4:19</a>; <a href=\"https://ref.ly/Mark1:17\">Mark 1:17</a>; <a href=\"https://ref.ly/Luke5:10\">Luke 5:10</a>).</p>",
+    "content": "<h1>FISH GATE</h1><p>Gate probably located in the north wall of the city of Jerusalem. The Fish Gate was built in David’s time and later formed part of Manasseh’s fortifications (<a href=\"https://ref.ly/2Chr33:14\">2&nbsp;Chr 33:14</a>). After the Babylonian exile, it was restored under Nehemiah (<a href=\"https://ref.ly/Neh3:3\">Neh 3:3</a>; <a href=\"https://ref.ly/Neh12:39\">12:39</a>); it is mentioned along with the Mishneh or Second Quarter (<a href=\"https://ref.ly/Zeph1:10\">Zep 1:10</a>). The gate was probably so named either because fish were brought into the city from the north, or because it was located near the city’s fish market.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5501\" data-resourceType=\"TyndaleBibleDictionary\">Jerusalem</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "23019008",
-          "start_ref_usfm": "ISA 19:8",
-          "end_ref": "23019008",
-          "end_ref_usfm": "ISA 19:8"
+          "start_ref": "14033014",
+          "start_ref_usfm": "2CH 33:14",
+          "end_ref": "14033014",
+          "end_ref_usfm": "2CH 33:14"
         },
         {
-          "start_ref": "24016016",
-          "start_ref_usfm": "JER 16:16",
-          "end_ref": "24016016",
-          "end_ref_usfm": "JER 16:16"
+          "start_ref": "16003003",
+          "start_ref_usfm": "NEH 3:3",
+          "end_ref": "16003003",
+          "end_ref_usfm": "NEH 3:3"
         },
         {
-          "start_ref": "26047010",
-          "start_ref_usfm": "EZK 47:10",
-          "end_ref": "26047010",
-          "end_ref_usfm": "EZK 47:10"
+          "start_ref": "16012039",
+          "start_ref_usfm": "NEH 12:39",
+          "end_ref": "16012039",
+          "end_ref_usfm": "NEH 12:39"
         },
         {
-          "start_ref": "40004019",
-          "start_ref_usfm": "MAT 4:19",
-          "end_ref": "40004019",
-          "end_ref_usfm": "MAT 4:19"
-        },
-        {
-          "start_ref": "41001017",
-          "start_ref_usfm": "MRK 1:17",
-          "end_ref": "41001017",
-          "end_ref_usfm": "MRK 1:17"
-        },
-        {
-          "start_ref": "42005002",
-          "start_ref_usfm": "LUK 5:2",
-          "end_ref": "42005002",
-          "end_ref_usfm": "LUK 5:2"
-        },
-        {
-          "start_ref": "42005005",
-          "start_ref_usfm": "LUK 5:5",
-          "end_ref": "42005005",
-          "end_ref_usfm": "LUK 5:5"
-        },
-        {
-          "start_ref": "42005010",
-          "start_ref_usfm": "LUK 5:10",
-          "end_ref": "42005010",
-          "end_ref_usfm": "LUK 5:10"
-        },
-        {
-          "start_ref": "43021003",
-          "start_ref_usfm": "JHN 21:3",
-          "end_ref": "43021003",
-          "end_ref_usfm": "JHN 21:3"
-        },
-        {
-          "start_ref": "43021007",
-          "start_ref_usfm": "JHN 21:7",
-          "end_ref": "43021007",
-          "end_ref_usfm": "JHN 21:7"
-        },
-        {
-          "start_ref": "40004018",
-          "start_ref_usfm": "MAT 4:18",
-          "end_ref": "40004019",
-          "end_ref_usfm": "MAT 4:19"
-        },
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001017",
-          "end_ref_usfm": "MRK 1:17"
-        },
-        {
-          "start_ref": "40004018",
-          "start_ref_usfm": "MAT 4:18",
-          "end_ref": "40004022",
-          "end_ref_usfm": "MAT 4:22"
-        },
-        {
-          "start_ref": "41001016",
-          "start_ref_usfm": "MRK 1:16",
-          "end_ref": "41001020",
-          "end_ref_usfm": "MRK 1:20"
-        },
-        {
-          "start_ref": "42005002",
-          "start_ref_usfm": "LUK 5:2",
-          "end_ref": "42005011",
-          "end_ref_usfm": "LUK 5:11"
-        },
-        {
-          "start_ref": "42005002",
-          "start_ref_usfm": "LUK 5:2",
-          "end_ref": "42005005",
-          "end_ref_usfm": "LUK 5:5"
+          "start_ref": "36001010",
+          "start_ref_usfm": "ZEP 1:10",
+          "end_ref": "36001010",
+          "end_ref_usfm": "ZEP 1:10"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5501,
+          "content_id": 6333,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jerusalem",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

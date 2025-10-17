@@ -1,27 +1,45 @@
 [
   {
-    "content_id": 717006,
-    "reference_id": 4124,
-    "title": "Eí",
+    "content_id": 481529,
+    "reference_id": 4107,
+    "title": "Éden",
     "media_type": "Text",
-    "index_reference": "eí",
+    "index_reference": "éden",
     "language": "por",
-    "content": "<h1>Eí</h1><p>Filho de Benjamim (<a href=\"https://ref.ly/Gen46:21\">Gn 46.21</a>); talvez um erro de escrita para Airão. <em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2622\" data-resourceType=\"TyndaleBibleDictionary\">Airão, Airamita</span>.</p>",
+    "content": "<h1>ÉDEN</h1><p>1. Lugar onde Adão e Eva viveram até pecarem contra Deus e serem banidos (<a href=\"https://ref.ly/Gen2:8,Gen2:15\">Gn 2.8,15</a>; <a href=\"https://ref.ly/Gen3:23-Gen3:24\">3.23–24</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4534\" data-resourceType=\"TyndaleBibleDictionary\">Jardim do Éden</span>.</p><p>2. Forma alternativa de Bete-Éden em <a href=\"https://ref.ly/Ezek27:23\">Ezequiel 27.23</a>. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3335\" data-resourceType=\"TyndaleBibleDictionary\">Bete-Éden</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01046021",
-          "start_ref_usfm": "GEN 46:21",
-          "end_ref": "01046021",
-          "end_ref_usfm": "GEN 46:21"
+          "start_ref": "01002008",
+          "start_ref_usfm": "GEN 2:8",
+          "end_ref": "01002008",
+          "end_ref_usfm": "GEN 2:8"
+        },
+        {
+          "start_ref": "01002015",
+          "start_ref_usfm": "GEN 2:15",
+          "end_ref": "01002015",
+          "end_ref_usfm": "GEN 2:15"
+        },
+        {
+          "start_ref": "26027023",
+          "start_ref_usfm": "EZK 27:23",
+          "end_ref": "26027023",
+          "end_ref_usfm": "EZK 27:23"
+        },
+        {
+          "start_ref": "01003023",
+          "start_ref_usfm": "GEN 3:23",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
         }
       ],
       "resource": [
         {
-          "reference_id": 2622,
-          "content_id": 716889,
+          "reference_id": 4534,
+          "content_id": 481540,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Airão, Airamita",
+          "label": "Jardim do Éden",
           "language": "por"
         }
       ]

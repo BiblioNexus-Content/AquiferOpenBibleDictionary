@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 6074,
-    "reference_id": 5242,
-    "title": "Ishma",
+    "content_id": 6069,
+    "reference_id": 5237,
+    "title": "Ishijah",
     "media_type": "Text",
-    "index_reference": "ishma",
+    "index_reference": "ishijah",
     "language": "eng",
-    "content": "<h1>ISHMA</h1><p>Etam’s son from Judah’s tribe (<a href=\"https://ref.ly/1Chr4:3\">1&nbsp;Chr 4:3</a>).</p>",
+    "content": "<h1>ISHIJAH</h1><p>Harim’s son, who obeyed Ezra’s exhortation to divorce his pagan wife (<a href=\"https://ref.ly/Ezra10:31\">Ezr 10:31</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13004003",
-          "start_ref_usfm": "1CH 4:3",
-          "end_ref": "13004003",
-          "end_ref_usfm": "1CH 4:3"
+          "start_ref": "15010031",
+          "start_ref_usfm": "EZR 10:31",
+          "end_ref": "15010031",
+          "end_ref_usfm": "EZR 10:31"
         }
       ],
       "resource": []

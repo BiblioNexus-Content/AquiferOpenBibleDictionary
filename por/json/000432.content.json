@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 815923,
-    "reference_id": 3756,
-    "title": "Cleantes",
+    "content_id": 759698,
+    "reference_id": 3743,
+    "title": "Cidade das palmeiras",
     "media_type": "Text",
-    "index_reference": "cleantes",
+    "index_reference": "cidade das palmeiras",
     "language": "por",
-    "content": "<h1>CLEANTES</h1><p>O líder da escola de filosofia Estoica em Atenas de 269 a 232 a.C. Os estoicos eram pessoas que seguiam um tipo de filosofia (uma maneira de pensar sobre a vida) que começou na Grécia antiga. Essa filosofia era chamada de &quot;Estoicismo&quot;.</p><p>Cleantes escreveu um poema chamado &quot;Hino a Zeus&quot;. Outro poeta estoico chamado Arato mais tarde adaptou partes deste poema quando escreveu seu próprio poema chamado &quot;Fenômenos&quot;. Séculos depois, o apóstolo Paulo citou a quinta linha de &quot;Fenômenos&quot;. Ele estava falando a uma multidão no Areópago em Atenas. Paulo citou as palavras: &quot;Somos sua descendência&quot; (<a href=\"https://ref.ly/Acts17:28\">At 17.28</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7794\" data-resourceType=\"TyndaleBibleDictionary\">Estoicismo, Estoicos</span>.</p>",
+    "content": "<h1>CIDADE DAS PALMEIRAS</h1><p>Expressão que faz referência a Jericó, chamada assim por suas muitas palmeiras (<a href=\"https://ref.ly/Deut34:3\">Dt 34.3</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5489\" data-resourceType=\"TyndaleBibleDictionary\">Jericó</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44017028",
-          "start_ref_usfm": "ACT 17:28",
-          "end_ref": "44017028",
-          "end_ref_usfm": "ACT 17:28"
+          "start_ref": "05034003",
+          "start_ref_usfm": "DEU 34:3",
+          "end_ref": "05034003",
+          "end_ref_usfm": "DEU 34:3"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5489,
+          "content_id": 161832,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jericó",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

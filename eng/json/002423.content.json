@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 5678,
-    "reference_id": 4846,
-    "title": "Haroeh",
+    "content_id": 5676,
+    "reference_id": 4844,
+    "title": "Harodite",
     "media_type": "Text",
-    "index_reference": "haroeh",
+    "index_reference": "harodite",
     "language": "eng",
-    "content": "<h1>HAROEH</h1><p>Alternate name of Reaiah, Shobal’s son, in <a href=\"https://ref.ly/1Chr2:52\">1&nbsp;Chronicles 2:52</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7124\" data-resourceType=\"TyndaleBibleDictionary\">Reaiah #1</span>.</p>",
+    "content": "<h1>HARODITE</h1><p>The title given to Shammah and Elika, two of King David&apos;s mighty men (<a href=\"https://ref.ly/2Sam23:25\">2&nbsp;Samuel 23:25</a>). This name indicates they came from a place called Harod.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4845\" data-resourceType=\"TyndaleBibleDictionary\">Harod #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13002052",
-          "start_ref_usfm": "1CH 2:52",
-          "end_ref": "13002052",
-          "end_ref_usfm": "1CH 2:52"
+          "start_ref": "10023025",
+          "start_ref_usfm": "2SA 23:25",
+          "end_ref": "10023025",
+          "end_ref_usfm": "2SA 23:25"
         }
       ],
       "resource": [
         {
-          "reference_id": 7124,
-          "content_id": 7956,
+          "reference_id": 4845,
+          "content_id": 5677,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Reaiah",
+          "label": "Harod",
           "language": "eng"
         }
       ]

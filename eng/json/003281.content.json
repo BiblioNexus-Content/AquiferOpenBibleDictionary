@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6540,
-    "reference_id": 5708,
-    "title": "Kelub",
+    "content_id": 6538,
+    "reference_id": 5706,
+    "title": "Kelita",
     "media_type": "Text",
-    "index_reference": "kelub",
+    "index_reference": "kelita",
     "language": "eng",
-    "content": "<h1>KELUB</h1><p>Another spelling for the name Chelub.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3667\" data-resourceType=\"TyndaleBibleDictionary\">Chelub</span>.</p>",
+    "content": "<h1>KELITA</h1><p>A Levite sometimes thought to be the same as Kelaiah. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5704\" data-resourceType=\"TyndaleBibleDictionary\">Kelaiah</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3667,
-          "content_id": 4499,
+          "reference_id": 5704,
+          "content_id": 6536,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Chelub",
+          "label": "Kelaiah",
           "language": "eng"
         }
       ]

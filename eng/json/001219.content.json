@@ -1,34 +1,27 @@
 [
   {
-    "content_id": 4473,
-    "reference_id": 3641,
-    "title": "Chameleon",
+    "content_id": 4472,
+    "reference_id": 3640,
+    "title": "Chambers of the South",
     "media_type": "Text",
-    "index_reference": "chameleon",
+    "index_reference": "chambers of the south",
     "language": "eng",
-    "content": "<h1>CHAMELEON</h1><p>A kind of lizard known for being able to change color quickly. Chameleons can move their eyes separately, so one eye can look up while the other looks down. They live in trees and bushes and use their long tails to hold onto branches.</p><p>In the Old Testament, chameleons are listed as ceremonially unclean animals. This means the Israelites were not allowed to eat them (<a href=\"https://ref.ly/Lev11:30\">Leviticus 11:30</a>). The Hebrew word translated as “chameleon” may come from a word that means &quot;to pant.&quot; This might be because of the way the animal breathes. Some ancient people believed lizards lived by breathing air alone.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5931\" data-resourceType=\"TyndaleBibleDictionary\">Lizard</span>.</p>",
+    "content": "<h1>CHAMBERS OF THE SOUTH*</h1><p>Possibly a constellation of stars, or the vast stretches of southern sky without stars (<a href=\"https://ref.ly/Job9:9\">Jb 9:9</a>, kjv). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3014\" data-resourceType=\"TyndaleBibleDictionary\">Astronomy</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "03011030",
-          "start_ref_usfm": "LEV 11:30",
-          "end_ref": "03011030",
-          "end_ref_usfm": "LEV 11:30"
+          "start_ref": "18009009",
+          "start_ref_usfm": "JOB 9:9",
+          "end_ref": "18009009",
+          "end_ref_usfm": "JOB 9:9"
         }
       ],
       "resource": [
         {
-          "reference_id": 2782,
-          "content_id": 3614,
-          "resource_code": "Unknown",
-          "label": "Animals",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5931,
-          "content_id": 6763,
+          "reference_id": 3014,
+          "content_id": 3846,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Lizard",
+          "label": "Astronomy",
           "language": "eng"
         }
       ]

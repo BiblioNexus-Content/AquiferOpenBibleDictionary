@@ -1,27 +1,33 @@
 [
   {
-    "content_id": 759967,
-    "reference_id": 7208,
-    "title": "Rimom-Perez",
+    "content_id": 658673,
+    "reference_id": 5800,
+    "title": "Quitim",
     "media_type": "Text",
-    "index_reference": "rimom-perez",
+    "index_reference": "quitim",
     "language": "por",
-    "content": "<h1>RIMOM-PEREZ</h1><p>Um local de acampamento temporário dos israelitas durante suas peregrinações no deserto. Ficava entre Ritma e Libna (<a href=\"https://ref.ly/Num33:19-Num33:20\">Nm 33.19–20</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações no deserto</span>.</p>",
+    "content": "<h1>QUITIM</h1><p>Nome hebraico antigo para a ilha de Chipre (<a href=\"https://ref.ly/Gen10:4\">Gn 10.4</a>; <a href=\"https://ref.ly/Dan11:30\">Dn 11.30</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3895\" data-resourceType=\"TyndaleBibleDictionary\">Chipre</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04033019",
-          "start_ref_usfm": "NUM 33:19",
-          "end_ref": "04033020",
-          "end_ref_usfm": "NUM 33:20"
+          "start_ref": "01010004",
+          "start_ref_usfm": "GEN 10:4",
+          "end_ref": "01010004",
+          "end_ref_usfm": "GEN 10:4"
+        },
+        {
+          "start_ref": "27011030",
+          "start_ref_usfm": "DAN 11:30",
+          "end_ref": "27011030",
+          "end_ref_usfm": "DAN 11:30"
         }
       ],
       "resource": [
         {
-          "reference_id": 8231,
-          "content_id": 717332,
+          "reference_id": 3895,
+          "content_id": 759714,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Peregrinações no deserto",
+          "label": "Chipre",
           "language": "por"
         }
       ]

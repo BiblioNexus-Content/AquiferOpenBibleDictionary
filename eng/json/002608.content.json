@@ -1,34 +1,23 @@
 [
   {
-    "content_id": 5859,
-    "reference_id": 5027,
-    "title": "Hirah",
+    "content_id": 5858,
+    "reference_id": 5026,
+    "title": "Hippos",
     "media_type": "Text",
-    "index_reference": "hirah",
+    "index_reference": "hippos",
     "language": "eng",
-    "content": "<h1>HIRAH</h1><p>Adullamite and friend of Judah to whose house Judah went after he and his brothers sold Joseph (<a href=\"https://ref.ly/Gen38:1\">Gn 38:1</a>). He accompanied Judah to the sheepshearing after Judah’s wife died (v <a href=\"https://ref.ly/Gen38:12\">12</a>), and he served as the messenger to carry a kid from Judah to Tamar (v <a href=\"https://ref.ly/Gen38:20\">20</a>).</p>",
+    "content": "<h1>HIPPOS*</h1><p>One of the cities of the Decapolis (a loose confederation of 10 Greek cities) established in Palestine after the death of Alexander the Great (323 BC; also called Susitha); not mentioned in the Bible. Its location is in doubt, but most likely it was eight miles (12.8 kilometers) north of Gadara and four miles (6.4 kilometers) east of the Sea of Galilee near the road to Damascus. Its position was of strategic military importance in the defense of Jerusalem, while its location was also ideal for trading, from which it exported not only its merchandise but also Greek culture.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3958\" data-resourceType=\"TyndaleBibleDictionary\">Decapolis</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "01038001",
-          "start_ref_usfm": "GEN 38:1",
-          "end_ref": "01038001",
-          "end_ref_usfm": "GEN 38:1"
-        },
-        {
-          "start_ref": "01038012",
-          "start_ref_usfm": "GEN 38:12",
-          "end_ref": "01038012",
-          "end_ref_usfm": "GEN 38:12"
-        },
-        {
-          "start_ref": "01038020",
-          "start_ref_usfm": "GEN 38:20",
-          "end_ref": "01038020",
-          "end_ref_usfm": "GEN 38:20"
+          "reference_id": 3958,
+          "content_id": 4790,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Decapolis",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

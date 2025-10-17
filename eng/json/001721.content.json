@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 4974,
-    "reference_id": 4142,
-    "title": "Eldad",
+    "content_id": 4973,
+    "reference_id": 4141,
+    "title": "Eldaah",
     "media_type": "Text",
-    "index_reference": "eldad",
+    "index_reference": "eldaah",
     "language": "eng",
-    "content": "<h1>ELDAD</h1><p>Eldad was one of the 70 elders of Israel who were chosen to help Moses govern the people (<a href=\"https://ref.ly/Num11:26-Num11:27\">Numbers 11:26–27</a>). Eldad and another elder named Medad did not join the other 68 elders who gathered around the tabernacle when Moses called them. Even though they were not present at the gathering, they also received God&apos;s Spirit and began to prophesy.</p><p>Joshua did not want the authority of Moses to be challenged. So he asked Moses to stop them. Moses responded with great humility and understanding of God&apos;s will. He said, “<span>I wish that all the LORD’s people were prophets</span>” (<a href=\"https://ref.ly/Num11:29\">Numbers 11:29</a>).</p>",
+    "content": "<h1>ELDAAH</h1><p>Midian’s fifth son and a descendant of Abraham and his wife Keturah (<a href=\"https://ref.ly/Gen25:4\">Gn 25:4</a>; <a href=\"https://ref.ly/1Chr1:33\">1&nbsp;Chr 1:33</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04011029",
-          "start_ref_usfm": "NUM 11:29",
-          "end_ref": "04011029",
-          "end_ref_usfm": "NUM 11:29"
+          "start_ref": "01025004",
+          "start_ref_usfm": "GEN 25:4",
+          "end_ref": "01025004",
+          "end_ref_usfm": "GEN 25:4"
         },
         {
-          "start_ref": "04011026",
-          "start_ref_usfm": "NUM 11:26",
-          "end_ref": "04011027",
-          "end_ref_usfm": "NUM 11:27"
+          "start_ref": "13001033",
+          "start_ref_usfm": "1CH 1:33",
+          "end_ref": "13001033",
+          "end_ref_usfm": "1CH 1:33"
         }
       ],
       "resource": []

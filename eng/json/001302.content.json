@@ -1,27 +1,34 @@
 [
   {
-    "content_id": 4555,
-    "reference_id": 3723,
-    "title": "Chub",
+    "content_id": 4554,
+    "reference_id": 3722,
+    "title": "Chrysoprase, Chrysoprasus",
     "media_type": "Text",
-    "index_reference": "chub",
+    "index_reference": "chrysoprase, chrysoprasus",
     "language": "eng",
-    "content": "<h1>CHUB</h1><p>The King James Version spelling of Kub, a place in <a href=\"https://ref.ly/Ezek30:5\">Ezekiel 30:5</a> identified as Libya. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5818\" data-resourceType=\"TyndaleBibleDictionary\">Kub</span>.</p>",
+    "content": "<h1>CHRYSOPRASE, CHRYSOPRASUS*</h1><p>Light-green variety of chalcedony; mentioned as one of the gems in the foundation wall of the new Jerusalem (<a href=\"https://ref.ly/Rev21:20\">Rv 21:20</a>; kjv “chrysoprasus”). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7796\" data-resourceType=\"TyndaleBibleDictionary\">Stones, Precious</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "26030005",
-          "start_ref_usfm": "EZK 30:5",
-          "end_ref": "26030005",
-          "end_ref_usfm": "EZK 30:5"
+          "start_ref": "66021020",
+          "start_ref_usfm": "REV 21:20",
+          "end_ref": "66021020",
+          "end_ref_usfm": "REV 21:20"
         }
       ],
       "resource": [
         {
-          "reference_id": 5818,
-          "content_id": 6650,
+          "reference_id": 6313,
+          "content_id": 7145,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Kub",
+          "label": "Minerals and Metals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 7796,
+          "content_id": 8628,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Stones, Precious",
           "language": "eng"
         }
       ]

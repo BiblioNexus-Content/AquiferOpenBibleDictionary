@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 759935,
-    "reference_id": 6755,
-    "title": "Parnaque",
+    "content_id": 717210,
+    "reference_id": 6671,
+    "title": "Ônica",
     "media_type": "Text",
-    "index_reference": "parnaque",
+    "index_reference": "ônica",
     "language": "por",
-    "content": "<h1>PARNAQUE</h1><p>O pai de Elizafã da tribo de Zebulom (<a href=\"https://ref.ly/Num34:25\">Nm 34.25</a>).</p>",
+    "content": "<h1>ÔNICA</h1><p>Uma das especiarias cheirosas usadas no incenso sagrado do tabernáculo (<a href=\"https://ref.ly/Exod30:34\">Êxodo 30.34</a>). Não está claro a qual especiaria exata isso se refere. Alguns sugerem que a ônica vinha da concha de um certo mexilhão encontrado na Índia, que cheirava a almíscar quando queimado.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04034025",
-          "start_ref_usfm": "NUM 34:25",
-          "end_ref": "04034025",
-          "end_ref_usfm": "NUM 34:25"
+          "start_ref": "02030034",
+          "start_ref_usfm": "EXO 30:34",
+          "end_ref": "02030034",
+          "end_ref_usfm": "EXO 30:34"
         }
       ],
       "resource": []

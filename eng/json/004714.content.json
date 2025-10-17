@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 7978,
-    "reference_id": 7146,
-    "title": "Regem",
+    "content_id": 7976,
+    "reference_id": 7144,
+    "title": "Refuge, Cities of",
     "media_type": "Text",
-    "index_reference": "regem",
+    "index_reference": "refuge, cities of",
     "language": "eng",
-    "content": "<h1>REGEM</h1><p>Jahdai’s son and a descendant of Caleb (<a href=\"https://ref.ly/1Chr2:47\">1&nbsp;Chr 2:47</a>).</p>",
+    "content": "<h1>REFUGE, Cities of</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3738\" data-resourceType=\"TyndaleBibleDictionary\">Cities of Refuge</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "13002047",
-          "start_ref_usfm": "1CH 2:47",
-          "end_ref": "13002047",
-          "end_ref_usfm": "1CH 2:47"
+          "reference_id": 3738,
+          "content_id": 4570,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Cities of Refuge",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

@@ -1,84 +1,70 @@
 [
   {
-    "content_id": 682867,
-    "reference_id": 3141,
-    "title": "Padeiro",
+    "content_id": 716991,
+    "reference_id": 3988,
+    "title": "O destruidor",
     "media_type": "Text",
-    "index_reference": "padeiro",
+    "index_reference": "o destruidor",
     "language": "por",
-    "content": "<h1> PADEIRO</h1><p>Aquele que prepara comida. Nos tempos bíblicos, o padeiro trabalhava:</p><ul><li><p>em casa (<a href=\"https://ref.ly/Gen19:3\">Gn 19.3</a>),</p></li><li><p>na padaria pública (<a href=\"https://ref.ly/Jer37:21\">Jr 37.21</a>), e</p></li><li><p>nos palácios de reis e nobres (<a href=\"https://ref.ly/Gen40:1-Gen40:22\">Gn 40.1–22</a>; <a href=\"https://ref.ly/Gen41:10,Gen41:13\">41.10,13</a>; <a href=\"https://ref.ly/1Sam8:13\">1Sm 8.13</a>)</p></li></ul><p>Eles faziam pão e bolos a partir dos alimentos básicos de óleo e farinha. Os israelitas, ao fugirem do Egito, assaram pão sem fermento para sua jornada (<a href=\"https://ref.ly/Exod12:39\">Êx 12.39</a>). O pão e os bolos eram assados em uma panela ou forno (<a href=\"https://ref.ly/Lev2:4\">Lv 2.4</a>; <a href=\"https://ref.ly/Lev26:26\">26.26</a>). À medida que a sociedade israelita se desenvolveu, padeiros profissionais trabalhavam e formavam guildas. Alguns argumentaram que Oseias era padeiro por causa de seu conhecimento das técnicas de panificação (<a href=\"https://ref.ly/Hos7:4-Hos7:8\">Os 7.4–8</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Alimentos e preparação de alimentos</span>.</p>",
+    "content": "<h1>O DESTRUIDOR</h1><ol><li><p>Um agente divino enviado para executar uma sentença de destruição. O destruidor matou o primogênito do Egito, encerrando as pragas e libertando os hebreus da escravidão (<a href=\"https://ref.ly/Exod12:23\">Êx 12.23</a>; compare <a href=\"https://ref.ly/Heb11:28\">Hb 11.28</a>). O apóstolo Paulo usou o termo para o julgamento de Deus sobre os israelitas rebeldes no deserto (<a href=\"https://ref.ly/1Cor10:10\">1Co 10.10</a>; compare <a href=\"https://ref.ly/Num16:44-Num16:50\">Nm 16.44–50</a>);</p></li><li><p>No plural, &quot;destruidores&quot; implica um grupo que causa destruição, sejam anjos ou humanos (<a href=\"https://ref.ly/Job33:22\">Jó 33.22</a>; <a href=\"https://ref.ly/Jer22:7\">Jr 22.7</a>);</p></li><li><p>De forma mais ampla, o &quot;destruidor&quot; é qualquer agente que causa destruição (<a href=\"https://ref.ly/Job15:21\">Jó 15.21</a>; <a href=\"https://ref.ly/Jer4:7\">Jr 4.7</a>);</p></li><li><p>Sansão foi chamado de destruidor pelos filisteus que o mantinham cativo (<a href=\"https://ref.ly/Judg16:24\">Jz 16.24</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01019003",
-          "start_ref_usfm": "GEN 19:3",
-          "end_ref": "01019003",
-          "end_ref_usfm": "GEN 19:3"
+          "start_ref": "02012023",
+          "start_ref_usfm": "EXO 12:23",
+          "end_ref": "02012023",
+          "end_ref_usfm": "EXO 12:23"
         },
         {
-          "start_ref": "01041010",
-          "start_ref_usfm": "GEN 41:10",
-          "end_ref": "01041010",
-          "end_ref_usfm": "GEN 41:10"
+          "start_ref": "07016024",
+          "start_ref_usfm": "JDG 16:24",
+          "end_ref": "07016024",
+          "end_ref_usfm": "JDG 16:24"
         },
         {
-          "start_ref": "01041013",
-          "start_ref_usfm": "GEN 41:13",
-          "end_ref": "01041013",
-          "end_ref_usfm": "GEN 41:13"
+          "start_ref": "18015021",
+          "start_ref_usfm": "JOB 15:21",
+          "end_ref": "18015021",
+          "end_ref_usfm": "JOB 15:21"
         },
         {
-          "start_ref": "02012039",
-          "start_ref_usfm": "EXO 12:39",
-          "end_ref": "02012039",
-          "end_ref_usfm": "EXO 12:39"
+          "start_ref": "18033022",
+          "start_ref_usfm": "JOB 33:22",
+          "end_ref": "18033022",
+          "end_ref_usfm": "JOB 33:22"
         },
         {
-          "start_ref": "03002004",
-          "start_ref_usfm": "LEV 2:4",
-          "end_ref": "03002004",
-          "end_ref_usfm": "LEV 2:4"
+          "start_ref": "24004007",
+          "start_ref_usfm": "JER 4:7",
+          "end_ref": "24004007",
+          "end_ref_usfm": "JER 4:7"
         },
         {
-          "start_ref": "03026026",
-          "start_ref_usfm": "LEV 26:26",
-          "end_ref": "03026026",
-          "end_ref_usfm": "LEV 26:26"
+          "start_ref": "24022007",
+          "start_ref_usfm": "JER 22:7",
+          "end_ref": "24022007",
+          "end_ref_usfm": "JER 22:7"
         },
         {
-          "start_ref": "09008013",
-          "start_ref_usfm": "1SA 8:13",
-          "end_ref": "09008013",
-          "end_ref_usfm": "1SA 8:13"
+          "start_ref": "46010010",
+          "start_ref_usfm": "1CO 10:10",
+          "end_ref": "46010010",
+          "end_ref_usfm": "1CO 10:10"
         },
         {
-          "start_ref": "24037021",
-          "start_ref_usfm": "JER 37:21",
-          "end_ref": "24037021",
-          "end_ref_usfm": "JER 37:21"
+          "start_ref": "58011028",
+          "start_ref_usfm": "HEB 11:28",
+          "end_ref": "58011028",
+          "end_ref_usfm": "HEB 11:28"
         },
         {
-          "start_ref": "01040001",
-          "start_ref_usfm": "GEN 40:1",
-          "end_ref": "01040022",
-          "end_ref_usfm": "GEN 40:22"
-        },
-        {
-          "start_ref": "28007004",
-          "start_ref_usfm": "HOS 7:4",
-          "end_ref": "28007008",
-          "end_ref_usfm": "HOS 7:8"
+          "start_ref": "04016044",
+          "start_ref_usfm": "NUM 16:44",
+          "end_ref": "04016050",
+          "end_ref_usfm": "NUM 16:50"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4454,
-          "content_id": 125261,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Comida E Preparação De Alimentos",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,27 +1,33 @@
 [
   {
-    "content_id": 4308,
-    "reference_id": 3476,
-    "title": "Bor-Ashan",
+    "content_id": 4307,
+    "reference_id": 3475,
+    "title": "Booz",
     "media_type": "Text",
-    "index_reference": "bor-ashan",
+    "index_reference": "booz",
     "language": "eng",
-    "content": "<h1>BOR-ASHAN</h1><p>Alternate name for Ashan, a town originally assigned to Judah’s tribe, in <a href=\"https://ref.ly/1Sam30:30\">1&nbsp;Samuel 30:30</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2958\" data-resourceType=\"TyndaleBibleDictionary\">Ashan</span>.</p>",
+    "content": "<h1>BOOZ</h1><p>The King James Version form of Boaz in <a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a> and <a href=\"https://ref.ly/Luke3:32\">Luke 3:32</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3451\" data-resourceType=\"TyndaleBibleDictionary\">Boaz (Person)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09030030",
-          "start_ref_usfm": "1SA 30:30",
-          "end_ref": "09030030",
-          "end_ref_usfm": "1SA 30:30"
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "42003032",
+          "start_ref_usfm": "LUK 3:32",
+          "end_ref": "42003032",
+          "end_ref_usfm": "LUK 3:32"
         }
       ],
       "resource": [
         {
-          "reference_id": 2958,
-          "content_id": 3790,
+          "reference_id": 3451,
+          "content_id": 4283,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ashan",
+          "label": "Boaz (Person)",
           "language": "eng"
         }
       ]

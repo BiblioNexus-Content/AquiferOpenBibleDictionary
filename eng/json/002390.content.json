@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 5645,
-    "reference_id": 4813,
-    "title": "Hanes",
+    "content_id": 5643,
+    "reference_id": 4811,
+    "title": "Hands, Washing of",
     "media_type": "Text",
-    "index_reference": "hanes",
+    "index_reference": "hands, washing of",
     "language": "eng",
-    "content": "<h1>HANES</h1><p>City in Egypt included with Zoan (or Tanis) in <a href=\"https://ref.ly/Isa30:4\">Isaiah 30:4</a> as a center of Egyptian government to which ambassadors would be sent. This indicates that it was one of the dynastic centers. It has been identified with Heracleopolis Magna, south of Memphis, the capital of northern Egypt in Roman times, and also with Heracleopolis Parva in the eastern delta region.</p>",
+    "content": "<h1>HANDS, Washing of</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4812\" data-resourceType=\"TyndaleBibleDictionary\">Hand</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "23030004",
-          "start_ref_usfm": "ISA 30:4",
-          "end_ref": "23030004",
-          "end_ref_usfm": "ISA 30:4"
+          "reference_id": 4812,
+          "content_id": 5644,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Hand",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

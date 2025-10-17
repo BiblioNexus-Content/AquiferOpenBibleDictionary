@@ -1,14 +1,27 @@
 [
   {
-    "content_id": 5831,
-    "reference_id": 4999,
-    "title": "Hexateuch",
+    "content_id": 5829,
+    "reference_id": 4997,
+    "title": "Hethlon",
     "media_type": "Text",
-    "index_reference": "hexateuch",
+    "index_reference": "hethlon",
     "language": "eng",
-    "content": "<h1>HEXATEUCH*</h1><p>Name meaning “the sixfold book,” given to a grouping of the first six books of the Bible. Biblical critics added Joshua to the Pentateuch, the fivefold book (Genesis through Deuteronomy), because the contents and style of Joshua connected it intimately with the literary elements of the Pentateuch, thus creating the Hexateuch.</p>",
+    "content": "<h1>HETHLON</h1><p>Site mentioned by Ezekiel (<a href=\"https://ref.ly/Ezek47:15\">Ez 47:15</a>; <a href=\"https://ref.ly/Ezek48:1\">48:1</a>) describing part of the northern boundary of the restored kingdom of Israel.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "26047015",
+          "start_ref_usfm": "EZK 47:15",
+          "end_ref": "26047015",
+          "end_ref_usfm": "EZK 47:15"
+        },
+        {
+          "start_ref": "26048001",
+          "start_ref_usfm": "EZK 48:1",
+          "end_ref": "26048001",
+          "end_ref_usfm": "EZK 48:1"
+        }
+      ],
       "resource": []
     }
   }

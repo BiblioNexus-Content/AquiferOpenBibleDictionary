@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 6455,
-    "reference_id": 5623,
-    "title": "Joshbekashah",
+    "content_id": 6454,
+    "reference_id": 5622,
+    "title": "Joshaviah",
     "media_type": "Text",
-    "index_reference": "joshbekashah",
+    "index_reference": "joshaviah",
     "language": "eng",
-    "content": "<h1>JOSHBEKASHAH</h1><p>Heman’s son and head of the 17th of 24 divisions of priestly musicians for ministry in the sanctuary during David’s reign (<a href=\"https://ref.ly/1Chr25:4,1Chr25:24\">1&nbsp;Chr 25:4, 24</a>).</p>",
+    "content": "<h1>JOSHAVIAH</h1><p>Elnaam’s son, the brother of Jeribai and one of David’s 30 valiant warriors (<a href=\"https://ref.ly/1Chr11:46\">1&nbsp;Chr 11:46</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13025004",
-          "start_ref_usfm": "1CH 25:4",
-          "end_ref": "13025004",
-          "end_ref_usfm": "1CH 25:4"
-        },
-        {
-          "start_ref": "13025024",
-          "start_ref_usfm": "1CH 25:24",
-          "end_ref": "13025024",
-          "end_ref_usfm": "1CH 25:24"
+          "start_ref": "13011046",
+          "start_ref_usfm": "1CH 11:46",
+          "end_ref": "13011046",
+          "end_ref_usfm": "1CH 11:46"
         }
       ],
       "resource": []

@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4414,
-    "reference_id": 3582,
-    "title": "Canticles",
+    "content_id": 4413,
+    "reference_id": 3581,
+    "title": "Canon of the Bible",
     "media_type": "Text",
-    "index_reference": "canticles",
+    "index_reference": "canon of the bible",
     "language": "eng",
-    "content": "<h1>CANTICLES</h1><p>Another title for the biblical book, Song of Songs (or Song of Solomon). The name comes from the Latin name of the book, <em>Canticum Canticorum </em>(which means &quot;Song of Songs&quot;)<em>.</em></p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7736\" data-resourceType=\"TyndaleBibleDictionary\">Song of Songs</span>.</p>",
+    "content": "<h1>CANON OF THE BIBLE</h1><p>The officially accepted list of books that make up the Christian Scriptures.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3392\" data-resourceType=\"TyndaleBibleDictionary\">Bible, Canon of the</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 7736,
-          "content_id": 8568,
+          "reference_id": 3392,
+          "content_id": 4224,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Song of Songs",
+          "label": "Bible, Canon of the",
           "language": "eng"
         }
       ]

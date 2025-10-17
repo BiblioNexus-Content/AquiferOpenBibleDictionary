@@ -1,31 +1,37 @@
 [
   {
-    "content_id": 805973,
-    "reference_id": 2973,
-    "title": "Aschkenaz",
+    "content_id": 822860,
+    "reference_id": 2892,
+    "title": "Ard, Ardite",
     "media_type": "Text",
-    "index_reference": "aschkenaz",
+    "index_reference": "ard, ardite",
     "language": "fra",
-    "content": "<h1>ASCHKENAZ</h1><p>Aschkenaz était le fils de Gomer. Il était l&apos;arrière-petit-fils de Noé par Japhet (<a href=\"https://ref.ly/Gen10:1-Gen10:3\">Gn 10.1</a>–<a href=\"https://ref.ly/Gen10:1-Gen10:3\">3</a> ; <a href=\"https://ref.ly/1Chr1:6\">1Ch 1.6</a>).</p><p>Aschkenaz est mentionné dans <a href=\"https://ref.ly/Jer51:27\">Jérémie 51.27 </a>avec Ararat et Minni. Cela montre qu&apos;Aschkenaz était probablement l&apos;ancêtre d&apos;un groupe appelé les Scythes. Les Scythes vivaient dans la région d&apos;Ararat à l&apos;époque de Jérémie. Ils étaient connus pour être de redoutables combattants et ont causé des problèmes à l&apos;Empire assyrien. Ils ont contribué à sa chute.</p><p>Aujourd&apos;hui, le nom <em>Ashkénazim</em> (la forme plurielle d&apos;Ashkénaze) a une signification différente. Il se réfère aux Juifs qui se sont installés en Europe centrale et orientale après avoir été contraints de quitter leur patrie. Cela les diffère des <em>Séfarades</em>, qui sont des Juifs ayant vécu en Espagne et au Portugal.</p>",
+    "content": "<h1>ARD, ARDIEN</h1><p>Le fils aîné de Benjamin, Béla, a eu neuf fils (<a href=\"https://ref.ly/1Chr8:1\">1Ch 8.1</a> ; <a href=\"https://ref.ly/Num26:40\">Nb 26.40</a>). Ard, l&apos;un de ces neuf fils, est appelé fils de Benjamin au sens hébreu, signifiant descendant (<a href=\"https://ref.ly/Gen46:21\">Gn 46.21</a>). Il était le fondateur de la famille des Ardiens, un groupe plus petit au sein de la plus grande tribu de Benjamin. Dans le livre de 1 Chroniques (<a href=\"https://ref.ly/1Chr8:3\">8.3</a>), Ard est appelé Addar. Cette différence d&apos;orthographe est probablement due à une erreur commise lors de la copie du texte il y a longtemps.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13001006",
-          "start_ref_usfm": "1CH 1:6",
-          "end_ref": "13001006",
-          "end_ref_usfm": "1CH 1:6"
+          "start_ref": "01046021",
+          "start_ref_usfm": "GEN 46:21",
+          "end_ref": "01046021",
+          "end_ref_usfm": "GEN 46:21"
         },
         {
-          "start_ref": "24051027",
-          "start_ref_usfm": "JER 51:27",
-          "end_ref": "24051027",
-          "end_ref_usfm": "JER 51:27"
+          "start_ref": "04026040",
+          "start_ref_usfm": "NUM 26:40",
+          "end_ref": "04026040",
+          "end_ref_usfm": "NUM 26:40"
         },
         {
-          "start_ref": "01010001",
-          "start_ref_usfm": "GEN 10:1",
-          "end_ref": "01010003",
-          "end_ref_usfm": "GEN 10:3"
+          "start_ref": "13008001",
+          "start_ref_usfm": "1CH 8:1",
+          "end_ref": "13008001",
+          "end_ref_usfm": "1CH 8:1"
+        },
+        {
+          "start_ref": "13008003",
+          "start_ref_usfm": "1CH 8:3",
+          "end_ref": "13008003",
+          "end_ref_usfm": "1CH 8:3"
         }
       ],
       "resource": []

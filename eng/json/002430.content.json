@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 5686,
-    "reference_id": 4854,
-    "title": "Harum",
+    "content_id": 5684,
+    "reference_id": 4852,
+    "title": "Hart",
     "media_type": "Text",
-    "index_reference": "harum",
+    "index_reference": "hart",
     "language": "eng",
-    "content": "<h1>HARUM</h1><p>Aharhel’s father from Judah’s tribe (<a href=\"https://ref.ly/1Chr4:8\">1&nbsp;Chr 4:8</a>).</p>",
+    "content": "<h1>HART</h1><p>A hart is an adult male red deer. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3964\" data-resourceType=\"TyndaleBibleDictionary\">Deer</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "13004008",
-          "start_ref_usfm": "1CH 4:8",
-          "end_ref": "13004008",
-          "end_ref_usfm": "1CH 4:8"
+          "reference_id": 3964,
+          "content_id": 4796,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Deer",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

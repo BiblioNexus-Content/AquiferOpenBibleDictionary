@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 6516,
-    "reference_id": 5684,
-    "title": "Kallai",
+    "content_id": 6515,
+    "reference_id": 5683,
+    "title": "Kaiwan",
     "media_type": "Text",
-    "index_reference": "kallai",
+    "index_reference": "kaiwan",
     "language": "eng",
-    "content": "<h1>KALLAI</h1><p>Priest and the head of Sallu’s (Sallai’s) priestly family during the days of Joiakim the high priest (<a href=\"https://ref.ly/Neh12:20\">Neh 12:20</a>).</p>",
+    "content": "<h1>KAIWAN</h1><p>Mesopotamian astral deity, called “Chiun” in the kjv and “Kiyyun” in the nasb (<a href=\"https://ref.ly/Amos5:26\">Am 5:26</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7266\" data-resourceType=\"TyndaleBibleDictionary\">Sakkuth</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16012020",
-          "start_ref_usfm": "NEH 12:20",
-          "end_ref": "16012020",
-          "end_ref_usfm": "NEH 12:20"
+          "start_ref": "30005026",
+          "start_ref_usfm": "AMO 5:26",
+          "end_ref": "30005026",
+          "end_ref_usfm": "AMO 5:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 7266,
+          "content_id": 8098,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Sakkuth",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

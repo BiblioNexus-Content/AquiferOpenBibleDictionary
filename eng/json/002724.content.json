@@ -1,37 +1,34 @@
 [
   {
-    "content_id": 5974,
-    "reference_id": 5142,
-    "title": "Ibis",
+    "content_id": 5973,
+    "reference_id": 5141,
+    "title": "Ibhar",
     "media_type": "Text",
-    "index_reference": "ibis",
+    "index_reference": "ibhar",
     "language": "eng",
-    "content": "<h1>IBIS</h1><p>The ibis (<em>Threskiornis aethiopica</em>) is a wading bird with a long, curved bill. This water bird is rare in the Holy Land today, but it might have lived there during Bible times. The ancient Egyptians considered the ibis sacred to their god Thoth (a god of wisdom and writing). The ibis has almost disappeared from Egypt now because the swamps along the Nile River have dried up.</p><p>Some Bible translations have identified the bird in <a href=\"https://ref.ly/Lev11:17\">Leviticus 11:17</a> as the ibis, which is classified as ceremonially unclean to eat. The same Hebrew word appears in <a href=\"https://ref.ly/Deut14:16\">Deuteronomy 14:16</a> and <a href=\"https://ref.ly/Isa34:11\">Isaiah 34:11</a>, where most Bible translations use &quot;great owl&quot; instead of &quot;ibis.&quot; Most Bible scholars today prefer the &quot;great owl&quot; translation.</p><p><em>See also </em><span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Birds</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4702\" data-resourceType=\"TyndaleBibleDictionary\">Great Owl</span>.</p>",
+    "content": "<h1>IBHAR</h1><p>A son born to David during his rule in Jerusalem (<a href=\"https://ref.ly/2Sam5:15\">2&nbsp;Samuel 5:15</a>; <a href=\"https://ref.ly/1Chr3:6\">1&nbsp;Chronicles 3:6</a>; <a href=\"https://ref.ly/1Chr14:5\">14:5</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "03011017",
-          "start_ref_usfm": "LEV 11:17",
-          "end_ref": "03011017",
-          "end_ref_usfm": "LEV 11:17"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 3418,
-          "content_id": 4250,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Birds",
-          "language": "eng"
+          "start_ref": "10005015",
+          "start_ref_usfm": "2SA 5:15",
+          "end_ref": "10005015",
+          "end_ref_usfm": "2SA 5:15"
         },
         {
-          "reference_id": 4702,
-          "content_id": 5534,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Great Owl",
-          "language": "eng"
+          "start_ref": "13003006",
+          "start_ref_usfm": "1CH 3:6",
+          "end_ref": "13003006",
+          "end_ref_usfm": "1CH 3:6"
+        },
+        {
+          "start_ref": "13014005",
+          "start_ref_usfm": "1CH 14:5",
+          "end_ref": "13014005",
+          "end_ref_usfm": "1CH 14:5"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

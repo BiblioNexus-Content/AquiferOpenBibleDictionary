@@ -1,28 +1,60 @@
 [
   {
-    "content_id": 4385,
-    "reference_id": 3553,
-    "title": "Calah",
+    "content_id": 4382,
+    "reference_id": 3550,
+    "title": "Cainan",
     "media_type": "Text",
-    "index_reference": "calah",
+    "index_reference": "cainan",
     "language": "eng",
-    "content": "<h1>CALAH</h1><p>One of the ancient capital cities of Assyria built by Nimrod (<a href=\"https://ref.ly/Gen10:11-Gen10:12\">Gn 10:11–12</a>). Calah is the ancient name for modern Nimrud, which is located 24 miles (38.6 kilometers) south of Nineveh on the east bank of the Tigris River. It was excavated by Henry Layard from 1845 to 1849 and by the British School of Archaeology in Iraq from 1949 to 1964. The site was occupied from prehistoric times down to the Hellenistic period.</p><p>Excavations at Calah revealed a large ziggurat and temples dedicated to Ninurta and Nabu. A large citadel constructed by Shalmaneser I in the 13th century BC and a palace built by Ashurnasirpal II (883–859 BC) were also uncovered there. Palaces of Shalmaneser III (858–824 BC) and Esarhaddon (680–669 BC) were partially cleared. Among other notable discoveries from the city is the black obelisk of Shalmaneser III, which is presently in the British Museum. The monument is important to biblical studies because of its record of tribute paid by King Jehu of Israel to the Assyrians.</p><p>Tiglath-pileser III (745–727 BC) and Sargon II (721–705 BC) launched their attacks on Israel and Judah from Calah. Sargon captured Samaria. Tiglath-pileser was involved with Judah when Ahaz formed a coalition with him against Israel and Syria (<a href=\"https://ref.ly/Isa7:1-Isa7:17\">Is 7:1–17</a>). Calah was eventually destroyed by the Babylonians and Medes in 612 BC.</p>",
+    "content": "<h1>CAINAN</h1><ol><li><p>A son of Arphaxad (<a href=\"https://ref.ly/Luke3:36\">Luke 3:36</a>; <a href=\"https://ref.ly/Gen10:24\">Genesis 10:24</a>, in the Septuagint; <a href=\"https://ref.ly/Gen11:12-Gen11:13\">11:12</a><a href=\"https://ref.ly/Gen11:12-Gen11:13\">–</a><a href=\"https://ref.ly/Gen11:12-Gen11:13\">13</a>).</p></li><li><p>Adam’s great-grandson, also called Kenan (<a href=\"https://ref.ly/Gen5:9-Gen5:14\">Genesis 5:9</a><a href=\"https://ref.ly/Gen5:9-Gen5:14\">–</a><a href=\"https://ref.ly/Gen5:9-Gen5:14\">14</a>; <a href=\"https://ref.ly/1Chr1:2\">1&nbsp;Chronicles 1:2</a>; <a href=\"https://ref.ly/Luke3:37\">Luke 3:37</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5714\" data-resourceType=\"TyndaleBibleDictionary\">Kenan</span>.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010011",
-          "start_ref_usfm": "GEN 10:11",
-          "end_ref": "01010012",
-          "end_ref_usfm": "GEN 10:12"
+          "start_ref": "01010024",
+          "start_ref_usfm": "GEN 10:24",
+          "end_ref": "01010024",
+          "end_ref_usfm": "GEN 10:24"
         },
         {
-          "start_ref": "23007001",
-          "start_ref_usfm": "ISA 7:1",
-          "end_ref": "23007017",
-          "end_ref_usfm": "ISA 7:17"
+          "start_ref": "13001002",
+          "start_ref_usfm": "1CH 1:2",
+          "end_ref": "13001002",
+          "end_ref_usfm": "1CH 1:2"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
+        },
+        {
+          "start_ref": "42003037",
+          "start_ref_usfm": "LUK 3:37",
+          "end_ref": "42003037",
+          "end_ref_usfm": "LUK 3:37"
+        },
+        {
+          "start_ref": "01011012",
+          "start_ref_usfm": "GEN 11:12",
+          "end_ref": "01011013",
+          "end_ref_usfm": "GEN 11:13"
+        },
+        {
+          "start_ref": "01005009",
+          "start_ref_usfm": "GEN 5:9",
+          "end_ref": "01005014",
+          "end_ref_usfm": "GEN 5:14"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5714,
+          "content_id": 6546,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Kenan",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

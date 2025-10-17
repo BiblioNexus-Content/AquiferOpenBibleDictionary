@@ -1,30 +1,40 @@
 [
   {
-    "content_id": 7262,
-    "reference_id": 6430,
-    "title": "Naamite",
+    "content_id": 7261,
+    "reference_id": 6429,
+    "title": "Naamathite",
     "media_type": "Text",
-    "index_reference": "naamite",
+    "index_reference": "naamathite",
     "language": "eng",
-    "content": "<h1>NAAMITE</h1><p>Any descendant of Naaman, the son of Bela from the tribe of Benjamin (<a href=\"https://ref.ly/Num26:40\">Numbers 26:40</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6428\" data-resourceType=\"TyndaleBibleDictionary\">Naaman #1</span>.</p>",
+    "content": "<h1>NAAMATHITE</h1><p>Any resident of Naamah in northwest Arabia. Zophar, one of the friends of Job, was a Naamathite (<a href=\"https://ref.ly/Job2:11\">Job 2:11</a>; <a href=\"https://ref.ly/Job11:1\">11:1</a>; <a href=\"https://ref.ly/Job20:1\">20:1</a>; <a href=\"https://ref.ly/Job42:9\">42:9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026040",
-          "start_ref_usfm": "NUM 26:40",
-          "end_ref": "04026040",
-          "end_ref_usfm": "NUM 26:40"
+          "start_ref": "18002011",
+          "start_ref_usfm": "JOB 2:11",
+          "end_ref": "18002011",
+          "end_ref_usfm": "JOB 2:11"
+        },
+        {
+          "start_ref": "18011001",
+          "start_ref_usfm": "JOB 11:1",
+          "end_ref": "18011001",
+          "end_ref_usfm": "JOB 11:1"
+        },
+        {
+          "start_ref": "18020001",
+          "start_ref_usfm": "JOB 20:1",
+          "end_ref": "18020001",
+          "end_ref_usfm": "JOB 20:1"
+        },
+        {
+          "start_ref": "18042009",
+          "start_ref_usfm": "JOB 42:9",
+          "end_ref": "18042009",
+          "end_ref_usfm": "JOB 42:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6428,
-          "content_id": 7260,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Naaman",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

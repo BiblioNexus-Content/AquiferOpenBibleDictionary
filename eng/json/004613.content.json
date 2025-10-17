@@ -1,42 +1,15 @@
 [
   {
-    "content_id": 7877,
-    "reference_id": 7045,
-    "title": "Qesitah",
+    "content_id": 7876,
+    "reference_id": 7044,
+    "title": "Qere",
     "media_type": "Text",
-    "index_reference": "qesitah",
+    "index_reference": "qere",
     "language": "eng",
-    "content": "<h1>QESITAH*</h1><p>Weight of unknown value (<a href=\"https://ref.ly/Gen33:19\">Gn 33:19</a>; <a href=\"https://ref.ly/Josh24:32\">Jos 24:32</a>; <a href=\"https://ref.ly/Job42:11\">Jb 42:11</a>, rsv mg). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6362\" data-resourceType=\"TyndaleBibleDictionary\">Money</span>.</p>",
+    "content": "<h1>QERE</h1><p>An Aramaic word meaning “what is&nbsp;to be read.” Until the time of the Masoretes (medieval Jewish scribes), the Hebrew Bible was written only with consonants. The Masoretes, however, thought that the vowels would make the Scriptures easier to read. So, they began to write them&nbsp;with the vowels. </p><p>When they copied a word they thought was unclear as it was written, they would put the word in the margin with other vowels, changing the meaning or intent. The word that was written in the text was called the &quot;Ketib,” and what was to be read was “Qere.” The qere was the word written in the margins.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "01033019",
-          "start_ref_usfm": "GEN 33:19",
-          "end_ref": "01033019",
-          "end_ref_usfm": "GEN 33:19"
-        },
-        {
-          "start_ref": "06024032",
-          "start_ref_usfm": "JOS 24:32",
-          "end_ref": "06024032",
-          "end_ref_usfm": "JOS 24:32"
-        },
-        {
-          "start_ref": "18042011",
-          "start_ref_usfm": "JOB 42:11",
-          "end_ref": "18042011",
-          "end_ref_usfm": "JOB 42:11"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 6362,
-          "content_id": 7194,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Money",
-          "language": "eng"
-        }
-      ]
+      "passage": [],
+      "resource": []
     }
   }
 ]

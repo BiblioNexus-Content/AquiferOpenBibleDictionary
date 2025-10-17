@@ -1,37 +1,25 @@
 [
   {
-    "content_id": 7150,
-    "reference_id": 6318,
-    "title": "Minstrel",
+    "content_id": 7148,
+    "reference_id": 6316,
+    "title": "Minnith",
     "media_type": "Text",
-    "index_reference": "minstrel",
+    "index_reference": "minnith",
     "language": "eng",
-    "content": "<h1>MINSTREL</h1><p>An old term for a musician (<a href=\"https://ref.ly/2Kgs3:15\">2&nbsp;Kings 3:15</a>; <a href=\"https://ref.ly/Ps68:25\">Psalm 68:25</a>; <a href=\"https://ref.ly/Matt9:23\">Matthew 9:23</a>; <a href=\"https://ref.ly/Rev18:22\">Revelation 18:22</a>).</p>",
+    "content": "<h1>MINNITH</h1><p>One of the 10 cities conquered by Jephthah in his defeat of the Ammonites (<a href=\"https://ref.ly/Judg11:33\">Jgs 11:33</a>). The city was a center for the wheat trade (<a href=\"https://ref.ly/Ezek27:17\">Ez 27:17</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12003015",
-          "start_ref_usfm": "2KI 3:15",
-          "end_ref": "12003015",
-          "end_ref_usfm": "2KI 3:15"
+          "start_ref": "07011033",
+          "start_ref_usfm": "JDG 11:33",
+          "end_ref": "07011033",
+          "end_ref_usfm": "JDG 11:33"
         },
         {
-          "start_ref": "19068025",
-          "start_ref_usfm": "PSA 68:25",
-          "end_ref": "19068025",
-          "end_ref_usfm": "PSA 68:25"
-        },
-        {
-          "start_ref": "40009023",
-          "start_ref_usfm": "MAT 9:23",
-          "end_ref": "40009023",
-          "end_ref_usfm": "MAT 9:23"
-        },
-        {
-          "start_ref": "66018022",
-          "start_ref_usfm": "REV 18:22",
-          "end_ref": "66018022",
-          "end_ref_usfm": "REV 18:22"
+          "start_ref": "26027017",
+          "start_ref_usfm": "EZK 27:17",
+          "end_ref": "26027017",
+          "end_ref_usfm": "EZK 27:17"
         }
       ],
       "resource": []

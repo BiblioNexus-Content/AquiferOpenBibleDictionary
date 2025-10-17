@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 4966,
-    "reference_id": 4134,
-    "title": "Elasah",
+    "content_id": 4967,
+    "reference_id": 4135,
+    "title": "Elasa",
     "media_type": "Text",
-    "index_reference": "elasah",
+    "index_reference": "elasa",
     "language": "eng",
-    "content": "<h1>ELASAH</h1><p>1. Priest of Pashhur’s clan who obeyed Ezra’s exhortation to divorce his pagan wife after the exile (<a href=\"https://ref.ly/Ezra10:22\">Ezr 10:22</a>).</p><p>2. Shaphan’s son and King Zedekiah’s envoy to King Nebuchadnezzar of Babylon. On his trip to Babylon, Elasah also carried a letter of encouragement from the prophet Jeremiah to the Jewish exiles there (<a href=\"https://ref.ly/Jer29:3\">Jer 29:3</a>).</p>",
+    "content": "<h1>ELASA</h1><p>Mentioned in <a href=\"https://ref.ly/1Macc9:5\">1&nbsp;Maccabees 9:5</a> as the place where Judas Maccabeus pitched his tents when Bacchides engaged him in battle and Judas was killed (<a href=\"https://ref.ly/1Macc9:18\">9:18</a>). It is usually identified with Il’asa near Beth-horon.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15010022",
-          "start_ref_usfm": "EZR 10:22",
-          "end_ref": "15010022",
-          "end_ref_usfm": "EZR 10:22"
+          "start_ref": "78009005",
+          "start_ref_usfm": "1MA 9:5",
+          "end_ref": "78009005",
+          "end_ref_usfm": "1MA 9:5"
         },
         {
-          "start_ref": "24029003",
-          "start_ref_usfm": "JER 29:3",
-          "end_ref": "24029003",
-          "end_ref_usfm": "JER 29:3"
+          "start_ref": "78009018",
+          "start_ref_usfm": "1MA 9:18",
+          "end_ref": "78009018",
+          "end_ref_usfm": "1MA 9:18"
         }
       ],
       "resource": []

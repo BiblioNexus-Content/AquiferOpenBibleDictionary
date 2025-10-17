@@ -1,37 +1,37 @@
 [
   {
-    "content_id": 815890,
-    "reference_id": 3174,
-    "title": "Barjesus",
+    "content_id": 815889,
+    "reference_id": 3171,
+    "title": "Bárbaro",
     "media_type": "Text",
-    "index_reference": "barjesus",
+    "index_reference": "bárbaro",
     "language": "por",
-    "content": "<h1>BARJESUS</h1><p>Um feiticeiro judeu e um “falso profeta” (alguém que falsamente afirmava falar por Deus). Ele trabalhava com o governador de Pafos na ilha de Chipre (<a href=\"https://ref.ly/Acts13:6\">At 13.6</a>). Quando o governador, Sérgio Paulo, se interessou pela mensagem de Paulo e Barnabé, Barjesus tentou afastá-lo dos ensinamentos deles. Paulo confrontou Barjesus, chamando-o de &quot;filho do diabo&quot; e prevendo que ele ficaria temporariamente cego como punição de Deus. Imediatamente, Barjesus foi atingido pela cegueira (<a href=\"https://ref.ly/Acts13:7-Acts13:12\">At 13.7–12</a>). O governador parece ter se convertido ao Cristianismo.</p><p>Naquela época, muitas pessoas que acreditavam facilmente em eventos sobrenaturais eram influenciadas por aqueles que afirmavam ter poderes especiais, como Barjesus (compare <a href=\"https://ref.ly/Acts8:9-Acts8:11\">At 8.9–11</a>). O termo &quot;feiticeiro&quot; usado para ele significava mais do que apenas mágico; frequentemente se referia a um homem sábio cujo conhecimento era considerado superior ao da maioria dos outros na sociedade.</p><p>Barjesus também era conhecido pelo seu nome grego, Elimas (<a href=\"https://ref.ly/Acts13:8\">At 13.8</a>). Judeus com conexões à cultura grega frequentemente adotavam nomes gregos. Alguns acreditam que Elimas vem de uma palavra aramaica para &quot;forte&quot; e uma palavra árabe para &quot;sábio&quot;, que também pode significar &quot;mágico&quot;.</p>",
+    "content": "<h1>BÁRBARO</h1><p>Um estrangeiro, especialmente alguém de uma cultura não considerada avançada ou desenvolvida. A palavra grega &quot;<em>barbarous</em>&quot;, que traduzimos como &quot;bárbaro&quot;, originalmente veio do som repetido sem sentido &quot;<em>bar-bar</em>&quot;. Esse som imita os sons desconhecidos das línguas estrangeiras. Os gregos se viam como o povo mais culto e usavam o termo para descrever qualquer pessoa que não fosse grega. Os romanos, que adotaram a cultura grega e se viam como iguais aos gregos, também usavam &quot;bárbaro&quot; para se referir a pessoas que não compartilhavam suas línguas ou costumes.</p><p>No Novo Testamento, a palavra &quot;bárbaro&quot; revela seus diferentes significados. A relação com a linguagem é evidente em uma declaração sobre o falar em línguas do Espírito Santo. Em <a href=\"https://ref.ly/1Cor14:11\">1 Coríntios 14.11,</a> Paulo menciona que se a linguagem espiritual de um cristão não for entendida, isso faria do orador um &quot;bárbaro&quot; para Paulo e vice-versa. Em <a href=\"https://ref.ly/Acts28:2-Acts28:4\">Atos 28.2–4</a>, Lucas descreve o povo de Malta como &quot;bárbaro&quot;, mas isso não foi para ser insultante. Em vez disso, destacou a bondade deles para com Paulo após seu naufrágio.</p><p>Paulo também usou o termo em um sentido mais amplo greco-romano, afirmando que estava em dívida tanto com gregos quanto com bárbaros (<a href=\"https://ref.ly/Rom1:14\">Rm 1.14</a>). Paulo enfatizou que o evangelho de Jesus Cristo é para todos, dizendo: “Aqui não há grego nem judeu, circuncidado ou incircuncidado, bárbaro, cita, escravo ou livre, mas Cristo é tudo e está em todos” (<a href=\"https://ref.ly/Col3:11\">Cl 3.11</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44013006",
-          "start_ref_usfm": "ACT 13:6",
-          "end_ref": "44013006",
-          "end_ref_usfm": "ACT 13:6"
+          "start_ref": "45001014",
+          "start_ref_usfm": "ROM 1:14",
+          "end_ref": "45001014",
+          "end_ref_usfm": "ROM 1:14"
         },
         {
-          "start_ref": "44013008",
-          "start_ref_usfm": "ACT 13:8",
-          "end_ref": "44013008",
-          "end_ref_usfm": "ACT 13:8"
+          "start_ref": "46014011",
+          "start_ref_usfm": "1CO 14:11",
+          "end_ref": "46014011",
+          "end_ref_usfm": "1CO 14:11"
         },
         {
-          "start_ref": "44013007",
-          "start_ref_usfm": "ACT 13:7",
-          "end_ref": "44013012",
-          "end_ref_usfm": "ACT 13:12"
+          "start_ref": "51003011",
+          "start_ref_usfm": "COL 3:11",
+          "end_ref": "51003011",
+          "end_ref_usfm": "COL 3:11"
         },
         {
-          "start_ref": "44008009",
-          "start_ref_usfm": "ACT 8:9",
-          "end_ref": "44008011",
-          "end_ref_usfm": "ACT 8:11"
+          "start_ref": "44028002",
+          "start_ref_usfm": "ACT 28:2",
+          "end_ref": "44028004",
+          "end_ref_usfm": "ACT 28:4"
         }
       ],
       "resource": []

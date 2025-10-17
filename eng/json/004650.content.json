@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 7914,
-    "reference_id": 7082,
-    "title": "Rain",
+    "content_id": 7912,
+    "reference_id": 7080,
+    "title": "Rahel",
     "media_type": "Text",
-    "index_reference": "rain",
+    "index_reference": "rahel",
     "language": "eng",
-    "content": "<h1>RAIN</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6726\" data-resourceType=\"TyndaleBibleDictionary\">Palestine (Climate)</span>.</p>",
+    "content": "<h1>RAHEL*</h1><p>KJV spelling of Rachel, Jacob’s wife, in <a href=\"https://ref.ly/Jer31:15\">Jeremiah 31:15</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7073\" data-resourceType=\"TyndaleBibleDictionary\">Rachel</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 6726,
-          "content_id": 7558,
+          "reference_id": 7073,
+          "content_id": 7905,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Palestine",
+          "label": "Rachel",
           "language": "eng"
         }
       ]

@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 4845,
-    "reference_id": 4013,
-    "title": "Dimnah",
+    "content_id": 4844,
+    "reference_id": 4012,
+    "title": "Dill",
     "media_type": "Text",
-    "index_reference": "dimnah",
+    "index_reference": "dill",
     "language": "eng",
-    "content": "<h1>DIMNAH</h1><p>Alternate name for Rimmon, a Levitical city in Zebulun’s territory, in <a href=\"https://ref.ly/Josh21:35\">Joshua 21:35</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7210\" data-resourceType=\"TyndaleBibleDictionary\">Rimmon (Place) #2</span>.</p>",
+    "content": "<h1>DILL</h1><p>Dill (<em>Anethum graveolens</em>) is a weedy annual plant that looks similar to parsley and fennel. It grows 30.5 to 50.8 centimeters (12 to 20 inches) tall and has yellow flowers. People used dill as a general seasoning, especially for pickles. It also had some medical uses. This plant is grown in many places for its seeds. The seeds have a strong, pleasant smell and help with digestion.</p><p>The King James Version translates the Greek word <em>anēthon </em>in<em> </em><a href=\"https://ref.ly/Matt23:23\">Matthew 23:23</a> as &quot;anise&quot; instead of &quot;dill.&quot; This is considered incorrect by most scholars. </p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "06021035",
-          "start_ref_usfm": "JOS 21:35",
-          "end_ref": "06021035",
-          "end_ref_usfm": "JOS 21:35"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 7210,
-          "content_id": 8042,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Rimmon (Place)",
+          "reference_id": 6929,
+          "content_id": 7761,
+          "resource_code": "Unknown",
+          "label": "Plants",
           "language": "eng"
         }
       ]

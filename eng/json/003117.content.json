@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 6374,
-    "reference_id": 5542,
-    "title": "Jezoar",
+    "content_id": 6373,
+    "reference_id": 5541,
+    "title": "Jezliah",
     "media_type": "Text",
-    "index_reference": "jezoar",
+    "index_reference": "jezliah",
     "language": "eng",
-    "content": "<h1>JEZOAR*</h1><p>KJV rendering of Izhar, Helah’s son, in <a href=\"https://ref.ly/1Chr4:7\">1&nbsp;Chronicles 4:7</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5292\" data-resourceType=\"TyndaleBibleDictionary\">Izhar #2</span>.</p>",
+    "content": "<h1>JEZLIAH*</h1><p>KJV form of Izliah, Elpaal’s son, in <a href=\"https://ref.ly/1Chr8:18\">1&nbsp;Chronicles 8:18</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5293\" data-resourceType=\"TyndaleBibleDictionary\">Izliah</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13004007",
-          "start_ref_usfm": "1CH 4:7",
-          "end_ref": "13004007",
-          "end_ref_usfm": "1CH 4:7"
+          "start_ref": "13008018",
+          "start_ref_usfm": "1CH 8:18",
+          "end_ref": "13008018",
+          "end_ref_usfm": "1CH 8:18"
         }
       ],
       "resource": [
         {
-          "reference_id": 5292,
-          "content_id": 6124,
+          "reference_id": 5293,
+          "content_id": 6125,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Izhar",
+          "label": "Izliah",
           "language": "eng"
         }
       ]

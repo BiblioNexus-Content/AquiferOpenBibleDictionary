@@ -1,30 +1,76 @@
 [
   {
-    "content_id": 806011,
-    "reference_id": 4219,
-    "title": "Chêne de Paran",
+    "content_id": 811794,
+    "reference_id": 3141,
+    "title": "Boulanger",
     "media_type": "Text",
-    "index_reference": "chêne de paran",
+    "index_reference": "boulanger",
     "language": "fra",
-    "content": "<h1>CHÊNE DE PARAN</h1><p>Lieu situé à la lisière du désert de Paran, sans doute à l&apos;extrémité sud des montagnes de Séir dans la péninsule du Sinaï, l&apos;Arabie actuelle. Il s&apos;agissait du point le plus au sud où le roi Kedorlaomer et ses alliés ont mené leur raid punitif contre les rois rebelles de Sodome et Gomorrhe (<a href=\"https://ref.ly/Gen14:5-Gen14:6\">Gn 14.5–6</a>). <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4136\" data-resourceType=\"TyndaleBibleDictionary\">Élath</span>.</p>",
+    "content": "<h1>BOULANGER</h1><p>Celui qui prépare la nourriture et notamment le pain. À l&apos;époque biblique, le boulanger travaillait :</p><ul><li><p>Dans la maison (<a href=\"https://ref.ly/Gen19:3\">Gn 19.3</a>),</p></li><li><p>Dans la boulangerie publique (<a href=\"https://ref.ly/Jer37:21\">Jr 37.21</a>), et</p></li><li><p>Dans les palais des rois et des nobles (<a href=\"https://ref.ly/Gen40:1-Gen40:22\">Gn 40.1–22</a> ; <a href=\"https://ref.ly/Gen41:10,Gen41:13\">41.10, 13</a> ; <a href=\"https://ref.ly/1Sam8:13\">1S 8.13</a>)</p></li></ul><p>Ils faisaient du pain et des gâteaux à partir des produits de base que sont l&apos;huile et la farine. Les Israélites fuyant l&apos;Égypte ont cuit du pain sans levain pour leur voyage (<a href=\"https://ref.ly/Exod12:39\">Ex 12.39</a>). Le pain et les gâteaux étaient cuits dans une poêle ou un four (<a href=\"https://ref.ly/Lev2:4\">Lv 2.4</a> ; <a href=\"https://ref.ly/Lev26:26\">26.26</a>). Au fur et à mesure que la société israélite se développait, des boulangers professionnels travaillaient et formaient des guildes. Certains ont soutenu qu&apos;Osée était boulanger en raison de sa connaissance des techniques de cuisson (<a href=\"https://ref.ly/Hos7:4-Hos7:8\">Os 7.4–8</a>).</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Nourriture et préparation des aliments</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014005",
-          "start_ref_usfm": "GEN 14:5",
-          "end_ref": "01014006",
-          "end_ref_usfm": "GEN 14:6"
+          "start_ref": "01019003",
+          "start_ref_usfm": "GEN 19:3",
+          "end_ref": "01019003",
+          "end_ref_usfm": "GEN 19:3"
+        },
+        {
+          "start_ref": "01041010",
+          "start_ref_usfm": "GEN 41:10",
+          "end_ref": "01041010",
+          "end_ref_usfm": "GEN 41:10"
+        },
+        {
+          "start_ref": "01041013",
+          "start_ref_usfm": "GEN 41:13",
+          "end_ref": "01041013",
+          "end_ref_usfm": "GEN 41:13"
+        },
+        {
+          "start_ref": "02012039",
+          "start_ref_usfm": "EXO 12:39",
+          "end_ref": "02012039",
+          "end_ref_usfm": "EXO 12:39"
+        },
+        {
+          "start_ref": "03002004",
+          "start_ref_usfm": "LEV 2:4",
+          "end_ref": "03002004",
+          "end_ref_usfm": "LEV 2:4"
+        },
+        {
+          "start_ref": "03026026",
+          "start_ref_usfm": "LEV 26:26",
+          "end_ref": "03026026",
+          "end_ref_usfm": "LEV 26:26"
+        },
+        {
+          "start_ref": "09008013",
+          "start_ref_usfm": "1SA 8:13",
+          "end_ref": "09008013",
+          "end_ref_usfm": "1SA 8:13"
+        },
+        {
+          "start_ref": "24037021",
+          "start_ref_usfm": "JER 37:21",
+          "end_ref": "24037021",
+          "end_ref_usfm": "JER 37:21"
+        },
+        {
+          "start_ref": "01040001",
+          "start_ref_usfm": "GEN 40:1",
+          "end_ref": "01040022",
+          "end_ref_usfm": "GEN 40:22"
+        },
+        {
+          "start_ref": "28007004",
+          "start_ref_usfm": "HOS 7:4",
+          "end_ref": "28007008",
+          "end_ref_usfm": "HOS 7:8"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4136,
-          "content_id": 806006,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Élath",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 341298,
-    "reference_id": 7743,
-    "title": "Fils du tonnerre",
+    "content_id": 806010,
+    "reference_id": 4204,
+    "title": "Ellasar",
     "media_type": "Text",
-    "index_reference": "fils du tonnerre",
+    "index_reference": "ellasar",
     "language": "fra",
-    "content": "<h1>Fils du tonnerre</h1><p>Traduction du mot « Boanergès », le nom donné par Jésus à Jacques et Jean (<a href=\"https://ref.ly/Mark3:17\">Mc 3.17</a>). <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3447\" data-resourceType=\"TyndaleBibleDictionary\">Boanergès</span>.</p>",
+    "content": "<h1>ELLASAR</h1><p>Lieu en Babylonie ; certains érudits ont suggéré qu&apos;Arjoc en était le roi. Ce dernier a rejoint une coalition qui comprenait Kedorlaomer, roi d&apos;Élam. Ensemble ils ont pillé la vallée du Jourdain à l&apos;époque d&apos;Abraham (<a href=\"https://ref.ly/Gen14:1,Gen14:9\">Gn 14.1, 9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41003017",
-          "start_ref_usfm": "MRK 3:17",
-          "end_ref": "41003017",
-          "end_ref_usfm": "MRK 3:17"
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014001",
+          "end_ref_usfm": "GEN 14:1"
+        },
+        {
+          "start_ref": "01014009",
+          "start_ref_usfm": "GEN 14:9",
+          "end_ref": "01014009",
+          "end_ref_usfm": "GEN 14:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3447,
-          "content_id": 341252,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Boanerges",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

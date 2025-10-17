@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 4360,
-    "reference_id": 3528,
-    "title": "Bul",
+    "content_id": 4356,
+    "reference_id": 3524,
+    "title": "Bukkiah",
     "media_type": "Text",
-    "index_reference": "bul",
+    "index_reference": "bukkiah",
     "language": "eng",
-    "content": "<h1>BUL*</h1><p>Eighth month of the preexilic Canaanite calendar. In this month King Solomon’s temple was completed (<a href=\"https://ref.ly/1Kgs6:38\">1&nbsp;Kgs 6:38</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3559\" data-resourceType=\"TyndaleBibleDictionary\">Calendars, Ancient and Modern</span>.</p>",
+    "content": "<h1>BUKKIAH</h1><p>Heman’s eldest son, who served with his father and 13 brothers as a temple musician (<a href=\"https://ref.ly/1Chr25:4,1Chr25:13\">1&nbsp;Chr 25:4, 13</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11006038",
-          "start_ref_usfm": "1KI 6:38",
-          "end_ref": "11006038",
-          "end_ref_usfm": "1KI 6:38"
+          "start_ref": "13025004",
+          "start_ref_usfm": "1CH 25:4",
+          "end_ref": "13025004",
+          "end_ref_usfm": "1CH 25:4"
+        },
+        {
+          "start_ref": "13025013",
+          "start_ref_usfm": "1CH 25:13",
+          "end_ref": "13025013",
+          "end_ref_usfm": "1CH 25:13"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3559,
-          "content_id": 4391,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Calendars, Ancient and Modern",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

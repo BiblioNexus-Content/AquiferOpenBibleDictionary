@@ -1,37 +1,25 @@
 [
   {
-    "content_id": 7128,
-    "reference_id": 6296,
-    "title": "Mijamin",
+    "content_id": 7127,
+    "reference_id": 6295,
+    "title": "Migron",
     "media_type": "Text",
-    "index_reference": "mijamin",
+    "index_reference": "migron",
     "language": "eng",
-    "content": "<h1>MIJAMIN</h1><p>1. Priest who ministered during the time of David (<a href=\"https://ref.ly/1Chr24:9\">1&nbsp;Chr 24:9</a>).</p><p>2. Parosh’s son, who was encouraged by Ezra to divorce his foreign wife during the postexilic period (<a href=\"https://ref.ly/Ezra10:25\">Ezr 10:25</a>).</p><p>3. One of the priests who signed Ezra’s covenant during the postexilic period (<a href=\"https://ref.ly/Neh10:7\">Neh 10:7</a>).</p><p>4. Priest who returned to Jerusalem with Zerubbabel after the exile (<a href=\"https://ref.ly/Neh12:5\">Neh 12:5</a>, nlt “Miniamin”).</p>",
+    "content": "<h1>MIGRON</h1><p>Site where Saul rested under a pomegranate tree, near Gibeah (<a href=\"https://ref.ly/1Sam14:2\">1&nbsp;Sm 14:2</a>); also mentioned as part of the line of march of the Assyrians (<a href=\"https://ref.ly/Isa10:28\">Is 10:28</a>). The first reference is to a site south of Michmash, the second is probably north of Michmash. Some scholars, however, try to identify both with the site south of Michmash, though this is doubtful.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13024009",
-          "start_ref_usfm": "1CH 24:9",
-          "end_ref": "13024009",
-          "end_ref_usfm": "1CH 24:9"
+          "start_ref": "09014002",
+          "start_ref_usfm": "1SA 14:2",
+          "end_ref": "09014002",
+          "end_ref_usfm": "1SA 14:2"
         },
         {
-          "start_ref": "15010025",
-          "start_ref_usfm": "EZR 10:25",
-          "end_ref": "15010025",
-          "end_ref_usfm": "EZR 10:25"
-        },
-        {
-          "start_ref": "16010007",
-          "start_ref_usfm": "NEH 10:7",
-          "end_ref": "16010007",
-          "end_ref_usfm": "NEH 10:7"
-        },
-        {
-          "start_ref": "16012005",
-          "start_ref_usfm": "NEH 12:5",
-          "end_ref": "16012005",
-          "end_ref_usfm": "NEH 12:5"
+          "start_ref": "23010028",
+          "start_ref_usfm": "ISA 10:28",
+          "end_ref": "23010028",
+          "end_ref_usfm": "ISA 10:28"
         }
       ],
       "resource": []

@@ -1,22 +1,44 @@
 [
   {
-    "content_id": 7604,
-    "reference_id": 6772,
-    "title": "Patara",
+    "content_id": 7602,
+    "reference_id": 6770,
+    "title": "Pastoral Letters",
     "media_type": "Text",
-    "index_reference": "patara",
+    "index_reference": "pastoral letters",
     "language": "eng",
-    "content": "<h1>PATARA</h1><p>Patara was a seaport of the ancient region of Lycia, now located in modern Turkey. The ancient city was one of the largest and most prosperous of the region. It was a center of trade and business. A temple to Apollo stood in Patara. Remains of a theater and baths are still there. Common wind patterns made Patara a convenient place for ships to begin their voyages to the eastern Mediterranean. The apostle Paul changed ships at Patara on his final journey to Jerusalem (<a href=\"https://ref.ly/Acts21:1-Acts21:2\">Acts 21:1–2</a>).</p>",
+    "content": "<h1>PASTORAL LETTERS</h1><p>A term used by Bible scholars today to describe the letters 1 Timothy, 2&nbsp;Timothy, and Titus. In Christian tradition, these three writings have been grouped together since the second century. They are addressed to individuals rather than to churches, but the benediction (or blessing) at the end of each letter assumes a group of recipients. In general, the letters offer advice to their recipients about church order, false doctrine, leadership standards, and pastoral oversight of church life.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6782\" data-resourceType=\"TyndaleBibleDictionary\">Paul, The Apostle</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8022\" data-resourceType=\"TyndaleBibleDictionary\">Timothy, First Letter to</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8024\" data-resourceType=\"TyndaleBibleDictionary\">Timothy, Second Letter to</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8040\" data-resourceType=\"TyndaleBibleDictionary\">Titus, Letter to</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "44021001",
-          "start_ref_usfm": "ACT 21:1",
-          "end_ref": "44021002",
-          "end_ref_usfm": "ACT 21:2"
+          "reference_id": 6782,
+          "content_id": 7614,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Paul, the Apostle",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8022,
+          "content_id": 8854,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Timothy, First Letter to",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8024,
+          "content_id": 8856,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Timothy, Second Letter to",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8040,
+          "content_id": 8872,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Titus, Letter to",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

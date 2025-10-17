@@ -1,30 +1,34 @@
 [
   {
-    "content_id": 716945,
-    "reference_id": 3428,
-    "title": "Ervas amargas",
+    "content_id": 806199,
+    "reference_id": 4246,
+    "title": "Endor",
     "media_type": "Text",
-    "index_reference": "ervas amargas",
+    "index_reference": "endor",
     "language": "por",
-    "content": "<h1>ERVAS AMARGAS</h1><p>Ervas amargas são um tipo de vegetal de sabor amargo, possivelmente uma variedade de alface. O povo de Israel foi ordenado a comer ervas amargas junto com cordeiro assado e pão sem fermento na noite em que Deus enviou a praga da morte sobre todos os primogênitos egípcios (<a href=\"https://ref.ly/Exod12:8-Exod12:11\">Êx 12.8–11</a>).</p><p>As &quot;ervas amargas&quot; mencionadas em <a href=\"https://ref.ly/Exod12:8\">Êxodo 12.8</a> e <a href=\"https://ref.ly/Num9:11\">Números 9.11</a> provavelmente se referem a plantas como a escarola (<em>Cichorium endivia</em>), a chicória comum (<em>Cichorium intybus</em>), a alface (<em>Lactuca sativa</em>) ou o dente-de-leão comum (<em>Taraxacum officinale</em>). Todas essas são plantas daninhas comumente encontradas no Egito moderno e na Ásia Ocidental. As pessoas que vivem nessas regiões ainda consomem essas plantas atualmente.</p><p>As folhas da alface comum de jardim tornam-se muito amargas quando branqueadas (ficando brancas após serem cobertas a fim de impedir que a luz solar as alcance). Isso também é verdade para o dente-de-leão comum. Alguns estudiosos sugerem que as ervas amargas podem ter se originado de espinhos e cardos.</p>",
+    "content": "<h1>ENDOR</h1><p>Uma cidade antiga dos cananeus, a 6,5 quilômetros ao sul do Monte Tabor, atribuída à tribo de Manassés, embora nunca totalmente conquistada por eles (<a href=\"https://ref.ly/Josh17:11\">Js 17.11</a>). A cidade testemunhou a derrota de Jabim e Sísera por Baraque (<a href=\"https://ref.ly/Ps83:9-Ps83:10\">Sl 83.9–10</a>). Endor é mais conhecida como a morada da feiticeira que foi consultada pelo rei Saul (<a href=\"https://ref.ly/1Sam28:7\">1Sm 28.7</a>). Nessa ocasião, Saul se disfarçou porque sua jornada a Endor o levou perto do exército filisteu acampado em Suném.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02012008",
-          "start_ref_usfm": "EXO 12:8",
-          "end_ref": "02012011",
-          "end_ref_usfm": "EXO 12:11"
+          "start_ref": "06017011",
+          "start_ref_usfm": "JOS 17:11",
+          "end_ref": "06017011",
+          "end_ref_usfm": "JOS 17:11"
+        },
+        {
+          "start_ref": "09028007",
+          "start_ref_usfm": "1SA 28:7",
+          "end_ref": "09028007",
+          "end_ref_usfm": "1SA 28:7"
+        },
+        {
+          "start_ref": "19083009",
+          "start_ref_usfm": "PSA 83:9",
+          "end_ref": "19083010",
+          "end_ref_usfm": "PSA 83:10"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 125318,
-          "resource_code": "Unknown",
-          "label": "Plantas",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

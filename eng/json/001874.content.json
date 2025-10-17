@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 5131,
-    "reference_id": 4299,
-    "title": "Epistle",
+    "content_id": 5128,
+    "reference_id": 4296,
+    "title": "Epiphanes",
     "media_type": "Text",
-    "index_reference": "epistle",
+    "index_reference": "epiphanes",
     "language": "eng",
-    "content": "<h1>EPISTLE*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5893\" data-resourceType=\"TyndaleBibleDictionary\">Letter Writing, Ancient</span>.</p>",
+    "content": "<h1>EPIPHANES</h1><p>A name used to refer to Antiochus IV.  Epiphanes means the “Manifest God.” Alexander Balas also used the name Epiphanes in his claim to be king. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2806\" data-resourceType=\"TyndaleBibleDictionary\">Antiochus IV</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"2667\" data-resourceType=\"TyndaleBibleDictionary\">Alexander (Balas) Epiphanes</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5893,
-          "content_id": 6725,
+          "reference_id": 2667,
+          "content_id": 3499,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Letter Writing, Ancient",
+          "label": "Alexander (Balas) Epiphanes",
+          "language": "eng"
+        },
+        {
+          "reference_id": 2806,
+          "content_id": 3638,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Antiochus IV",
           "language": "eng"
         }
       ]

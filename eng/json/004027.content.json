@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 7285,
-    "reference_id": 6453,
-    "title": "Naham",
+    "content_id": 7283,
+    "reference_id": 6451,
+    "title": "Nahalol",
     "media_type": "Text",
-    "index_reference": "naham",
+    "index_reference": "nahalol",
     "language": "eng",
-    "content": "<h1>NAHAM</h1><p>Judahite chief and the brother of Hodiah’s wife (<a href=\"https://ref.ly/1Chr4:19\">1&nbsp;Chr 4:19</a>).</p>",
+    "content": "<h1>NAHALOL</h1><p>A city of Zebulun, in <a href=\"https://ref.ly/Judg1:30\">Judges 1:30</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6448\" data-resourceType=\"TyndaleBibleDictionary\">Nahalal</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13004019",
-          "start_ref_usfm": "1CH 4:19",
-          "end_ref": "13004019",
-          "end_ref_usfm": "1CH 4:19"
+          "start_ref": "07001030",
+          "start_ref_usfm": "JDG 1:30",
+          "end_ref": "07001030",
+          "end_ref_usfm": "JDG 1:30"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6448,
+          "content_id": 7280,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Nahalal",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

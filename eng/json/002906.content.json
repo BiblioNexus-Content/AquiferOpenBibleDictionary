@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 6160,
-    "reference_id": 5328,
-    "title": "Jackal",
+    "content_id": 6158,
+    "reference_id": 5326,
+    "title": "Jacinth",
     "media_type": "Text",
-    "index_reference": "jackal",
+    "index_reference": "jacinth",
     "language": "eng",
-    "content": "<h1>JACKAL</h1><p>Wolflike mammal known for its distinctive wail (<a href=\"https://ref.ly/Mic1:8\">Mi 1:8</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
+    "content": "<h1>JACINTH</h1><p>Precious stone mentioned in <a href=\"https://ref.ly/Rev21:20\">Revelation 21:20</a> as a foundation stone in the new Jerusalem. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7796\" data-resourceType=\"TyndaleBibleDictionary\">Stones, Precious</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "33001008",
-          "start_ref_usfm": "MIC 1:8",
-          "end_ref": "33001008",
-          "end_ref_usfm": "MIC 1:8"
+          "start_ref": "66021020",
+          "start_ref_usfm": "REV 21:20",
+          "end_ref": "66021020",
+          "end_ref_usfm": "REV 21:20"
         }
       ],
       "resource": [
         {
-          "reference_id": 2782,
-          "content_id": 3614,
+          "reference_id": 7796,
+          "content_id": 8628,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Animals",
+          "label": "Stones, Precious",
           "language": "eng"
         }
       ]

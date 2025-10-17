@@ -1,46 +1,97 @@
 [
   {
-    "content_id": 682995,
-    "reference_id": 5680,
-    "title": "Cadmoneus",
+    "content_id": 682994,
+    "reference_id": 5678,
+    "title": "Cades, Cades-Barneia",
     "media_type": "Text",
-    "index_reference": "cadmoneus",
+    "index_reference": "cades, cades-barneia",
     "language": "por",
-    "content": "<h1>CADMONEUS</h1><p>Uma tribo semítica cuja terra Deus prometeu aos descendentes de Abraão (<a href=\"https://ref.ly/Gen15:19\">Gn 15.19</a>). Os povos semíticos são grupos antigos do Oriente Médio e Norte da África, conhecidos por suas línguas compartilhadas (como hebraico, aramaico ou árabe) e tradições culturais. O nome &quot;cadmoneus&quot; significa &quot;oriental&quot; em hebraico. Isso pode ser o motivo pelo qual a Bíblia às vezes fala sobre a &quot;terra do Oriente&quot; (e.g. em <a href=\"https://ref.ly/Gen25:6\">Gn 25.6</a>; <a href=\"https://ref.ly/Judg8:10\">Jz 8.10</a>; <a href=\"https://ref.ly/1Kgs4:30\">1Rs 4.30</a>; <a href=\"https://ref.ly/Job1:3\">Jó 1.3</a>).</p>",
+    "content": "<h1>CADES, CADES-BARNEIA</h1><p>Lar dos israelitas errantes por quase 38 anos. Na vasta área do Sinai, há dois principais oásis: no sul está Wadi Feiran, perto da montanha de Moisés (Monte Sinai ou Horebe); no norte está Cades, ou Cades-Barneia. O primeiro foi o local onde a lei foi dada; o segundo, o principal acampamento das 12 tribos durante seu Êxodo do Egito (<a href=\"https://ref.ly/Deut1:46\">Dt 1.46</a>).</p><p>Cades-Barneia (<a href=\"https://ref.ly/Gen14:7\">Gn 14.7</a>, “En-Mispate”) foi invadida por Quedorlaomer, rei de Elão, durante o tempo de Abraão. Nesta área, Agar foi expulsa da tenda de Sara, sua senhora (<a href=\"https://ref.ly/Gen16:14\">16.14</a>), e aqui Miriã morreu e foi sepultada (<a href=\"https://ref.ly/Num20:1\">Nm 20.1</a>). A grande contenda sobre a água ocorreu aqui, dando origem ao nome Meribá ou Meribate-Cades (<a href=\"https://ref.ly/Num20:2-Num20:24\">Nm 20.2–24</a>; <a href=\"https://ref.ly/Deut32:51\">Dt 32.51</a>; <a href=\"https://ref.ly/Ezek47:19\">Ez 47.19</a>; <a href=\"https://ref.ly/Ezek48:28\">48.28</a>). Este também foi o cenário da rebelião de Corá contra a liderança de Moisés e Arão (<a href=\"https://ref.ly/Num16:1-Num17:13\">Nm 16–17</a>). Esta área permaneceria por muito tempo na memória das tribos israelitas como o lugar de sua incredulidade após o relatório dos 10 espiões e um atraso de 38 anos antes de ocuparem a Terra Prometida (<a href=\"https://ref.ly/Ps95:8-Ps95:11\">Sl 95.8–11</a>; cf. <a href=\"https://ref.ly/Heb3:7-Heb3:19\">Hb 3.7–19</a>).</p><p>Devido à água, pastagens e terras agrícolas, além de sua proximidade com Canaã, os israelitas consideraram esta área o melhor lugar para passar a maior parte do tempo antes de entrar na Terra Prometida.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6237\" data-resourceType=\"TyndaleBibleDictionary\">Meribá #2</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações no deserto</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01015019",
-          "start_ref_usfm": "GEN 15:19",
-          "end_ref": "01015019",
-          "end_ref_usfm": "GEN 15:19"
+          "start_ref": "01014007",
+          "start_ref_usfm": "GEN 14:7",
+          "end_ref": "01014007",
+          "end_ref_usfm": "GEN 14:7"
         },
         {
-          "start_ref": "01025006",
-          "start_ref_usfm": "GEN 25:6",
-          "end_ref": "01025006",
-          "end_ref_usfm": "GEN 25:6"
+          "start_ref": "01016014",
+          "start_ref_usfm": "GEN 16:14",
+          "end_ref": "01016014",
+          "end_ref_usfm": "GEN 16:14"
         },
         {
-          "start_ref": "07008010",
-          "start_ref_usfm": "JDG 8:10",
-          "end_ref": "07008010",
-          "end_ref_usfm": "JDG 8:10"
+          "start_ref": "04020001",
+          "start_ref_usfm": "NUM 20:1",
+          "end_ref": "04020001",
+          "end_ref_usfm": "NUM 20:1"
         },
         {
-          "start_ref": "11004030",
-          "start_ref_usfm": "1KI 4:30",
-          "end_ref": "11004030",
-          "end_ref_usfm": "1KI 4:30"
+          "start_ref": "05001046",
+          "start_ref_usfm": "DEU 1:46",
+          "end_ref": "05001046",
+          "end_ref_usfm": "DEU 1:46"
         },
         {
-          "start_ref": "18001003",
-          "start_ref_usfm": "JOB 1:3",
-          "end_ref": "18001003",
-          "end_ref_usfm": "JOB 1:3"
+          "start_ref": "05032051",
+          "start_ref_usfm": "DEU 32:51",
+          "end_ref": "05032051",
+          "end_ref_usfm": "DEU 32:51"
+        },
+        {
+          "start_ref": "26047019",
+          "start_ref_usfm": "EZK 47:19",
+          "end_ref": "26047019",
+          "end_ref_usfm": "EZK 47:19"
+        },
+        {
+          "start_ref": "26048028",
+          "start_ref_usfm": "EZK 48:28",
+          "end_ref": "26048028",
+          "end_ref_usfm": "EZK 48:28"
+        },
+        {
+          "start_ref": "04016001",
+          "start_ref_usfm": "NUM 16:1",
+          "end_ref": "04017013",
+          "end_ref_usfm": "NUM 17:13"
+        },
+        {
+          "start_ref": "58003007",
+          "start_ref_usfm": "HEB 3:7",
+          "end_ref": "58003019",
+          "end_ref_usfm": "HEB 3:19"
+        },
+        {
+          "start_ref": "04020002",
+          "start_ref_usfm": "NUM 20:2",
+          "end_ref": "04020024",
+          "end_ref_usfm": "NUM 20:24"
+        },
+        {
+          "start_ref": "19095008",
+          "start_ref_usfm": "PSA 95:8",
+          "end_ref": "19095011",
+          "end_ref_usfm": "PSA 95:11"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6237,
+          "content_id": 717172,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Meribá",
+          "language": "por"
+        },
+        {
+          "reference_id": 8231,
+          "content_id": 717332,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Peregrinações no deserto",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

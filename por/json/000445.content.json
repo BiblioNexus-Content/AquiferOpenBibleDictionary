@@ -1,98 +1,46 @@
 [
   {
-    "content_id": 717065,
-    "reference_id": 4857,
-    "title": "Colheita",
+    "content_id": 815921,
+    "reference_id": 3751,
+    "title": "Cláudio Lísias",
     "media_type": "Text",
-    "index_reference": "colheita",
+    "index_reference": "cláudio lísias",
     "language": "por",
-    "content": "<h1>COLHEITA</h1><p>A colheita é a coleta de plantações, especialmente para alimentação. No antigo Israel, diferentes culturas eram colhidas em diferentes épocas do ano. As azeitonas eram colhidas de setembro a novembro, o linho de março a abril, a cevada de abril a maio e o trigo de maio a junho. Frutas como figos e uvas eram colhidas no final do verão, em agosto ou setembro. O calendário dos israelitas era centrado em torno desses períodos de colheita (<a href=\"https://ref.ly/Judg15:1\">Jz 15.1</a>; <a href=\"https://ref.ly/Ruth1:22\">Rt 1.22</a>).</p><p>No Antigo Testamento, Pentecostes era um dos três principais festivais em que os israelitas se reuniam para celebrar a colheita (<a href=\"https://ref.ly/Exod23:16\">Êx 23.16</a>). Era um momento para lembrar que a terra que possuíam era um presente de Deus (<a href=\"https://ref.ly/Deut8:7-Deut8:10\">Dt 8.7–10</a>). Ao oferecerem os primeiros frutos de sua colheita (<a href=\"https://ref.ly/Lev23:10-Lev23:11\">Lv 23.10–11</a>), eles demonstravam gratidão a Deus e reconheciam sua dependência dele. Eles também eram instruídos a deixar parte de sua colheita para aqueles que necessitavam (<a href=\"https://ref.ly/Lev19:9-Lev19:10\">Lv 19.9–10</a>; <a href=\"https://ref.ly/Lev23:22\">23.22</a>).</p><p>No Novo Testamento, o termo &quot;colheita&quot; é frequentemente usado de forma figurativa. Por exemplo, em uma parábola, a colheita representa o julgamento final, onde os anjos separam os justos dos ímpios (<a href=\"https://ref.ly/Matt13:24-Matt13:30\">Mt 13.24–30</a>, <a href=\"https://ref.ly/Matt13:36-Matt13:43\">36–43</a>). Em outra ocasião, a colheita refere-se às pessoas que ainda não ouviram o evangelho, e os &quot;trabalhadores&quot; são aqueles que o compartilham com elas (<a href=\"https://ref.ly/Matt9:37-Matt9:38\">Mt 9.37–38</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2592\" data-resourceType=\"TyndaleBibleDictionary\">Agricultura</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4416\" data-resourceType=\"TyndaleBibleDictionary\">Festas e festivais de Israel</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8182\" data-resourceType=\"TyndaleBibleDictionary\">Videiras, vinhedos</span>.</p>",
+    "content": "<h1>CLÁUDIO LÍSIAS</h1><p>Comandante da guarnição romana em Jerusalém que escreveu uma carta ao procurador romano Félix a respeito do apóstolo Paulo (<a href=\"https://ref.ly/Acts23:26\">At 23.26</a>). Seu título em grego (<em>chiliarch</em>) o identifica como comandante de 1.000 tropas. Embora Cláudio Lísias seja desconhecido fora do NT, algumas informações sobre ele são fornecidas pelo livro de Atos. Seu sobrenome Lísias é grego. O nome romano Cláudio foi evidentemente adotado na época em que ele adquiriu sua cidadania romana (<a href=\"https://ref.ly/Acts22:28\">22.28</a>).</p><p>Estacionado na fortaleza Antônia, com vista para o setor norte da área do Templo em Jerusalém, ele resgatou Paulo de uma multidão judaica que estava prestes a matá-lo ali. Ele permitiu que Paulo falasse aos judeus de uma das duas escadarias que levavam do Pátio dos Gentios no Templo até a Antônia (<a href=\"https://ref.ly/Acts21:40\">At 21.40</a>) e impediu que Paulo fosse açoitado quando soube da cidadania romana de Paulo (<a href=\"https://ref.ly/Acts22:22-Acts22:29\">22.22–29</a>). Cláudio Lísias enviou Paulo secretamente para Cesareia sob forte escolta quando o sobrinho de Paulo informou o tribuno sobre um complô judaico para assassinar o apóstolo em Jerusalém (<a href=\"https://ref.ly/Acts23:16-Acts23:35\">23.16–35</a>).</p><p>Não se sabe como Lucas, o autor de Atos, obteve uma cópia da carta oficial sobre Paulo escrita por Cláudio para Félix, o governador, mas o documento oferece uma importante defesa do caráter e da conduta de Paulo diante das acusações de seus oponentes.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02023016",
-          "start_ref_usfm": "EXO 23:16",
-          "end_ref": "02023016",
-          "end_ref_usfm": "EXO 23:16"
+          "start_ref": "44021040",
+          "start_ref_usfm": "ACT 21:40",
+          "end_ref": "44021040",
+          "end_ref_usfm": "ACT 21:40"
         },
         {
-          "start_ref": "03023022",
-          "start_ref_usfm": "LEV 23:22",
-          "end_ref": "03023022",
-          "end_ref_usfm": "LEV 23:22"
+          "start_ref": "44022028",
+          "start_ref_usfm": "ACT 22:28",
+          "end_ref": "44022028",
+          "end_ref_usfm": "ACT 22:28"
         },
         {
-          "start_ref": "07015001",
-          "start_ref_usfm": "JDG 15:1",
-          "end_ref": "07015001",
-          "end_ref_usfm": "JDG 15:1"
+          "start_ref": "44023026",
+          "start_ref_usfm": "ACT 23:26",
+          "end_ref": "44023026",
+          "end_ref_usfm": "ACT 23:26"
         },
         {
-          "start_ref": "08001022",
-          "start_ref_usfm": "RUT 1:22",
-          "end_ref": "08001022",
-          "end_ref_usfm": "RUT 1:22"
+          "start_ref": "44022022",
+          "start_ref_usfm": "ACT 22:22",
+          "end_ref": "44022029",
+          "end_ref_usfm": "ACT 22:29"
         },
         {
-          "start_ref": "40013036",
-          "start_ref_usfm": "MAT 13:36",
-          "end_ref": "40013043",
-          "end_ref_usfm": "MAT 13:43"
-        },
-        {
-          "start_ref": "05008007",
-          "start_ref_usfm": "DEU 8:7",
-          "end_ref": "05008010",
-          "end_ref_usfm": "DEU 8:10"
-        },
-        {
-          "start_ref": "03023010",
-          "start_ref_usfm": "LEV 23:10",
-          "end_ref": "03023011",
-          "end_ref_usfm": "LEV 23:11"
-        },
-        {
-          "start_ref": "03019009",
-          "start_ref_usfm": "LEV 19:9",
-          "end_ref": "03019010",
-          "end_ref_usfm": "LEV 19:10"
-        },
-        {
-          "start_ref": "40013024",
-          "start_ref_usfm": "MAT 13:24",
-          "end_ref": "40013030",
-          "end_ref_usfm": "MAT 13:30"
-        },
-        {
-          "start_ref": "40009037",
-          "start_ref_usfm": "MAT 9:37",
-          "end_ref": "40009038",
-          "end_ref_usfm": "MAT 9:38"
+          "start_ref": "44023016",
+          "start_ref_usfm": "ACT 23:16",
+          "end_ref": "44023035",
+          "end_ref_usfm": "ACT 23:35"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 2592,
-          "content_id": 658599,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Agricultura",
-          "language": "por"
-        },
-        {
-          "reference_id": 4416,
-          "content_id": 125259,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Festas E Festivais De Israel",
-          "language": "por"
-        },
-        {
-          "reference_id": 8182,
-          "content_id": 658750,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Videiras, Vinhedo",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

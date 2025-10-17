@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 6064,
-    "reference_id": 5232,
-    "title": "Ishbak",
+    "content_id": 6063,
+    "reference_id": 5231,
+    "title": "Ishbah",
     "media_type": "Text",
-    "index_reference": "ishbak",
+    "index_reference": "ishbah",
     "language": "eng",
-    "content": "<h1>ISHBAK</h1><p>One of the sons of Abraham by Keturah (<a href=\"https://ref.ly/Gen25:2\">Genesis 25:2</a>; <a href=\"https://ref.ly/1Chr1:32\">1&nbsp;Chronicles 1:32</a>).</p>",
+    "content": "<h1>ISHBAH</h1><p>Mered’s son by Bithiah, the daughter of the pharaoh (<a href=\"https://ref.ly/1Chr4:17\">1&nbsp;Chr 4:17</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01025002",
-          "start_ref_usfm": "GEN 25:2",
-          "end_ref": "01025002",
-          "end_ref_usfm": "GEN 25:2"
-        },
-        {
-          "start_ref": "13001032",
-          "start_ref_usfm": "1CH 1:32",
-          "end_ref": "13001032",
-          "end_ref_usfm": "1CH 1:32"
+          "start_ref": "13004017",
+          "start_ref_usfm": "1CH 4:17",
+          "end_ref": "13004017",
+          "end_ref_usfm": "1CH 4:17"
         }
       ],
       "resource": []

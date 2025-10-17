@@ -1,79 +1,58 @@
 [
   {
-    "content_id": 5567,
-    "reference_id": 4735,
-    "title": "Hadadezer",
+    "content_id": 5569,
+    "reference_id": 4737,
+    "title": "Hadad",
     "media_type": "Text",
-    "index_reference": "hadadezer",
+    "index_reference": "hadad",
     "language": "eng",
-    "content": "<h1>HADADEZER</h1><p>Hadadezer was king of Zobah in Syria during the time David ruled Israel.</p><p>He ruled an area that stretched from the land of Ammon in the south to the Euphrates River in the east. Hadadezer tried to take back control of this region, but David fought him and won (<a href=\"https://ref.ly/2Sam8:3-2Sam8:12\">2&nbsp;Samuel 8:3–12</a>; <a href=\"https://ref.ly/1Chr18:3-1Chr18:10\">1&nbsp;Chronicles 18:3–10</a>).</p><p>When the Syrians came to help Hadadezer, David defeated them too. He also took control of Damascus, a major city in Syria.</p><p>Later, David sent men to show kindness to Hanun, the new king of Ammon, after Hanun’s father Nahash died (<a href=\"https://ref.ly/2Sam10:1-2Sam10:19\">2&nbsp;Samuel 10</a>). But Hanun treated David’s men badly. He humiliated them (verse <a href=\"https://ref.ly/2Sam10:4\">4</a>).</p><p>After that, Ammon prepared for war and asked Syria to help them (<a href=\"https://ref.ly/2Sam10:6\">2 Samuel 10:6</a>). David sent Joab, his army commander, to fight the combined armies of Ammon and Syria. Joab defeated them (verses <a href=\"https://ref.ly/2Sam10:15-2Sam10:19\">15–19</a>; see also <a href=\"https://ref.ly/1Chr19:16,1Chr19:19\">1&nbsp;Chronicles 19:16, 19</a>). </p><p>After this defeat, Hadadezer sent more troops from the area beyond the Euphrates River. The armies met at a place called Helam. David fought them there and won again. After this, Hadadezer asked for peace and agreed to pay tribute to Israel.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5260\" data-resourceType=\"TyndaleBibleDictionary\">Israel, History of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7853\" data-resourceType=\"TyndaleBibleDictionary\">Syria, Syrians</span>.</p>",
+    "content": "<h1>HADAD</h1><p>1. Eighth of the 12 sons of Ishmael, and thus a grandson of Abraham (<a href=\"https://ref.ly/Gen25:15\">Gn 25:15</a>; <a href=\"https://ref.ly/1Chr1:30\">1&nbsp;Chr 1:30</a>). The kjv reads “Hadar” in <a href=\"https://ref.ly/Gen25:15\">Genesis 25:15</a> and “Hadad” in <a href=\"https://ref.ly/1Chr1:30\">1&nbsp;Chronicles 1:30</a>, whereas rsv and nlt read “Hadad” in both passages.</p><p>2. Edomite ruler, son of Bedad, who reigned before the Hebrew captivity in Egypt and who won an important victory over the Midianites in the plain of Moab (<a href=\"https://ref.ly/Gen36:35-Gen36:36\">Gn 36:35–36</a>; <a href=\"https://ref.ly/1Chr1:46-1Chr1:47\">1&nbsp;Chr 1:46–47</a>).</p><p>3. Another king of Edom, one of the few whose wife, Mehetabel, was mentioned by name. His capital city was Pau (<a href=\"https://ref.ly/Gen36:39\">Gn 36:39</a>; <a href=\"https://ref.ly/1Chr1:50-1Chr1:51\">1&nbsp;Chr 1:50–51</a>).</p><p>4. Prince of the royal house of Edom who fled to Egypt after David and Joab conquered Edom and occupied the land. He grew up in Egypt and gained favor with the pharaoh, who gave him his sister-in-law as a wife. Later, when David was dead, he desired to return to Edom and lead a revolt against Solomon (<a href=\"https://ref.ly/1Kgs11:14-1Kgs11:25\">1&nbsp;Kgs 11:14–25</a>). Some scholars have identified him with #3 above.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "10010004",
-          "start_ref_usfm": "2SA 10:4",
-          "end_ref": "10010004",
-          "end_ref_usfm": "2SA 10:4"
+          "start_ref": "01025015",
+          "start_ref_usfm": "GEN 25:15",
+          "end_ref": "01025015",
+          "end_ref_usfm": "GEN 25:15"
         },
         {
-          "start_ref": "10010006",
-          "start_ref_usfm": "2SA 10:6",
-          "end_ref": "10010006",
-          "end_ref_usfm": "2SA 10:6"
+          "start_ref": "01036039",
+          "start_ref_usfm": "GEN 36:39",
+          "end_ref": "01036039",
+          "end_ref_usfm": "GEN 36:39"
         },
         {
-          "start_ref": "13019016",
-          "start_ref_usfm": "1CH 19:16",
-          "end_ref": "13019016",
-          "end_ref_usfm": "1CH 19:16"
+          "start_ref": "13001030",
+          "start_ref_usfm": "1CH 1:30",
+          "end_ref": "13001030",
+          "end_ref_usfm": "1CH 1:30"
         },
         {
-          "start_ref": "13019019",
-          "start_ref_usfm": "1CH 19:19",
-          "end_ref": "13019019",
-          "end_ref_usfm": "1CH 19:19"
+          "start_ref": "01036035",
+          "start_ref_usfm": "GEN 36:35",
+          "end_ref": "01036036",
+          "end_ref_usfm": "GEN 36:36"
         },
         {
-          "start_ref": "10010001",
-          "start_ref_usfm": "2SA 10:1",
-          "end_ref": "10010019",
-          "end_ref_usfm": "2SA 10:19"
+          "start_ref": "13001046",
+          "start_ref_usfm": "1CH 1:46",
+          "end_ref": "13001047",
+          "end_ref_usfm": "1CH 1:47"
         },
         {
-          "start_ref": "10008003",
-          "start_ref_usfm": "2SA 8:3",
-          "end_ref": "10008012",
-          "end_ref_usfm": "2SA 8:12"
+          "start_ref": "13001050",
+          "start_ref_usfm": "1CH 1:50",
+          "end_ref": "13001051",
+          "end_ref_usfm": "1CH 1:51"
         },
         {
-          "start_ref": "13018003",
-          "start_ref_usfm": "1CH 18:3",
-          "end_ref": "13018010",
-          "end_ref_usfm": "1CH 18:10"
-        },
-        {
-          "start_ref": "10010015",
-          "start_ref_usfm": "2SA 10:15",
-          "end_ref": "10010019",
-          "end_ref_usfm": "2SA 10:19"
+          "start_ref": "11011014",
+          "start_ref_usfm": "1KI 11:14",
+          "end_ref": "11011025",
+          "end_ref_usfm": "1KI 11:25"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5260,
-          "content_id": 6092,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "History of Israel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 7853,
-          "content_id": 8685,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Syria, Syrians",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

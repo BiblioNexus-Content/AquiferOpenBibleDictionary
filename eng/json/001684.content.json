@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4937,
-    "reference_id": 4105,
-    "title": "Eclipse",
+    "content_id": 4936,
+    "reference_id": 4104,
+    "title": "Ecclesiasticus",
     "media_type": "Text",
-    "index_reference": "eclipse",
+    "index_reference": "ecclesiasticus",
     "language": "eng",
-    "content": "<h1>ECLIPSE*</h1><p>Total or partial obscuration of the sun as a result of the passing of the moon between the sun and the earth; thus, a possible explanation for certain unusual astronomical events in the Bible. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3014\" data-resourceType=\"TyndaleBibleDictionary\">Astronomy</span>.</p>",
+    "content": "<h1>ECCLESIASTICUS</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8243\" data-resourceType=\"TyndaleBibleDictionary\">Wisdom of Jesus ben Sirach</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3014,
-          "content_id": 3846,
+          "reference_id": 8243,
+          "content_id": 9075,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Astronomy",
+          "label": "Wisdom of Jesus Ben Sirach",
           "language": "eng"
         }
       ]

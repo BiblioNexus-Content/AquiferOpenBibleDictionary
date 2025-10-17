@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 6235,
-    "reference_id": 5403,
-    "title": "Jasiel",
+    "content_id": 6233,
+    "reference_id": 5401,
+    "title": "Jashubite",
     "media_type": "Text",
-    "index_reference": "jasiel",
+    "index_reference": "jashubite",
     "language": "eng",
-    "content": "<h1>JASIEL*</h1><p>KJV form of Jaasiel the Mezobaite in <a href=\"https://ref.ly/1Chr11:47\">1&nbsp;Chronicles 11:47</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5307\" data-resourceType=\"TyndaleBibleDictionary\">Jaasiel #1</span>.</p>",
+    "content": "<h1>JASHUBITE</h1><p>Any descendant of Jashub, the third son of Issachar (<a href=\"https://ref.ly/Num26:24\">Numbers 26:24</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5402\" data-resourceType=\"TyndaleBibleDictionary\">Jashub #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13011047",
-          "start_ref_usfm": "1CH 11:47",
-          "end_ref": "13011047",
-          "end_ref_usfm": "1CH 11:47"
+          "start_ref": "04026024",
+          "start_ref_usfm": "NUM 26:24",
+          "end_ref": "04026024",
+          "end_ref_usfm": "NUM 26:24"
         }
       ],
       "resource": [
         {
-          "reference_id": 5307,
-          "content_id": 6139,
+          "reference_id": 5402,
+          "content_id": 6234,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jaasiel",
+          "label": "Jashub",
           "language": "eng"
         }
       ]

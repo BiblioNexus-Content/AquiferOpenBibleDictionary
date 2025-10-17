@@ -1,64 +1,30 @@
 [
   {
-    "content_id": 6991,
-    "reference_id": 6159,
-    "title": "Mattithiah",
+    "content_id": 6990,
+    "reference_id": 6158,
+    "title": "Matthias",
     "media_type": "Text",
-    "index_reference": "mattithiah",
+    "index_reference": "matthias",
     "language": "eng",
-    "content": "<h1>MATTITHIAH</h1><p>1. Levite and Shallum’s firstborn son, who was in charge of making the baked cakes that accompanied the offerings in the temple (<a href=\"https://ref.ly/1Chr9:31\">1&nbsp;Chr 9:31</a>).</p><p>2. Musician appointed by the Levites to play the lyre, along with five others, when the ark was brought to Jerusalem in David’s time (<a href=\"https://ref.ly/1Chr15:18,1Chr15:21\">1&nbsp;Chr 15:18, 21</a>; <a href=\"https://ref.ly/1Chr16:5\">16:5</a>).</p><p>3. One of Jeduthun’s six sons, who was a musician in David’s time (<a href=\"https://ref.ly/1Chr25:3,1Chr25:21\">1&nbsp;Chr 25:3, 21</a>); perhaps identifiable with #2 above.</p><p>4. Nebo’s son, who divorced his foreign wife as commanded by Ezra (<a href=\"https://ref.ly/Ezra10:43\">Ezr 10:43</a>).</p><p>5. One who stood to Ezra’s right when Ezra read the law to the people after the exile (<a href=\"https://ref.ly/Neh8:4\">Neh 8:4</a>).</p>",
+    "content": "<h1>MATTHIAS</h1><p>Matthias was a disciple of Jesus who is mentioned by name only in <a href=\"https://ref.ly/Acts1:23-Acts1:26\">Acts 1:23–26</a>. The Lord chose him to replace Judas Iscariot as one of the twelve apostles.</p><p>Shortly after Jesus went up to heaven (his ascension), Peter said they needed another apostle. There were two requirements for the new apostle: </p><ol><li><p>The person must have followed Jesus from the time of his baptism until his ascension.</p></li><li><p>The person must have seen Jesus after his resurrection. </p></li></ol><p>The group of believers suggested two men who met these requirements: Joseph called Barsabbas (whose family name was Justus), and Matthias. </p><p>They then cast lots (some scholars think they may have voted instead). By whatever method they used, Matthias became the next apostle.</p><p>Later, the group of apostles grew to include others such as Paul, Andronicus, and Junias. The Bible never mentions Matthias again after his selection. However, tradition says that he preached in Judea and was eventually killed by stoning by the Jewish authorities.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2838\" data-resourceType=\"TyndaleBibleDictionary\">Apostle, Apostleship</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13009031",
-          "start_ref_usfm": "1CH 9:31",
-          "end_ref": "13009031",
-          "end_ref_usfm": "1CH 9:31"
-        },
-        {
-          "start_ref": "13015018",
-          "start_ref_usfm": "1CH 15:18",
-          "end_ref": "13015018",
-          "end_ref_usfm": "1CH 15:18"
-        },
-        {
-          "start_ref": "13015021",
-          "start_ref_usfm": "1CH 15:21",
-          "end_ref": "13015021",
-          "end_ref_usfm": "1CH 15:21"
-        },
-        {
-          "start_ref": "13016005",
-          "start_ref_usfm": "1CH 16:5",
-          "end_ref": "13016005",
-          "end_ref_usfm": "1CH 16:5"
-        },
-        {
-          "start_ref": "13025003",
-          "start_ref_usfm": "1CH 25:3",
-          "end_ref": "13025003",
-          "end_ref_usfm": "1CH 25:3"
-        },
-        {
-          "start_ref": "13025021",
-          "start_ref_usfm": "1CH 25:21",
-          "end_ref": "13025021",
-          "end_ref_usfm": "1CH 25:21"
-        },
-        {
-          "start_ref": "15010043",
-          "start_ref_usfm": "EZR 10:43",
-          "end_ref": "15010043",
-          "end_ref_usfm": "EZR 10:43"
-        },
-        {
-          "start_ref": "16008004",
-          "start_ref_usfm": "NEH 8:4",
-          "end_ref": "16008004",
-          "end_ref_usfm": "NEH 8:4"
+          "start_ref": "44001023",
+          "start_ref_usfm": "ACT 1:23",
+          "end_ref": "44001026",
+          "end_ref_usfm": "ACT 1:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2838,
+          "content_id": 3670,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Apostle, Apostleship",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

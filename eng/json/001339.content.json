@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 4591,
-    "reference_id": 3759,
-    "title": "Clement",
+    "content_id": 4588,
+    "reference_id": 3756,
+    "title": "Cleanthes",
     "media_type": "Text",
-    "index_reference": "clement",
+    "index_reference": "cleanthes",
     "language": "eng",
-    "content": "<h1>CLEMENT</h1><p>Coworker with Paul at Philippi who worked side by side with him in the furtherance of the gospel there (<a href=\"https://ref.ly/Phil4:3\">Phil 4:3</a>). Paul includes him in the group of those whose names are written in the Book of Life. Even though some early church fathers identified this Clement with the third bishop of Rome, there is no evidence to substantiate their claims.</p>",
+    "content": "<h1>CLEANTHES</h1><p>The leader of the Stoic school of philosophy in Athens from 269 to 232 BC. The Stoics were people who followed a type of philosophy (a way of thinking about life) that began in ancient Greece. This philosophy was called &quot;Stoicism.&quot; </p><p>Cleanthes wrote a poem called “Hymn to Zeus.” Another Stoic poet named Aratus later adapted parts of this poem when he wrote his own poem called “Phaenomena.” Centuries later the apostle Paul quoted the fifth line of “Phaenomena.” He was speaking to a crowd on the Areopagus in Athens. Paul quoted the words: “<span>We are His offspring</span>” (<a href=\"https://ref.ly/Acts17:28\">Acts 17:28</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7794\" data-resourceType=\"TyndaleBibleDictionary\">Stoicism, Stoics</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "50004003",
-          "start_ref_usfm": "PHP 4:3",
-          "end_ref": "50004003",
-          "end_ref_usfm": "PHP 4:3"
+          "start_ref": "44017028",
+          "start_ref_usfm": "ACT 17:28",
+          "end_ref": "44017028",
+          "end_ref_usfm": "ACT 17:28"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 7794,
+          "content_id": 8626,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Stoicism, Stoics",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

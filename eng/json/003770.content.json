@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7029,
-    "reference_id": 6197,
-    "title": "Melchisedec",
+    "content_id": 7028,
+    "reference_id": 6196,
+    "title": "Melchiah",
     "media_type": "Text",
-    "index_reference": "melchisedec",
+    "index_reference": "melchiah",
     "language": "eng",
-    "content": "<h1>MELCHISEDEC*</h1><p>KJV rendering of Melchizedek, the priest and king of Salem who blessed Abraham, in <a href=\"https://ref.ly/Heb5:1-Heb7:28\">Hebrews 5–7</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6199\" data-resourceType=\"TyndaleBibleDictionary\">Melchizedek</span>.</p>",
+    "content": "<h1>MELCHIAH*</h1><p>KJV spelling of Malchiah, Pashhur’s father, in <a href=\"https://ref.ly/Jer21:1\">Jeremiah 21:1</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6062\" data-resourceType=\"TyndaleBibleDictionary\">Malchiah #8</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "58005001",
-          "start_ref_usfm": "HEB 5:1",
-          "end_ref": "58007028",
-          "end_ref_usfm": "HEB 7:28"
+          "start_ref": "24021001",
+          "start_ref_usfm": "JER 21:1",
+          "end_ref": "24021001",
+          "end_ref_usfm": "JER 21:1"
         }
       ],
       "resource": [
         {
-          "reference_id": 6199,
-          "content_id": 7031,
+          "reference_id": 6062,
+          "content_id": 6894,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Melchizedek",
+          "label": "Malchiah",
           "language": "eng"
         }
       ]

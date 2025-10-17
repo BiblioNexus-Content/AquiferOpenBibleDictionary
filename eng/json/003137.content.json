@@ -1,64 +1,49 @@
 [
   {
-    "content_id": 6393,
-    "reference_id": 5561,
-    "title": "Jobab",
+    "content_id": 6395,
+    "reference_id": 5563,
+    "title": "Job (Person)",
     "media_type": "Text",
-    "index_reference": "jobab",
+    "index_reference": "job (person)",
     "language": "eng",
-    "content": "<h1>JOBAB</h1><ol><li><p>A son of Joktan in the family line of Eber (<a href=\"https://ref.ly/Gen10:29\">Genesis 10:29</a>; <a href=\"https://ref.ly/1Chr1:23\">1&nbsp;Chronicles 1:23</a>).</p></li><li><p>An early Edomite king. He was the son of Zerah of Bozrah (<a href=\"https://ref.ly/Gen36:33-Gen36:34\">Genesis 36:33–34</a>; <a href=\"https://ref.ly/1Chr1:44-1Chr1:45\">1&nbsp;Chronicles 1:44–45</a>).</p></li><li><p>A king of Madon. Along with other Canaanite kings, he joined Jabin of Hazor in a northern alliance. This was to stop the Israelites from taking over the northern section of Canaan. Jobab died in battle at the waters of Merom (<a href=\"https://ref.ly/Josh11:1\">Joshua 11:1</a>; <a href=\"https://ref.ly/Josh12:19\">12:19</a>).</p></li><li><p>A son of Shaharaim by his wife Hodesh, a member of the tribe of Benjamin (<a href=\"https://ref.ly/1Chr8:9\">1&nbsp;Chronicles 8:9</a>).</p></li><li><p>A son of Elpaal from the tribe of Benjamin (<a href=\"https://ref.ly/1Chr8:18\">1&nbsp;Chronicles 8:18</a>).</p></li></ol>",
+    "content": "<h1>JOB (Person)</h1><p>1. KJV rendering of Iob, an alternate form of Jashub, Issachar’s third son, in <a href=\"https://ref.ly/Gen46:13\">Genesis 46:13</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5402\" data-resourceType=\"TyndaleBibleDictionary\">Jashub #1</span>.</p><p>2. Central character of the book of Job. The intense suffering endured by Job provides the framework for the main theme of the book, which deals with the role of suffering in the life of a child of God.</p><p>The etymology of the name is difficult. Some have seen it as a derivative of a Hebrew word meaning “to be hostile” and have suggested that it reflects Job’s adamancy in refusing to bow to God’s will. The name occurs in several West Semitic texts as a proper name, however, and it seems best to understand it simply as a common name. The meaning of the name in West Semitic is either “no father” or “where is my father?”</p><p>The lack of certainty surrounding the authorship and geographical provenance of the book makes it difficult to place Job in history. The occurrence of Job’s name in <a href=\"https://ref.ly/Ezek14:14,Ezek14:20\">Ezekiel 14:14, 20</a> seems to support the possibility that he was a personage of great antiquity.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5562\" data-resourceType=\"TyndaleBibleDictionary\">Job, Book of</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010029",
-          "start_ref_usfm": "GEN 10:29",
-          "end_ref": "01010029",
-          "end_ref_usfm": "GEN 10:29"
+          "start_ref": "01046013",
+          "start_ref_usfm": "GEN 46:13",
+          "end_ref": "01046013",
+          "end_ref_usfm": "GEN 46:13"
         },
         {
-          "start_ref": "06011001",
-          "start_ref_usfm": "JOS 11:1",
-          "end_ref": "06011001",
-          "end_ref_usfm": "JOS 11:1"
+          "start_ref": "26014014",
+          "start_ref_usfm": "EZK 14:14",
+          "end_ref": "26014014",
+          "end_ref_usfm": "EZK 14:14"
         },
         {
-          "start_ref": "06012019",
-          "start_ref_usfm": "JOS 12:19",
-          "end_ref": "06012019",
-          "end_ref_usfm": "JOS 12:19"
-        },
-        {
-          "start_ref": "13001023",
-          "start_ref_usfm": "1CH 1:23",
-          "end_ref": "13001023",
-          "end_ref_usfm": "1CH 1:23"
-        },
-        {
-          "start_ref": "13008009",
-          "start_ref_usfm": "1CH 8:9",
-          "end_ref": "13008009",
-          "end_ref_usfm": "1CH 8:9"
-        },
-        {
-          "start_ref": "13008018",
-          "start_ref_usfm": "1CH 8:18",
-          "end_ref": "13008018",
-          "end_ref_usfm": "1CH 8:18"
-        },
-        {
-          "start_ref": "01036033",
-          "start_ref_usfm": "GEN 36:33",
-          "end_ref": "01036034",
-          "end_ref_usfm": "GEN 36:34"
-        },
-        {
-          "start_ref": "13001044",
-          "start_ref_usfm": "1CH 1:44",
-          "end_ref": "13001045",
-          "end_ref_usfm": "1CH 1:45"
+          "start_ref": "26014020",
+          "start_ref_usfm": "EZK 14:20",
+          "end_ref": "26014020",
+          "end_ref_usfm": "EZK 14:20"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5402,
+          "content_id": 6234,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jashub",
+          "language": "eng"
+        },
+        {
+          "reference_id": 5562,
+          "content_id": 6394,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Book of Job",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

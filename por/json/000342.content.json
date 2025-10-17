@@ -1,75 +1,66 @@
 [
   {
-    "content_id": 716952,
-    "reference_id": 3491,
-    "title": "Bosra",
+    "content_id": 682944,
+    "reference_id": 4709,
+    "title": "Bosque",
     "media_type": "Text",
-    "index_reference": "bosra",
+    "index_reference": "bosque",
     "language": "por",
-    "content": "<h1>BOZRA</h1><p>1. Cidade bem fortificada no norte de Edom (<a href=\"https://ref.ly/Gen36:33\">Gn 36.33</a>; <a href=\"https://ref.ly/1Chr1:44\">1Cr 1.44</a>), considerada impossível de conquistar porque era protegida por penhascos em três lados. Localizada a 48,3 quilômetros ao norte de Petra, na moderna Buseirah, controlava o tráfego na Estrada Real. Bosra foi mencionada como uma das fortalezas que cairiam quando Deus julgasse Edom (<a href=\"https://ref.ly/Isa34:6\">Is 34.6</a>; <a href=\"https://ref.ly/Isa63:1\">63.1</a>; <a href=\"https://ref.ly/Jer49:13\">Jr 49.13</a>; <a href=\"https://ref.ly/Amos1:12\">Am 1.12</a>).</p><p>2. Uma das cidades mencionadas pelo profeta Jeremias como colapsando com a nação moabita (<a href=\"https://ref.ly/Jer48:24\">Jr 48.24</a>); provavelmente uma variação ortográfica de Bezer. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3391\" data-resourceType=\"TyndaleBibleDictionary\">Bezer (Lugar)</span>.</p><p>3. Cidade também chamada Bosorá, capturada por Judas Macabeu durante sua campanha em Gileade (<a href=\"https://ref.ly/1Macc5:26,1Macc5:28\">1Mc 5.26,28</a>). Talvez seja o mesmo lugar mencionado no item #2 acima.</p>",
+    "content": "<h1>BOSQUE</h1><p>Uma tradução equivocada de algumas versões bíblicas de uma palavra hebraica que era o nome de uma deusa cananeia, Aserá. Muitas vezes, árvores sagradas eram símbolos dessa deusa da fertilidade. Às vezes, postes de madeira eram erguidos. Deus ordenou aos israelitas que destruíssem esses símbolos. Eles eram chamados de &quot;Asherim&quot; e &quot;Asheroth&quot;.</p><p>Eles tiveram que cortá-los e queimá-los (<a href=\"https://ref.ly/Exod34:13\">Êx 34.13</a>; <a href=\"https://ref.ly/Deut12:3\">Dt 12.3</a>). Os postes eram de madeira e não deixavam restos que pudessem ser identificados. No entanto, pesquisadores descobriram um grande pedaço de madeira carbonizada entre queimadores de incenso em um antigo santuário em Ai. Pode ter sido um tronco de árvore do qual os galhos foram podados. Alguns pesquisadores sugerem que era um poste de Aserá.</p><p>Deus proibiu estritamente os israelitas de adorar Aserá ou de construir seus símbolos sagrados. De tempos em tempos, Israel desobedecia a Deus e se envolvia em adoração falsa. Um relato sobre a queda do reino do norte atribui isso aos bosques e à adoração da deusa pagã e seu equivalente masculino, Baal (<a href=\"https://ref.ly/2Kgs17:7-2Kgs17:18\">2Rs 17.7–18</a>). Jezabel, uma sacerdotisa do Baal de Tiro, promoveu a disseminação de tal idolatria.</p><p>O &quot;bosque&quot; de <a href=\"https://ref.ly/Gen21:33\">Gn 21.33</a> que se encontra em algumas versões bíblicas era, na verdade, uma árvore tamargueira.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3573\" data-resourceType=\"TyndaleBibleDictionary\">Deidades e religião cananeia</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4668\" data-resourceType=\"TyndaleBibleDictionary\">Deuses e deusas</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5016\" data-resourceType=\"TyndaleBibleDictionary\">Lugares altos</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5154\" data-resourceType=\"TyndaleBibleDictionary\">Ídolos, Idolatria</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036033",
-          "start_ref_usfm": "GEN 36:33",
-          "end_ref": "01036033",
-          "end_ref_usfm": "GEN 36:33"
+          "start_ref": "01021033",
+          "start_ref_usfm": "GEN 21:33",
+          "end_ref": "01021033",
+          "end_ref_usfm": "GEN 21:33"
         },
         {
-          "start_ref": "13001044",
-          "start_ref_usfm": "1CH 1:44",
-          "end_ref": "13001044",
-          "end_ref_usfm": "1CH 1:44"
+          "start_ref": "02034013",
+          "start_ref_usfm": "EXO 34:13",
+          "end_ref": "02034013",
+          "end_ref_usfm": "EXO 34:13"
         },
         {
-          "start_ref": "23034006",
-          "start_ref_usfm": "ISA 34:6",
-          "end_ref": "23034006",
-          "end_ref_usfm": "ISA 34:6"
+          "start_ref": "05012003",
+          "start_ref_usfm": "DEU 12:3",
+          "end_ref": "05012003",
+          "end_ref_usfm": "DEU 12:3"
         },
         {
-          "start_ref": "23063001",
-          "start_ref_usfm": "ISA 63:1",
-          "end_ref": "23063001",
-          "end_ref_usfm": "ISA 63:1"
-        },
-        {
-          "start_ref": "24048024",
-          "start_ref_usfm": "JER 48:24",
-          "end_ref": "24048024",
-          "end_ref_usfm": "JER 48:24"
-        },
-        {
-          "start_ref": "24049013",
-          "start_ref_usfm": "JER 49:13",
-          "end_ref": "24049013",
-          "end_ref_usfm": "JER 49:13"
-        },
-        {
-          "start_ref": "30001012",
-          "start_ref_usfm": "AMO 1:12",
-          "end_ref": "30001012",
-          "end_ref_usfm": "AMO 1:12"
-        },
-        {
-          "start_ref": "78005026",
-          "start_ref_usfm": "1MA 5:26",
-          "end_ref": "78005026",
-          "end_ref_usfm": "1MA 5:26"
-        },
-        {
-          "start_ref": "78005028",
-          "start_ref_usfm": "1MA 5:28",
-          "end_ref": "78005028",
-          "end_ref_usfm": "1MA 5:28"
+          "start_ref": "12017007",
+          "start_ref_usfm": "2KI 17:7",
+          "end_ref": "12017018",
+          "end_ref_usfm": "2KI 17:18"
         }
       ],
       "resource": [
         {
-          "reference_id": 3391,
-          "content_id": 759673,
+          "reference_id": 3573,
+          "content_id": 759687,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bezer (Lugar)",
+          "label": "Divindades e religião cananeia",
+          "language": "por"
+        },
+        {
+          "reference_id": 4668,
+          "content_id": 717050,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Deuses e deusas",
+          "language": "por"
+        },
+        {
+          "reference_id": 5154,
+          "content_id": 717088,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Ídolos, Idolatria",
+          "language": "por"
+        },
+        {
+          "reference_id": 5016,
+          "content_id": 759813,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Lugar Alto",
           "language": "por"
         }
       ]

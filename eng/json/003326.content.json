@@ -1,45 +1,20 @@
 [
   {
-    "content_id": 6584,
-    "reference_id": 5752,
-    "title": "Kimham",
+    "content_id": 6583,
+    "reference_id": 5751,
+    "title": "Kiln",
     "media_type": "Text",
-    "index_reference": "kimham",
+    "index_reference": "kiln",
     "language": "eng",
-    "content": "<h1>KIMHAM</h1><p>Another spelling of Chimham, a son of Barzillai, according to the Jewish historian Josephus.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3697\" data-resourceType=\"TyndaleBibleDictionary\">Chimham</span>.</p>",
+    "content": "<h1>KILN</h1><p>Large furnace used in firing pottery. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6963\" data-resourceType=\"TyndaleBibleDictionary\">Pottery</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "10019032",
-          "start_ref_usfm": "2SA 19:32",
-          "end_ref": "10019032",
-          "end_ref_usfm": "2SA 19:32"
-        },
-        {
-          "start_ref": "11002007",
-          "start_ref_usfm": "1KI 2:7",
-          "end_ref": "11002007",
-          "end_ref_usfm": "1KI 2:7"
-        },
-        {
-          "start_ref": "24041017",
-          "start_ref_usfm": "JER 41:17",
-          "end_ref": "24041017",
-          "end_ref_usfm": "JER 41:17"
-        },
-        {
-          "start_ref": "10019037",
-          "start_ref_usfm": "2SA 19:37",
-          "end_ref": "10019040",
-          "end_ref_usfm": "2SA 19:40"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 3697,
-          "content_id": 4529,
+          "reference_id": 6963,
+          "content_id": 7795,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Chimham",
+          "label": "Pottery",
           "language": "eng"
         }
       ]

@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 4837,
-    "reference_id": 4005,
-    "title": "Dibri",
+    "content_id": 4835,
+    "reference_id": 4003,
+    "title": "Dibon-Gad",
     "media_type": "Text",
-    "index_reference": "dibri",
+    "index_reference": "dibon-gad",
     "language": "eng",
-    "content": "<h1>DIBRI</h1><p>Dibri was a man from the tribe of Dan. He was the father of a woman named Shelomith. Shelomith married a man from Egypt. Shelomith and the Egyptian man had a son together. This son committed a serious sin by speaking against God&apos;s name. As punishment, the son was stoned to death while the Israelites were in the wilderness (<a href=\"https://ref.ly/Lev24:10-Lev24:11\">Leviticus 24:10–11</a>).</p>",
+    "content": "<h1>DIBON-GAD</h1><p>Another name for Dibon, a Moabite city (<a href=\"https://ref.ly/Num33:45-Num33:46\">Numbers 33:45–46</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4004\" data-resourceType=\"TyndaleBibleDictionary\">Dibon #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "03024010",
-          "start_ref_usfm": "LEV 24:10",
-          "end_ref": "03024011",
-          "end_ref_usfm": "LEV 24:11"
+          "start_ref": "04033045",
+          "start_ref_usfm": "NUM 33:45",
+          "end_ref": "04033046",
+          "end_ref_usfm": "NUM 33:46"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4004,
+          "content_id": 4836,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Dibon",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

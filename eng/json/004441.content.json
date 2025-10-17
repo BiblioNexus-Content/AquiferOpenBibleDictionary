@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 7701,
-    "reference_id": 6869,
-    "title": "Phasiron",
+    "content_id": 7700,
+    "reference_id": 6868,
+    "title": "Phaseah",
     "media_type": "Text",
-    "index_reference": "phasiron",
+    "index_reference": "phaseah",
     "language": "eng",
-    "content": "<h1>PHASIRON</h1><p>Victims of a raid by Jonathan (<a href=\"https://ref.ly/1Macc9:66\">1&nbsp;Macc 9:66</a>). The tribe, situated near Bethbasi, is otherwise unknown.</p>",
+    "content": "<h1>PHASEAH*</h1><p>KJV spelling of Paseah, the head of a family of temple servants, in <a href=\"https://ref.ly/Neh7:51\">Nehemiah 7:51</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6766\" data-resourceType=\"TyndaleBibleDictionary\">Paseah #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "78009066",
-          "start_ref_usfm": "1MA 9:66",
-          "end_ref": "78009066",
-          "end_ref_usfm": "1MA 9:66"
+          "start_ref": "16007051",
+          "start_ref_usfm": "NEH 7:51",
+          "end_ref": "16007051",
+          "end_ref_usfm": "NEH 7:51"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6766,
+          "content_id": 7598,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Paseah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

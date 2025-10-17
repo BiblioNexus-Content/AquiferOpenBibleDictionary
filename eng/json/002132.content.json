@@ -1,28 +1,37 @@
 [
   {
-    "content_id": 5388,
-    "reference_id": 4556,
-    "title": "Gazzam",
+    "content_id": 5387,
+    "reference_id": 4555,
+    "title": "Gazites",
     "media_type": "Text",
-    "index_reference": "gazzam",
+    "index_reference": "gazites",
     "language": "eng",
-    "content": "<h1>GAZZAM</h1><p>Ancestor of a group of temple assistants who returned to Jerusalem with Zerubbabel after the exile (<a href=\"https://ref.ly/Ezra2:48\">Ezr 2:48</a>; <a href=\"https://ref.ly/Neh7:51\">Neh 7:51</a>).</p>",
+    "content": "<h1>GAZITES*</h1><p>Residents of Gaza (<a href=\"https://ref.ly/Judg16:2\">Jgs 16:2</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4551\" data-resourceType=\"TyndaleBibleDictionary\">Gaza</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4550\" data-resourceType=\"TyndaleBibleDictionary\">Gazathites</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002048",
-          "start_ref_usfm": "EZR 2:48",
-          "end_ref": "15002048",
-          "end_ref_usfm": "EZR 2:48"
-        },
-        {
-          "start_ref": "16007051",
-          "start_ref_usfm": "NEH 7:51",
-          "end_ref": "16007051",
-          "end_ref_usfm": "NEH 7:51"
+          "start_ref": "07016002",
+          "start_ref_usfm": "JDG 16:2",
+          "end_ref": "07016002",
+          "end_ref_usfm": "JDG 16:2"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4550,
+          "content_id": 5382,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Gazathites",
+          "language": "eng"
+        },
+        {
+          "reference_id": 4551,
+          "content_id": 5383,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Gaza",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

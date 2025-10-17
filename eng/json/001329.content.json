@@ -1,83 +1,27 @@
 [
   {
-    "content_id": 4579,
-    "reference_id": 3747,
-    "title": "Civil Law and Justice",
+    "content_id": 8651,
+    "reference_id": 7819,
+    "title": "CIty of the Sun",
     "media_type": "Text",
-    "index_reference": "civil law and justice",
+    "index_reference": "city of the sun",
     "language": "eng",
-    "content": "<h1>CIVIL LAW AND JUSTICE</h1><p>Civil law deals with private disputes between individuals, such as those about debt, divorce, inheritance, or other relationships. Criminal law, on the other hand, deals with crimes like murder, treason, or theft. In civil cases, the guilty party must compensate the victim appropriately.</p><p>This distinction between civil and criminal law is very different from biblical thinking. Almost all offenses were handled by private prosecution. If someone was murdered, their relatives were responsible for killing the murderer or chasing him to the nearest city of refuge for a trial. </p><p>In Israel, all offenses had a religious dimension: theft or adultery was not only an offense against a neighbor but also a sin against God. This meant that every Israelite would be shocked by such behavior and would want it punished. If these acts continued, God might step in to punish the individual, their family, or even the whole nation. This religious aspect made every offense seem like a crime, even though most prosecutions were left to individuals.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3837\" data-resourceType=\"TyndaleBibleDictionary\">Courts and Trials</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3861\" data-resourceType=\"TyndaleBibleDictionary\">Criminal Law and Punishment</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4009\" data-resourceType=\"TyndaleBibleDictionary\">Dietary Laws</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4039\" data-resourceType=\"TyndaleBibleDictionary\">Divorce</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4038\" data-resourceType=\"TyndaleBibleDictionary\">Divorce, Certificate of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4794\" data-resourceType=\"TyndaleBibleDictionary\">Hammurabi, Law Code of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5864\" data-resourceType=\"TyndaleBibleDictionary\">Law, Biblical Concept of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5901\" data-resourceType=\"TyndaleBibleDictionary\">Leviticus, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6123\" data-resourceType=\"TyndaleBibleDictionary\">Marriage, Marriage Customs</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3786\" data-resourceType=\"TyndaleBibleDictionary\">Commandments, The Ten</span>.</p>",
+    "content": "<h1>CITY OF THE SUN</h1><p>A phrase in <a href=\"https://ref.ly/Isa19:18\">Isaiah 19:18 </a>that many Bible scholars believe refers to Heliopolis, an ancient Egyptian city. Heliopolis means &quot;City of the Sun&quot; in Greek. The city was a major center for sun worship in ancient Egypt, which explains why it was called the &quot;City of the Sun.&quot; Some Hebrew manuscripts read <em>&apos;ir ha-heres</em> (&quot;City of Destruction&quot;) instead, possibly reflecting a scribal variation or intentional alteration.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4950\" data-resourceType=\"TyndaleBibleDictionary\">Heliopolis</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "23019018",
+          "start_ref_usfm": "ISA 19:18",
+          "end_ref": "23019018",
+          "end_ref_usfm": "ISA 19:18"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 3786,
-          "content_id": 4618,
+          "reference_id": 4950,
+          "content_id": 5782,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Commandments, the Ten",
-          "language": "eng"
-        },
-        {
-          "reference_id": 3837,
-          "content_id": 4669,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Courts and Trials",
-          "language": "eng"
-        },
-        {
-          "reference_id": 3861,
-          "content_id": 4693,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Criminal Law and Punishment",
-          "language": "eng"
-        },
-        {
-          "reference_id": 4009,
-          "content_id": 4841,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Dietary Laws",
-          "language": "eng"
-        },
-        {
-          "reference_id": 4039,
-          "content_id": 4871,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Divorce",
-          "language": "eng"
-        },
-        {
-          "reference_id": 4038,
-          "content_id": 4870,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Certificate of Divorce",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5901,
-          "content_id": 6733,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Leviticus, Book of",
-          "language": "eng"
-        },
-        {
-          "reference_id": 4794,
-          "content_id": 5626,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Hammurabi, Law Code of",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5864,
-          "content_id": 6696,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Biblical Concept of Law",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6123,
-          "content_id": 6955,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Marriage, Marriage Customs",
+          "label": "Heliopolis",
           "language": "eng"
         }
       ]

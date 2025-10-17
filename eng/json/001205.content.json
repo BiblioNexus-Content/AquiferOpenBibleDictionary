@@ -1,20 +1,39 @@
 [
   {
-    "content_id": 4460,
-    "reference_id": 3628,
-    "title": "Cereal Offering",
+    "content_id": 4459,
+    "reference_id": 3627,
+    "title": "Cephas",
     "media_type": "Text",
-    "index_reference": "cereal offering",
+    "index_reference": "cephas",
     "language": "eng",
-    "content": "<h1>CEREAL OFFERING</h1><p>Cereal offering is the term used in the Revised Standard Version (RSV) for what is often called a grain offering. It was one of the offerings given to God in the Old Testament. The cereal offering showed a person&apos;s dedication and commitment to God.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6630\" data-resourceType=\"TyndaleBibleDictionary\">Offerings and Sacrifices</span>.</p>",
+    "content": "<h1>CEPHAS</h1><p>The Aramaic translation for the name of the apostle Simon Peter in <a href=\"https://ref.ly/John1:42\">John 1:42</a>; <a href=\"https://ref.ly/1Cor1:12\">1&nbsp;Corinthians 1:12</a>; and <a href=\"https://ref.ly/Gal1:18\">Galatians 1:18</a>. The name means &quot;rock&quot; or &quot;stone.&quot; <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7674\" data-resourceType=\"TyndaleBibleDictionary\">Simon Peter</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "43001042",
+          "start_ref_usfm": "JHN 1:42",
+          "end_ref": "43001042",
+          "end_ref_usfm": "JHN 1:42"
+        },
+        {
+          "start_ref": "46001012",
+          "start_ref_usfm": "1CO 1:12",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "48001018",
+          "start_ref_usfm": "GAL 1:18",
+          "end_ref": "48001018",
+          "end_ref_usfm": "GAL 1:18"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 6630,
-          "content_id": 7462,
+          "reference_id": 7674,
+          "content_id": 8506,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Offerings and Sacrifices",
+          "label": "Simon Peter",
           "language": "eng"
         }
       ]

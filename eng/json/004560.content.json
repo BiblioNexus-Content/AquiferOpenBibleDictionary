@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7821,
-    "reference_id": 6989,
-    "title": "Prison, Court of the",
+    "content_id": 7822,
+    "reference_id": 6990,
+    "title": "Prison Gate",
     "media_type": "Text",
-    "index_reference": "prison, court of the",
+    "index_reference": "prison gate",
     "language": "eng",
-    "content": "<h1>PRISON, Court of the</h1><p>The King James Version translation of “Court of the Guard.” It was an open court where they kept the prophet Jeremiah prisoner (<a href=\"https://ref.ly/Jer32:2\">Jeremiah 32:2</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4710\" data-resourceType=\"TyndaleBibleDictionary\">Guard, Courtyard of the</span>.</p>",
+    "content": "<h1>PRISON GATE</h1><p>The King James Version translation of “Gate of the Guard.” This was a gate in Jerusalem. It is possible that it was on the palace grounds (<a href=\"https://ref.ly/Neh12:39\">Nehemiah 12:39</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4711\" data-resourceType=\"TyndaleBibleDictionary\">Guard, Gate of the</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "24032002",
-          "start_ref_usfm": "JER 32:2",
-          "end_ref": "24032002",
-          "end_ref_usfm": "JER 32:2"
+          "start_ref": "16012039",
+          "start_ref_usfm": "NEH 12:39",
+          "end_ref": "16012039",
+          "end_ref_usfm": "NEH 12:39"
         }
       ],
       "resource": [
         {
-          "reference_id": 4710,
-          "content_id": 5542,
+          "reference_id": 4711,
+          "content_id": 5543,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Guard, Courtyard of the",
+          "label": "Guard, Gate of the",
           "language": "eng"
         }
       ]

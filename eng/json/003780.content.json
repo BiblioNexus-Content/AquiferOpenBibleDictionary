@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 7040,
-    "reference_id": 6208,
-    "title": "Melzar",
+    "content_id": 7039,
+    "reference_id": 6207,
+    "title": "Melon",
     "media_type": "Text",
-    "index_reference": "melzar",
+    "index_reference": "melon",
     "language": "eng",
-    "content": "<h1>MELZAR</h1><p>The steward responsible for the food given to Daniel (<a href=\"https://ref.ly/Dan1:11,Dan1:16\">Daniel 1:11, 16</a>). The Berean Standard Bible translates the word as a title, but the King James Version translates the word as a proper name. Most likely, Melzar is a Hebrew translation of a Babylonian title.</p>",
+    "content": "<h1>MELON</h1><p>A melon is a fruit with many seeds that belongs to the gourd family. Several types of these related vine plants have a hard outer skin and juicy flesh inside.</p><p>The melons mentioned in <a href=\"https://ref.ly/Num11:5\">Numbers 11:5</a> could be either the muskmelon (<em>Cucumis melo</em>) or the watermelon (<em>Citrullus vulgaris</em>). It is possible this verse refers to both of these fruits.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Food and Food Preparation</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "27001011",
-          "start_ref_usfm": "DAN 1:11",
-          "end_ref": "27001011",
-          "end_ref_usfm": "DAN 1:11"
+          "reference_id": 4454,
+          "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Food and Food Preparation",
+          "language": "eng"
         },
         {
-          "start_ref": "27001016",
-          "start_ref_usfm": "DAN 1:16",
-          "end_ref": "27001016",
-          "end_ref_usfm": "DAN 1:16"
+          "reference_id": 6929,
+          "content_id": 7761,
+          "resource_code": "Unknown",
+          "label": "Plants",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

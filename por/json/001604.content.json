@@ -1,88 +1,79 @@
 [
   {
-    "content_id": 815998,
-    "reference_id": 5790,
-    "title": "Quis",
+    "content_id": 658712,
+    "reference_id": 6985,
+    "title": "Primogenitura",
     "media_type": "Text",
-    "index_reference": "quis",
+    "index_reference": "primogenitura",
     "language": "por",
-    "content": "<h1>QUIS</h1><ol><li><p>Um benjamita de Gibeá, pai do Rei Saul e um homem de importância em sua cidade (<a href=\"https://ref.ly/1Sam9:1\">1Sm 9.1</a>). Sua ascendência é traçada por quatro gerações. Assim é a de Elcana, o pai de Samuel, que ungiria Saul como rei (<a href=\"https://ref.ly/1Sam1:1\">1Sm 1.1</a>).</p><p>Os detalhes da família de Quis são um tanto obscuros. O nome de seu pai é listado como Abiel em <a href=\"https://ref.ly/1Sam9:1\">1 Samuel 9.1</a>. Se o Quis mencionado em <a href=\"https://ref.ly/1Chr8:30\">1 Crônicas 8.30</a> for a mesma pessoa, então Abiel também era conhecido como Jeiel. Mas pode ser que este segundo Quis fosse tio do pai de Saul. Em <a href=\"https://ref.ly/1Chr8:33\">1 Crônicas 8.33</a> e <a href=\"https://ref.ly/1Chr9:39\">9.39</a>, Ner, não Abiel, é dito ser o pai de Quis. No entanto, em <a href=\"https://ref.ly/1Sam14:51\">1 Samuel 14.51</a>, Abiel é dito ser o pai de dois filhos cujos nomes eram Ner e Quis. A solução é que o Ner em Crônicas era um ancestral anterior, provavelmente pai ou avô de Abiel. Se for assim, então, a relação pai-filho entre Ner e Quis deve ser entendida em um sentido ampliado, como em outros lugares no Antigo Testamento. Não há outros detalhes disponíveis sobre a vida de Quis. Seu túmulo estava em Zela de Benjamim (<a href=\"https://ref.ly/2Sam21:14\">2Sm 21.14</a>);</p></li><li><p>Um levita, neto de Merari, filho de Mali e pai de Jerameel (<a href=\"https://ref.ly/1Chr23:21-1Chr23:22\">1Cr 23.21,22</a>; <a href=\"https://ref.ly/1Chr24:29\">24.29</a>);</p></li><li><p>Filho de Abdi, outro levita da família de Merari. Ele foi um dos levitas que ajudou Ezequias a purificar o templo (<a href=\"https://ref.ly/2Chr29:12\">2Cr 29.12</a>);</p></li><li><p>Um benjamita e bisavô de Mardoqueu. Mardoqueu foi levado ao exílio por Nabucodonosor em 597 a.C. (<a href=\"https://ref.ly/Esth2:5\">Et 2.5</a>), junto com o rei Jeoaquim e o profeta Ezequiel.</p></li></ol>",
+    "content": "<h1>PRIMOGENITURA</h1><p>Uma palavra que vem da tradução grega da palavra hebraica para &quot;primogênito&quot;. Não é encontrada na Bíblia. É um conceito que reflete o status especial e os direitos de herança concedidos ao filho primogênito.</p><p>Se o primogênito morresse, o próximo homem mais velho vivo não recebia os direitos do primogênito. Uma mulher primogênita também não recebia esses direitos, assim como o primogênito se ele fosse filho de uma concubina ou de uma escrava (por exemplo, <a href=\"https://ref.ly/Gen21:10\">Gn21.10</a>).</p><p>As Escrituras atribuem grande importância aos direitos do primogênito, como visto na distinção entre o primogênito e outros filhos (<a href=\"https://ref.ly/Gen10:15\">Gn 10.15</a>; <a href=\"https://ref.ly/Gen25:13\">25.13</a>; <a href=\"https://ref.ly/Gen36:15\">36.15</a>), a porção dobrada a ser dada ao primogênito (<a href=\"https://ref.ly/Deut21:17\">Dt 21.17</a>), bem como a bênção especial que seus pais lhes davam (<a href=\"https://ref.ly/Gen21:1-Gen21:14\">Gn 21.1</a>–<a href=\"https://ref.ly/Gen21:1-Gen21:14\">14</a>; <a href=\"https://ref.ly/Gen27:1-Gen27:29\">27.1</a>–<a href=\"https://ref.ly/Gen27:1-Gen27:29\">29</a>; <a href=\"https://ref.ly/Gen48:18\">48.18</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3421\" data-resourceType=\"TyndaleBibleDictionary\">Direito de Nascimento</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4432\" data-resourceType=\"TyndaleBibleDictionary\">Primogênito</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09001001",
-          "start_ref_usfm": "1SA 1:1",
-          "end_ref": "09001001",
-          "end_ref_usfm": "1SA 1:1"
+          "start_ref": "01010015",
+          "start_ref_usfm": "GEN 10:15",
+          "end_ref": "01010015",
+          "end_ref_usfm": "GEN 10:15"
         },
         {
-          "start_ref": "09009001",
-          "start_ref_usfm": "1SA 9:1",
-          "end_ref": "09009001",
-          "end_ref_usfm": "1SA 9:1"
+          "start_ref": "01021010",
+          "start_ref_usfm": "GEN 21:10",
+          "end_ref": "01021010",
+          "end_ref_usfm": "GEN 21:10"
         },
         {
-          "start_ref": "09014051",
-          "start_ref_usfm": "1SA 14:51",
-          "end_ref": "09014051",
-          "end_ref_usfm": "1SA 14:51"
+          "start_ref": "01025013",
+          "start_ref_usfm": "GEN 25:13",
+          "end_ref": "01025013",
+          "end_ref_usfm": "GEN 25:13"
         },
         {
-          "start_ref": "10021014",
-          "start_ref_usfm": "2SA 21:14",
-          "end_ref": "10021014",
-          "end_ref_usfm": "2SA 21:14"
+          "start_ref": "01036015",
+          "start_ref_usfm": "GEN 36:15",
+          "end_ref": "01036015",
+          "end_ref_usfm": "GEN 36:15"
         },
         {
-          "start_ref": "13008030",
-          "start_ref_usfm": "1CH 8:30",
-          "end_ref": "13008030",
-          "end_ref_usfm": "1CH 8:30"
+          "start_ref": "01048018",
+          "start_ref_usfm": "GEN 48:18",
+          "end_ref": "01048018",
+          "end_ref_usfm": "GEN 48:18"
         },
         {
-          "start_ref": "13008033",
-          "start_ref_usfm": "1CH 8:33",
-          "end_ref": "13008033",
-          "end_ref_usfm": "1CH 8:33"
+          "start_ref": "05021017",
+          "start_ref_usfm": "DEU 21:17",
+          "end_ref": "05021017",
+          "end_ref_usfm": "DEU 21:17"
         },
         {
-          "start_ref": "13009039",
-          "start_ref_usfm": "1CH 9:39",
-          "end_ref": "13009039",
-          "end_ref_usfm": "1CH 9:39"
+          "start_ref": "01021001",
+          "start_ref_usfm": "GEN 21:1",
+          "end_ref": "01021014",
+          "end_ref_usfm": "GEN 21:14"
         },
         {
-          "start_ref": "13024029",
-          "start_ref_usfm": "1CH 24:29",
-          "end_ref": "13024029",
-          "end_ref_usfm": "1CH 24:29"
-        },
-        {
-          "start_ref": "14029012",
-          "start_ref_usfm": "2CH 29:12",
-          "end_ref": "14029012",
-          "end_ref_usfm": "2CH 29:12"
-        },
-        {
-          "start_ref": "17002005",
-          "start_ref_usfm": "EST 2:5",
-          "end_ref": "17002005",
-          "end_ref_usfm": "EST 2:5"
-        },
-        {
-          "start_ref": "44013021",
-          "start_ref_usfm": "ACT 13:21",
-          "end_ref": "44013021",
-          "end_ref_usfm": "ACT 13:21"
-        },
-        {
-          "start_ref": "13023021",
-          "start_ref_usfm": "1CH 23:21",
-          "end_ref": "13023022",
-          "end_ref_usfm": "1CH 23:22"
+          "start_ref": "01027001",
+          "start_ref_usfm": "GEN 27:1",
+          "end_ref": "01027029",
+          "end_ref_usfm": "GEN 27:29"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3421,
+          "content_id": 682888,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Direito de nascimento",
+          "language": "por"
+        },
+        {
+          "reference_id": 4432,
+          "content_id": 682933,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Primogênito",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

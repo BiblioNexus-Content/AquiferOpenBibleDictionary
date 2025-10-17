@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 4413,
-    "reference_id": 3581,
-    "title": "Canon of the Bible",
+    "content_id": 4412,
+    "reference_id": 3580,
+    "title": "Canneh",
     "media_type": "Text",
-    "index_reference": "canon of the bible",
+    "index_reference": "canneh",
     "language": "eng",
-    "content": "<h1>CANON OF THE BIBLE</h1><p>The officially accepted list of books that make up the Christian Scriptures.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3392\" data-resourceType=\"TyndaleBibleDictionary\">Bible, Canon of the</span>.</p>",
+    "content": "<h1>CANNEH</h1><p>Alternate name for Calneh, a city in northern Syria, in <a href=\"https://ref.ly/Ezek27:23\">Ezekiel 27:23</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3565\" data-resourceType=\"TyndaleBibleDictionary\">Calneh #2</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "26027023",
+          "start_ref_usfm": "EZK 27:23",
+          "end_ref": "26027023",
+          "end_ref_usfm": "EZK 27:23"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 3392,
-          "content_id": 4224,
+          "reference_id": 3565,
+          "content_id": 4397,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bible, Canon of the",
+          "label": "Calneh",
           "language": "eng"
         }
       ]

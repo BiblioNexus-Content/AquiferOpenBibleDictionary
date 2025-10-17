@@ -1,51 +1,39 @@
 [
   {
-    "content_id": 806158,
-    "reference_id": 8327,
-    "title": "Tseboïm",
+    "content_id": 806126,
+    "reference_id": 7366,
+    "title": "Saba",
     "media_type": "Text",
-    "index_reference": "tseboïm",
+    "index_reference": "saba",
     "language": "fra",
-    "content": "<h1>TSÉBOÏM</h1><ol><li><p>Une des « villes de la plaine » qui a été détruite avec Sodome et Gomorrhe (<a href=\"https://ref.ly/Deut29:23\">Dt 29.23</a> ; <a href=\"https://ref.ly/Hos11:8\">Os 11.8</a>). Tseboïm est mentionnée pour la première fois, avec Sodome, Gomorrhe et Adma, comme l&apos;une des villes cananéennes dans la « Table des nations » dans <a href=\"https://ref.ly/Gen10:19\">Genèse 10.19</a>. Elle apparaît plus tard confédérée avec les mêmes états (y compris Tsoar) dans la bataille contre Amraphel roi de Schinear, Arjoc roi d&apos;Ellasar, Kedorlaomer roi d&apos;Élam, et Tideal roi de Gojim (<a href=\"https://ref.ly/Gen14:2,Gen14:8\">Gn 14.2, 8</a>). <em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3739\" data-resourceType=\"TyndaleBibleDictionary\">Villes de la plaine</span>.</p></li><li><p>Vallée où l&apos;un des groupes de raid des Philistins s&apos;est tourné vers la frontière du désert (<a href=\"https://ref.ly/1Sam13:18\">1S 13.18</a>). Elle peut être identifiée avec Shuk ed-Dubba.</p></li><li><p>Un des villages à l&apos;extérieur de Jérusalem où les Benjaminites se sont installés après l&apos;exil (<a href=\"https://ref.ly/Neh11:34\">Né 11.34</a>).</p></li></ol>",
+    "content": "<h1>SABA</h1><p>Peuple sémitique descendant de Cusch (<a href=\"https://ref.ly/Gen10:7\">Gn 10.7</a> ; <a href=\"https://ref.ly/1Chr1:9\">1Ch 1.9</a> ; <a href=\"https://ref.ly/Isa43:3\">Es 43.3</a>). Les peuples sémitiques sont des groupes anciens du Moyen-Orient et d&apos;Afrique du Nord, connus pour leurs langues partagées (comme l&apos;hébreu, l&apos;araméen ou l&apos;arabe) et leurs traditions culturelles. Il est possible que Saba soit le même que le peuple de Séba.</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7481\" data-resourceType=\"TyndaleBibleDictionary\">Séba (personne) n° 2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010019",
-          "start_ref_usfm": "GEN 10:19",
-          "end_ref": "01010019",
-          "end_ref_usfm": "GEN 10:19"
+          "start_ref": "01010007",
+          "start_ref_usfm": "GEN 10:7",
+          "end_ref": "01010007",
+          "end_ref_usfm": "GEN 10:7"
         },
         {
-          "start_ref": "01014002",
-          "start_ref_usfm": "GEN 14:2",
-          "end_ref": "01014002",
-          "end_ref_usfm": "GEN 14:2"
+          "start_ref": "13001009",
+          "start_ref_usfm": "1CH 1:9",
+          "end_ref": "13001009",
+          "end_ref_usfm": "1CH 1:9"
         },
         {
-          "start_ref": "01014008",
-          "start_ref_usfm": "GEN 14:8",
-          "end_ref": "01014008",
-          "end_ref_usfm": "GEN 14:8"
-        },
-        {
-          "start_ref": "05029023",
-          "start_ref_usfm": "DEU 29:23",
-          "end_ref": "05029023",
-          "end_ref_usfm": "DEU 29:23"
-        },
-        {
-          "start_ref": "28011008",
-          "start_ref_usfm": "HOS 11:8",
-          "end_ref": "28011008",
-          "end_ref_usfm": "HOS 11:8"
+          "start_ref": "23043003",
+          "start_ref_usfm": "ISA 43:3",
+          "end_ref": "23043003",
+          "end_ref_usfm": "ISA 43:3"
         }
       ],
       "resource": [
         {
-          "reference_id": 3739,
-          "content_id": 805994,
+          "reference_id": 7481,
+          "content_id": 806132,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Villes de la plaine",
+          "label": "Séba, Schéba (Personne)",
           "language": "fra"
         }
       ]

@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 759969,
-    "reference_id": 7215,
-    "title": "Ritma",
+    "content_id": 759957,
+    "reference_id": 7116,
+    "title": "Rafu",
     "media_type": "Text",
-    "index_reference": "ritma",
+    "index_reference": "rafu",
     "language": "por",
-    "content": "<h1>RITMA</h1><p>Um lugar onde os israelitas pararam durante sua jornada pelo deserto. Estava localizado entre Hazerote e Rimom-Perez (<a href=\"https://ref.ly/Num33:18-Num33:19\">Nm 33.18–19</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações na deserto</span>.</p>",
+    "content": "<h1>RAFU</h1><p>Um benjamita e pai de Palti. Palti foi um dos 12 espiões que Moisés enviou para explorar a terra de Canaã (<a href=\"https://ref.ly/Num13:9\">Nm 13.9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04033018",
-          "start_ref_usfm": "NUM 33:18",
-          "end_ref": "04033019",
-          "end_ref_usfm": "NUM 33:19"
+          "start_ref": "04013009",
+          "start_ref_usfm": "NUM 13:9",
+          "end_ref": "04013009",
+          "end_ref_usfm": "NUM 13:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 8231,
-          "content_id": 717332,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Peregrinações no deserto",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

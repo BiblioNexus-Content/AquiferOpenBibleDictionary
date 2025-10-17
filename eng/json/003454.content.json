@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 6713,
-    "reference_id": 5881,
-    "title": "Leek",
+    "content_id": 6712,
+    "reference_id": 5880,
+    "title": "Leech",
     "media_type": "Text",
-    "index_reference": "leek",
+    "index_reference": "leech",
     "language": "eng",
-    "content": "<h1>LEEK</h1><p>A garden herb related to onions and garlic (<a href=\"https://ref.ly/Num11:5\">Numbers 11:5</a>). Leeks (<em>Allium porrum</em>) have long, straight leaves that form a cylindrical bunch. The edible part is the white stem or stalk that grows underground.</p><p>The bulb of the leek is different from that of the onion and garlic because it is slender, cylindrical, and more than 15.2 centimeters (six inches) long. The flavor is similar to the onion but stronger. People eat the leaves as a relish or cook them in soups. They cut the bulbs into small pieces and use them as seasoning for meat.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6666\" data-resourceType=\"TyndaleBibleDictionary\">Onion</span>.</p>",
+    "content": "<h1>LEECH</h1><p>Blood-sucking, segmented worm, mentioned only in <a href=\"https://ref.ly/Prov30:15\">Proverbs 30:15</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04011005",
-          "start_ref_usfm": "NUM 11:5",
-          "end_ref": "04011005",
-          "end_ref_usfm": "NUM 11:5"
+          "start_ref": "20030015",
+          "start_ref_usfm": "PRO 30:15",
+          "end_ref": "20030015",
+          "end_ref_usfm": "PRO 30:15"
         }
       ],
       "resource": [
         {
-          "reference_id": 6666,
-          "content_id": 7498,
+          "reference_id": 2782,
+          "content_id": 3614,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Onion",
+          "label": "Animals",
           "language": "eng"
         }
       ]

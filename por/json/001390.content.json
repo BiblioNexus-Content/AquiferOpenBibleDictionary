@@ -1,64 +1,72 @@
 [
   {
-    "content_id": 759795,
-    "reference_id": 4882,
-    "title": "Ódio",
+    "content_id": 759910,
+    "reference_id": 6499,
+    "title": "Nebo (Lugar)",
     "media_type": "Text",
-    "index_reference": "ódio",
+    "index_reference": "nebo (lugar)",
     "language": "por",
-    "content": "<h1>ÓDIO</h1><p>O ódio é um sentimento intenso de aversão ou sentimentos semelhantes aos de um inimigo em relação a alguém ou algo. Ele pode levar uma pessoa a:</p><ul><li><p>Ter uma forte aversão por alguém ou algo</p></li><li><p>Quer se vingar por ter sido prejudicado.</p></li></ul><p>As Escrituras proíbem as pessoas de odiarem os outros (<a href=\"https://ref.ly/Lev19:17-Lev19:18\">Lv 19.17–18</a>) porque isso leva ao pecado. De fato, o ódio em si é considerado assassinato (<a href=\"https://ref.ly/1John3:15\">1Jo 3.15</a>). Somos chamados a deixar que Deus, o santo, vingue todas as injustiças (<a href=\"https://ref.ly/Prov20:22\">Pv 20.22</a>), e somos ordenados por Jesus a amar nossos inimigos (<a href=\"https://ref.ly/Matt5:43-Matt5:44\">Mt 5.43–44</a>).</p><p>Nem todo ódio é ruim. A Bíblia nos diz:</p><ul><li><p>Deus odeia coisas más (<a href=\"https://ref.ly/Prov6:16-Prov6:19\">Pv 6.16–19</a>)</p></li><li><p>Deus odeia as pessoas más (<a href=\"https://ref.ly/Ps5:5\">Sl 5.5</a>)</p></li></ul><p>A Escritura também contém expressões como “Todavia, Jacó eu amei, mas Esaú eu odiei” (<a href=\"https://ref.ly/Mal1:2-Mal1:3\">Mq 1.2–3</a>). Isso significa que Deus escolheu Jacó e não Esaú para ser o fundador do povo judeu. Da mesma forma, Jesus desafiou as pessoas a odiarem suas vidas e relacionamentos terrenos se quisessem segui-lo (<a href=\"https://ref.ly/Luke14:26\">Lc 14.26</a>). Isso significa que elas devem escolher Jesus acima de tudo.</p>",
+    "content": "<h1>NEBO (Lugar)</h1><p>1. Cidade localizada nas terras altas pastorais da Transjordânia e desejada pelos filhos de Gade e Rúben (<a href=\"https://ref.ly/Num32:3\">Nm 32.3</a>). Rúben recebeu esta cidade (<a href=\"https://ref.ly/Num32:38\">Nm 32.38</a>; <a href=\"https://ref.ly/1Chr5:8\">1Cr 5.8</a>), mas por fim a perdeu para o rei Mesa de Moabe por volta de 850 a.C. Mais tarde, Isaías (<a href=\"https://ref.ly/Isa15:2\">Is 15.2</a>) e Jeremias (<a href=\"https://ref.ly/Jer48:1,Jer48:22\">Jr 48.1,22</a>) previram a destruição de Nebo como parte do julgamento de Deus contra Moabe.</p><p>2. Cume na porção de Pisga da cordilheira Abarim, situada a 12,9 quilômetros a leste do rio Jordão, no canto nordeste do Mar Morto, no topo do qual Moisés viu a Terra Prometida de Canaã antes de morrer (<a href=\"https://ref.ly/Deut32:49\">Dt 32.49</a>; <a href=\"https://ref.ly/Deut34:1\">34.1</a>). Seu local foi identificado de várias maneiras como Jebel en Neba ou Khirbet el-Mekhaiyet.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6497\" data-resourceType=\"TyndaleBibleDictionary\">Nebo, Monte</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19005005",
-          "start_ref_usfm": "PSA 5:5",
-          "end_ref": "19005005",
-          "end_ref_usfm": "PSA 5:5"
+          "start_ref": "04032003",
+          "start_ref_usfm": "NUM 32:3",
+          "end_ref": "04032003",
+          "end_ref_usfm": "NUM 32:3"
         },
         {
-          "start_ref": "20020022",
-          "start_ref_usfm": "PRO 20:22",
-          "end_ref": "20020022",
-          "end_ref_usfm": "PRO 20:22"
+          "start_ref": "04032038",
+          "start_ref_usfm": "NUM 32:38",
+          "end_ref": "04032038",
+          "end_ref_usfm": "NUM 32:38"
         },
         {
-          "start_ref": "42014026",
-          "start_ref_usfm": "LUK 14:26",
-          "end_ref": "42014026",
-          "end_ref_usfm": "LUK 14:26"
+          "start_ref": "05032049",
+          "start_ref_usfm": "DEU 32:49",
+          "end_ref": "05032049",
+          "end_ref_usfm": "DEU 32:49"
         },
         {
-          "start_ref": "62003015",
-          "start_ref_usfm": "1JN 3:15",
-          "end_ref": "62003015",
-          "end_ref_usfm": "1JN 3:15"
+          "start_ref": "05034001",
+          "start_ref_usfm": "DEU 34:1",
+          "end_ref": "05034001",
+          "end_ref_usfm": "DEU 34:1"
         },
         {
-          "start_ref": "03019017",
-          "start_ref_usfm": "LEV 19:17",
-          "end_ref": "03019018",
-          "end_ref_usfm": "LEV 19:18"
+          "start_ref": "13005008",
+          "start_ref_usfm": "1CH 5:8",
+          "end_ref": "13005008",
+          "end_ref_usfm": "1CH 5:8"
         },
         {
-          "start_ref": "40005043",
-          "start_ref_usfm": "MAT 5:43",
-          "end_ref": "40005044",
-          "end_ref_usfm": "MAT 5:44"
+          "start_ref": "23015002",
+          "start_ref_usfm": "ISA 15:2",
+          "end_ref": "23015002",
+          "end_ref_usfm": "ISA 15:2"
         },
         {
-          "start_ref": "20006016",
-          "start_ref_usfm": "PRO 6:16",
-          "end_ref": "20006019",
-          "end_ref_usfm": "PRO 6:19"
+          "start_ref": "24048001",
+          "start_ref_usfm": "JER 48:1",
+          "end_ref": "24048001",
+          "end_ref_usfm": "JER 48:1"
         },
         {
-          "start_ref": "39001002",
-          "start_ref_usfm": "MAL 1:2",
-          "end_ref": "39001003",
-          "end_ref_usfm": "MAL 1:3"
+          "start_ref": "24048022",
+          "start_ref_usfm": "JER 48:22",
+          "end_ref": "24048022",
+          "end_ref_usfm": "JER 48:22"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6497,
+          "content_id": 759909,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Monte Nebo",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

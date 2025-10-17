@@ -1,40 +1,27 @@
 [
   {
-    "content_id": 4649,
-    "reference_id": 3817,
-    "title": "Coriander",
+    "content_id": 4648,
+    "reference_id": 3816,
+    "title": "Core",
     "media_type": "Text",
-    "index_reference": "coriander",
+    "index_reference": "core",
     "language": "eng",
-    "content": "<h1>CORIANDER</h1><p>An annual herb native to Palestine. The fragrant seeds of this plant are mentioned twice in the description of manna (<a href=\"https://ref.ly/Exod16:31\">Exodus 16:31</a>; <a href=\"https://ref.ly/Num11:7\">Numbers 11:7</a>). The references in these verses clearly refer to the common coriander plant (<em>Coriandrum sativum</em>).</p><p>Coriander was commonly found growing alongside grain in cultivated fields throughout Israel and the surrounding areas. It also grows wild in Egypt. Ancient people used it both as a food flavoring and as medicine. The leaves have a strong, pleasant smell and are used in soups and for flavoring puddings, curries, and wines.</p><p>Arabs still use coriander as a spice today. In the Bible, it is mentioned only when describing manna, which was said to look like coriander seeds in size, shape, and color.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Food and Food Preparation</span>.</p>",
+    "content": "<h1>CORE</h1><p>The King James Version spelling of Korah, Izhar’s son, in <a href=\"https://ref.ly/Jude1:11\">Jude 1:11</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5812\" data-resourceType=\"TyndaleBibleDictionary\">Korah #3</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02016031",
-          "start_ref_usfm": "EXO 16:31",
-          "end_ref": "02016031",
-          "end_ref_usfm": "EXO 16:31"
-        },
-        {
-          "start_ref": "04011007",
-          "start_ref_usfm": "NUM 11:7",
-          "end_ref": "04011007",
-          "end_ref_usfm": "NUM 11:7"
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
         }
       ],
       "resource": [
         {
-          "reference_id": 4454,
-          "content_id": 5286,
+          "reference_id": 5812,
+          "content_id": 6644,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Food and Food Preparation",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
+          "label": "Korah",
           "language": "eng"
         }
       ]

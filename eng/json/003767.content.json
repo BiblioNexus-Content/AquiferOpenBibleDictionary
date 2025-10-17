@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7027,
-    "reference_id": 6195,
-    "title": "Melatiah",
+    "content_id": 7026,
+    "reference_id": 6194,
+    "title": "Mekonah",
     "media_type": "Text",
-    "index_reference": "melatiah",
+    "index_reference": "mekonah",
     "language": "eng",
-    "content": "<h1>MELATIAH</h1><p>Descendant of Gideon who helped repair the Jerusalem wall next to the Old Gate during Nehemiah’s time (<a href=\"https://ref.ly/Neh3:7\">Neh 3:7</a>).</p>",
+    "content": "<h1>MEKONAH*</h1><p>KJV spelling of Meconah, a Judean city, in <a href=\"https://ref.ly/Neh11:28\">Nehemiah 11:28</a>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16003007",
-          "start_ref_usfm": "NEH 3:7",
-          "end_ref": "16003007",
-          "end_ref_usfm": "NEH 3:7"
+          "start_ref": "16011028",
+          "start_ref_usfm": "NEH 11:28",
+          "end_ref": "16011028",
+          "end_ref_usfm": "NEH 11:28"
         }
       ],
       "resource": []

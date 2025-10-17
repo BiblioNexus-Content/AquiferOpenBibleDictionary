@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7688,
-    "reference_id": 6856,
-    "title": "Phaltiel",
+    "content_id": 7689,
+    "reference_id": 6857,
+    "title": "Phalti",
     "media_type": "Text",
-    "index_reference": "phaltiel",
+    "index_reference": "phalti",
     "language": "eng",
-    "content": "<h1>PHALTIEL</h1><p>An alternate spelling used in the King James Version for the name Paltiel. This refers to the son of Laish mentioned in <a href=\"https://ref.ly/2Sam3:15\">2&nbsp;Samuel 3:15</a>. Phaltiel is another name for Palti. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6734\" data-resourceType=\"TyndaleBibleDictionary\">Palti #2</span>.</p>",
+    "content": "<h1>PHALTI*</h1><p>KJV spelling of Palti, Laish’s son, in <a href=\"https://ref.ly/1Sam25:44\">1&nbsp;Samuel 25:44</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6734\" data-resourceType=\"TyndaleBibleDictionary\">Palti #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "10003015",
-          "start_ref_usfm": "2SA 3:15",
-          "end_ref": "10003015",
-          "end_ref_usfm": "2SA 3:15"
+          "start_ref": "09025044",
+          "start_ref_usfm": "1SA 25:44",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
         }
       ],
       "resource": [

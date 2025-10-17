@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 6103,
-    "reference_id": 5271,
-    "title": "Italian Regiment, Italian Band, Italian Cohort",
+    "content_id": 6102,
+    "reference_id": 5270,
+    "title": "Isui",
     "media_type": "Text",
-    "index_reference": "italian regiment, italian band, italian cohort",
+    "index_reference": "isui",
     "language": "eng",
-    "content": "<h1>ITALIAN REGIMENT, ITALIAN BAND, ITALIAN COHORT</h1><p>The Italian Regiment was a Roman military unit. Some Bible versions call it the &quot;Italian Cohort&quot; or &quot;Italian Band.&quot; This was the unit that Cornelius the centurion belonged to. The Italian Regiment is appears once in the Bible (<a href=\"https://ref.ly/Acts10:1\">Acts 10:1</a>). The New American Standard Bible reads, “cohort.” The King James Versions has, “ band.” </p><p>The Roman army had extra military units called <em>auxiliary regiments</em>. These groups were usually made up of men from different parts of the empire. Jewish men were usually not required to serve in these units. Some regiments had special names, like “Italian” or “Augustan” (which means they served the emperor) (<a href=\"https://ref.ly/Acts27:1\">Acts 27:1</a>). It seems that most of the Italian Regiment was made up of Roman citizens who had been born in Rome. Each regiment had six smaller units called <em>centuries</em>. Each century had about 100 men and was led by a centurion. Cornelius was the centurion of one of these centuries. Ten regiments together made up a legion, which had about 6,000 men.</p><p>Inscriptions show that an Italian Regiment was in Syria between AD 69 and 157. It may have been there earlier, but we do not have military records from that time.</p>",
+    "content": "<h1>ISUI*</h1><p>KJV rendering of Ishvi, Asher’s son, in <a href=\"https://ref.ly/Gen46:17\">Genesis 46:17</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5255\" data-resourceType=\"TyndaleBibleDictionary\">Ishvi #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44010001",
-          "start_ref_usfm": "ACT 10:1",
-          "end_ref": "44010001",
-          "end_ref_usfm": "ACT 10:1"
-        },
-        {
-          "start_ref": "44027001",
-          "start_ref_usfm": "ACT 27:1",
-          "end_ref": "44027001",
-          "end_ref_usfm": "ACT 27:1"
+          "start_ref": "01046017",
+          "start_ref_usfm": "GEN 46:17",
+          "end_ref": "01046017",
+          "end_ref_usfm": "GEN 46:17"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5255,
+          "content_id": 6087,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Ishvi",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

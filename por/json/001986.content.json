@@ -1,33 +1,33 @@
 [
   {
-    "content_id": 760059,
-    "reference_id": 8330,
-    "title": "Zebulonita",
+    "content_id": 717319,
+    "reference_id": 8018,
+    "title": "Timnate",
     "media_type": "Text",
-    "index_reference": "zebulonita",
+    "index_reference": "timnate",
     "language": "por",
-    "content": "<h1>ZEBULONITA</h1><p>Qualquer descendente de Zebulom, filho do patriarca Jacó (<a href=\"https://ref.ly/Num26:27\">Nm 26.27</a>; <a href=\"https://ref.ly/Judg12:11-Judg12:12\">Jz 12.11–12</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8332\" data-resourceType=\"TyndaleBibleDictionary\">Zebulom, Tribo de</span><em>.</em></p>",
+    "content": "<h1>TIMNATE*</h1><p>A Grafia de Timna na NTLH, uma cidade no norte de Judá, em <a href=\"https://ref.ly/Gen38:12-Gen38:14\">Gênesis 38.12–14</a> e <a href=\"https://ref.ly/Judg14:1-Judg14:5\">Juízes 14.1–5</a>. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8015\" data-resourceType=\"TyndaleBibleDictionary\">Timna (Lugar) #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026027",
-          "start_ref_usfm": "NUM 26:27",
-          "end_ref": "04026027",
-          "end_ref_usfm": "NUM 26:27"
+          "start_ref": "01038012",
+          "start_ref_usfm": "GEN 38:12",
+          "end_ref": "01038014",
+          "end_ref_usfm": "GEN 38:14"
         },
         {
-          "start_ref": "07012011",
-          "start_ref_usfm": "JDG 12:11",
-          "end_ref": "07012012",
-          "end_ref_usfm": "JDG 12:12"
+          "start_ref": "07014001",
+          "start_ref_usfm": "JDG 14:1",
+          "end_ref": "07014005",
+          "end_ref_usfm": "JDG 14:5"
         }
       ],
       "resource": [
         {
-          "reference_id": 8332,
-          "content_id": 683118,
+          "reference_id": 8015,
+          "content_id": 717317,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Zebulom, Tribo de",
+          "label": "Timna (Lugar)",
           "language": "por"
         }
       ]

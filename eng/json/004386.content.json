@@ -1,31 +1,19 @@
 [
   {
-    "content_id": 7644,
-    "reference_id": 6812,
-    "title": "Penknife",
+    "content_id": 7643,
+    "reference_id": 6811,
+    "title": "Peninnah",
     "media_type": "Text",
-    "index_reference": "penknife",
+    "index_reference": "peninnah",
     "language": "eng",
-    "content": "<h1>PENKNIFE*</h1><p>Iron tool used to sharpen reed pens, cut papyrus, and carve letters in stone. It is mentioned by name only in <a href=\"https://ref.ly/Jer36:23\">Jeremiah 36:23</a> (rsv), but it is referred to elsewhere as a pen or tool of iron (<a href=\"https://ref.ly/Job19:24\">Jb 19:24</a>; <a href=\"https://ref.ly/Jer17:1\">Jer 17:1</a>).</p>",
+    "content": "<h1>PENINNAH</h1><p>One of Elkanah’s two wives, the other and more favored being Hannah (<a href=\"https://ref.ly/1Sam1:2-1Sam1:6\">1&nbsp;Sm 1:2–6</a>). Peninnah’s fortune in bearing children was the source of much domestic friction for the childless Hannah, especially at the time of the annual sacrifice at Shiloh. Rabbinic tradition explains Peninnah’s taunts as attempts to provoke Hannah into pregnancy, but the biblical record portrays the women as rivals.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "18019024",
-          "start_ref_usfm": "JOB 19:24",
-          "end_ref": "18019024",
-          "end_ref_usfm": "JOB 19:24"
-        },
-        {
-          "start_ref": "24017001",
-          "start_ref_usfm": "JER 17:1",
-          "end_ref": "24017001",
-          "end_ref_usfm": "JER 17:1"
-        },
-        {
-          "start_ref": "24036023",
-          "start_ref_usfm": "JER 36:23",
-          "end_ref": "24036023",
-          "end_ref_usfm": "JER 36:23"
+          "start_ref": "09001002",
+          "start_ref_usfm": "1SA 1:2",
+          "end_ref": "09001006",
+          "end_ref_usfm": "1SA 1:6"
         }
       ],
       "resource": []

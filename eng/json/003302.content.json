@@ -1,28 +1,36 @@
 [
   {
-    "content_id": 6560,
-    "reference_id": 5728,
-    "title": "Keros",
+    "content_id": 6559,
+    "reference_id": 5727,
+    "title": "Kerith, the Brook",
     "media_type": "Text",
-    "index_reference": "keros",
+    "index_reference": "kerith, the brook",
     "language": "eng",
-    "content": "<h1>KEROS</h1><p>One of the temple servants whose descendants returned to Jerusalem with Zerubbabel (<a href=\"https://ref.ly/Ezra2:44\">Ezr 2:44</a>; <a href=\"https://ref.ly/Neh7:47\">Neh 7:47</a>).</p>",
+    "content": "<h1>KERITH, The Brook</h1><p>Another spelling for the Brook of Cherith, where the Lord told the prophet Elijah to hide from King Ahab during a famine he had predicted (<a href=\"https://ref.ly/1Kgs17:2-1Kgs17:6\">1&nbsp;Kings 17:2–6</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3677\" data-resourceType=\"TyndaleBibleDictionary\">Cherith, the Brook</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002044",
-          "start_ref_usfm": "EZR 2:44",
-          "end_ref": "15002044",
-          "end_ref_usfm": "EZR 2:44"
+          "start_ref": "11017003",
+          "start_ref_usfm": "1KI 17:3",
+          "end_ref": "11017003",
+          "end_ref_usfm": "1KI 17:3"
         },
         {
-          "start_ref": "16007047",
-          "start_ref_usfm": "NEH 7:47",
-          "end_ref": "16007047",
-          "end_ref_usfm": "NEH 7:47"
+          "start_ref": "11017002",
+          "start_ref_usfm": "1KI 17:2",
+          "end_ref": "11017006",
+          "end_ref_usfm": "1KI 17:6"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3677,
+          "content_id": 4509,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Cherith, the Brook",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

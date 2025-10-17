@@ -1,40 +1,36 @@
 [
   {
-    "content_id": 717089,
-    "reference_id": 5175,
-    "title": "Imna",
+    "content_id": 717087,
+    "reference_id": 5138,
+    "title": "Hissopo",
     "media_type": "Text",
-    "index_reference": "imna",
+    "index_reference": "hissopo",
     "language": "por",
-    "content": "<h1>IMNA</h1><p>1. Filho de Aser (<a href=\"https://ref.ly/Gen46:17\">Gn 46.17</a>; <a href=\"https://ref.ly/1Chr7:30\">1Cr 7.30</a>) e fundador da família Imnita (<a href=\"https://ref.ly/Num26:44\">Nm 26.44</a>).</p><p>2. Levita e pai de Coré. Coré foi um assistente do templo durante o reinado do Rei Ezequias (<a href=\"https://ref.ly/2Chr31:14\">2Cr 31.14</a>).</p>",
+    "content": "<h1>HISSOPO</h1><p>Uma planta de manjerona síria ou egípcia (<a href=\"https://ref.ly/Exod12:22\">Êx 12.22</a>; <a href=\"https://ref.ly/Lev14:4\">Lv 14.4</a>).</p><p><em>Veja </em><span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01046017",
-          "start_ref_usfm": "GEN 46:17",
-          "end_ref": "01046017",
-          "end_ref_usfm": "GEN 46:17"
+          "start_ref": "02012022",
+          "start_ref_usfm": "EXO 12:22",
+          "end_ref": "02012022",
+          "end_ref_usfm": "EXO 12:22"
         },
         {
-          "start_ref": "04026044",
-          "start_ref_usfm": "NUM 26:44",
-          "end_ref": "04026044",
-          "end_ref_usfm": "NUM 26:44"
-        },
-        {
-          "start_ref": "13007030",
-          "start_ref_usfm": "1CH 7:30",
-          "end_ref": "13007030",
-          "end_ref_usfm": "1CH 7:30"
-        },
-        {
-          "start_ref": "14031014",
-          "start_ref_usfm": "2CH 31:14",
-          "end_ref": "14031014",
-          "end_ref_usfm": "2CH 31:14"
+          "start_ref": "03014004",
+          "start_ref_usfm": "LEV 14:4",
+          "end_ref": "03014004",
+          "end_ref_usfm": "LEV 14:4"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6929,
+          "content_id": 125318,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Plantas",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

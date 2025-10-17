@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7030,
-    "reference_id": 6198,
-    "title": "Melchi-Shua",
+    "content_id": 7029,
+    "reference_id": 6197,
+    "title": "Melchisedec",
     "media_type": "Text",
-    "index_reference": "melchi-shua",
+    "index_reference": "melchisedec",
     "language": "eng",
-    "content": "<h1>MELCHI-SHUA*</h1><p>KJV alternate form of Malchi-shua, King Saul’s third son, in <a href=\"https://ref.ly/1Sam14:49\">1&nbsp;Samuel 14:49</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6066\" data-resourceType=\"TyndaleBibleDictionary\">Malchi-shua</span>.</p>",
+    "content": "<h1>MELCHISEDEC*</h1><p>KJV rendering of Melchizedek, the priest and king of Salem who blessed Abraham, in <a href=\"https://ref.ly/Heb5:1-Heb7:28\">Hebrews 5–7</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6199\" data-resourceType=\"TyndaleBibleDictionary\">Melchizedek</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09014049",
-          "start_ref_usfm": "1SA 14:49",
-          "end_ref": "09014049",
-          "end_ref_usfm": "1SA 14:49"
+          "start_ref": "58005001",
+          "start_ref_usfm": "HEB 5:1",
+          "end_ref": "58007028",
+          "end_ref_usfm": "HEB 7:28"
         }
       ],
       "resource": [
         {
-          "reference_id": 6066,
-          "content_id": 6898,
+          "reference_id": 6199,
+          "content_id": 7031,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Malchishua, Malchi-shua",
+          "label": "Melchizedek",
           "language": "eng"
         }
       ]

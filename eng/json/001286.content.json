@@ -1,31 +1,19 @@
 [
   {
-    "content_id": 4539,
-    "reference_id": 3707,
-    "title": "Choba",
+    "content_id": 4538,
+    "reference_id": 3706,
+    "title": "Chloe",
     "media_type": "Text",
-    "index_reference": "choba",
+    "index_reference": "chloe",
     "language": "eng",
-    "content": "<h1>CHOBA</h1><p>Village mentioned in the book of Judith as being fortified by the Jews when Assyrian commander Holofernes invaded Palestine (<a href=\"https://ref.ly/Jdt4:4\">Jdt 4:4</a>). The precise location cannot be identified, but it may be el-Makhubbi, three miles (4.8 kilometers) from Besan, or possibly the Hobah of <a href=\"https://ref.ly/Gen14:15\">Genesis 14:15</a>. The account indicates that the Jews pursued Holofernes’ army to Choba and beyond Damascus (<a href=\"https://ref.ly/Jdt15:4-Jdt15:5\">Jdt 15:4–5</a>).</p>",
+    "content": "<h1>CHLOE</h1><p>Woman whose household members (possibly slaves) informed Paul in Ephesus of arguments in the Corinthian church (<a href=\"https://ref.ly/1Cor1:11\">1&nbsp;Cor 1:11</a>). It is not known whether Chloe lived in Corinth or Ephesus, or even whether she herself was a believer.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014015",
-          "start_ref_usfm": "GEN 14:15",
-          "end_ref": "01014015",
-          "end_ref_usfm": "GEN 14:15"
-        },
-        {
-          "start_ref": "69004004",
-          "start_ref_usfm": "JDT 4:4",
-          "end_ref": "69004004",
-          "end_ref_usfm": "JDT 4:4"
-        },
-        {
-          "start_ref": "69015004",
-          "start_ref_usfm": "JDT 15:4",
-          "end_ref": "69015005",
-          "end_ref_usfm": "JDT 15:5"
+          "start_ref": "46001011",
+          "start_ref_usfm": "1CO 1:11",
+          "end_ref": "46001011",
+          "end_ref_usfm": "1CO 1:11"
         }
       ],
       "resource": []

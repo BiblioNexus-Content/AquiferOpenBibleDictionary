@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 5331,
-    "reference_id": 4499,
-    "title": "Gabbai",
+    "content_id": 5329,
+    "reference_id": 4497,
+    "title": "Gabatha",
     "media_type": "Text",
-    "index_reference": "gabbai",
+    "index_reference": "gabatha",
     "language": "eng",
-    "content": "<h1>GABBAI</h1><p>Head of a family that returned to Jerusalem with Zerubbabel after the Babylonian exile (<a href=\"https://ref.ly/Neh11:8\">Neh 11:8</a>).</p>",
+    "content": "<h1>GABATHA*</h1><p>Alternate name for Bigthan, one of Ahasuerus’s eunuchs (<a href=\"https://ref.ly/EsthGr12:1\">Add Est 12:1</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3403\" data-resourceType=\"TyndaleBibleDictionary\">Bigthan, Bigthana</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16011008",
-          "start_ref_usfm": "NEH 11:8",
-          "end_ref": "16011008",
-          "end_ref_usfm": "NEH 11:8"
+          "start_ref": "70012001",
+          "start_ref_usfm": "ESG 12:1",
+          "end_ref": "70012001",
+          "end_ref_usfm": "ESG 12:1"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3403,
+          "content_id": 4235,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Bigthan, Bigthana",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

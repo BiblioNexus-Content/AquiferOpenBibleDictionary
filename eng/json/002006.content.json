@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 5262,
-    "reference_id": 4430,
-    "title": "Firkin",
+    "content_id": 5261,
+    "reference_id": 4429,
+    "title": "Fire, Pillar of",
     "media_type": "Text",
-    "index_reference": "firkin",
+    "index_reference": "fire, pillar of",
     "language": "eng",
-    "content": "<h1>FIRKIN*</h1><p>Measure of about 10 gallons (37.9 liters). In <a href=\"https://ref.ly/John2:6\">John 2:6</a>, firkin is the kjv translation for the name of a Greek liquid measure. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Weights and Measures</span>.</p>",
+    "content": "<h1>FIRE, Pillar of</h1><p>Supernatural phenomenon of God’s presence that guided the Israelites in the wilderness. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6905\" data-resourceType=\"TyndaleBibleDictionary\">Pillar of Fire and Cloud</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "43002006",
-          "start_ref_usfm": "JHN 2:6",
-          "end_ref": "43002006",
-          "end_ref_usfm": "JHN 2:6"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 8219,
-          "content_id": 9051,
+          "reference_id": 6905,
+          "content_id": 7737,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Weights and Measures",
+          "label": "Pillar of Fire and Cloud",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8231,
+          "content_id": 9063,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Wilderness Wanderings",
           "language": "eng"
         }
       ]

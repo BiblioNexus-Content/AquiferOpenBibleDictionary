@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 7539,
-    "reference_id": 6707,
-    "title": "Ox (Person)",
+    "content_id": 7540,
+    "reference_id": 6708,
+    "title": "Ox",
     "media_type": "Text",
-    "index_reference": "ox (person)",
+    "index_reference": "ox",
     "language": "eng",
-    "content": "<h1>OX (Person)</h1><p>Descendant of Israel, grandfather of Judith, the heroine of Maccabean times (<a href=\"https://ref.ly/Jdt8:1\">Jdt 8:1</a>).</p>",
+    "content": "<h1>OX</h1><p>An ox is a large, strong animal of the cattle family. In Bible times, oxen were often used for pulling carts and plows. The word can mean either a male or female, but usually refers to one trained for work.</p><p><em>See </em><span data-bnType=\"resourceReference\" data-resourceId=\"3616\" data-resourceType=\"TyndaleBibleDictionary\">Cattle</span><em>; see also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "69008001",
-          "start_ref_usfm": "JDT 8:1",
-          "end_ref": "69008001",
-          "end_ref_usfm": "JDT 8:1"
+          "reference_id": 2782,
+          "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Animals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 3616,
+          "content_id": 4448,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Cattle",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 6129,
-    "reference_id": 5297,
-    "title": "Izziah",
+    "content_id": 6128,
+    "reference_id": 5296,
+    "title": "Izri",
     "media_type": "Text",
-    "index_reference": "izziah",
+    "index_reference": "izri",
     "language": "eng",
-    "content": "<h1>IZZIAH</h1><p>Parosh’s son, who was encouraged by Ezra to divorce the foreign woman he married during the postexilic period (<a href=\"https://ref.ly/Ezra10:25\">Ezr 10:25</a>).</p>",
+    "content": "<h1>IZRI*</h1><p>Temple musician and head of the 4th of the 24 divisions of priests for service as musicians in the sanctuary (<a href=\"https://ref.ly/1Chr25:11\">1&nbsp;Chr 25:11</a>, nlt mg). He is called Zeri in <a href=\"https://ref.ly/1Chr25:3\">1&nbsp;Chronicles 25:3</a>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15010025",
-          "start_ref_usfm": "EZR 10:25",
-          "end_ref": "15010025",
-          "end_ref_usfm": "EZR 10:25"
+          "start_ref": "13025003",
+          "start_ref_usfm": "1CH 25:3",
+          "end_ref": "13025003",
+          "end_ref_usfm": "1CH 25:3"
+        },
+        {
+          "start_ref": "13025011",
+          "start_ref_usfm": "1CH 25:11",
+          "end_ref": "13025011",
+          "end_ref_usfm": "1CH 25:11"
         }
       ],
       "resource": []

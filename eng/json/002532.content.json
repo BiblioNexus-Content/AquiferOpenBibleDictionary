@@ -1,19 +1,31 @@
 [
   {
-    "content_id": 5785,
-    "reference_id": 4953,
-    "title": "Helkath-hazzurim",
+    "content_id": 5786,
+    "reference_id": 4954,
+    "title": "Helkath",
     "media_type": "Text",
-    "index_reference": "helkath-hazzurim",
+    "index_reference": "helkath",
     "language": "eng",
-    "content": "<h1>HELKATH-HAZZURIM</h1><p>An area near the pool of Gibeon, where a deadly battle took place. Twelve warriors from Joab&apos;s army and twelve from Abner&apos;s army fought against each other. All 24 men died in this fight, as each fighter killed his opponent(<a href=\"https://ref.ly/2Sam2:16\">2&nbsp;Samuel 2:16</a>). </p><p>Some scholars think the name may mean, “field of the crafty,” which could be understood as “field of ambush” or “field of the adversaries.” The New living Translation marginal reading calls it, “the Field of Swords.”</p>",
+    "content": "<h1>HELKATH</h1><p>First of 22 cities mentioned in the territory allotted to Asher’s tribe for an inheritance (<a href=\"https://ref.ly/Josh19:25\">Jos 19:25</a>). Helkath was one of four cities in Asher given to the Levitical Gershonite families (<a href=\"https://ref.ly/Josh21:31\">21:31</a>). It is alternately spelled Hukok in <a href=\"https://ref.ly/1Chr6:75\">1&nbsp;Chronicles 6:75</a>. Its ancient site is perhaps located at the modern Tell el-Harbaj.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "10002016",
-          "start_ref_usfm": "2SA 2:16",
-          "end_ref": "10002016",
-          "end_ref_usfm": "2SA 2:16"
+          "start_ref": "06019025",
+          "start_ref_usfm": "JOS 19:25",
+          "end_ref": "06019025",
+          "end_ref_usfm": "JOS 19:25"
+        },
+        {
+          "start_ref": "06021031",
+          "start_ref_usfm": "JOS 21:31",
+          "end_ref": "06021031",
+          "end_ref_usfm": "JOS 21:31"
+        },
+        {
+          "start_ref": "13006075",
+          "start_ref_usfm": "1CH 6:75",
+          "end_ref": "13006075",
+          "end_ref_usfm": "1CH 6:75"
         }
       ],
       "resource": []

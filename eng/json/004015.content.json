@@ -1,36 +1,28 @@
 [
   {
-    "content_id": 7272,
-    "reference_id": 6440,
-    "title": "Nabataeans, Nabateans",
+    "content_id": 7271,
+    "reference_id": 6439,
+    "title": "Nabal",
     "media_type": "Text",
-    "index_reference": "nabataeans, nabateans",
+    "index_reference": "nabal",
     "language": "eng",
-    "content": "<h1>NABATAEANS*, NABATEANS</h1><p>Inhabitants of an independent kingdom bordering Judea, which existed from 169 BC to AD 106. The reader of the Bible and of standard histories often overlooks them for two reasons: their achievements are of recent discovery, and they flourished in a period when other major events, including the life of Christ and the beginning of the church, vastly overshadowed their existence.</p><p>The Judeans and Nabateans of the Hellenistic-Roman era shared borders and politics. The mother of Herod the Great, son of the Idumean ruler Antipater, was herself a Nabatean. Herod fled to Petra, the Nabatean capital, in 40 BC, when the Parthians attacked Jerusalem. Relations between the two kingdoms were strengthened by the marriage in the next generation of Herod Antipas to a daughter of the powerful Nabatean king Aretas IV (9&nbsp;BC–AD 40); relations soured again due to his divorce to marry his niece and sister-in-law, Herodias.</p><p>The NT alludes to the extent of Nabatean influence in the region, when Paul tells of his narrow escape from incarceration following his return from the Arabian desert: “At Damascus, the governor under King Aretas guarded the city .&nbsp;.&nbsp;. in order to seize me, but I was let down in a basket .&nbsp;.&nbsp;. and escaped his hands” (<a href=\"https://ref.ly/2Cor11:32-2Cor11:33\">2&nbsp;Cor 11:32–33</a>, rsv).</p><p>Nabatean origins are obscure. The best-known remains of Nabatean culture are the funerary monuments of Petra. Aramaic inscriptions abound, standardized on coins and dedicatory items, with papyri and ostraca (sherds) revealing a cursive variation that anticipates Arabic script. Adoption of Aramaic language and Syrian deities shows the pragmatism by which they also adapted to their hostile environment. Only their Byzantine heirs approached their ingenuity for capturing precious water to sustain life in an arid region. Caravan travel was enhanced and permanent control thereof made possible only by skillful engineering.</p><p>The earliest historical reference to the Nabateans associates them with Antigonus, Alexander’s successor in Syria (312 BC). The succession of known kings begins with Aretas I, around 170 BC (<a href=\"https://ref.ly/2Macc5:8\">2&nbsp;Macc 5:8</a>). Josephus writes that about 100 BC the citizens of Gaza looked to “Aretas [II], king of the Arabs,” for aid against Alexander Janneus. Aretas III controlled Damascus (80–70 BC).</p><p>The golden age at Petra lasted from 50 BC to AD 70 and included the reigns of Malichus I and Obodas II (period of Herod the Great), Aretas IV, and Malichus II. The rule of Rabbel II marks the end of the Nabatean kingdom. His predecessor, Malichus III, had moved the capital to Bostra, 70 miles (112.6 kilometers) east of Galilee. This in turn became the capital of the Roman province of Arabia, following Trajan’s conquests, in AD 106. The Nabateans were absorbed into the population, while their distinctive script continued into the fourth century.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6852\" data-resourceType=\"TyndaleBibleDictionary\">Petra</span>.</p>",
+    "content": "<h1>NABAL</h1><p>Wealthy, successful farmer of Maon in the southern wilderness of Judah. Unlike his godly forefather, Caleb, Nabal was hard of heart and wicked in all his ways (<a href=\"https://ref.ly/1Sam25:3\">1&nbsp;Sm 25:3</a>).</p><p>When he enters the story of David (<a href=\"https://ref.ly/1Sam25:1-1Sam25:44\">1&nbsp;Sm 25</a>), it is sheep-shearing time, which seems to have been a time of festivity and hospitality. Fleeing from Saul, who wanted to kill him, David decided to ask Nabal for a gift, not only to mark the occasion, but also because David’s presence in the area had served to protect Nabal’s flocks. Nabal refused in a most insulting way, suggesting that David was no better than a runaway slave.</p><p>David decided on revenge. But Abigail, Nabal’s quick-witted wife, saved Nabal by bringing David the presents he had asked for and by begging him not to stain his record by acting in anger. David agreed. But when Nabal heard what had happened, he was struck down by what appears to have been a stroke and died 10&nbsp;days later.</p><p>Nabal, whose name means “fool,” stands as a reminder of the deep folly of opposing God. God himself, not David, took revenge.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "79005008",
-          "start_ref_usfm": "2MA 5:8",
-          "end_ref": "79005008",
-          "end_ref_usfm": "2MA 5:8"
+          "start_ref": "09025003",
+          "start_ref_usfm": "1SA 25:3",
+          "end_ref": "09025003",
+          "end_ref_usfm": "1SA 25:3"
         },
         {
-          "start_ref": "47011032",
-          "start_ref_usfm": "2CO 11:32",
-          "end_ref": "47011033",
-          "end_ref_usfm": "2CO 11:33"
+          "start_ref": "09025001",
+          "start_ref_usfm": "1SA 25:1",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6852,
-          "content_id": 7684,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Petra",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,36 +1,28 @@
 [
   {
-    "content_id": 6075,
-    "reference_id": 5243,
-    "title": "Ishmeelite",
+    "content_id": 6073,
+    "reference_id": 5241,
+    "title": "Ishmaiah",
     "media_type": "Text",
-    "index_reference": "ishmeelite",
+    "index_reference": "ishmaiah",
     "language": "eng",
-    "content": "<h1>ISHMEELITE</h1><p>The King James Version spelling for &quot;Ishmaelite&quot; (<a href=\"https://ref.ly/Gen37:25-Gen37:28\">Genesis 37:25–28</a>; <a href=\"https://ref.ly/Gen39:1\">39:1</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5239\" data-resourceType=\"TyndaleBibleDictionary\">Ishmaelite</span>.</p>",
+    "content": "<h1>ISHMAIAH</h1><p>1. Warrior from Benjamin’s tribe who joined David at Ziklag in his struggle against King Saul. Ishmaiah was one of David’s ambidextrous archers and slingers (<a href=\"https://ref.ly/1Chr12:4\">1&nbsp;Chr 12:4</a>).</p><p>2. Obadiah’s son, a chief officer in Zebulun’s tribe in David’s time (<a href=\"https://ref.ly/1Chr27:19\">1&nbsp;Chr 27:19</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01039001",
-          "start_ref_usfm": "GEN 39:1",
-          "end_ref": "01039001",
-          "end_ref_usfm": "GEN 39:1"
+          "start_ref": "13012004",
+          "start_ref_usfm": "1CH 12:4",
+          "end_ref": "13012004",
+          "end_ref_usfm": "1CH 12:4"
         },
         {
-          "start_ref": "01037025",
-          "start_ref_usfm": "GEN 37:25",
-          "end_ref": "01037028",
-          "end_ref_usfm": "GEN 37:28"
+          "start_ref": "13027019",
+          "start_ref_usfm": "1CH 27:19",
+          "end_ref": "13027019",
+          "end_ref_usfm": "1CH 27:19"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5239,
-          "content_id": 6071,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Ishmaelite",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

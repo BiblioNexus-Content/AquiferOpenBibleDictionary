@@ -1,42 +1,28 @@
 [
   {
-    "content_id": 4498,
-    "reference_id": 3666,
-    "title": "Chelubai",
+    "content_id": 4499,
+    "reference_id": 3667,
+    "title": "Chelub",
     "media_type": "Text",
-    "index_reference": "chelubai",
+    "index_reference": "chelub",
     "language": "eng",
-    "content": "<h1>CHELUBAI</h1><p>A different spelling of the name Caleb. He was the son of Hezron and the brother of Jerahmeel (<a href=\"https://ref.ly/1Chr2:9\">1&nbsp;Chronicles 2:9</a>). In Hebrew, &quot;Chelubai&quot; is a variant form of the name &quot;Caleb,&quot; as shown in <a href=\"https://ref.ly/1Chr2:18,1Chr2:42\">1&nbsp;Chronicles 2:18, 42</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3558\" data-resourceType=\"TyndaleBibleDictionary\">Caleb #2</span>.</p>",
+    "content": "<h1>CHELUB</h1><ol><li><p>The brother of Shuhah and the father of Mehir from the tribe of Judah (<a href=\"https://ref.ly/1Chr4:11\">1&nbsp;Chronicles 4:11</a>).</p></li><li><p>The father of Ezri. Ezri was in charge of the workers who farmed King David&apos;s fields (<a href=\"https://ref.ly/1Chr27:26\">1&nbsp;Chronicles 27:26</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13002009",
-          "start_ref_usfm": "1CH 2:9",
-          "end_ref": "13002009",
-          "end_ref_usfm": "1CH 2:9"
+          "start_ref": "13004011",
+          "start_ref_usfm": "1CH 4:11",
+          "end_ref": "13004011",
+          "end_ref_usfm": "1CH 4:11"
         },
         {
-          "start_ref": "13002018",
-          "start_ref_usfm": "1CH 2:18",
-          "end_ref": "13002018",
-          "end_ref_usfm": "1CH 2:18"
-        },
-        {
-          "start_ref": "13002042",
-          "start_ref_usfm": "1CH 2:42",
-          "end_ref": "13002042",
-          "end_ref_usfm": "1CH 2:42"
+          "start_ref": "13027026",
+          "start_ref_usfm": "1CH 27:26",
+          "end_ref": "13027026",
+          "end_ref_usfm": "1CH 27:26"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3558,
-          "content_id": 4390,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Caleb",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

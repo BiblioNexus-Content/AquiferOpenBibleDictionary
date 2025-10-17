@@ -1,28 +1,36 @@
 [
   {
-    "content_id": 4476,
-    "reference_id": 3644,
-    "title": "Channels of the Sea",
+    "content_id": 4475,
+    "reference_id": 3643,
+    "title": "Chanaan",
     "media_type": "Text",
-    "index_reference": "channels of the sea",
+    "index_reference": "chanaan",
     "language": "eng",
-    "content": "<h1>CHANNELS OF THE SEA</h1><p>Valleys or stream beds in the ocean floor. The Lord saved David from all his enemies and King Saul. Then David praised the great power of God. This power could expose the ocean floor with a blast of his breath (<a href=\"https://ref.ly/2Sam22:16\">2&nbsp;Samuel 22:16</a>; <a href=\"https://ref.ly/Ps18:15\">Psalm 18:15</a>).</p>",
+    "content": "<h1>CHANAAN</h1><p>The King James Version spelling of Canaan in <a href=\"https://ref.ly/Acts7:11\">Acts 7:11</a> and <a href=\"https://ref.ly/Acts13:19\">13:19</a>.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3572\" data-resourceType=\"TyndaleBibleDictionary\">Canaan, Canaanite</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "10022016",
-          "start_ref_usfm": "2SA 22:16",
-          "end_ref": "10022016",
-          "end_ref_usfm": "2SA 22:16"
+          "start_ref": "44007011",
+          "start_ref_usfm": "ACT 7:11",
+          "end_ref": "44007011",
+          "end_ref_usfm": "ACT 7:11"
         },
         {
-          "start_ref": "19018015",
-          "start_ref_usfm": "PSA 18:15",
-          "end_ref": "19018015",
-          "end_ref_usfm": "PSA 18:15"
+          "start_ref": "44013019",
+          "start_ref_usfm": "ACT 13:19",
+          "end_ref": "44013019",
+          "end_ref_usfm": "ACT 13:19"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3572,
+          "content_id": 4404,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Canaan, Canaanite",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

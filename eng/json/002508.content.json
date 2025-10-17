@@ -1,27 +1,45 @@
 [
   {
-    "content_id": 718559,
-    "reference_id": 209540,
-    "title": "Hedge",
+    "content_id": 5760,
+    "reference_id": 4928,
+    "title": "Hebronite",
     "media_type": "Text",
-    "index_reference": "hedge",
+    "index_reference": "hebronite",
     "language": "eng",
-    "content": "<h1>Hedge</h1><p>A hedge is a row of closely planted shrubs or low-growing trees that forms a fence or boundary. In Bible times, people used several different plants to create hedges.</p><p>One common hedge plant was the Palestine buckthorn (<em>Rhamnus palaestina</em>). This plant grows as a shrub or small tree reaching 0.9 to 1.8 meters (3 to 6 feet) tall. It has velvety, thorny branches, evergreen leaves, and clusters of small flowers that bloom in March and April. The Palestine buckthorn grows in thickets and on hillsides from Syria through Israel and the surrounding areas to Arabia and the Sinai.</p><p>Two other prickly shrubs widely used as hedges in Israel and the surrounding areas were the Jericho balsam (<em>Balanites aegyptiaca</em>) and the European boxthorn (<em>Lycium europaeum</em>). These plants may be the ones referred to in <a href=\"https://ref.ly/Prov15:19\">Proverbs 15:19</a> and <a href=\"https://ref.ly/Hos2:6\">Hosea 2:6</a>.</p><p>See <span data-bnType=\"resourceReference\" data-resourceId=\"3152\" data-resourceType=\"TyndaleBibleDictionary\">Balm</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"209530\" data-resourceType=\"TyndaleBibleDictionary\">Boxthorn</span>.</p>",
+    "content": "<h1>HEBRONITE</h1><p>Any descendant of Hebron from the tribe of Levi (<a href=\"https://ref.ly/Num3:27\">Numbers 3:27</a>; <a href=\"https://ref.ly/Num26:58\">26:58</a>; <a href=\"https://ref.ly/1Chr26:23,1Chr26:30-1Chr26:31\">1&nbsp;Chronicles 26:23, 30–31</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4929\" data-resourceType=\"TyndaleBibleDictionary\">Hebron (Person) #1</span>.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 3152,
-          "content_id": 3984,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Balm, Balsam",
-          "language": "eng"
+          "start_ref": "04003027",
+          "start_ref_usfm": "NUM 3:27",
+          "end_ref": "04003027",
+          "end_ref_usfm": "NUM 3:27"
         },
         {
-          "reference_id": 209530,
-          "content_id": 715985,
+          "start_ref": "04026058",
+          "start_ref_usfm": "NUM 26:58",
+          "end_ref": "04026058",
+          "end_ref_usfm": "NUM 26:58"
+        },
+        {
+          "start_ref": "13026023",
+          "start_ref_usfm": "1CH 26:23",
+          "end_ref": "13026023",
+          "end_ref_usfm": "1CH 26:23"
+        },
+        {
+          "start_ref": "13026030",
+          "start_ref_usfm": "1CH 26:30",
+          "end_ref": "13026031",
+          "end_ref_usfm": "1CH 26:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 4929,
+          "content_id": 5761,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Boxthorn",
+          "label": "Hebron (Person)",
           "language": "eng"
         }
       ]

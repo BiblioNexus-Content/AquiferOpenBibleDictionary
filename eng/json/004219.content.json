@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 7478,
-    "reference_id": 6646,
-    "title": "Old Testament Quotations in the New Testament",
+    "content_id": 7477,
+    "reference_id": 6645,
+    "title": "Old Testament Chronology",
     "media_type": "Text",
-    "index_reference": "old testament quotations in the new testament",
+    "index_reference": "old testament chronology",
     "language": "eng",
-    "content": "<h1>OLD TESTAMENT QUOTATIONS IN THE NEW TESTAMENT*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3396\" data-resourceType=\"TyndaleBibleDictionary\">Bible, Quotations of the Old Testament in the New Testament</span>.</p>",
+    "content": "<h1>OLD TESTAMENT CHRONOLOGY</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3720\" data-resourceType=\"TyndaleBibleDictionary\">Timeline of the Bible (Old Testament)</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3396,
-          "content_id": 4228,
+          "reference_id": 3720,
+          "content_id": 4552,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bible, Quotations of the Old Testament in the New Testament",
+          "label": "Chronology of the Bible (Old Testament)",
           "language": "eng"
         }
       ]

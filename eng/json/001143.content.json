@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4399,
-    "reference_id": 3567,
-    "title": "Calvary",
+    "content_id": 4398,
+    "reference_id": 3566,
+    "title": "Calno",
     "media_type": "Text",
-    "index_reference": "calvary",
+    "index_reference": "calno",
     "language": "eng",
-    "content": "<h1>CALVARY</h1><p>In <a href=\"https://ref.ly/Luke23:33\">Luke 23:33</a>, the King James Version translation of Golgotha (“the skull”), the place where Jesus was crucified. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4675\" data-resourceType=\"TyndaleBibleDictionary\">Golgotha</span>.</p>",
+    "content": "<h1>CALNO</h1><p>Another name for Calneh, a city in northern Syria (<a href=\"https://ref.ly/Isa10:9\">Isaiah 10:9</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3565\" data-resourceType=\"TyndaleBibleDictionary\">Calneh #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "42023033",
-          "start_ref_usfm": "LUK 23:33",
-          "end_ref": "42023033",
-          "end_ref_usfm": "LUK 23:33"
+          "start_ref": "23010009",
+          "start_ref_usfm": "ISA 10:9",
+          "end_ref": "23010009",
+          "end_ref_usfm": "ISA 10:9"
         }
       ],
       "resource": [
         {
-          "reference_id": 4675,
-          "content_id": 5507,
+          "reference_id": 3565,
+          "content_id": 4397,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Golgotha",
+          "label": "Calneh",
           "language": "eng"
         }
       ]

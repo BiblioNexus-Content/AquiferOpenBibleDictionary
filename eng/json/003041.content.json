@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 6295,
-    "reference_id": 5463,
-    "title": "Jehudi",
+    "content_id": 6296,
+    "reference_id": 5464,
+    "title": "Jehud",
     "media_type": "Text",
-    "index_reference": "jehudi",
+    "index_reference": "jehud",
     "language": "eng",
-    "content": "<h1>JEHUDI</h1><p>A son of Nethaniah and a messenger of King Jehoiakim of Judah. Some officials sent Jehudi to summon the prophet Baruch to read the scroll of Jeremiah in private to them. Later, Jehoiakim ordered Jehudi to read the same scroll in public in front of him and all the court. Then he burned the writing (<a href=\"https://ref.ly/Jer36:14-Jer36:23\">Jeremiah 36:14–23</a>).</p>",
+    "content": "<h1>JEHUD</h1><p>One of the towns given to Dan’s tribe after the Conquest (<a href=\"https://ref.ly/Josh19:45\">Jos 19:45</a>). It has been variously identified with the village of el-Yehudiyeh, about seven miles (11.3&nbsp;kilometers) southeast of Joppa, and with Yazur, about five miles (8 kilometers) southeast of Joppa.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "24036014",
-          "start_ref_usfm": "JER 36:14",
-          "end_ref": "24036023",
-          "end_ref_usfm": "JER 36:23"
+          "start_ref": "06019045",
+          "start_ref_usfm": "JOS 19:45",
+          "end_ref": "06019045",
+          "end_ref_usfm": "JOS 19:45"
         }
       ],
       "resource": []

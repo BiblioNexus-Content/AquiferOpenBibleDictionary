@@ -1,63 +1,46 @@
 [
   {
-    "content_id": 717004,
-    "reference_id": 4115,
-    "title": "Edute",
+    "content_id": 759978,
+    "reference_id": 7344,
+    "title": "Doença da pele",
     "media_type": "Text",
-    "index_reference": "edute",
+    "index_reference": "doença da pele",
     "language": "por",
-    "content": "<h1>EDUTE</h1><p>Uma palavra hebraica geralmente traduzida como &quot;testemunho&quot;, &quot;testemunha&quot; ou &quot;mandamento&quot;.</p><p>Pode se referir a:</p><ul><li><p>O tabernáculo (<a href=\"https://ref.ly/Num17:7-Num17:8\">Nm 17.7,8</a>; <a href=\"https://ref.ly/Num18:2\">18.2</a>; <a href=\"https://ref.ly/2Chr24:6\">2Cr 24.6</a>);</p></li><li><p>A arca (<a href=\"https://ref.ly/Exod25:16\">Êx 25.16</a>);</p></li><li><p>Os dez mandamentos (<a href=\"https://ref.ly/Exod31:18\">Êx 31.18</a>);</p></li><li><p>A lei de Deus em geral (<a href=\"https://ref.ly/Ps19:8\">Sl 19.8</a>).</p></li></ul><p>O título de <a href=\"https://ref.ly/Ps60:1-Ps60:12\">Salmo 60</a> em hebraico é <em>Shushan Eduth</em>, que significa &quot;Lírio da aliança&quot;.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Música</span>.</p>",
+    "content": "<h1>DOENÇA DA PELE</h1><p>Termo usado duas vezes na Bíblia (<a href=\"https://ref.ly/Lev21:20\">Lv 21.20</a> e <a href=\"https://ref.ly/Lev22:22\">22.22</a>) com sinônimo &quot;coceiras&quot; (<a href=\"https://ref.ly/Deut28:27\">Dt 28.27</a>). Em nenhuma das instâncias se refere a alguma doença moderna. Nas passagens de Levítico, &quot;doença da pele&quot; é encontrado na sequência &quot;úlceras, sarna&quot;. Esta frase é traduzida como &quot;outras doenças da pele&quot; na NTLH. <em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4028\" data-resourceType=\"TyndaleBibleDictionary\">Doença</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6179\" data-resourceType=\"TyndaleBibleDictionary\">Medicina e prática médica</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02025016",
-          "start_ref_usfm": "EXO 25:16",
-          "end_ref": "02025016",
-          "end_ref_usfm": "EXO 25:16"
+          "start_ref": "03021020",
+          "start_ref_usfm": "LEV 21:20",
+          "end_ref": "03021020",
+          "end_ref_usfm": "LEV 21:20"
         },
         {
-          "start_ref": "02031018",
-          "start_ref_usfm": "EXO 31:18",
-          "end_ref": "02031018",
-          "end_ref_usfm": "EXO 31:18"
+          "start_ref": "03022022",
+          "start_ref_usfm": "LEV 22:22",
+          "end_ref": "03022022",
+          "end_ref_usfm": "LEV 22:22"
         },
         {
-          "start_ref": "04018002",
-          "start_ref_usfm": "NUM 18:2",
-          "end_ref": "04018002",
-          "end_ref_usfm": "NUM 18:2"
-        },
-        {
-          "start_ref": "14024006",
-          "start_ref_usfm": "2CH 24:6",
-          "end_ref": "14024006",
-          "end_ref_usfm": "2CH 24:6"
-        },
-        {
-          "start_ref": "19019008",
-          "start_ref_usfm": "PSA 19:8",
-          "end_ref": "19019008",
-          "end_ref_usfm": "PSA 19:8"
-        },
-        {
-          "start_ref": "19060001",
-          "start_ref_usfm": "PSA 60:1",
-          "end_ref": "19060012",
-          "end_ref_usfm": "PSA 60:12"
-        },
-        {
-          "start_ref": "04017007",
-          "start_ref_usfm": "NUM 17:7",
-          "end_ref": "04017008",
-          "end_ref_usfm": "NUM 17:8"
+          "start_ref": "05028027",
+          "start_ref_usfm": "DEU 28:27",
+          "end_ref": "05028027",
+          "end_ref_usfm": "DEU 28:27"
         }
       ],
       "resource": [
         {
-          "reference_id": 6416,
-          "content_id": 658691,
+          "reference_id": 4028,
+          "content_id": 125256,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Música",
+          "label": "Doença",
+          "language": "por"
+        },
+        {
+          "reference_id": 6179,
+          "content_id": 161846,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Medicina E Prática Médica",
           "language": "por"
         }
       ]

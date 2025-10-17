@@ -1,25 +1,43 @@
 [
   {
-    "content_id": 785159,
-    "reference_id": 3005,
-    "title": "Assos",
+    "content_id": 734250,
+    "reference_id": 2906,
+    "title": "Arimathée",
     "media_type": "Text",
-    "index_reference": "assos",
+    "index_reference": "arimathée",
     "language": "fra",
-    "content": "<h1>ASSOS</h1><p>Assos était un port maritime en Mysie, partie de la province romaine d&apos;Asie (Mineure). L&apos;apôtre Paul et Luc se sont retrouvés à Assos après le voyage de Paul par voie terrestre depuis Troas, comme décrit dans <a href=\"https://ref.ly/Acts20:13-Acts20:14\">Actes 20.13</a>–<a href=\"https://ref.ly/Acts20:13-Acts20:14\">14</a>. L&apos;écrivain romain Pline a noté que ce sont les rois de Pergame qui ont fondé la ville, elle s&apos;appelait à l&apos;origine Apollonie. Assos était situé au sommet et le long des côtés en terrasses d&apos;un cône volcanique éteint qui s&apos;élève à 230 m de hauteur. Le philosophe grec Aristote y a vécu plusieurs années. C&apos;est aussi là qu&apos;est né Cléanthe. Cléanthe était un poète stoïcien mentionné par Paul dans <a href=\"https://ref.ly/Acts17:28\">Actes 17.28</a>. Aujourd&apos;hui, Assos est connu sous le nom de Behramkale.</p>",
+    "content": "<h1>ARIMATHÉE</h1><p>Ville natale du Joseph qui avait obtenu le corps crucifié de Jésus et l&apos;avait enterré dans son propre sépulcre (<a href=\"https://ref.ly/Matt27:57\">Mt 27.57</a> ; <a href=\"https://ref.ly/Mark15:43\">Mc 15.43</a> ; <a href=\"https://ref.ly/John19:38\">Jn 19.38</a>). L&apos;emplacement de cette ville est inconnu. Il pourrait s&apos;agir de la même ville que Ramathaïm-Tsophim, d&apos;où venait le prophète Samuel (<a href=\"https://ref.ly/1Sam1:1\">1S 1.1</a>), située à 13 kilomètres environ au nord-ouest de Jérusalem. Luc dit qu&apos;Arimathée était une ville des Juifs et que Joseph était lui-même un conseiller juif (<a href=\"https://ref.ly/Luke23:50\">Lc 23.50</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44017028",
-          "start_ref_usfm": "ACT 17:28",
-          "end_ref": "44017028",
-          "end_ref_usfm": "ACT 17:28"
+          "start_ref": "09001001",
+          "start_ref_usfm": "1SA 1:1",
+          "end_ref": "09001001",
+          "end_ref_usfm": "1SA 1:1"
         },
         {
-          "start_ref": "44020013",
-          "start_ref_usfm": "ACT 20:13",
-          "end_ref": "44020014",
-          "end_ref_usfm": "ACT 20:14"
+          "start_ref": "40027057",
+          "start_ref_usfm": "MAT 27:57",
+          "end_ref": "40027057",
+          "end_ref_usfm": "MAT 27:57"
+        },
+        {
+          "start_ref": "41015043",
+          "start_ref_usfm": "MRK 15:43",
+          "end_ref": "41015043",
+          "end_ref_usfm": "MRK 15:43"
+        },
+        {
+          "start_ref": "42023050",
+          "start_ref_usfm": "LUK 23:50",
+          "end_ref": "42023050",
+          "end_ref_usfm": "LUK 23:50"
+        },
+        {
+          "start_ref": "43019038",
+          "start_ref_usfm": "JHN 19:38",
+          "end_ref": "43019038",
+          "end_ref_usfm": "JHN 19:38"
         }
       ],
       "resource": []

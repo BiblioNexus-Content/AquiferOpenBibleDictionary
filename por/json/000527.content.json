@@ -1,49 +1,34 @@
 [
   {
-    "content_id": 717293,
-    "reference_id": 7690,
-    "title": "Deserto de Sim",
+    "content_id": 161796,
+    "reference_id": 3906,
+    "title": "Dalmanuta",
     "media_type": "Text",
-    "index_reference": "deserto de sim",
+    "index_reference": "dalmanuta",
     "language": "por",
-    "content": "<h1>DESERTO DE SIM</h1><p>Uma região seca e arenosa na parte sudoeste da península do Sinai. A Bíblia nos informa que estava localizada &quot;entre Elim e Sinai&quot; (<a href=\"https://ref.ly/Exod16:1\">Êx 16.1</a>). É mencionada apenas quatro vezes na Bíblia nas descrições da jornada do Êxodo do Egito (<a href=\"https://ref.ly/Exod16:1\">Êx 16.1</a>; <a href=\"https://ref.ly/Exod17:1\">17.1</a>; <a href=\"https://ref.ly/Num33:11-Num33:12\">Nm 33.11–12</a>). O deserto de Sim está localizado a sudeste de Elim, que geralmente se acredita ser o Wadi Gharandel.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7681\" data-resourceType=\"TyndaleBibleDictionary\">Sina, Sinai</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações no deserto</span>.</p>",
+    "content": "<h1>DALMANUTA</h1><p>Área no lado oeste do Mar da Galileia, perto do extremo sul da planície de Genesaré. Sua localização exata é incerta. Jesus e seus discípulos ficaram lá brevemente após o incidente da alimentação dos 4.000 (<a href=\"https://ref.ly/Mark8:10\">Mc 8.10</a>). Os fariseus vieram a ele buscando um sinal do céu para testá-lo. Após sua resposta de que nenhum sinal seria dado a esta geração (v. <a href=\"https://ref.ly/Mark8:12\">12</a>), ele partiu de lá.</p><p>A palavra “Dalmanuta” está presente nos melhores manuscritos, embora outras fontes registrem Magadã ou Magdala. A passagem paralela em <a href=\"https://ref.ly/Matt15:39\">Mateus 15.39</a> cita Magadã. Por causa disso, o nome exato e a localização têm sido difíceis de identificar. Provavelmente os vários nomes são usados para designar o mesmo local ou pelo menos dois lugares na mesma área.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6015\" data-resourceType=\"TyndaleBibleDictionary\">Magadã</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6017\" data-resourceType=\"TyndaleBibleDictionary\">Magdala</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02016001",
-          "start_ref_usfm": "EXO 16:1",
-          "end_ref": "02016001",
-          "end_ref_usfm": "EXO 16:1"
+          "start_ref": "40015039",
+          "start_ref_usfm": "MAT 15:39",
+          "end_ref": "40015039",
+          "end_ref_usfm": "MAT 15:39"
         },
         {
-          "start_ref": "02017001",
-          "start_ref_usfm": "EXO 17:1",
-          "end_ref": "02017001",
-          "end_ref_usfm": "EXO 17:1"
+          "start_ref": "41008010",
+          "start_ref_usfm": "MRK 8:10",
+          "end_ref": "41008010",
+          "end_ref_usfm": "MRK 8:10"
         },
         {
-          "start_ref": "04033011",
-          "start_ref_usfm": "NUM 33:11",
-          "end_ref": "04033012",
-          "end_ref_usfm": "NUM 33:12"
+          "start_ref": "41008012",
+          "start_ref_usfm": "MRK 8:12",
+          "end_ref": "41008012",
+          "end_ref_usfm": "MRK 8:12"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 7681,
-          "content_id": 717292,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Sina, Sinai",
-          "language": "por"
-        },
-        {
-          "reference_id": 8231,
-          "content_id": 717332,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Peregrinações no deserto",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

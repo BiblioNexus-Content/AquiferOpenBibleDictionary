@@ -1,19 +1,61 @@
 [
   {
-    "content_id": 785161,
-    "reference_id": 3039,
-    "title": "Attalie",
+    "content_id": 805971,
+    "reference_id": 2931,
+    "title": "Arpacschad, Arphaxad",
     "media_type": "Text",
-    "index_reference": "attalie",
+    "index_reference": "arpacschad, arphaxad",
     "language": "fra",
-    "content": "<h1>ATTALIE</h1><p>Port méditerranéen en Asie mineure.</p><p>L&apos;apôtre Paul et Barnabas ont navigué vers Antioche depuis Attalie à la fin du premier voyage missionnaire de Paul (<a href=\"https://ref.ly/Acts14:25\">Ac 14.25</a>). La ville a été fondée par Attale II Philadelphe, le roi de la province de Pergame de 159 à 138 av. J.‑C. Pergame a été prise par les Romains en 79 av. J.‑C. et est devenue une province en 43 apr. J.‑C. À l&apos;époque de Paul, Attalie faisait partie de la province de Pamphylie.</p><p>Aujourd&apos;hui, bien que son port soit peu profond, il s&apos;agit toujours d&apos;un port maritime turc important (Antalya).</p>",
+    "content": "<h1>ARPACSCHAD, ARPHAXAD</h1><p>Fils de Sem et petit-fils de Noé. Les descendants d&apos;<span>Arpacschad</span> étaient probablement les Chaldéens (<a href=\"https://ref.ly/Gen10:22-Gen10:24\">Gn 10.22–24</a> ; <a href=\"https://ref.ly/Gen11:10-Gen11:13\">11.10–13</a> ; <a href=\"https://ref.ly/1Chr1:17-1Chr1:18,1Chr1:24\">1Ch 1.17–18, 24</a> ; <a href=\"https://ref.ly/Luke3:36\">Lc 3.36</a>).</p><p><span>Arpacschad</span> est né deux ans après le déluge lorsque son père avait cent ans (<a href=\"https://ref.ly/Gen11:10\">Gn 11.10</a>). Il était le grand-père d&apos;Héber, que certains croient être l&apos;ancêtre des Hébreux (<a href=\"https://ref.ly/1Chr1:17-1Chr1:25\">1Ch 1.17–25</a> ; <a href=\"https://ref.ly/Luke3:35-Luke3:36\">Lc 3.35–36</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44014025",
-          "start_ref_usfm": "ACT 14:25",
-          "end_ref": "44014025",
-          "end_ref_usfm": "ACT 14:25"
+          "start_ref": "01011010",
+          "start_ref_usfm": "GEN 11:10",
+          "end_ref": "01011010",
+          "end_ref_usfm": "GEN 11:10"
+        },
+        {
+          "start_ref": "13001024",
+          "start_ref_usfm": "1CH 1:24",
+          "end_ref": "13001024",
+          "end_ref_usfm": "1CH 1:24"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
+        },
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010024",
+          "end_ref_usfm": "GEN 10:24"
+        },
+        {
+          "start_ref": "01011010",
+          "start_ref_usfm": "GEN 11:10",
+          "end_ref": "01011013",
+          "end_ref_usfm": "GEN 11:13"
+        },
+        {
+          "start_ref": "13001017",
+          "start_ref_usfm": "1CH 1:17",
+          "end_ref": "13001018",
+          "end_ref_usfm": "1CH 1:18"
+        },
+        {
+          "start_ref": "13001017",
+          "start_ref_usfm": "1CH 1:17",
+          "end_ref": "13001025",
+          "end_ref_usfm": "1CH 1:25"
+        },
+        {
+          "start_ref": "42003035",
+          "start_ref_usfm": "LUK 3:35",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
         }
       ],
       "resource": []

@@ -1,31 +1,31 @@
 [
   {
-    "content_id": 662290,
-    "reference_id": 4295,
-    "title": "épilepsie, épileptique",
+    "content_id": 822900,
+    "reference_id": 4029,
+    "title": "Dischan",
     "media_type": "Text",
-    "index_reference": "épilepsie, épileptique",
+    "index_reference": "dischan",
     "language": "fra",
-    "content": "<h1>ÉPILEPSIE, ÉPILEPTIQUE</h1><p>L&apos;épilepsie est une maladie du système nerveux central. Un ou une épileptique est une personne qui souffre de cette maladie. Les principaux signes de l&apos;épilepsie sont des pertes de conscience et des convulsions (couramment appelées des crises d&apos;épilepsie). </p><p>Il y a deux types de crises. Le premier type est appelé <em>petit mal. </em>Cette crise provoque de petits mouvements involontaires sur le visage (p. ex. cligner des yeux ou des spasmes) ou aux mains. Il est possible d&apos;avoir des douleurs à l&apos;estomac et même une perte de conscience de courte durée. Le deuxième type de crise, appelé <em>grand mal</em>, est accompagné de fortes convulsions généralisées, d&apos;écume à la bouche et de pertes de conscience qui peuvent durer de 5 à 20 minutes. Différents facteurs peuvent contribuer à des crises d&apos;épilepsie. Des médicaments peuvent parfois permettre de prévenir ou de contrôler les crises.</p><p>Aux temps bibliques, il n&apos;existait pas de traitement efficace contre l&apos;épilepsie. Jésus guérit un jeune garçon que son père décrit comme « lunatique ». En grec, ce terme signifie quelqu&apos;un frappé par la lune. En effet, on croyait que certaines phases de la lune provoquaient certaines maladies. Les symptômes du garçon semblent correspondre à de l&apos;épilepsie. Celle-ci était causée par un démon que Jésus fait sortir du garçon pour le guérir (<a href=\"https://ref.ly/Matt17:14-Matt17:18\">Mt 17.14–18</a> ; <a href=\"https://ref.ly/Mark9:17-Mark9:27\">Mc 9.17–27</a> ; <a href=\"https://ref.ly/Luke9:37-Luke9:42\">Lc 9.37–42</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6179\" data-resourceType=\"TyndaleBibleDictionary\">médecine et pratique médicale</span>.</p>",
+    "content": "<h1>DISCHAN</h1><p>Chef dans le pays de Séir, une région montagneuse au sud-ouest de la mer Morte. Le père de Dischan était Séir le Horien (<a href=\"https://ref.ly/Gen36:21\">Gn 36.21</a> ; <a href=\"https://ref.ly/1Chr1:38\">1Ch 1.38</a>). Les Horiens ont été chassés de leur territoire par les Édomites (<a href=\"https://ref.ly/Deut2:12\">Dt 2.12</a>). Les références ultérieures de l&apos;Ancien Testament utilisent souvent Séir et Édom de manière synonyme.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40017014",
-          "start_ref_usfm": "MAT 17:14",
-          "end_ref": "40017018",
-          "end_ref_usfm": "MAT 17:18"
+          "start_ref": "01036021",
+          "start_ref_usfm": "GEN 36:21",
+          "end_ref": "01036021",
+          "end_ref_usfm": "GEN 36:21"
         },
         {
-          "start_ref": "41009017",
-          "start_ref_usfm": "MRK 9:17",
-          "end_ref": "41009027",
-          "end_ref_usfm": "MRK 9:27"
+          "start_ref": "05002012",
+          "start_ref_usfm": "DEU 2:12",
+          "end_ref": "05002012",
+          "end_ref_usfm": "DEU 2:12"
         },
         {
-          "start_ref": "42009037",
-          "start_ref_usfm": "LUK 9:37",
-          "end_ref": "42009042",
-          "end_ref_usfm": "LUK 9:42"
+          "start_ref": "13001038",
+          "start_ref_usfm": "1CH 1:38",
+          "end_ref": "13001038",
+          "end_ref_usfm": "1CH 1:38"
         }
       ],
       "resource": []

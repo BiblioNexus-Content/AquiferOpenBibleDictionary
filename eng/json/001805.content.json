@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5059,
-    "reference_id": 4227,
-    "title": "Elymais",
+    "content_id": 5058,
+    "reference_id": 4226,
+    "title": "Eluzai",
     "media_type": "Text",
-    "index_reference": "elymais",
+    "index_reference": "eluzai",
     "language": "eng",
-    "content": "<h1>ELYMAIS</h1><p>Formerly thought to be a city in Persia, greatly renowned for riches, silver, and gold (<a href=\"https://ref.ly/1Macc6:1\">1&nbsp;Macc 6:1</a>), but now generally regarded as a district of Persia. Josephus (<em>Antiquities</em> 12.9.1), following 1&nbsp;Maccabees, alludes to it as a city, but it is otherwise unknown.</p>",
+    "content": "<h1>ELUZAI</h1><p>One of the men of Benjamin who came to join David in Ziklag (<a href=\"https://ref.ly/1Chr12:5\">1&nbsp;Chr 12:5</a>). Eluzai was an ambidextrous slinger and bowman.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "78006001",
-          "start_ref_usfm": "1MA 6:1",
-          "end_ref": "78006001",
-          "end_ref_usfm": "1MA 6:1"
+          "start_ref": "13012005",
+          "start_ref_usfm": "1CH 12:5",
+          "end_ref": "13012005",
+          "end_ref_usfm": "1CH 12:5"
         }
       ],
       "resource": []

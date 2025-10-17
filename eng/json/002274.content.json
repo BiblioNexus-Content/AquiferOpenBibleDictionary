@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 5528,
-    "reference_id": 4696,
-    "title": "Grate, Grating",
+    "content_id": 5527,
+    "reference_id": 4695,
+    "title": "Grasshopper",
     "media_type": "Text",
-    "index_reference": "grate, grating",
+    "index_reference": "grasshopper",
     "language": "eng",
-    "content": "<h1>GRATE, GRATING</h1><p>A network of bronze surrounding the lower half of the altar of burnt offering in the tabernacle (<a href=\"https://ref.ly/Exod27:4\">Exodus 27:4</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2697\" data-resourceType=\"TyndaleBibleDictionary\">Altar</span>.</p>",
+    "content": "<h1>GRASSHOPPER</h1><p>Plant-eating insect equipped with long hind legs for leaping. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "02027004",
-          "start_ref_usfm": "EXO 27:4",
-          "end_ref": "02027004",
-          "end_ref_usfm": "EXO 27:4"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 2697,
-          "content_id": 3529,
+          "reference_id": 2782,
+          "content_id": 3614,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Altar",
+          "label": "Animals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 5934,
+          "content_id": 6766,
+          "resource_code": "Unknown",
+          "label": "Locusts",
           "language": "eng"
         }
       ]

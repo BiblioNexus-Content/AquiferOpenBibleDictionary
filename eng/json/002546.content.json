@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 5803,
-    "reference_id": 4971,
-    "title": "Hen (Person)",
+    "content_id": 5804,
+    "reference_id": 4972,
+    "title": "Hen",
     "media_type": "Text",
-    "index_reference": "hen (person)",
+    "index_reference": "hen",
     "language": "eng",
-    "content": "<h1>HEN* (Person)</h1><p>KJV alternate name for Josiah, Zephaniah’s son, in <a href=\"https://ref.ly/Zech6:14\">Zechariah 6:14</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5628\" data-resourceType=\"TyndaleBibleDictionary\">Josiah #2</span>.</p>",
+    "content": "<h1>HEN</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Birds (Fowl, Domestic)</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "38006014",
-          "start_ref_usfm": "ZEC 6:14",
-          "end_ref": "38006014",
-          "end_ref_usfm": "ZEC 6:14"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5628,
-          "content_id": 6460,
+          "reference_id": 3418,
+          "content_id": 4250,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Josiah",
+          "label": "Birds",
           "language": "eng"
         }
       ]

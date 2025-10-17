@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 5846,
-    "reference_id": 5014,
-    "title": "Higgaion",
+    "content_id": 5845,
+    "reference_id": 5013,
+    "title": "Hieronymus",
     "media_type": "Text",
-    "index_reference": "higgaion",
+    "index_reference": "hieronymus",
     "language": "eng",
-    "content": "<h1>HIGGAION*</h1><p>Musical notation in text of <a href=\"https://ref.ly/Ps9:16\">Psalm 9:16</a>, presumably cueing the instrumental accompaniment to play softly. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Music</span>.</p>",
+    "content": "<h1>HIERONYMUS</h1><p>Hellenistic ruler in intertestamental period. Hostile toward Palestinian Jews who refused to accept Greek ways, Antiochus Eupator sent his vice-regent Lysias with 80,000 troops to solicit compliance. Maccabeus and his band, led by an angel, wrecked Lysias’s expedition and evoked a settlement that permitted Jews to maintain their ancestral customs. However, Hieronymus and fellow district governors Timothy, Apollonius, and Demophon would not allow the Jews to&nbsp;live in peace and quiet (<a href=\"https://ref.ly/2Macc12:2\">2&nbsp;Macc 12:2</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19009016",
-          "start_ref_usfm": "PSA 9:16",
-          "end_ref": "19009016",
-          "end_ref_usfm": "PSA 9:16"
+          "start_ref": "79012002",
+          "start_ref_usfm": "2MA 12:2",
+          "end_ref": "79012002",
+          "end_ref_usfm": "2MA 12:2"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6416,
-          "content_id": 7248,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Music",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

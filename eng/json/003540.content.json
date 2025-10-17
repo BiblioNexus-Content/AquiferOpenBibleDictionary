@@ -1,52 +1,54 @@
 [
   {
-    "content_id": 6797,
-    "reference_id": 5965,
-    "title": "Lycaonia",
+    "content_id": 6796,
+    "reference_id": 5964,
+    "title": "Luz",
     "media_type": "Text",
-    "index_reference": "lycaonia",
+    "index_reference": "luz",
     "language": "eng",
-    "content": "<h1>LYCAONIA</h1><p>Region in the southern interior of the Roman province of Asia (also called Asia Minor), north of the Taurus Mountains. Prior to Roman occupation, it was bordered on the north by Galatia, on the south by Cilicia, on the east by Cappadocia, and on the west by Phrygia and Pisidia. Like many of its neighboring states, Lycaonia was ruled by the Seleucids after the conquest of Alexander the Great. When the Romans defeated the Seleucids in western Asia Minor (190 BC), Lycaonia was given to the Attalids of Pergamum. It remained under their control until 130 BC, when their king died and their kingdom was dissolved. The area was subsequently administered by the Romans, who attached the northern section of the Lycaonian territory to Galatia, the eastern section to Cappadocia, and the southern section to Cilicia. In AD 37 eastern Lycaonia gained independence from Cappadocia and was known as Lycaonia Antiochiana. By the time of Christ, Lycaonia had essentially been reduced to an ethnic area in southern Galatia and should be considered as such in all NT references.</p><p>The territory was situated on a high, barren plateau. The soil was generally of poor quality, though fertile areas existed in the south around the principal cities of Lystra and Derbe. Consequently, the primary occupations were the herding of sheep and goats, with some agriculture in the south. Lycaonia was bisected by a major trade route between Syria, Ephesus, and Rome.</p><p>It is debatable whether Iconium was a city of Lycaonia. Some scholars believe it was the capital and principal city. Others consider it a Phrygian city. The latter position seems to be supported in Acts, where Paul is said to flee Iconium for Lystra and Derbe, “cities of Lycaonia” (<a href=\"https://ref.ly/Acts14:6\">Acts 14:6</a>)—places where the Lycaonian language was spoken (v <a href=\"https://ref.ly/Acts14:11\">11</a>). It is likely that within the political territory of Galatia there were several ethnic areas and that Paul crossed an ethnic border in an attempt to find safety from the disgruntled Jews of Iconium.</p><p>The apostle Paul made three visits to Lycaonia. During his first missionary journey, the preaching of the gospel was very effective and many disciples were made (<a href=\"https://ref.ly/Acts14:21-Acts14:22\">Acts 14:21–22</a>). In fact, when Paul healed a crippled man in Lystra, the leaders of the pagan cult wished to worship him as a god (vv <a href=\"https://ref.ly/Acts14:11-Acts14:18\">11–18</a>). He visited the area again on his second missionary journey. It was here that he met Timothy and asked him to join his company (<a href=\"https://ref.ly/Acts16:1-Acts16:5\">16:1–5</a>). A final visit (during his third journey, where his purpose was to strengthen the believers) is indicated by <a href=\"https://ref.ly/Acts18:23\">Acts 18:23</a>.</p><p>Later Christian inscriptions indicate that by the end of the third century the region of Lycaonia possessed one of the most mature ecclesiastical systems in Asia Minor.</p>",
+    "content": "<h1>LUZ</h1><p>1. Original Canaanite name of the city of Bethel (<a href=\"https://ref.ly/Gen28:19\">Gn 28:19</a>; <a href=\"https://ref.ly/Gen35:6\">35:6</a>). It was here that Jacob had a vision of God. In recognition of God’s presence he called the place “the house of God” (beth-El). Jacob may not have been in the city itself, which might account for the seeming discrepancy in <a href=\"https://ref.ly/Josh16:2\">Joshua 16:2</a>. The phrase “from Bethel to Luz” in the description of the border of the land allotted to Joseph (Ephraim and Manasseh) seems to distinguish Bethel from Luz as though they were two different cities. Perhaps the solution is to be found in that originally the name Luz continued to be used of the city, while at the same time the Israelites knew, through tradition, of the place where Jacob had named Bethel outside the city of Luz. According to <a href=\"https://ref.ly/Josh16:2\">Joshua 16:2</a>, then, Bethel would be an area lying east of the city of Luz. At the time of Conquest (<a href=\"https://ref.ly/Judg1:22-Judg1:25\">Jgs 1:22–25</a>), or subsequently, the Israelites changed the name of Luz to Bethel.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3338\" data-resourceType=\"TyndaleBibleDictionary\">Bethel (Place), Bethelite #1</span>.</p><p>2. Hittite city named after Luz in Palestine by one of its inhabitants who migrated to the Hittite region after the Israelites captured this city (<a href=\"https://ref.ly/Judg1:26\">Jgs 1:26</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44014006",
-          "start_ref_usfm": "ACT 14:6",
-          "end_ref": "44014006",
-          "end_ref_usfm": "ACT 14:6"
+          "start_ref": "01028019",
+          "start_ref_usfm": "GEN 28:19",
+          "end_ref": "01028019",
+          "end_ref_usfm": "GEN 28:19"
         },
         {
-          "start_ref": "44014011",
-          "start_ref_usfm": "ACT 14:11",
-          "end_ref": "44014011",
-          "end_ref_usfm": "ACT 14:11"
+          "start_ref": "01035006",
+          "start_ref_usfm": "GEN 35:6",
+          "end_ref": "01035006",
+          "end_ref_usfm": "GEN 35:6"
         },
         {
-          "start_ref": "44018023",
-          "start_ref_usfm": "ACT 18:23",
-          "end_ref": "44018023",
-          "end_ref_usfm": "ACT 18:23"
+          "start_ref": "06016002",
+          "start_ref_usfm": "JOS 16:2",
+          "end_ref": "06016002",
+          "end_ref_usfm": "JOS 16:2"
         },
         {
-          "start_ref": "44014021",
-          "start_ref_usfm": "ACT 14:21",
-          "end_ref": "44014022",
-          "end_ref_usfm": "ACT 14:22"
+          "start_ref": "07001026",
+          "start_ref_usfm": "JDG 1:26",
+          "end_ref": "07001026",
+          "end_ref_usfm": "JDG 1:26"
         },
         {
-          "start_ref": "44014011",
-          "start_ref_usfm": "ACT 14:11",
-          "end_ref": "44014018",
-          "end_ref_usfm": "ACT 14:18"
-        },
-        {
-          "start_ref": "44016001",
-          "start_ref_usfm": "ACT 16:1",
-          "end_ref": "44016005",
-          "end_ref_usfm": "ACT 16:5"
+          "start_ref": "07001022",
+          "start_ref_usfm": "JDG 1:22",
+          "end_ref": "07001025",
+          "end_ref_usfm": "JDG 1:25"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3338,
+          "content_id": 4170,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Bethel (Place), Bethelite",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

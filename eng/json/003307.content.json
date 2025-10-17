@@ -1,52 +1,27 @@
 [
   {
-    "content_id": 6565,
-    "reference_id": 5733,
-    "title": "Kesil",
+    "content_id": 6564,
+    "reference_id": 5732,
+    "title": "Kesed",
     "media_type": "Text",
-    "index_reference": "kesil",
+    "index_reference": "kesed",
     "language": "eng",
-    "content": "<h1>KESIL</h1><p>Another spelling for Chesil, a city on the borders of Edom in the Negev. <em>See </em><span data-bnType=\"resourceReference\" data-resourceId=\"3682\" data-resourceType=\"TyndaleBibleDictionary\">Chesil</span>.</p>",
+    "content": "<h1>KESED</h1><p>Another spelling for Chesed, son of Milcah and Nahor (<a href=\"https://ref.ly/Gen22:22\">Genesis 22:22</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3681\" data-resourceType=\"TyndaleBibleDictionary\">Chesed</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015030",
-          "start_ref_usfm": "JOS 15:30",
-          "end_ref": "06015030",
-          "end_ref_usfm": "JOS 15:30"
-        },
-        {
-          "start_ref": "06019004",
-          "start_ref_usfm": "JOS 19:4",
-          "end_ref": "06019004",
-          "end_ref_usfm": "JOS 19:4"
-        },
-        {
-          "start_ref": "09030027",
-          "start_ref_usfm": "1SA 30:27",
-          "end_ref": "09030027",
-          "end_ref_usfm": "1SA 30:27"
-        },
-        {
-          "start_ref": "13004030",
-          "start_ref_usfm": "1CH 4:30",
-          "end_ref": "13004030",
-          "end_ref_usfm": "1CH 4:30"
+          "start_ref": "01022022",
+          "start_ref_usfm": "GEN 22:22",
+          "end_ref": "01022022",
+          "end_ref_usfm": "GEN 22:22"
         }
       ],
       "resource": [
         {
-          "reference_id": 3376,
-          "content_id": 4208,
-          "resource_code": "Unknown",
-          "label": "Bethuel, Bethul (Place)",
-          "language": "eng"
-        },
-        {
-          "reference_id": 3682,
-          "content_id": 4514,
+          "reference_id": 3681,
+          "content_id": 4513,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Chesil",
+          "label": "Chesed",
           "language": "eng"
         }
       ]

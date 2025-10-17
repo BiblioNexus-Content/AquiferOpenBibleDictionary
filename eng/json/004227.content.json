@@ -1,23 +1,34 @@
 [
   {
-    "content_id": 7486,
-    "reference_id": 6654,
-    "title": "Omega",
+    "content_id": 7485,
+    "reference_id": 6653,
+    "title": "Omar",
     "media_type": "Text",
-    "index_reference": "omega",
+    "index_reference": "omar",
     "language": "eng",
-    "content": "<h1>OMEGA</h1><p>English spelling of the name of the last letter of the Greek alphabet. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2695\" data-resourceType=\"TyndaleBibleDictionary\">Alpha and Omega</span>.</p>",
+    "content": "<h1>OMAR</h1><p>Second son of Eliphaz, grandson of Esau and the great-grandson of Abraham (<a href=\"https://ref.ly/Gen36:11,Gen36:15\">Gn 36:11, 15</a>; <a href=\"https://ref.ly/1Chr1:36\">1&nbsp;Chr 1:36</a>); an Edomite clan chief.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 2695,
-          "content_id": 3527,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Alpha and Omega",
-          "language": "eng"
+          "start_ref": "01036011",
+          "start_ref_usfm": "GEN 36:11",
+          "end_ref": "01036011",
+          "end_ref_usfm": "GEN 36:11"
+        },
+        {
+          "start_ref": "01036015",
+          "start_ref_usfm": "GEN 36:15",
+          "end_ref": "01036015",
+          "end_ref_usfm": "GEN 36:15"
+        },
+        {
+          "start_ref": "13001036",
+          "start_ref_usfm": "1CH 1:36",
+          "end_ref": "13001036",
+          "end_ref_usfm": "1CH 1:36"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

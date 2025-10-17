@@ -1,28 +1,23 @@
 [
   {
-    "content_id": 7959,
-    "reference_id": 7127,
-    "title": "Reba",
+    "content_id": 7958,
+    "reference_id": 7126,
+    "title": "Reaper, Reaping",
     "media_type": "Text",
-    "index_reference": "reba",
+    "index_reference": "reaper, reaping",
     "language": "eng",
-    "content": "<h1>REBA</h1><p>Reba was one of five kings of Midian. Moses had these kings killed at God&apos;s command because they had led the Israelites into worshipping false gods (<a href=\"https://ref.ly/Num31:8\">Numbers 31:8</a>; <a href=\"https://ref.ly/Josh13:21\">Joshua 13:21</a>).</p>",
+    "content": "<h1>REAPER, REAPING</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2592\" data-resourceType=\"TyndaleBibleDictionary\">Agriculture</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "04031008",
-          "start_ref_usfm": "NUM 31:8",
-          "end_ref": "04031008",
-          "end_ref_usfm": "NUM 31:8"
-        },
-        {
-          "start_ref": "06013021",
-          "start_ref_usfm": "JOS 13:21",
-          "end_ref": "06013021",
-          "end_ref_usfm": "JOS 13:21"
+          "reference_id": 2592,
+          "content_id": 3424,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Agriculture",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

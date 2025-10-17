@@ -1,45 +1,57 @@
 [
   {
-    "content_id": 662322,
-    "reference_id": 7517,
-    "title": "Chéma, Shéma, (le)",
+    "content_id": 822990,
+    "reference_id": 5845,
+    "title": "Borne",
     "media_type": "Text",
-    "index_reference": "chéma, shéma, (le)",
+    "index_reference": "borne",
     "language": "fra",
-    "content": "<h1>CHÉMA, SHÉMA (le)</h1><p>Nom qui est donné à la déclaration de <a href=\"https://ref.ly/Deut6:4\">Deutéronome 6.4 </a>: « <span>Écoute, Israël&nbsp;! L’Éternel, notre Dieu, est le seul Éternel</span> ». Ce nom est inspiré du premier mot dans ce verset, <em>chéma</em>, qui signifie « écoute ». <a href=\"https://ref.ly/Deut6:4-Deut6:9\">Deutéronome 6.4–9 </a>explique ce que cette vérité essentielle signifie pour Israël. Les Israélites devaient aimer Dieu sans partage et se rappeler ses paroles dans toutes leurs activités. </p><p>Même s&apos;il est possible de traduire le verset <a href=\"https://ref.ly/Deut6:4\">4</a> de plusieurs façons qui seraient grammaticalement correctes, les paroles de Jésus dans <a href=\"https://ref.ly/Mark12:29\">Mc 12.29</a> correspondent le plus justement à ce que dit ce verset en hébreu. </p><p>Le chéma est devenu très important pour le judaïsme. Les Juifs religieux le récitent trois fois par jour. Il est également récité chaque sabbat dans les synagogues.</p><p>Le chéma contient une vérité doctrinale essentielle, à la lumière de laquelle l&apos;homme doit vivre. Le mot « écoute » appelle à une attention totale et à agir en réaction à ce que la déclaration proclame. En effet, «&nbsp;écouter&nbsp;» en hébreu signifie souvent recevoir et obéir à ce qui est dit.</p><p>Le mot traduit « seul » dans Deutéronome signifie littéralement que Dieu est « un » (en hébreu : <em>echad</em>). Ceci signifie que Dieu est une unité. En effet, c&apos;est le même mot qui est utilisé dans <a href=\"https://ref.ly/Gen2:24\">Genèse 2.24 </a>pour indiquer que l&apos;homme et la femme deviennent un en se mariant. Le théologien juif médiéval Maïmonide a soutenu que Dieu était <em>yachid</em> (un tout indivisible). Cependant, l&apos;Ancien Testament n&apos;utilise pas ce mot pour décrire Dieu. Ainsi quand Jésus cite <a href=\"https://ref.ly/Deut6:4\">Deutéronome 6.4</a>, il ne contredit pas le fait qu&apos;il est lui-même Dieu le Fils.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3992\" data-resourceType=\"TyndaleBibleDictionary\">Deutéronome (livre)</span>.</p>",
+    "content": "<h1>BORNE*</h1><p>Pierre inscrite indiquant une limite de champs, de districts ou de nations (<a href=\"https://ref.ly/Gen31:51-Gen31:52\">Gn 31.51–52</a>). Dans la plupart des pays du Proche-Orient, déplacer une borne était un crime grave ; en Israël, c&apos;était une violation de la loi de Moïse (<a href=\"https://ref.ly/Deut19:14\">Dt 19.14</a> ; <a href=\"https://ref.ly/Deut27:17\">27.17</a>). Déplacer des bornes (« marqueurs de limites ») pouvait être perçu comme un changement des coutumes et lois anciennes (<a href=\"https://ref.ly/Prov22:28\">Pr 22.28</a> ; <a href=\"https://ref.ly/Prov23:10\">23.10</a> ; voir <a href=\"https://ref.ly/Job24:2\">Jb 24.2</a>).</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5196\" data-resourceType=\"TyndaleBibleDictionary\">Inscriptions</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01002024",
-          "start_ref_usfm": "GEN 2:24",
-          "end_ref": "01002024",
-          "end_ref_usfm": "GEN 2:24"
+          "start_ref": "05019014",
+          "start_ref_usfm": "DEU 19:14",
+          "end_ref": "05019014",
+          "end_ref_usfm": "DEU 19:14"
         },
         {
-          "start_ref": "05006004",
-          "start_ref_usfm": "DEU 6:4",
-          "end_ref": "05006004",
-          "end_ref_usfm": "DEU 6:4"
+          "start_ref": "05027017",
+          "start_ref_usfm": "DEU 27:17",
+          "end_ref": "05027017",
+          "end_ref_usfm": "DEU 27:17"
         },
         {
-          "start_ref": "41012029",
-          "start_ref_usfm": "MRK 12:29",
-          "end_ref": "41012029",
-          "end_ref_usfm": "MRK 12:29"
+          "start_ref": "18024002",
+          "start_ref_usfm": "JOB 24:2",
+          "end_ref": "18024002",
+          "end_ref_usfm": "JOB 24:2"
         },
         {
-          "start_ref": "05006004",
-          "start_ref_usfm": "DEU 6:4",
-          "end_ref": "05006009",
-          "end_ref_usfm": "DEU 6:9"
+          "start_ref": "20022028",
+          "start_ref_usfm": "PRO 22:28",
+          "end_ref": "20022028",
+          "end_ref_usfm": "PRO 22:28"
+        },
+        {
+          "start_ref": "20023010",
+          "start_ref_usfm": "PRO 23:10",
+          "end_ref": "20023010",
+          "end_ref_usfm": "PRO 23:10"
+        },
+        {
+          "start_ref": "01031051",
+          "start_ref_usfm": "GEN 31:51",
+          "end_ref": "01031052",
+          "end_ref_usfm": "GEN 31:52"
         }
       ],
       "resource": [
         {
-          "reference_id": 3992,
-          "content_id": 662287,
+          "reference_id": 5196,
+          "content_id": 728129,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Deutéronome",
+          "label": "Inscriptions",
           "language": "fra"
         }
       ]

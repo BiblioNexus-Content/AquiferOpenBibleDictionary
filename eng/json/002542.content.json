@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5796,
-    "reference_id": 4964,
-    "title": "Hemdan",
+    "content_id": 5795,
+    "reference_id": 4963,
+    "title": "Hemath",
     "media_type": "Text",
-    "index_reference": "hemdan",
+    "index_reference": "hemath",
     "language": "eng",
-    "content": "<h1>HEMDAN</h1><p>Dishon’s son and a descendant of Seir the Horite (<a href=\"https://ref.ly/Gen36:26\">Gn 36:26</a>). He is also called Hamran in <a href=\"https://ref.ly/1Chr1:41\">1&nbsp;Chronicles 1:41</a> (kjv “Amram”).</p>",
+    "content": "<h1>HEMATH*</h1><p>KJV form of Hammath, the Rechabite, in <a href=\"https://ref.ly/1Chr2:55\">1&nbsp;Chronicles 2:55</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4786\" data-resourceType=\"TyndaleBibleDictionary\">Hammath (Person)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036026",
-          "start_ref_usfm": "GEN 36:26",
-          "end_ref": "01036026",
-          "end_ref_usfm": "GEN 36:26"
-        },
-        {
-          "start_ref": "13001041",
-          "start_ref_usfm": "1CH 1:41",
-          "end_ref": "13001041",
-          "end_ref_usfm": "1CH 1:41"
+          "start_ref": "13002055",
+          "start_ref_usfm": "1CH 2:55",
+          "end_ref": "13002055",
+          "end_ref_usfm": "1CH 2:55"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4786,
+          "content_id": 5618,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Hammath (Person)",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

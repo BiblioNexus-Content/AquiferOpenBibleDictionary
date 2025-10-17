@@ -1,67 +1,43 @@
 [
   {
-    "content_id": 717152,
-    "reference_id": 6003,
-    "title": "Maquir",
+    "content_id": 658676,
+    "reference_id": 5959,
+    "title": "Lude, Ludim, Luditas",
     "media_type": "Text",
-    "index_reference": "maquir",
+    "index_reference": "lude, ludim, luditas",
     "language": "por",
-    "content": "<h1>MAQUIR</h1><ol><li><p>Um neto do patriarca José. Ele foi o primogênito de Manassés através de sua concubina arameia (<a href=\"https://ref.ly/Gen50:23\">Gn 50.23</a>; <a href=\"https://ref.ly/1Chr7:14\">1Cr 7.14</a>). Maquir foi o pai de Gileade e o fundador do clã maquirita (<a href=\"https://ref.ly/Num26:29\">Nm 26.29</a>). Seus descendentes derrotaram os amorreus que viviam na terra de Gileade, a leste do rio Jordão, durante o tempo de Moisés (<a href=\"https://ref.ly/Num32:39\">Nm 32.39</a>). Mais tarde, Josué lhes atribuiu esta terra junto com Basã como herança (<a href=\"https://ref.ly/Deut3:15\">Dt 3.15</a>; <a href=\"https://ref.ly/Josh17:1-Josh17:3\">Js 17.1–3</a>). Em <a href=\"https://ref.ly/Judg5:14\">Juízes 5.14</a>, toda a tribo de Manassés é chamada por este nome.</p></li><li><p>Um filho de Amiel que morava em Lo-Debar. Lo-Debar era uma cidade a leste do rio Jordão. Maquir ofereceu abrigo para Mefibosete (<a href=\"https://ref.ly/2Sam9:4-2Sam9:5\">2Sm 9.4–5</a>). Mais tarde, Maquir, junto com Sobi e Barzilai, trouxe suprimentos para Davi e seu povo quando Davi estava fugindo de seu filho Absalão (<a href=\"https://ref.ly/2Sam17:27\">2Sm 17.27</a>).</p></li></ol>",
+    "content": "<h1>LUDE, LUDIM*, LUDITAS</h1><p>Nomes que aparecem na tabela das nações em <a href=\"https://ref.ly/Gen10:1-Gen10:32\">Gênesis 10</a>. Ludim é listado como o primeiro filho de Mizraim, e Lude como o quarto filho de Sem. Com base nisso, é provavelmente melhor considerá-los como tendo origens étnicas diferentes. Alguns, no entanto, sugeriram que ambos os nomes se referem a um povo da Ásia Menor, os Lídios, que são mencionados nas inscrições de Assurbanípal como <em>Luddu.</em> Há pouca dúvida de que Lude, pelo menos, está associado a Lídia. Josefo faz essa identificação (<em>Antiguidades</em> 1.6.4.). Em <a href=\"https://ref.ly/Isa66:19\">Isaías 66.19</a>, é listado entre outras nações da Ásia Menor.</p><p>Lude é frequentemente mencionado em contextos que sugerem que os homens eram bem conhecidos como bons soldados. De acordo com <a href=\"https://ref.ly/Jer46:9\">Jeremias 46.9</a>, eles lutaram com os egípcios contra os babilônios na batalha de Carquemis em 605 a.C. No lamento sobre Tiro em <a href=\"https://ref.ly/Ezek27:10\">Ezequiel 27.10</a>, eles são listados entre outros que eram mercenários no exército de Tiro. Talvez <a href=\"https://ref.ly/Ezek30:5\">Ezequiel 30.5</a> seja outro caso de lídios servindo como mercenários — desta vez no exército egípcio. Tal ajuda militar ao Egito remonta ao período assírio, quando Giges enviou ajuda militar a Psamético do Egito contra os assírios.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5969\" data-resourceType=\"TyndaleBibleDictionary\">Lídia (local)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01050023",
-          "start_ref_usfm": "GEN 50:23",
-          "end_ref": "01050023",
-          "end_ref_usfm": "GEN 50:23"
+          "start_ref": "23066019",
+          "start_ref_usfm": "ISA 66:19",
+          "end_ref": "23066019",
+          "end_ref_usfm": "ISA 66:19"
         },
         {
-          "start_ref": "04026029",
-          "start_ref_usfm": "NUM 26:29",
-          "end_ref": "04026029",
-          "end_ref_usfm": "NUM 26:29"
+          "start_ref": "24046009",
+          "start_ref_usfm": "JER 46:9",
+          "end_ref": "24046009",
+          "end_ref_usfm": "JER 46:9"
         },
         {
-          "start_ref": "04032039",
-          "start_ref_usfm": "NUM 32:39",
-          "end_ref": "04032039",
-          "end_ref_usfm": "NUM 32:39"
+          "start_ref": "26027010",
+          "start_ref_usfm": "EZK 27:10",
+          "end_ref": "26027010",
+          "end_ref_usfm": "EZK 27:10"
         },
         {
-          "start_ref": "05003015",
-          "start_ref_usfm": "DEU 3:15",
-          "end_ref": "05003015",
-          "end_ref_usfm": "DEU 3:15"
+          "start_ref": "26030005",
+          "start_ref_usfm": "EZK 30:5",
+          "end_ref": "26030005",
+          "end_ref_usfm": "EZK 30:5"
         },
         {
-          "start_ref": "07005014",
-          "start_ref_usfm": "JDG 5:14",
-          "end_ref": "07005014",
-          "end_ref_usfm": "JDG 5:14"
-        },
-        {
-          "start_ref": "10017027",
-          "start_ref_usfm": "2SA 17:27",
-          "end_ref": "10017027",
-          "end_ref_usfm": "2SA 17:27"
-        },
-        {
-          "start_ref": "13007014",
-          "start_ref_usfm": "1CH 7:14",
-          "end_ref": "13007014",
-          "end_ref_usfm": "1CH 7:14"
-        },
-        {
-          "start_ref": "10009004",
-          "start_ref_usfm": "2SA 9:4",
-          "end_ref": "10009005",
-          "end_ref_usfm": "2SA 9:5"
-        },
-        {
-          "start_ref": "06017001",
-          "start_ref_usfm": "JOS 17:1",
-          "end_ref": "06017003",
-          "end_ref_usfm": "JOS 17:3"
+          "start_ref": "01010001",
+          "start_ref_usfm": "GEN 10:1",
+          "end_ref": "01010032",
+          "end_ref_usfm": "GEN 10:32"
         }
       ],
       "resource": []

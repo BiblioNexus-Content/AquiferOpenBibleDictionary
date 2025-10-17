@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 5872,
-    "reference_id": 5040,
-    "title": "Hodevah",
+    "content_id": 5871,
+    "reference_id": 5039,
+    "title": "Hodesh",
     "media_type": "Text",
-    "index_reference": "hodevah",
+    "index_reference": "hodesh",
     "language": "eng",
-    "content": "<h1>HODEVAH*</h1><p>Alternate spelling of Hodaviah in <a href=\"https://ref.ly/Neh7:43\">Nehemiah 7:43</a> (see nlt mg). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5038\" data-resourceType=\"TyndaleBibleDictionary\">Hodaviah #4</span>.</p>",
+    "content": "<h1>HODESH</h1><p>Name given to Shaharaim’s wife from Benjamin’s tribe in <a href=\"https://ref.ly/1Chr8:9\">1&nbsp;Chronicles 8:9</a> (a textually corrupt passage).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16007043",
-          "start_ref_usfm": "NEH 7:43",
-          "end_ref": "16007043",
-          "end_ref_usfm": "NEH 7:43"
+          "start_ref": "13008009",
+          "start_ref_usfm": "1CH 8:9",
+          "end_ref": "13008009",
+          "end_ref_usfm": "1CH 8:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5038,
-          "content_id": 5870,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Hodaviah",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

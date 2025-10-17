@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 713616,
-    "reference_id": 2501,
-    "title": "Aceldama",
+    "content_id": 805954,
+    "reference_id": 2498,
+    "title": "Accad",
     "media_type": "Text",
-    "index_reference": "aceldama",
+    "index_reference": "accad",
     "language": "fra",
-    "content": "<h1>ACELDAMA</h1><p>Orthographe alternative de Hakeldama, qui signifie « champ du sang » (<a href=\"https://ref.ly/Acts1:19\">Ac 1.19</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3441\" data-resourceType=\"TyndaleBibleDictionary\">Sang, Champ-de-Sang</span>.</p>",
+    "content": "<h1>ACCAD</h1><p>Une des trois villes (Babel, Érec et Accad) situées entre les fleuves Hiddékel et Euphrate.</p><p>Elle aurait été fondé par Nimrod (<a href=\"https://ref.ly/Gen10:10\">Gn 10.10</a>). Le nom de la langue parlée en Mésopotamie depuis l&apos;époque de Sargon (vers 2 360 av. J.‑C.) jusqu&apos;aux périodes assyrienne et babylonienne et l&apos;« Akkadien » (d&apos;Accad).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44001019",
-          "start_ref_usfm": "ACT 1:19",
-          "end_ref": "44001019",
-          "end_ref_usfm": "ACT 1:19"
+          "start_ref": "01010010",
+          "start_ref_usfm": "GEN 10:10",
+          "end_ref": "01010010",
+          "end_ref_usfm": "GEN 10:10"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3441,
-          "content_id": 713621,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Sang, Champ du",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

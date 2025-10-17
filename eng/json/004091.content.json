@@ -1,40 +1,30 @@
 [
   {
-    "content_id": 7352,
-    "reference_id": 6520,
-    "title": "Nekoda",
+    "content_id": 7351,
+    "reference_id": 6519,
+    "title": "Nekeb",
     "media_type": "Text",
-    "index_reference": "nekoda",
+    "index_reference": "nekeb",
     "language": "eng",
-    "content": "<h1>NEKODA</h1><p>1. Father of a family of temple servants who returned to Jerusalem following the exile (<a href=\"https://ref.ly/Ezra2:48\">Ezr 2:48</a>; <a href=\"https://ref.ly/Neh7:50\">Neh 7:50</a>).</p><p>2. Father of a family of returned exiles who could not prove their Israelite descent (<a href=\"https://ref.ly/Ezra2:60\">Ezr 2:60</a>; <a href=\"https://ref.ly/Neh7:62\">Neh 7:62</a>).</p>",
+    "content": "<h1>NEKEB*</h1><p>KJV rendering of a town defining the boundary of the territory allotted to Naphtali’s tribe for an inheritance, positioned between Za-anannim and Jabneel (<a href=\"https://ref.ly/Josh19:33\">Jos 19:33</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2530\" data-resourceType=\"TyndaleBibleDictionary\">Adami, Adami-nekeb</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002048",
-          "start_ref_usfm": "EZR 2:48",
-          "end_ref": "15002048",
-          "end_ref_usfm": "EZR 2:48"
-        },
-        {
-          "start_ref": "15002060",
-          "start_ref_usfm": "EZR 2:60",
-          "end_ref": "15002060",
-          "end_ref_usfm": "EZR 2:60"
-        },
-        {
-          "start_ref": "16007050",
-          "start_ref_usfm": "NEH 7:50",
-          "end_ref": "16007050",
-          "end_ref_usfm": "NEH 7:50"
-        },
-        {
-          "start_ref": "16007062",
-          "start_ref_usfm": "NEH 7:62",
-          "end_ref": "16007062",
-          "end_ref_usfm": "NEH 7:62"
+          "start_ref": "06019033",
+          "start_ref_usfm": "JOS 19:33",
+          "end_ref": "06019033",
+          "end_ref_usfm": "JOS 19:33"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2530,
+          "content_id": 3362,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Adami, Adami-Nekeb",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 6174,
-    "reference_id": 5342,
-    "title": "Jahaziah",
+    "content_id": 6173,
+    "reference_id": 5341,
+    "title": "Jahaza, Jahazah",
     "media_type": "Text",
-    "index_reference": "jahaziah",
+    "index_reference": "jahaza, jahazah",
     "language": "eng",
-    "content": "<h1>JAHAZIAH*</h1><p>KJV rendering of Jahzeiah, Tikvah’s son, in <a href=\"https://ref.ly/Ezra10:15\">Ezra 10:15</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5352\" data-resourceType=\"TyndaleBibleDictionary\">Jahzeiah</span>.</p>",
+    "content": "<h1>JAHAZA*, JAHAZAH*</h1><p>KJV spellings of Jahaz. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5344\" data-resourceType=\"TyndaleBibleDictionary\">Jahaz</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "15010015",
-          "start_ref_usfm": "EZR 10:15",
-          "end_ref": "15010015",
-          "end_ref_usfm": "EZR 10:15"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5352,
-          "content_id": 6184,
+          "reference_id": 5344,
+          "content_id": 6176,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jahzeiah",
+          "label": "Jahaz",
           "language": "eng"
         }
       ]

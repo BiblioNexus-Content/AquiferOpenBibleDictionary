@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 5306,
-    "reference_id": 4474,
-    "title": "Freedom",
+    "content_id": 5305,
+    "reference_id": 4473,
+    "title": "Freedmen",
     "media_type": "Text",
-    "index_reference": "freedom",
+    "index_reference": "freedmen",
     "language": "eng",
-    "content": "<h1>FREEDOM</h1><p>In the Bible, freedom means being set free from something that controls or harms people. It can mean physical freedom—like when God rescued the Israelites from slavery in Egypt. But it can also mean spiritual freedom—being set free from sin and death through Jesus Christ.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5905\" data-resourceType=\"TyndaleBibleDictionary\">Liberty</span>.</p>",
+    "content": "<h1>FREEDMEN</h1><p>The freedmen were members of a Jewish synagogue in Jerusalem (<a href=\"https://ref.ly/Acts6:9\">Acts 6:9</a>). who had been captured and taken to Rome by the general Pompey, who lived from 106–48 BC. These Jews were later released from slavery.</p><p>Pompey found that the Jews followed their religious and national customs so strictly that they were not useful as slaves. This is why they were freed.</p><p>Not all the freedmen returned to Jerusalem. Some stayed in Rome. The Roman writer Pliny described the&nbsp;freedman as a “mean commoner.” </p><p>The name &quot;freedmen&quot; (or &quot;Freed Slaves&quot; in the New Living Translation) comes from a Latin word for a person who was released from slavery, or the son of someone who was once a slave.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5904\" data-resourceType=\"TyndaleBibleDictionary\">Libertines</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 5905,
-          "content_id": 6737,
+          "reference_id": 5904,
+          "content_id": 6736,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Freedom, Liberty",
+          "label": "Libertines",
           "language": "eng"
         }
       ]

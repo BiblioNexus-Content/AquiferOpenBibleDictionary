@@ -1,36 +1,28 @@
 [
   {
-    "content_id": 7992,
-    "reference_id": 7160,
-    "title": "Remeth",
+    "content_id": 7991,
+    "reference_id": 7159,
+    "title": "Remaliah",
     "media_type": "Text",
-    "index_reference": "remeth",
+    "index_reference": "remaliah",
     "language": "eng",
-    "content": "<h1>REMETH</h1><p>Border town in Issachar’s territory (<a href=\"https://ref.ly/Josh19:21\">Jos 19:21</a>), and probably the same as Ramoth (<a href=\"https://ref.ly/1Chr6:73\">1&nbsp;Chr 6:73</a>), also called Jarmuth. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5394\" data-resourceType=\"TyndaleBibleDictionary\">Jarmuth #2</span>.</p>",
+    "content": "<h1>REMALIAH</h1><p>The father of King Pekah of Israel who ruled from 737 to 732 BC. Pekah took power by secretly killing the previous king (<a href=\"https://ref.ly/2Kgs15:25-2Kgs15:37\">2&nbsp;Kings 15:25–37</a>). Later, he attacked Jerusalem with his army (<a href=\"https://ref.ly/Isa7:1-Isa7:9\">Isaiah 7:1–9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06019021",
-          "start_ref_usfm": "JOS 19:21",
-          "end_ref": "06019021",
-          "end_ref_usfm": "JOS 19:21"
+          "start_ref": "23007001",
+          "start_ref_usfm": "ISA 7:1",
+          "end_ref": "23007009",
+          "end_ref_usfm": "ISA 7:9"
         },
         {
-          "start_ref": "13006073",
-          "start_ref_usfm": "1CH 6:73",
-          "end_ref": "13006073",
-          "end_ref_usfm": "1CH 6:73"
+          "start_ref": "12015025",
+          "start_ref_usfm": "2KI 15:25",
+          "end_ref": "12015037",
+          "end_ref_usfm": "2KI 15:37"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5394,
-          "content_id": 6226,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Jarmuth",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

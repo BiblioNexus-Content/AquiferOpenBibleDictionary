@@ -1,45 +1,27 @@
 [
   {
-    "content_id": 717197,
-    "reference_id": 6522,
-    "title": "Nemuel",
+    "content_id": 760000,
+    "reference_id": 7536,
+    "title": "Monte Sefer",
     "media_type": "Text",
-    "index_reference": "nemuel",
+    "index_reference": "monte sefer",
     "language": "por",
-    "content": "<h1>NEMUEL</h1><p>1. Rubenita e filho de Eliabe (<a href=\"https://ref.ly/Num26:9\">Nm 26.9</a>).</p><p>2. Um dos filhos de Simeão (<a href=\"https://ref.ly/Num26:12\">Nm 26.12</a>; <a href=\"https://ref.ly/1Chr4:24\">1Cr 4.24</a>), também chamado de Jemuel (<a href=\"https://ref.ly/Gen46:10\">Gn 46.10</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5473\" data-resourceType=\"TyndaleBibleDictionary\">Jemuel</span>.</p>",
+    "content": "<h1>MONTE SEFER</h1><p>Um local de acampamento temporário para os israelitas durante suas peregrinações no deserto. O monte Sefer (ou, Séfer) estava localizado entre Queelata e Harada (<a href=\"https://ref.ly/Num33:23-Num33:24\">Nm 33.23–24</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações no deserto</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01046010",
-          "start_ref_usfm": "GEN 46:10",
-          "end_ref": "01046010",
-          "end_ref_usfm": "GEN 46:10"
-        },
-        {
-          "start_ref": "04026009",
-          "start_ref_usfm": "NUM 26:9",
-          "end_ref": "04026009",
-          "end_ref_usfm": "NUM 26:9"
-        },
-        {
-          "start_ref": "04026012",
-          "start_ref_usfm": "NUM 26:12",
-          "end_ref": "04026012",
-          "end_ref_usfm": "NUM 26:12"
-        },
-        {
-          "start_ref": "13004024",
-          "start_ref_usfm": "1CH 4:24",
-          "end_ref": "13004024",
-          "end_ref_usfm": "1CH 4:24"
+          "start_ref": "04033023",
+          "start_ref_usfm": "NUM 33:23",
+          "end_ref": "04033024",
+          "end_ref_usfm": "NUM 33:24"
         }
       ],
       "resource": [
         {
-          "reference_id": 5473,
-          "content_id": 717117,
+          "reference_id": 8231,
+          "content_id": 717332,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jemuel",
+          "label": "Peregrinações no deserto",
           "language": "por"
         }
       ]

@@ -1,49 +1,22 @@
 [
   {
-    "content_id": 759978,
-    "reference_id": 7344,
-    "title": "Doença da pele",
+    "content_id": 815940,
+    "reference_id": 4019,
+    "title": "Dionísio",
     "media_type": "Text",
-    "index_reference": "doença da pele",
+    "index_reference": "dionísio",
     "language": "por",
-    "content": "<h1>DOENÇA DA PELE</h1><p>Termo usado duas vezes na Bíblia (<a href=\"https://ref.ly/Lev21:20\">Lv 21.20</a> e <a href=\"https://ref.ly/Lev22:22\">22.22</a>) com sinônimo &quot;coceiras&quot; (<a href=\"https://ref.ly/Deut28:27\">Dt 28.27</a>). Em nenhuma das instâncias se refere a alguma doença moderna. Nas passagens de Levítico, &quot;doença da pele&quot; é encontrado na sequência &quot;úlceras, sarna&quot;. Esta frase é traduzida como &quot;outras doenças da pele&quot; na NTLH. <em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4028\" data-resourceType=\"TyndaleBibleDictionary\">Doença</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6179\" data-resourceType=\"TyndaleBibleDictionary\">Medicina e prática médica</span>.</p>",
+    "content": "<h1>DIONÍSIO</h1><p>Um cidadão importante e respeitado de Atenas que se tornou crente após ouvir Paulo pregar. Dionísio era membro do Areópago (um areopagita), que era o tribunal supremo de Atenas (<a href=\"https://ref.ly/Acts17:34\">At 17.34</a>). Dionísio foi uma das poucas pessoas em Atenas que acreditaram na mensagem de Paulo sobre Jesus.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "03021020",
-          "start_ref_usfm": "LEV 21:20",
-          "end_ref": "03021020",
-          "end_ref_usfm": "LEV 21:20"
-        },
-        {
-          "start_ref": "03022022",
-          "start_ref_usfm": "LEV 22:22",
-          "end_ref": "03022022",
-          "end_ref_usfm": "LEV 22:22"
-        },
-        {
-          "start_ref": "05028027",
-          "start_ref_usfm": "DEU 28:27",
-          "end_ref": "05028027",
-          "end_ref_usfm": "DEU 28:27"
+          "start_ref": "44017034",
+          "start_ref_usfm": "ACT 17:34",
+          "end_ref": "44017034",
+          "end_ref_usfm": "ACT 17:34"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4028,
-          "content_id": 125256,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Doença",
-          "language": "por"
-        },
-        {
-          "reference_id": 6179,
-          "content_id": 161846,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Medicina E Prática Médica",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

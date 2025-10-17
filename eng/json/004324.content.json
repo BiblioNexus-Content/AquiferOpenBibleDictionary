@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 7583,
-    "reference_id": 6751,
-    "title": "Pardon",
+    "content_id": 7582,
+    "reference_id": 6750,
+    "title": "Parchment",
     "media_type": "Text",
-    "index_reference": "pardon",
+    "index_reference": "parchment",
     "language": "eng",
-    "content": "<h1>PARDON</h1><p>To pardon someone means to forgive them.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4462\" data-resourceType=\"TyndaleBibleDictionary\">Forgiveness</span>.</p>",
+    "content": "<h1>PARCHMENT*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8265\" data-resourceType=\"TyndaleBibleDictionary\">Writing</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6835\" data-resourceType=\"TyndaleBibleDictionary\">Pergamos, Pergamum</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 4462,
-          "content_id": 5294,
+          "reference_id": 6835,
+          "content_id": 7667,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Forgiveness",
+          "label": "Pergamos, Pergamum",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8265,
+          "content_id": 9097,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Writing",
           "language": "eng"
         }
       ]

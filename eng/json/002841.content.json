@@ -1,27 +1,46 @@
 [
   {
-    "content_id": 6095,
-    "reference_id": 5263,
-    "title": "Israel (Place)",
+    "content_id": 6094,
+    "reference_id": 5262,
+    "title": "Israel (Person)",
     "media_type": "Text",
-    "index_reference": "israel (place)",
+    "index_reference": "israel (person)",
     "language": "eng",
-    "content": "<h1>ISRAEL (Place)</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6726\" data-resourceType=\"TyndaleBibleDictionary\">Palestine</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3572\" data-resourceType=\"TyndaleBibleDictionary\">Canaan, Canaanite</span>.</p>",
+    "content": "<h1>ISRAEL (Person)</h1><p>Name meaning “one who struggles with God” or “God struggles” (<a href=\"https://ref.ly/Gen32:28\">Gn 32:28</a>, nlt mg). It was given to Isaac’s son Jacob and to his descendants (<a href=\"https://ref.ly/Gen35:9-Gen35:12\">35:9–12</a>; cf. <a href=\"https://ref.ly/Deut6:1-Deut6:4\">Dt 6:1–4</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5331\" data-resourceType=\"TyndaleBibleDictionary\">Jacob #1</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5260\" data-resourceType=\"TyndaleBibleDictionary\">Israel, History of</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "01032028",
+          "start_ref_usfm": "GEN 32:28",
+          "end_ref": "01032028",
+          "end_ref_usfm": "GEN 32:28"
+        },
+        {
+          "start_ref": "01035009",
+          "start_ref_usfm": "GEN 35:9",
+          "end_ref": "01035012",
+          "end_ref_usfm": "GEN 35:12"
+        },
+        {
+          "start_ref": "05006001",
+          "start_ref_usfm": "DEU 6:1",
+          "end_ref": "05006004",
+          "end_ref_usfm": "DEU 6:4"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 3572,
-          "content_id": 4404,
+          "reference_id": 5260,
+          "content_id": 6092,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Canaan, Canaanite",
+          "label": "History of Israel",
           "language": "eng"
         },
         {
-          "reference_id": 6726,
-          "content_id": 7558,
+          "reference_id": 5331,
+          "content_id": 6163,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Palestine",
+          "label": "Jacob",
           "language": "eng"
         }
       ]

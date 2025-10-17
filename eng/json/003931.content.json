@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 7191,
-    "reference_id": 6359,
-    "title": "Moloch",
+    "content_id": 7190,
+    "reference_id": 6358,
+    "title": "Molid",
     "media_type": "Text",
-    "index_reference": "moloch",
+    "index_reference": "molid",
     "language": "eng",
-    "content": "<h1>MOLOCH</h1><p>Another spelling of Molech, an Ammonite god (<a href=\"https://ref.ly/Acts7:43\">Acts 7:43</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6302\" data-resourceType=\"TyndaleBibleDictionary\">Milcom</span>.</p>",
+    "content": "<h1>MOLID</h1><p>Son of Abishur and Abihail from Judah’s tribe (<a href=\"https://ref.ly/1Chr2:29\">1&nbsp;Chr 2:29</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44007043",
-          "start_ref_usfm": "ACT 7:43",
-          "end_ref": "44007043",
-          "end_ref_usfm": "ACT 7:43"
+          "start_ref": "13002029",
+          "start_ref_usfm": "1CH 2:29",
+          "end_ref": "13002029",
+          "end_ref_usfm": "1CH 2:29"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6302,
-          "content_id": 7134,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Milcom",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

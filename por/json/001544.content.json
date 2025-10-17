@@ -1,105 +1,88 @@
 [
   {
-    "content_id": 124402,
-    "reference_id": 6978,
-    "title": "Presbítero*",
+    "content_id": 717224,
+    "reference_id": 6831,
+    "title": "Perez, perezita",
     "media_type": "Text",
-    "index_reference": "presbítero*",
+    "index_reference": "perez, perezita",
     "language": "por",
-    "content": "<h1>PRESBÍTERO*</h1><p>Termo do NT que se refere a um ancião na igreja. Seguindo o padrão do Antigo Testamento de sinagogas governadas por um conselho de anciãos, a igreja do NT tinha oficiais (<em>presbuteroi</em>, “pessoas mais velhas”) que tinham a tarefa de pastorear o rebanho de Deus que estava sob seus cuidados (<a href=\"https://ref.ly/1Pet5:2\">1Pe 5.2</a>). Assim, eles foram chamados para trabalhar na pregação e ensino (<a href=\"https://ref.ly/1Tim5:17\">1Tm 5.17</a>); visitar, orar e ungir os doentes (<a href=\"https://ref.ly/Jas5:14\">Tg 5.14</a>); prestar assistência ao faminto (<a href=\"https://ref.ly/Acts11:29-Acts11:30\">Atos 11.29–30</a>); e supervisionar de maneira geral, os assuntos da igreja (<a href=\"https://ref.ly/Acts15:4\">15.4</a>; <a href=\"https://ref.ly/Acts16:4\">16.4</a>). Há evidências que sugerem que todos os anciãos eram de posição igual e que os termos “presbítero” e “bispo” eram usados inicialmente de forma intercambiável (<a href=\"https://ref.ly/Acts20:17\">At 20.17, 28</a>; <a href=\"https://ref.ly/Phil1:1\">Fp 1.1</a>; <a href=\"https://ref.ly/Titus1:5-Titus1:7\">Tt 1.5–7</a>). No entanto, no segundo século, o presbítero que presidia gradualmente emergiu como uma figura distinta, com uma posição de preeminência e como a fonte da autoridade. Com o passar dos anos, a designação “presbítero” foi alterada para “sacerdote”, e nas igrejas de governo episcopal permanece assim até hoje. É significativo, no entanto, que o NT em lugar algum liga funções sacerdotais com o ofício de presbítero. Com a propagação e o desenvolvimento do cristianismo, o sacerdote se tornou uma figura poderosa. Com a teologia eucarística, aconteceram acréscimos não-bíblicos. Estes foram expostos e rejeitados quando os reformadores triunfaram no século XVI e enfatizaram o sacerdócio de todos os crentes. No protestantismo, os sacerdotes se tornaram ministros, pastores ou (nos tempos mais modernos) clérigos. Nas igrejas episcopais não-romanas, “sacerdote” é encontrado novamente hoje. Mesmo onde é interpretado de forma diferente do uso romano, a maioria dos anglicanos evangélicos se nega a usá-lo. Em igrejas presbiterianas e similares, os anciãos (sejam ensinando ou governando) ainda são oficialmente chamados de presbíteros, e todos são de posição igual.</p><p><em>Ver também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3424\" data-resourceType=\"TyndaleBibleDictionary\">Bispo</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3944\" data-resourceType=\"TyndaleBibleDictionary\">Diácono, Diaconisa</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4143\" data-resourceType=\"TyndaleBibleDictionary\">Ancião</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6771\" data-resourceType=\"TyndaleBibleDictionary\">Pastor</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7776\" data-resourceType=\"TyndaleBibleDictionary\">Dons Espirituais</span>.</p>",
+    "content": "<h1>PEREZ, PEREZITA</h1><p>Filho de Judá. Seu nome vem de uma palavra hebraica que significa &quot;aquele que irrompe&quot;. Refere-se a como ele inesperadamente saiu primeiro do ventre de Tamar antes de seu irmão gêmeo, Zerá (<a href=\"https://ref.ly/Gen38:29\">Gn 38.29</a>). Ele foi pai de dois filhos, Hezrom e Hamul, e tornou-se o chefe ancestral da família perezita (<a href=\"https://ref.ly/Gen46:12\">Gn 46.12</a>; <a href=\"https://ref.ly/Num26:20-Num26:21\">Nm 26.20–21</a>; <a href=\"https://ref.ly/1Chr2:4-1Chr2:5\">1Cr 2.4–5</a>; <a href=\"https://ref.ly/1Chr4:1\">4.1</a>). </p><p>Através dos filhos de seu filho Hezrom, ele se tornou o ancestral de Davi e Jesus Cristo (<a href=\"https://ref.ly/Ruth4:18-Ruth4:22\">Rt 4.18–22</a>; <a href=\"https://ref.ly/Matt1:3\">Mt 1.3</a>; <a href=\"https://ref.ly/Luke3:33\">Lc 3.33</a>). Este clã era respeitado na tribo de Judá. Eles foram abençoados pelos homens de Belém (<a href=\"https://ref.ly/Ruth4:12\">Rt 4.12</a>). Um descendente chamado Jasobeão comandou os capitães de Davi no primeiro mês de cada ano (<a href=\"https://ref.ly/1Chr27:2-1Chr27:3\">1Cr 27.2–3</a>). Após o retorno do cativeiro na Babilônia, 468 perezitas foram escolhidos para viver em Jerusalém (<a href=\"https://ref.ly/1Chr9:4\">1Cr 9.4</a>; <a href=\"https://ref.ly/Neh11:4-Neh11:6\">Ne 11.4–6</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44015004",
-          "start_ref_usfm": "ACT 15:4",
-          "end_ref": "44015004",
-          "end_ref_usfm": "ACT 15:4"
+          "start_ref": "01038029",
+          "start_ref_usfm": "GEN 38:29",
+          "end_ref": "01038029",
+          "end_ref_usfm": "GEN 38:29"
         },
         {
-          "start_ref": "44016004",
-          "start_ref_usfm": "ACT 16:4",
-          "end_ref": "44016004",
-          "end_ref_usfm": "ACT 16:4"
+          "start_ref": "01046012",
+          "start_ref_usfm": "GEN 46:12",
+          "end_ref": "01046012",
+          "end_ref_usfm": "GEN 46:12"
         },
         {
-          "start_ref": "44020017",
-          "start_ref_usfm": "ACT 20:17",
-          "end_ref": "44020017",
-          "end_ref_usfm": "ACT 20:17"
+          "start_ref": "08004012",
+          "start_ref_usfm": "RUT 4:12",
+          "end_ref": "08004012",
+          "end_ref_usfm": "RUT 4:12"
         },
         {
-          "start_ref": "44020028",
-          "start_ref_usfm": "ACT 20:28",
-          "end_ref": "44020028",
-          "end_ref_usfm": "ACT 20:28"
+          "start_ref": "13004001",
+          "start_ref_usfm": "1CH 4:1",
+          "end_ref": "13004001",
+          "end_ref_usfm": "1CH 4:1"
         },
         {
-          "start_ref": "50001001",
-          "start_ref_usfm": "PHP 1:1",
-          "end_ref": "50001001",
-          "end_ref_usfm": "PHP 1:1"
+          "start_ref": "13009004",
+          "start_ref_usfm": "1CH 9:4",
+          "end_ref": "13009004",
+          "end_ref_usfm": "1CH 9:4"
         },
         {
-          "start_ref": "54005017",
-          "start_ref_usfm": "1TI 5:17",
-          "end_ref": "54005017",
-          "end_ref_usfm": "1TI 5:17"
+          "start_ref": "40001003",
+          "start_ref_usfm": "MAT 1:3",
+          "end_ref": "40001003",
+          "end_ref_usfm": "MAT 1:3"
         },
         {
-          "start_ref": "59005014",
-          "start_ref_usfm": "JAS 5:14",
-          "end_ref": "59005014",
-          "end_ref_usfm": "JAS 5:14"
+          "start_ref": "42003033",
+          "start_ref_usfm": "LUK 3:33",
+          "end_ref": "42003033",
+          "end_ref_usfm": "LUK 3:33"
         },
         {
-          "start_ref": "60005002",
-          "start_ref_usfm": "1PE 5:2",
-          "end_ref": "60005002",
-          "end_ref_usfm": "1PE 5:2"
+          "start_ref": "08004018",
+          "start_ref_usfm": "RUT 4:18",
+          "end_ref": "08004022",
+          "end_ref_usfm": "RUT 4:22"
         },
         {
-          "start_ref": "44011029",
-          "start_ref_usfm": "ACT 11:29",
-          "end_ref": "44011030",
-          "end_ref_usfm": "ACT 11:30"
+          "start_ref": "04026020",
+          "start_ref_usfm": "NUM 26:20",
+          "end_ref": "04026021",
+          "end_ref_usfm": "NUM 26:21"
         },
         {
-          "start_ref": "56001005",
-          "start_ref_usfm": "TIT 1:5",
-          "end_ref": "56001007",
-          "end_ref_usfm": "TIT 1:7"
+          "start_ref": "13002004",
+          "start_ref_usfm": "1CH 2:4",
+          "end_ref": "13002005",
+          "end_ref_usfm": "1CH 2:5"
+        },
+        {
+          "start_ref": "13027002",
+          "start_ref_usfm": "1CH 27:2",
+          "end_ref": "13027003",
+          "end_ref_usfm": "1CH 27:3"
+        },
+        {
+          "start_ref": "16011004",
+          "start_ref_usfm": "NEH 11:4",
+          "end_ref": "16011006",
+          "end_ref_usfm": "NEH 11:6"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3424,
-          "content_id": 124375,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Bispo*",
-          "language": "por"
-        },
-        {
-          "reference_id": 3944,
-          "content_id": 161798,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Diácono, Diaconisa*",
-          "language": "por"
-        },
-        {
-          "reference_id": 4143,
-          "content_id": 124381,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Ancião",
-          "language": "por"
-        },
-        {
-          "reference_id": 6771,
-          "content_id": 124400,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Pastor",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

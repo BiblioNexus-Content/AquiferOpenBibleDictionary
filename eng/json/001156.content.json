@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 4412,
-    "reference_id": 3580,
-    "title": "Canneh",
+    "content_id": 4410,
+    "reference_id": 3578,
+    "title": "Cankerworm",
     "media_type": "Text",
-    "index_reference": "canneh",
+    "index_reference": "cankerworm",
     "language": "eng",
-    "content": "<h1>CANNEH</h1><p>Alternate name for Calneh, a city in northern Syria, in <a href=\"https://ref.ly/Ezek27:23\">Ezekiel 27:23</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3565\" data-resourceType=\"TyndaleBibleDictionary\">Calneh #2</span>.</p>",
+    "content": "<h1>CANKERWORM</h1><p>Cankerworm is a word used in the King James Version to translate a Hebrew word that means &quot;locust.&quot; Locusts are insects that eat plants and crops. Large groups of locusts can cause great damage to farmland.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5934\" data-resourceType=\"TyndaleBibleDictionary\">Locusts</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "26027023",
-          "start_ref_usfm": "EZK 27:23",
-          "end_ref": "26027023",
-          "end_ref_usfm": "EZK 27:23"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 3565,
-          "content_id": 4397,
+          "reference_id": 5934,
+          "content_id": 6766,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Calneh",
+          "label": "Locusts",
           "language": "eng"
         }
       ]

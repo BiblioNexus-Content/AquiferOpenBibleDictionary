@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 6919,
-    "reference_id": 6087,
-    "title": "Manassite",
+    "content_id": 6918,
+    "reference_id": 6086,
+    "title": "Manasses",
     "media_type": "Text",
-    "index_reference": "manassite",
+    "index_reference": "manasses",
     "language": "eng",
-    "content": "<h1>MANASSITE*</h1><p>Descendant of Manasseh, Joseph’s firstborn son (<a href=\"https://ref.ly/Deut4:43\">Dt 4:43</a>; <a href=\"https://ref.ly/2Kgs10:33\">2&nbsp;Kgs 10:33</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6084\" data-resourceType=\"TyndaleBibleDictionary\">Manasseh (Person) #1</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6085\" data-resourceType=\"TyndaleBibleDictionary\">Manasseh, Tribe of</span>.</p>",
+    "content": "<h1>MANASSES</h1><ol><li><p>The King James Version form of Manasseh, king of Judah, in <a href=\"https://ref.ly/Matt1:10\">Matthew 1:10</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6084\" data-resourceType=\"TyndaleBibleDictionary\">Manasseh (Person) #3</span>.</p></li><li><p>The King James Version form of Manasseh, one of Israel’s 12 tribes, in <a href=\"https://ref.ly/Rev7:6\">Revelation 7:6</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6084\" data-resourceType=\"TyndaleBibleDictionary\">Manasseh (Person) #1</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6085\" data-resourceType=\"TyndaleBibleDictionary\">Manasseh, Tribe of</span>.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05004043",
-          "start_ref_usfm": "DEU 4:43",
-          "end_ref": "05004043",
-          "end_ref_usfm": "DEU 4:43"
+          "start_ref": "40001010",
+          "start_ref_usfm": "MAT 1:10",
+          "end_ref": "40001010",
+          "end_ref_usfm": "MAT 1:10"
         },
         {
-          "start_ref": "12010033",
-          "start_ref_usfm": "2KI 10:33",
-          "end_ref": "12010033",
-          "end_ref_usfm": "2KI 10:33"
+          "start_ref": "66007006",
+          "start_ref_usfm": "REV 7:6",
+          "end_ref": "66007006",
+          "end_ref_usfm": "REV 7:6"
         }
       ],
       "resource": [

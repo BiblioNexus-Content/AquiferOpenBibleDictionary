@@ -1,12 +1,12 @@
 [
   {
-    "content_id": 7527,
-    "reference_id": 6695,
-    "title": "Ossifrage",
+    "content_id": 7526,
+    "reference_id": 6694,
+    "title": "Ospray, Osprey",
     "media_type": "Text",
-    "index_reference": "ossifrage",
+    "index_reference": "ospray, osprey",
     "language": "eng",
-    "content": "<h1>OSSIFRAGE*</h1><p>Largest of the vulture family, also known as the bearded vulture, considered ceremonially unclean (<a href=\"https://ref.ly/Lev11:13\">Lv 11:13</a>; <a href=\"https://ref.ly/Deut14:12\">Dt 14:12</a>, kjv). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Birds (Lammergeier)</span>.</p>",
+    "content": "<h1>OSPRAY, OSPREY</h1><p>A large bird of prey (<em>Pandion haliaetus</em>) that eats fish. It has brown feathers on its back and white feathers on its head and underside. Ospreys catch fish by diving into the water with their sharp talons.</p><p>In <a href=\"https://ref.ly/Lev11:13\">Leviticus 11:13</a> and <a href=\"https://ref.ly/Deut14:12\">Deuteronomy 14:12</a>, some older Bible translations use the word <em>osprey</em>, but the Hebrew word probably refers to the black vulture. In modern bird science, the osprey is different from the black vulture (<em>Aegypius monachus</em>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Birds</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8191\" data-resourceType=\"TyndaleBibleDictionary\">Vulture</span>.</p>",
     "associations": {
       "passage": [
         {
@@ -28,6 +28,13 @@
           "content_id": 4250,
           "resource_code": "TyndaleBibleDictionary",
           "label": "Birds",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8191,
+          "content_id": 9023,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Vulture",
           "language": "eng"
         }
       ]

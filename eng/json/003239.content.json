@@ -1,28 +1,43 @@
 [
   {
-    "content_id": 6498,
-    "reference_id": 5666,
-    "title": "Julia",
+    "content_id": 6497,
+    "reference_id": 5665,
+    "title": "Judith (Person)",
     "media_type": "Text",
-    "index_reference": "julia",
+    "index_reference": "judith (person)",
     "language": "eng",
-    "content": "<h1>JULIA</h1><p>1. Woman greeted by the apostle Paul (<a href=\"https://ref.ly/Rom16:15\">Rom 16:15</a>). Her name follows that of Philologus, who may have been her brother or husband.</p><p>2. According to a variant reading, a woman noted by Paul as being one of his coworkers, as well as a distinguished apostle (<a href=\"https://ref.ly/Rom16:7\">Rom 16:7</a>, nlt mg). She was probably Andronicus’s wife. The couple, like Aquila and Priscilla, formed an apostolic team. In other manuscripts, the reading is Junia—which, in the Greek, can be understood as a masculine name or feminine, depending on the accent. However, the most ancient manuscripts do not have an accent mark on this name; therefore, the interpreter must decide if this apostle was male or female.</p>",
+    "content": "<h1>JUDITH (Person)</h1><ol><li><p>A daughter of Beeri the Hittite and one of the wives of Esau (<a href=\"https://ref.ly/Gen26:34\">Genesis 26:34</a>). <a href=\"https://ref.ly/Gen36:2\">Genesis 36:2</a>&nbsp;calls her “Oholibamah.“ </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6637\" data-resourceType=\"TyndaleBibleDictionary\">Oholibamah</span>.</p></li><li><p>The main character in the book of Judith. She was a brave, beautiful Judean widow from Bethulia. She beheaded the Assyrian general Holofernes and saved her people from destruction. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5664\" data-resourceType=\"TyndaleBibleDictionary\">Judith, Book of</span>.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "45016007",
-          "start_ref_usfm": "ROM 16:7",
-          "end_ref": "45016007",
-          "end_ref_usfm": "ROM 16:7"
+          "start_ref": "01026034",
+          "start_ref_usfm": "GEN 26:34",
+          "end_ref": "01026034",
+          "end_ref_usfm": "GEN 26:34"
         },
         {
-          "start_ref": "45016015",
-          "start_ref_usfm": "ROM 16:15",
-          "end_ref": "45016015",
-          "end_ref_usfm": "ROM 16:15"
+          "start_ref": "01036002",
+          "start_ref_usfm": "GEN 36:2",
+          "end_ref": "01036002",
+          "end_ref_usfm": "GEN 36:2"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5664,
+          "content_id": 6496,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Book of Judith",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6637,
+          "content_id": 7469,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Oholibamah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

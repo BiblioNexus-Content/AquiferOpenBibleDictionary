@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 4754,
-    "reference_id": 3922,
-    "title": "Daphne",
+    "content_id": 4750,
+    "reference_id": 3918,
+    "title": "Dannah",
     "media_type": "Text",
-    "index_reference": "daphne",
+    "index_reference": "dannah",
     "language": "eng",
-    "content": "<h1>DAPHNE</h1><p>A beautiful grove and sanctuary to Apollo located near Antioch in Syria. The Greek ruler Seleucus I lived here and built a huge statue of Apollo in addition to a temple. Here, criminals and political refugees could take asylum, as it was illegal to arrest anyone within Daphne. In <a href=\"https://ref.ly/2Macc4:33\">2&nbsp;Maccabees 4:33</a> the high priest Onias, who had been true to Yahweh in boldly scolding King Menelaus, hid here. He was, however, brought out by trickery and murdered.</p>",
+    "content": "<h1>DANNAH</h1><p>Town located in the hill country of Judah between Socoh and Kiriath-sannah (Debir) (<a href=\"https://ref.ly/Josh15:49\">Jos 15:49</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "79004033",
-          "start_ref_usfm": "2MA 4:33",
-          "end_ref": "79004033",
-          "end_ref_usfm": "2MA 4:33"
+          "start_ref": "06015049",
+          "start_ref_usfm": "JOS 15:49",
+          "end_ref": "06015049",
+          "end_ref_usfm": "JOS 15:49"
         }
       ],
       "resource": []

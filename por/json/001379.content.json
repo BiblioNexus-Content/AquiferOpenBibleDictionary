@@ -1,19 +1,67 @@
 [
   {
-    "content_id": 815946,
-    "reference_id": 4123,
-    "title": "O Egípcio",
+    "content_id": 717192,
+    "reference_id": 6460,
+    "title": "Nasom",
     "media_type": "Text",
-    "index_reference": "o egípcio",
+    "index_reference": "nasom",
     "language": "por",
-    "content": "<h1>O EGÍPCIO</h1><p>Um homem não identificado do Egito liderou uma revolta violenta contra o domínio romano. Ele reuniu um grande grupo de seguidores, incluindo um grupo violento chamado <em>Sicarii </em>— rebeldes judeus conhecidos por usarem pequenas facas para assassinar seus inimigos. O Egípcio levou seus seguidores para o deserto.</p><p>Após uma perturbação no Templo, o comandante romano Cláudio Lísias perguntou ao apóstolo Paulo se ele era o rebelde egípcio mencionado em <a href=\"https://ref.ly/Acts21:38\">At 21.38</a>. O antigo historiador judeu Josefo também escreveu sobre esse homem. Ele relatou que o egípcio liderou uma rebelião fracassada que foi interrompida pelo governador romano Félix. O número de rebeldes na revolta difere entre as fontes, mas todos concordam que o egípcio escapou e nunca foi capturado.</p>",
+    "content": "<h1>NASOM</h1><p>Filho de Aminadabe, irmão de Eliseba e pai de Salmom (<a href=\"https://ref.ly/Exod6:23\">Êx 6.23</a>; <a href=\"https://ref.ly/1Chr2:10-1Chr2:11\">1Cr 2.10–11</a>).</p><p>Nasom, o príncipe da tribo de Judá no início das peregrinações de Israel no deserto (<a href=\"https://ref.ly/Num1:7\">Nm 1.7</a>; <a href=\"https://ref.ly/Num2:3\">2.3</a>; <a href=\"https://ref.ly/Num10:14\">10.14</a>), representou sua tribo na dedicação do altar (<a href=\"https://ref.ly/Num7:12\">Nm 7.12</a>).</p><p>Em <a href=\"https://ref.ly/Ruth4:20\">Rute 4.20,</a> ele é mencionado como ancestral de Davi e descendente de Judá através da linhagem de Perez. Nas genealogias de Mateus e Lucas, ele é citado como um ancestral de Jesus Cristo (<a href=\"https://ref.ly/Matt1:4\">Mt 1.4</a>; <a href=\"https://ref.ly/Luke3:32\">Lc 3.32</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44021038",
-          "start_ref_usfm": "ACT 21:38",
-          "end_ref": "44021038",
-          "end_ref_usfm": "ACT 21:38"
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006023",
+          "end_ref_usfm": "EXO 6:23"
+        },
+        {
+          "start_ref": "04001007",
+          "start_ref_usfm": "NUM 1:7",
+          "end_ref": "04001007",
+          "end_ref_usfm": "NUM 1:7"
+        },
+        {
+          "start_ref": "04002003",
+          "start_ref_usfm": "NUM 2:3",
+          "end_ref": "04002003",
+          "end_ref_usfm": "NUM 2:3"
+        },
+        {
+          "start_ref": "04007012",
+          "start_ref_usfm": "NUM 7:12",
+          "end_ref": "04007012",
+          "end_ref_usfm": "NUM 7:12"
+        },
+        {
+          "start_ref": "04010014",
+          "start_ref_usfm": "NUM 10:14",
+          "end_ref": "04010014",
+          "end_ref_usfm": "NUM 10:14"
+        },
+        {
+          "start_ref": "08004020",
+          "start_ref_usfm": "RUT 4:20",
+          "end_ref": "08004020",
+          "end_ref_usfm": "RUT 4:20"
+        },
+        {
+          "start_ref": "40001004",
+          "start_ref_usfm": "MAT 1:4",
+          "end_ref": "40001004",
+          "end_ref_usfm": "MAT 1:4"
+        },
+        {
+          "start_ref": "42003032",
+          "start_ref_usfm": "LUK 3:32",
+          "end_ref": "42003032",
+          "end_ref_usfm": "LUK 3:32"
+        },
+        {
+          "start_ref": "13002010",
+          "start_ref_usfm": "1CH 2:10",
+          "end_ref": "13002011",
+          "end_ref_usfm": "1CH 2:11"
         }
       ],
       "resource": []

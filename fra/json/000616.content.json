@@ -1,30 +1,40 @@
 [
   {
-    "content_id": 769269,
-    "reference_id": 5967,
-    "title": "Lydda",
+    "content_id": 822972,
+    "reference_id": 5402,
+    "title": "Jaschub",
     "media_type": "Text",
-    "index_reference": "lydda",
+    "index_reference": "jaschub",
     "language": "fra",
-    "content": "<h1>LYDDE</h1><p>Nom donne, dans le Nouveau Testament, à Lod, une ville située au sud-ouest de Jérusalem dans la Shéphélah (<a href=\"https://ref.ly/Acts9:32-Acts9:38\">Ac 9.32–38</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5936\" data-resourceType=\"TyndaleBibleDictionary\">Lod</span>.</p>",
+    "content": "<h1>JASCHUB</h1><p>1. Troisième fils d&apos;Issacar (<a href=\"https://ref.ly/1Chr7:1\">1Ch 7.1</a> ; également appelé Job dans <a href=\"https://ref.ly/Gen46:13\">Gn 46.13</a>), et fondateur de la famille des <span>Jaschubites</span> (<a href=\"https://ref.ly/Num26:24\">Nb 26.24</a>).</p><p>2. Descendant de Bani, qui obéira à l&apos;exhortation d&apos;Esdras de divorcer de sa femme païenne après l&apos;exil (<a href=\"https://ref.ly/Ezra10:29\">Esd 10.29</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44009032",
-          "start_ref_usfm": "ACT 9:32",
-          "end_ref": "44009038",
-          "end_ref_usfm": "ACT 9:38"
+          "start_ref": "01046013",
+          "start_ref_usfm": "GEN 46:13",
+          "end_ref": "01046013",
+          "end_ref_usfm": "GEN 46:13"
+        },
+        {
+          "start_ref": "04026024",
+          "start_ref_usfm": "NUM 26:24",
+          "end_ref": "04026024",
+          "end_ref_usfm": "NUM 26:24"
+        },
+        {
+          "start_ref": "13007001",
+          "start_ref_usfm": "1CH 7:1",
+          "end_ref": "13007001",
+          "end_ref_usfm": "1CH 7:1"
+        },
+        {
+          "start_ref": "15010029",
+          "start_ref_usfm": "EZR 10:29",
+          "end_ref": "15010029",
+          "end_ref_usfm": "EZR 10:29"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5936,
-          "content_id": 769268,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Lod",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

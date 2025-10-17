@@ -1,28 +1,42 @@
 [
   {
-    "content_id": 800700,
-    "reference_id": 4888,
-    "title": "Havila (Lieu)",
+    "content_id": 785196,
+    "reference_id": 4350,
+    "title": "Eunice",
     "media_type": "Text",
-    "index_reference": "havila (lieu)",
+    "index_reference": "eunice",
     "language": "fra",
-    "content": "<h1>HAVILA (Lieu)</h1><p>Territoire dans le voisinage d&apos;Éden, désormais inconnu. Il est dit qu&apos;il était arrosé par le fleuve Pishon et contenait des réserves d&apos;or, de bdellium et de pierre d&apos;onyx (<a href=\"https://ref.ly/Gen2:11-Gen2:12\">Gn 2.11–12</a>). La localisation d&apos;Havila a été l&apos;objet de nombreux débats. Elle ne peut avoir aucun lien avec la Havila de <a href=\"https://ref.ly/1Sam15:7\">1 Samuel 15.7</a>, où Saül a combattu des Amalécites, car la localité des récits d&apos;Éden est mésopotamien et non palestinien. Pour la même raison, toute tentative de localiser Havila dans le sud de l&apos;Arabie, en Somalie ou en Inde serait erronée. Le « fleuve » Pishon pourrait avoir été un canal d&apos;irrigation, car l&apos;akkadien n&apos;a pas de mot distinct pour ces deux types de cours d&apos;eau, et la coutume mésopotamienne était de nommer les grands canaux d&apos;irrigation comme s&apos;ils étaient des fleuves. Ceci aiderait à expliquer la survie du nom « Pishon » longtemps après la disparition du canal. Le Pishon était l&apos;une des quatre branches que le fleuve formait une fois qu&apos;il quittait Éden ; par conséquent, Havila devait se trouver au nord, puisque le récit suppose une perspective en amont. Havila se trouvait donc probablement dans la région de la plaine de Schinear et était arrosée par un grand canal d&apos;irrigation. Tant Havila que le canal ont depuis longtemps disparu.</p>",
+    "content": "<h1>EUNICE</h1><p>Mère de l&apos;apôtre Timothée et fille de Loïs (<a href=\"https://ref.ly/2Tim1:5\">2Tm 1.5</a>). Elle était l&apos;épouse d&apos;un homme grec païen. Eunice était une chrétienne juive (<a href=\"https://ref.ly/Acts16:1\">Ac 16.1</a>). Elle a enseigné à Timothée les Écritures de l&apos;Ancien Testament dès son enfance (<a href=\"https://ref.ly/2Tim3:15\">2Tm 3.15</a>). Eunice s&apos;est convertie au christianisme lors du premier voyage de l&apos;apôtre Paul dans sa maison à Lystre. Cela s&apos;est produit quelque temps avant sa visite mentionnée dans <a href=\"https://ref.ly/Acts16:1\">Actes 16.1.</a></p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8023\" data-resourceType=\"TyndaleBibleDictionary\">Timothée (personne)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09015007",
-          "start_ref_usfm": "1SA 15:7",
-          "end_ref": "09015007",
-          "end_ref_usfm": "1SA 15:7"
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016001",
+          "end_ref_usfm": "ACT 16:1"
         },
         {
-          "start_ref": "01002011",
-          "start_ref_usfm": "GEN 2:11",
-          "end_ref": "01002012",
-          "end_ref_usfm": "GEN 2:12"
+          "start_ref": "55001005",
+          "start_ref_usfm": "2TI 1:5",
+          "end_ref": "55001005",
+          "end_ref_usfm": "2TI 1:5"
+        },
+        {
+          "start_ref": "55003015",
+          "start_ref_usfm": "2TI 3:15",
+          "end_ref": "55003015",
+          "end_ref_usfm": "2TI 3:15"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8023,
+          "content_id": 27256,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Timothée (Personne)",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

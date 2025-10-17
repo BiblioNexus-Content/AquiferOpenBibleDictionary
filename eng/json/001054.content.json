@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4310,
-    "reference_id": 3478,
-    "title": "Borrow, Borrowing",
+    "content_id": 4309,
+    "reference_id": 3477,
+    "title": "Born Again",
     "media_type": "Text",
-    "index_reference": "borrow, borrowing",
+    "index_reference": "born again",
     "language": "eng",
-    "content": "<h1>BORROW, BORROWING</h1><p>Receiving money or goods that a person promises to return. The law of Moses regulated borrowing and lending (<a href=\"https://ref.ly/Deut23:19-Deut23:20\">Deuteronomy 23:19–20</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3158\" data-resourceType=\"TyndaleBibleDictionary\">Banker, Banking</span>.</p>",
+    "content": "<h1>BORN AGAIN</h1><p>&quot;Born again&quot; is a phrase Jesus used to explain to Nicodemus how a person enters the kingdom of God (<a href=\"https://ref.ly/John3:3-John3:7\">John 3:3–7</a>). Jesus said that to enter the kingdom of God, a person must be born again. This means they need a new kind of life from God. It is not a physical birth. It is a spiritual change that comes from God’s Spirit.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7147\" data-resourceType=\"TyndaleBibleDictionary\">Regeneration</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05023019",
-          "start_ref_usfm": "DEU 23:19",
-          "end_ref": "05023020",
-          "end_ref_usfm": "DEU 23:20"
+          "start_ref": "43003003",
+          "start_ref_usfm": "JHN 3:3",
+          "end_ref": "43003007",
+          "end_ref_usfm": "JHN 3:7"
         }
       ],
       "resource": [
         {
-          "reference_id": 3158,
-          "content_id": 3990,
+          "reference_id": 7147,
+          "content_id": 7979,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Banker, Banking",
+          "label": "Regeneration",
           "language": "eng"
         }
       ]

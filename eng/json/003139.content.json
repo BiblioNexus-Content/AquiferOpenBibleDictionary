@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 6397,
-    "reference_id": 5565,
-    "title": "Joda",
+    "content_id": 6396,
+    "reference_id": 5564,
+    "title": "Jochebed",
     "media_type": "Text",
-    "index_reference": "joda",
+    "index_reference": "jochebed",
     "language": "eng",
-    "content": "<h1>JODA</h1><p>Joanan’s son, the father of Josech, and a forefather of Jesus Christ. He lived in Palestine during the period after the exile in Babylon (<a href=\"https://ref.ly/Luke3:26\">Luke 3:26</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4580\" data-resourceType=\"TyndaleBibleDictionary\">Ancestry of Jesus Christ</span>.</p>",
+    "content": "<h1>JOCHEBED</h1><p>Amram’s wife and the mother of Moses, Aaron, and Miriam (<a href=\"https://ref.ly/Exod6:20\">Exodus 6:20</a>; <a href=\"https://ref.ly/Num26:59\">Numbers 26:59</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "42003026",
-          "start_ref_usfm": "LUK 3:26",
-          "end_ref": "42003026",
-          "end_ref_usfm": "LUK 3:26"
+          "start_ref": "02006020",
+          "start_ref_usfm": "EXO 6:20",
+          "end_ref": "02006020",
+          "end_ref_usfm": "EXO 6:20"
+        },
+        {
+          "start_ref": "04026059",
+          "start_ref_usfm": "NUM 26:59",
+          "end_ref": "04026059",
+          "end_ref_usfm": "NUM 26:59"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4580,
-          "content_id": 5412,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Genealogy of Jesus Christ",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

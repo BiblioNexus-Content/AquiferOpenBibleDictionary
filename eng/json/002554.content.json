@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5808,
-    "reference_id": 4976,
-    "title": "Hephzibah",
+    "content_id": 5805,
+    "reference_id": 4973,
+    "title": "Hepherite",
     "media_type": "Text",
-    "index_reference": "hephzibah",
+    "index_reference": "hepherite",
     "language": "eng",
-    "content": "<h1>HEPHZIBAH</h1><p>1. Mother of Manasseh, king of Judah (<a href=\"https://ref.ly/2Kgs21:1\">2&nbsp;Kgs 21:1</a>).</p><p>2. Symbolic name (kjv) for the restored city of Jerusalem, meaning “my delight is in her” (<a href=\"https://ref.ly/Isa62:4\">Is 62:4</a>).</p>",
+    "content": "<h1>HEPHERITE</h1><p>Any descendant of Hepher from the tribe of Manasseh (<a href=\"https://ref.ly/Num26:32\">Numbers 26:32</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4974\" data-resourceType=\"TyndaleBibleDictionary\">Hepher (Person) #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12021001",
-          "start_ref_usfm": "2KI 21:1",
-          "end_ref": "12021001",
-          "end_ref_usfm": "2KI 21:1"
-        },
-        {
-          "start_ref": "23062004",
-          "start_ref_usfm": "ISA 62:4",
-          "end_ref": "23062004",
-          "end_ref_usfm": "ISA 62:4"
+          "start_ref": "04026032",
+          "start_ref_usfm": "NUM 26:32",
+          "end_ref": "04026032",
+          "end_ref_usfm": "NUM 26:32"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4974,
+          "content_id": 5806,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Hepher (Person)",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

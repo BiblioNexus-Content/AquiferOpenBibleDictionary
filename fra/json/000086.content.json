@@ -1,43 +1,61 @@
 [
   {
-    "content_id": 785156,
-    "reference_id": 2909,
-    "title": "Aristarque",
+    "content_id": 811790,
+    "reference_id": 2874,
+    "title": "Aravna",
     "media_type": "Text",
-    "index_reference": "aristarque",
+    "index_reference": "aravna",
     "language": "fra",
-    "content": "<h1>ARISTARQUE</h1><p>Compagnon de l&apos;apôtre Paul. Aristarque était un Macédonien de Thessalonique, possiblement d&apos;ascendance juive. Il est mentionné pour la première fois comme l&apos;un de ceux qui ont été saisis par une foule en colère à Éphèse (<a href=\"https://ref.ly/Acts19:29\">Ac 19.29</a>).</p><p>Plus tard, Aristarque accompagnera Paul lors de son retour de son troisième voyage missionnaire (<a href=\"https://ref.ly/Acts20:4\">Ac 20.4</a>). Il ira également à Rome avec Paul pour affronter César (<a href=\"https://ref.ly/Acts27:1-Acts27:2\">Ac 27.1–2</a>).</p><p>Paul décrit Aristarque comme un collaborateur (<a href=\"https://ref.ly/Phlm1:24\">Phm 1.24</a>) et un compagnon de captivité. Paul a reçu un grand réconfort de l&apos;amitié d&apos;Aristarque (<a href=\"https://ref.ly/Col4:10-Col4:11\">Col 4.10–11</a>). La tradition dit que l&apos;empereur romain Néron a tué Aristarque à Rome en tant que martyr.</p>",
+    "content": "<h1>ARAVNA</h1><p>Aravna était un Jébusien dont l&apos;aire de battage (lieu où le grain était séparé de la paille) sera le théâtre de certains événements significatifs de l&apos;histoire biblique (Jébus était le nom d&apos;une ancienne ville cananéenne qui deviendra plus tard Jérusalem.)</p><p>Le Seigneur empêchera un ange de continuer à infliger à Israël une peste (maladie ou fléau) après la mort de 70 000 Israélites (<a href=\"https://ref.ly/2Sam24:15-2Sam24:16\">2S 24.15–16</a>). Cette peste du Seigneur était la conséquence du recensement orgueilleux du roi David. C&apos;est à l&apos;aire de battage d&apos;Aravna que cet événement se produit.</p><p>Sur l&apos;instruction du prophète Gad, David, repentant, achète l&apos;aire pour construire un autel (<a href=\"https://ref.ly/2Sam24:17-2Sam24:25\">2S 24.17–25</a>). Aravna offre des bœufs et tout le nécessaire pour l&apos;autel en cadeau. David insistera pour le payer, disant : « <span>je n’offrirai point à l’Éternel, mon Dieu, des holocaustes qui ne me coûtent rien</span> » (<a href=\"https://ref.ly/2Sam24:24\">2S 24.24</a>).</p><p>Un récit parallèle utilise la forme hébraïque <em>Ornan</em> pour désigner le nom étranger du Jébusien (<a href=\"https://ref.ly/1Chr21:15-1Chr21:16\">1Ch 21.15–16</a>). Le tabernacle et l&apos;autel étaient trop éloignés sur la colline de Gabaon (<a href=\"https://ref.ly/1Chr21:27-1Chr21:30\">1Ch 21.27–30</a>). Ce récit indique que David était trop pressé pour se rendre au tabernacle afin d&apos;y faire son sacrifice.</p><p>David choisira l&apos;aire de battage comme site pour le temple (<a href=\"https://ref.ly/1Chr22:1\">1Ch 22.1</a>). Salomon y construira ensuite le temple, sur la montagne de Morija (<a href=\"https://ref.ly/2Chr3:1\">2Ch 3.1</a>). L&apos;aire de battage marquait la même zone où Dieu avait ordonné à Abraham d&apos;aller sacrifier Isaac (<a href=\"https://ref.ly/Gen22:2\">Gn 22.2</a>).</p><p>Aujourd&apos;hui, un important sanctuaire musulman appelé le Dôme du Rocher se dresse là où beaucoup croient que se trouvait l&apos;aire de battage d&apos;Aravna autrefois.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44019029",
-          "start_ref_usfm": "ACT 19:29",
-          "end_ref": "44019029",
-          "end_ref_usfm": "ACT 19:29"
+          "start_ref": "01022002",
+          "start_ref_usfm": "GEN 22:2",
+          "end_ref": "01022002",
+          "end_ref_usfm": "GEN 22:2"
         },
         {
-          "start_ref": "44020004",
-          "start_ref_usfm": "ACT 20:4",
-          "end_ref": "44020004",
-          "end_ref_usfm": "ACT 20:4"
+          "start_ref": "10024024",
+          "start_ref_usfm": "2SA 24:24",
+          "end_ref": "10024024",
+          "end_ref_usfm": "2SA 24:24"
         },
         {
-          "start_ref": "57001024",
-          "start_ref_usfm": "PHM 1:24",
-          "end_ref": "57001024",
-          "end_ref_usfm": "PHM 1:24"
+          "start_ref": "13022001",
+          "start_ref_usfm": "1CH 22:1",
+          "end_ref": "13022001",
+          "end_ref_usfm": "1CH 22:1"
         },
         {
-          "start_ref": "44027001",
-          "start_ref_usfm": "ACT 27:1",
-          "end_ref": "44027002",
-          "end_ref_usfm": "ACT 27:2"
+          "start_ref": "14003001",
+          "start_ref_usfm": "2CH 3:1",
+          "end_ref": "14003001",
+          "end_ref_usfm": "2CH 3:1"
         },
         {
-          "start_ref": "51004010",
-          "start_ref_usfm": "COL 4:10",
-          "end_ref": "51004011",
-          "end_ref_usfm": "COL 4:11"
+          "start_ref": "10024015",
+          "start_ref_usfm": "2SA 24:15",
+          "end_ref": "10024016",
+          "end_ref_usfm": "2SA 24:16"
+        },
+        {
+          "start_ref": "10024017",
+          "start_ref_usfm": "2SA 24:17",
+          "end_ref": "10024025",
+          "end_ref_usfm": "2SA 24:25"
+        },
+        {
+          "start_ref": "13021015",
+          "start_ref_usfm": "1CH 21:15",
+          "end_ref": "13021016",
+          "end_ref_usfm": "1CH 21:16"
+        },
+        {
+          "start_ref": "13021027",
+          "start_ref_usfm": "1CH 21:27",
+          "end_ref": "13021030",
+          "end_ref_usfm": "1CH 21:30"
         }
       ],
       "resource": []

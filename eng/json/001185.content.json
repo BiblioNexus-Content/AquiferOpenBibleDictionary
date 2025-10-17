@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 4441,
-    "reference_id": 3609,
-    "title": "Casluhim, Casluhites",
+    "content_id": 4440,
+    "reference_id": 3608,
+    "title": "Casiphia",
     "media_type": "Text",
-    "index_reference": "casluhim, casluhites",
+    "index_reference": "casiphia",
     "language": "eng",
-    "content": "<h1>CASLUHIM*, CASLUHITES</h1><p>Descendants of Noah through his son Ham and grandson Mizraim (“Egypt” in some versions), and ancestors of the Philistines (<a href=\"https://ref.ly/Gen10:14\">Gn 10:14</a>; <a href=\"https://ref.ly/1Chr1:12\">1&nbsp;Chr 1:12</a>).</p>",
+    "content": "<h1>CASIPHIA</h1><p>Place to which Ezra sent for Levites when he realized that his company of returnees from the exile lacked persons qualified for temple service (<a href=\"https://ref.ly/Ezra8:17\">Ezr 8:17</a>). Casiphia was perhaps Ctesiphon on the Tigris River near modern Baghdad.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010014",
-          "start_ref_usfm": "GEN 10:14",
-          "end_ref": "01010014",
-          "end_ref_usfm": "GEN 10:14"
-        },
-        {
-          "start_ref": "13001012",
-          "start_ref_usfm": "1CH 1:12",
-          "end_ref": "13001012",
-          "end_ref_usfm": "1CH 1:12"
+          "start_ref": "15008017",
+          "start_ref_usfm": "EZR 8:17",
+          "end_ref": "15008017",
+          "end_ref_usfm": "EZR 8:17"
         }
       ],
       "resource": []

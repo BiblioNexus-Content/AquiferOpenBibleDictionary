@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 4350,
-    "reference_id": 3518,
-    "title": "Broom",
+    "content_id": 9068,
+    "reference_id": 8236,
+    "title": "Brook of the Willows",
     "media_type": "Text",
-    "index_reference": "broom",
+    "index_reference": "brook of the willows",
     "language": "eng",
-    "content": "<h1>BROOM</h1><p>The broom is a Palestinian shrub or bush that often grows quite large and provides shade (<a href=\"https://ref.ly/1Kgs19:4\">1&nbsp;Kings 19:4</a>). It is native to Eurasia. </p><p>The King James Version translates the Hebrew word as &quot;juniper.&quot; It does not refer to true juniper plants. Instead, it refers to a species of broom known as the white broom (<em>Retama raetam</em>).</p><p>The white broom has long, flexible branches that form an upright, dense bush growing 0.9 to 3.7 meters (3 to 12 feet) tall. Though its leaves are small and few, it provides welcome shade in desert areas. The plant produces sweet, very fragrant white flowers shaped like peas that grow in clusters along its twigs. This beautiful shrub grows in the desert regions of Palestine, Syria, and Persia. In many desert areas, it is the only bush that offers any shade (<a href=\"https://ref.ly/1Kgs19:4-1Kgs19:5\">1&nbsp;Kings 19:4–5</a>).</p><p>The &quot;roots of the broom&quot; mentioned in <a href=\"https://ref.ly/Job30:4\">Job 30:4</a> are neither juniper nor white broom roots. The roots of the white broom taste very bad and could not be eaten in the way Job describes. Job&apos;s &quot;roots of the broom&quot; were probably an edible parasitic plant (<em>Cynomorium coccineum</em>). This plant grows in salt marshes and sandy coastal areas. People often eat it during food shortages. At one time it was highly valued for its supposed healing properties in treating severe intestinal illness.</p><p></p>",
+    "content": "<h1>BROOK OF THE WILLOWS</h1><p>A stream or small valley mentioned in <a href=\"https://ref.ly/Isa15:7\">Isaiah 15:7</a>. It is also called the &quot;Ravine of the Willows.&quot; It was probably on the southern border of Moab. The verse says that Moab’s wealth would be carried away along this brook. </p><p>Some Bible translations call it the “Ravine of the Poplars” because the exact tree meant is uncertain.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11019004",
-          "start_ref_usfm": "1KI 19:4",
-          "end_ref": "11019004",
-          "end_ref_usfm": "1KI 19:4"
+          "start_ref": "23015007",
+          "start_ref_usfm": "ISA 15:7",
+          "end_ref": "23015007",
+          "end_ref_usfm": "ISA 15:7"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

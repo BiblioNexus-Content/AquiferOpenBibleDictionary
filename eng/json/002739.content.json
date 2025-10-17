@@ -1,40 +1,30 @@
 [
   {
-    "content_id": 5989,
-    "reference_id": 5157,
-    "title": "Igal",
+    "content_id": 5988,
+    "reference_id": 5156,
+    "title": "Iezer, Iezerites",
     "media_type": "Text",
-    "index_reference": "igal",
+    "index_reference": "iezer, iezerites",
     "language": "eng",
-    "content": "<h1>IGAL</h1><ol><li><p>A son of Joseph from the tribe of Issachar. He was one of the 12 spies sent by Moses to search out Canaan (<a href=\"https://ref.ly/Num13:7\">Numbers 13:7</a>).</p></li><li><p>A son of Nathan and one of the mighty men of King David (<a href=\"https://ref.ly/2Sam23:36\">2&nbsp;Samuel 23:36</a>). In <a href=\"https://ref.ly/1Chr11:38\">1&nbsp;Chronicles 11:38</a> he is called Joel, the brother of Nathan. In Hebrew, this names is only one letter different from Igal.</p></li><li><p>A son of Shemaiah and a descendant of King David through King Jehoiachin (<a href=\"https://ref.ly/1Chr3:22\">1&nbsp;Chronicles 3:22</a>).</p></li></ol>",
+    "content": "<h1>IEZER, IEZERITES</h1><p>Iezer and Iezerites are shortened forms of the names Abiezer and Abiezrite. Abiezer was a son of Gilead, and the Abiezrites were Abiezer&apos;s descendants (<a href=\"https://ref.ly/Num26:30\">Numbers 26:30</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2462\" data-resourceType=\"TyndaleBibleDictionary\">Abiezer #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04013007",
-          "start_ref_usfm": "NUM 13:7",
-          "end_ref": "04013007",
-          "end_ref_usfm": "NUM 13:7"
-        },
-        {
-          "start_ref": "10023036",
-          "start_ref_usfm": "2SA 23:36",
-          "end_ref": "10023036",
-          "end_ref_usfm": "2SA 23:36"
-        },
-        {
-          "start_ref": "13003022",
-          "start_ref_usfm": "1CH 3:22",
-          "end_ref": "13003022",
-          "end_ref_usfm": "1CH 3:22"
-        },
-        {
-          "start_ref": "13011038",
-          "start_ref_usfm": "1CH 11:38",
-          "end_ref": "13011038",
-          "end_ref_usfm": "1CH 11:38"
+          "start_ref": "04026030",
+          "start_ref_usfm": "NUM 26:30",
+          "end_ref": "04026030",
+          "end_ref_usfm": "NUM 26:30"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2462,
+          "content_id": 3294,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Abiezer",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

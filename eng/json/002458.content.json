@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 5712,
-    "reference_id": 4880,
-    "title": "Hatipha",
+    "content_id": 5711,
+    "reference_id": 4879,
+    "title": "Hathath",
     "media_type": "Text",
-    "index_reference": "hatipha",
+    "index_reference": "hathath",
     "language": "eng",
-    "content": "<h1>HATIPHA</h1><p>Ancestor of a family of temple servants who returned to Jerusalem with Zerubbabel after the captivity (<a href=\"https://ref.ly/Ezra2:54\">Ezr 2:54</a>; <a href=\"https://ref.ly/Neh7:56\">Neh 7:56</a>).</p>",
+    "content": "<h1>HATHATH</h1><p>Othniel’s son and the grandson of Kenaz (<a href=\"https://ref.ly/1Chr4:13\">1&nbsp;Chr 4:13</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002054",
-          "start_ref_usfm": "EZR 2:54",
-          "end_ref": "15002054",
-          "end_ref_usfm": "EZR 2:54"
-        },
-        {
-          "start_ref": "16007056",
-          "start_ref_usfm": "NEH 7:56",
-          "end_ref": "16007056",
-          "end_ref_usfm": "NEH 7:56"
+          "start_ref": "13004013",
+          "start_ref_usfm": "1CH 4:13",
+          "end_ref": "13004013",
+          "end_ref_usfm": "1CH 4:13"
         }
       ],
       "resource": []

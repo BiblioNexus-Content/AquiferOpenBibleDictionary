@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6803,
-    "reference_id": 5971,
-    "title": "Lyre",
+    "content_id": 6802,
+    "reference_id": 5970,
+    "title": "Lye",
     "media_type": "Text",
-    "index_reference": "lyre",
+    "index_reference": "lye",
     "language": "eng",
-    "content": "<h1>LYRE</h1><p>Stringed instrument consisting of a body, crossbar, and sometimes a sounding box. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6414\" data-resourceType=\"TyndaleBibleDictionary\">Musical Instruments (Kathros, Kinnor)</span>.</p>",
+    "content": "<h1>LYE</h1><p>Strong alkaline substance (probably potassium carbonate) used for cleaning purposes. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 6414,
-          "content_id": 7246,
+          "reference_id": 6313,
+          "content_id": 7145,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Musical Instruments",
+          "label": "Minerals and Metals",
           "language": "eng"
         }
       ]

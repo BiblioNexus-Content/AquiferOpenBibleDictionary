@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 760043,
-    "reference_id": 8181,
-    "title": "Videira de Sodoma",
+    "content_id": 760036,
+    "reference_id": 7957,
+    "title": "Tera (lugar)",
     "media_type": "Text",
-    "index_reference": "videira de sodoma",
+    "index_reference": "tera (lugar)",
     "language": "por",
-    "content": "<h1>VIDEIRA DE SODOMA</h1><p>Designação para uma planta que produz um fruto atraente, mas não comestível (<a href=\"https://ref.ly/Deut32:32\">Dt 32.32</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas (Cabaça, Selvagem)</span>.</p>",
+    "content": "<h1>TERA (lugar)</h1><p>Um dos lugares onde os israelitas pararam durante suas peregrinações no deserto. Estava localizado entre Taate e Mitcá (<a href=\"https://ref.ly/Num33:27-Num33:28\">Nm 33.27,28</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05032032",
-          "start_ref_usfm": "DEU 32:32",
-          "end_ref": "05032032",
-          "end_ref_usfm": "DEU 32:32"
+          "start_ref": "04033027",
+          "start_ref_usfm": "NUM 33:27",
+          "end_ref": "04033028",
+          "end_ref_usfm": "NUM 33:28"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 125318,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Plantas",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

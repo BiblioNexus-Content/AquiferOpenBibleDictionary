@@ -1,23 +1,28 @@
 [
   {
-    "content_id": 7546,
-    "reference_id": 6714,
-    "title": "Pace (Measure)",
+    "content_id": 7545,
+    "reference_id": 6713,
+    "title": "Paarai",
     "media_type": "Text",
-    "index_reference": "pace (measure)",
+    "index_reference": "paarai",
     "language": "eng",
-    "content": "<h1>PACE (Measure)</h1><p>Linear measure equivalent to the average distance of a man’s stride, or about one yard (.9&nbsp;meter). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Weights and Measures</span>.</p>",
+    "content": "<h1>PAARAI</h1><p>One of the<span> </span>mighty men of King David. Paarai was from Arba, in Judah (<a href=\"https://ref.ly/2Sam23:35\">2&nbsp;Samuel 23:35</a>). He may be the same person as Naarai the son of Ezbai (<a href=\"https://ref.ly/1Chr11:37\">1&nbsp;Chronicles 11:37</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 8219,
-          "content_id": 9051,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Weights and Measures",
-          "language": "eng"
+          "start_ref": "10023035",
+          "start_ref_usfm": "2SA 23:35",
+          "end_ref": "10023035",
+          "end_ref_usfm": "2SA 23:35"
+        },
+        {
+          "start_ref": "13011037",
+          "start_ref_usfm": "1CH 11:37",
+          "end_ref": "13011037",
+          "end_ref_usfm": "1CH 11:37"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

@@ -1,73 +1,55 @@
 [
   {
-    "content_id": 769276,
-    "reference_id": 6861,
-    "title": "Fille de Pharaon",
+    "content_id": 822911,
+    "reference_id": 4197,
+    "title": "Élisabeth",
     "media_type": "Text",
-    "index_reference": "fille de pharaon",
+    "index_reference": "élisabeth",
     "language": "fra",
-    "content": "<h1>FILLE DU PHARAON</h1><ol><li><p>Princesse égyptienne a sauvé le nourrisson Moïse et l&apos;a adopté comme son propre fils (<a href=\"https://ref.ly/Exod2:5-Exod2:10\">Ex 2.5–10</a> ; <a href=\"https://ref.ly/Acts7:21\">Ac 7.21</a> ; <a href=\"https://ref.ly/Heb11:24\">Hé 11.24</a>). Si nous acceptons une date ancienne pour l&apos;Exode (lorsque Moïse a conduit les Israélites hors d&apos;Égypte), cette mère adoptive de Moïse pourrait avoir été Hatchepsout. Certains érudits qui acceptent une date plus tardive pour l&apos;Exode croient que le Pharaon de l&apos;oppression était Ramsès II. Si c&apos;est le cas, cette princesse pourrait avoir été la fille de Séthi 1er ou d&apos;un Pharaon ultérieur de la 18e dynastie. Elle est probablement née d&apos;une concubine d&apos;un harem royal près de la région de Gosen.</p></li><li><p>Princesse égyptienne, l&apos;une des deux épouses de Méred (un descendant de Caleb), qui a donné naissance à trois enfants (<a href=\"https://ref.ly/1Chr4:17\">1Ch 4.17</a>). Son nom, Bithja (signifiant « fille du Seigneur »), implique qu&apos;elle s&apos;est convertie au culte du Dieu d&apos;Israël. On ne sait pas quel Pharaon était son père.</p></li><li><p>Princesse que Salomon a épousée pour sceller une alliance avec l&apos;Égypte. Son père était probablement Siamun, qui a régné de 978 à 959 av. J.‑C. Il a offert à Salomon la ville de Guézer comme cadeau de mariage (<a href=\"https://ref.ly/1Kgs3:1\">1R 3.1</a> ; <a href=\"https://ref.ly/1Kgs9:16\">9.16</a> ; <a href=\"https://ref.ly/1Kgs11:1\">11.1</a>). Salomon lui a construit un palais à Jérusalem parce qu&apos;il ne voulait pas qu&apos;elle vive dans la maison de David (<a href=\"https://ref.ly/1Kgs7:8\">1R 7.8</a> ; <a href=\"https://ref.ly/1Kgs9:24\">9.24</a> ; <a href=\"https://ref.ly/2Chr8:11\">2Ch 8.11</a>).</p></li></ol>",
+    "content": "<h1>ÉLISABETH</h1><p>Mère de Jean-Baptiste est parente de Marie, la mère de Jésus (<a href=\"https://ref.ly/Luke1:36\">Lc 1.36</a>). Elle venait d&apos;une famille de prêtres (<a href=\"https://ref.ly/Luke1:5\">Lc 1.5</a>). Le prénom Élisabeth vient du même mot hébreu qu&apos;Élischéba, l&apos;épouse d&apos;Aaron (<a href=\"https://ref.ly/Exod6:23\">Ex 6.23</a>), qui signifie « mon Dieu est un serment ». Seul l&apos;Évangile de Luc, qui met souvent en avant le rôle des femmes, nous parle d&apos;Élisabeth et de son mari, Zacharie.</p><p>Luc souligne qu&apos;Élisabeth et Zacharie étaient justes et vivaient d&apos;une manière qui plaisait à Dieu (<a href=\"https://ref.ly/Luke1:6\">Lc 1.6</a>). Cependant, le couple était âgé et n&apos;avait pas d&apos;enfants, ce qui était souvent considéré comme une disgrâce dans la culture juive (<a href=\"https://ref.ly/Gen30:22-Gen30:23\">Gn 30.22–23</a> ; <a href=\"https://ref.ly/Luke1:25\">Lc 1.25</a>). Malgré cela, ils restaient fidèles dans leur adoration et service à Dieu. Un jour, un ange du Seigneur est apparu à Zacharie, annonçant qu&apos;Élisabeth aurait un fils. Ce fils serait celui qui préparerait le chemin pour le Messie promis (<a href=\"https://ref.ly/Luke1:13-Luke1:17\">Lc 1.13–17</a>). Quand Élisabeth tombe enceinte, elle restera en retrait pendant cinq mois. Pendant ce temps, sa parente Marie viendra lui rendre visite.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5583\" data-resourceType=\"TyndaleBibleDictionary\">Jean Baptiste</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11003001",
-          "start_ref_usfm": "1KI 3:1",
-          "end_ref": "11003001",
-          "end_ref_usfm": "1KI 3:1"
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006023",
+          "end_ref_usfm": "EXO 6:23"
         },
         {
-          "start_ref": "11007008",
-          "start_ref_usfm": "1KI 7:8",
-          "end_ref": "11007008",
-          "end_ref_usfm": "1KI 7:8"
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
         },
         {
-          "start_ref": "11009016",
-          "start_ref_usfm": "1KI 9:16",
-          "end_ref": "11009016",
-          "end_ref_usfm": "1KI 9:16"
+          "start_ref": "42001006",
+          "start_ref_usfm": "LUK 1:6",
+          "end_ref": "42001006",
+          "end_ref_usfm": "LUK 1:6"
         },
         {
-          "start_ref": "11009024",
-          "start_ref_usfm": "1KI 9:24",
-          "end_ref": "11009024",
-          "end_ref_usfm": "1KI 9:24"
+          "start_ref": "42001025",
+          "start_ref_usfm": "LUK 1:25",
+          "end_ref": "42001025",
+          "end_ref_usfm": "LUK 1:25"
         },
         {
-          "start_ref": "11011001",
-          "start_ref_usfm": "1KI 11:1",
-          "end_ref": "11011001",
-          "end_ref_usfm": "1KI 11:1"
+          "start_ref": "42001036",
+          "start_ref_usfm": "LUK 1:36",
+          "end_ref": "42001036",
+          "end_ref_usfm": "LUK 1:36"
         },
         {
-          "start_ref": "13004017",
-          "start_ref_usfm": "1CH 4:17",
-          "end_ref": "13004017",
-          "end_ref_usfm": "1CH 4:17"
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030023",
+          "end_ref_usfm": "GEN 30:23"
         },
         {
-          "start_ref": "14008011",
-          "start_ref_usfm": "2CH 8:11",
-          "end_ref": "14008011",
-          "end_ref_usfm": "2CH 8:11"
-        },
-        {
-          "start_ref": "44007021",
-          "start_ref_usfm": "ACT 7:21",
-          "end_ref": "44007021",
-          "end_ref_usfm": "ACT 7:21"
-        },
-        {
-          "start_ref": "58011024",
-          "start_ref_usfm": "HEB 11:24",
-          "end_ref": "58011024",
-          "end_ref_usfm": "HEB 11:24"
-        },
-        {
-          "start_ref": "02002005",
-          "start_ref_usfm": "EXO 2:5",
-          "end_ref": "02002010",
-          "end_ref_usfm": "EXO 2:10"
+          "start_ref": "42001013",
+          "start_ref_usfm": "LUK 1:13",
+          "end_ref": "42001017",
+          "end_ref_usfm": "LUK 1:17"
         }
       ],
       "resource": []

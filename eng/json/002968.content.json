@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 6220,
-    "reference_id": 5388,
-    "title": "Jarah",
+    "content_id": 6228,
+    "reference_id": 5396,
+    "title": "Jar",
     "media_type": "Text",
-    "index_reference": "jarah",
+    "index_reference": "jar",
     "language": "eng",
-    "content": "<h1>JARAH*</h1><p>Descendant of King Saul (<a href=\"https://ref.ly/1Chr9:42\">1&nbsp;Chr 9:42</a>, nlt mg).</p>",
+    "content": "<h1>JAR</h1><p>A container made of clay, used to store liquids or dry goods.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6963\" data-resourceType=\"TyndaleBibleDictionary\">Pottery</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "13009042",
-          "start_ref_usfm": "1CH 9:42",
-          "end_ref": "13009042",
-          "end_ref_usfm": "1CH 9:42"
+          "reference_id": 6963,
+          "content_id": 7795,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Pottery",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

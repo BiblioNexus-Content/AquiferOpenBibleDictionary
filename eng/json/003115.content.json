@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 6372,
-    "reference_id": 5540,
-    "title": "Jeziel",
+    "content_id": 6371,
+    "reference_id": 5539,
+    "title": "Jeziah",
     "media_type": "Text",
-    "index_reference": "jeziel",
+    "index_reference": "jeziah",
     "language": "eng",
-    "content": "<h1>JEZIEL</h1><p>Warrior from Benjamin’s tribe who joined David at Ziklag in his struggle against King Saul. Jeziel was one of David’s ambidextrous archers and slingers (<a href=\"https://ref.ly/1Chr12:3\">1&nbsp;Chr 12:3</a>).</p>",
+    "content": "<h1>JEZIAH*</h1><p>KJV form of Izziah, Parosh’s descendant, in <a href=\"https://ref.ly/Ezra10:25\">Ezra 10:25</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5297\" data-resourceType=\"TyndaleBibleDictionary\">Izziah</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13012003",
-          "start_ref_usfm": "1CH 12:3",
-          "end_ref": "13012003",
-          "end_ref_usfm": "1CH 12:3"
+          "start_ref": "15010025",
+          "start_ref_usfm": "EZR 10:25",
+          "end_ref": "15010025",
+          "end_ref_usfm": "EZR 10:25"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5297,
+          "content_id": 6129,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Izziah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

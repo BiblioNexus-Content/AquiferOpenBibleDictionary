@@ -1,25 +1,31 @@
 [
   {
-    "content_id": 6872,
-    "reference_id": 6040,
-    "title": "Mahavah, Mahavite",
+    "content_id": 6871,
+    "reference_id": 6039,
+    "title": "Mahath",
     "media_type": "Text",
-    "index_reference": "mahavah, mahavite",
+    "index_reference": "mahath",
     "language": "eng",
-    "content": "<h1>MAHAVAH, MAHAVITE*</h1><p>Term used in <a href=\"https://ref.ly/1Chr11:46\">1&nbsp;Chronicles 11:46</a> to designate Eliel, one of David’s mighty men. The word was probably added to indicate where he came from so as to distinguish him from the Eliel in verse <a href=\"https://ref.ly/1Chr11:47\">47</a>.</p>",
+    "content": "<h1>MAHATH</h1><p>1. Levite, son of Amasai, and ancestor of Heman the temple singer in David’s time (<a href=\"https://ref.ly/1Chr6:35\">1&nbsp;Chr 6:35</a>).</p><p>2. Levite who assisted in the cleansing of the temple during Hezekiah’s time (<a href=\"https://ref.ly/2Chr29:12\">2&nbsp;Chr 29:12</a>). He was appointed an overseer of the contributions, the tithes, and the things dedicated to God (<a href=\"https://ref.ly/2Chr31:13\">31:13</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13011046",
-          "start_ref_usfm": "1CH 11:46",
-          "end_ref": "13011046",
-          "end_ref_usfm": "1CH 11:46"
+          "start_ref": "13006035",
+          "start_ref_usfm": "1CH 6:35",
+          "end_ref": "13006035",
+          "end_ref_usfm": "1CH 6:35"
         },
         {
-          "start_ref": "13011047",
-          "start_ref_usfm": "1CH 11:47",
-          "end_ref": "13011047",
-          "end_ref_usfm": "1CH 11:47"
+          "start_ref": "14029012",
+          "start_ref_usfm": "2CH 29:12",
+          "end_ref": "14029012",
+          "end_ref_usfm": "2CH 29:12"
+        },
+        {
+          "start_ref": "14031013",
+          "start_ref_usfm": "2CH 31:13",
+          "end_ref": "14031013",
+          "end_ref_usfm": "2CH 31:13"
         }
       ],
       "resource": []

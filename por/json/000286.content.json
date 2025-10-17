@@ -1,98 +1,70 @@
 [
   {
-    "content_id": 815895,
-    "reference_id": 3264,
-    "title": "Bema",
+    "content_id": 759664,
+    "reference_id": 3255,
+    "title": "Belial, Beliar",
     "media_type": "Text",
-    "index_reference": "bema",
+    "index_reference": "belial, beliar",
     "language": "por",
-    "content": "<h1>BEMA</h1><p>Uma palavra grega para um assento de julgamento ou tribunal de um oficial romano. Esta palavra, que literalmente significa &quot;degrau&quot; ou &quot;passo&quot;, era comumente usada no primeiro século d.C. para se referir a uma plataforma elevada onde discursos políticos ou decisões judiciais eram proferidos. O bema era uma característica importante nas cidades antigas, muitas vezes localizado em áreas públicas significativas, como mercados.</p><p>No Novo Testamento, a palavra é utilizada várias vezes:</p><ul><li><p>Jesus foi interrogado diante do tribunal de Pilatos (<a href=\"https://ref.ly/Matt27:19\">Mt 27.19</a>; <a href=\"https://ref.ly/John19:13\">Jo 19.13</a>).</p></li><li><p>Herodes Agripa I dirigiu-se ao povo de Tiro e Sidom de um tribunal (<a href=\"https://ref.ly/Acts12:21\">At 12.21</a>).</p></li><li><p>O apóstolo Paulo foi levado perante o tribunal de Gálio em Corinto (<a href=\"https://ref.ly/Acts18:12-Acts18:17\">At 18.12–17</a>).</p></li><li><p>O apóstolo Paulo foi novamente levado perante o tribunal de Festo em Cesareia (<a href=\"https://ref.ly/Acts25:6,Acts25:10,Acts25:17\">At 25.6,10,17</a>).</p></li><li><p>Paulo usou a palavra para se referir ao tribunal de julgamento de Deus.</p><ul><li><p>Em <a href=\"https://ref.ly/Rom14:10\">Romanos 14.10,</a> ele advertiu que todos estarão diante do tribunal de Deus.</p></li><li><p>De acordo com <a href=\"https://ref.ly/2Cor5:10\">2 Coríntios 5.10</a>, Paulo descreveu o tribunal de julgamento de Cristo, onde o valor do trabalho de cada pessoa será avaliado (compare <a href=\"https://ref.ly/1Cor3:13-1Cor3:15\">1Co 3.13–15</a>).</p></li></ul></li></ul><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5663\" data-resourceType=\"TyndaleBibleDictionary\">Julgamento</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5662\" data-resourceType=\"TyndaleBibleDictionary\">Tribunal de julgamento</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5856\" data-resourceType=\"TyndaleBibleDictionary\">Julgamento final</span>.</p>",
+    "content": "<h1>BELIAL, BELIAR</h1><p>Um substantivo hebraico comum que significa &quot;baixeza&quot;, &quot;inutilidade&quot;, &quot;maldade&quot; ou &quot;ilegalidade&quot;. Belial, no entanto, é frequentemente traduzido como um nome. Assim, às vezes é traduzido como &quot;filhos de Belial&quot; (<a href=\"https://ref.ly/Judg19:22\">Jz 19.22</a>; <a href=\"https://ref.ly/1Sam2:12\">1Sm 2.12</a>), &quot;filha de Belial&quot; (<a href=\"https://ref.ly/1Sam1:16\">1Sm 1.16</a>), ou &quot;crianças de Belial&quot; (<a href=\"https://ref.ly/Deut13:13\">Dt 13.13</a>; <a href=\"https://ref.ly/Judg20:13\">Jz 20.13</a>). Traduções mais recentes geralmente traduzem como &quot;homens perversos&quot; ou &quot;imorais&quot; (<a href=\"https://ref.ly/Deut13:13\">Dt 13.13</a>; <a href=\"https://ref.ly/Judg19:22\">Jz 19.22</a>; <a href=\"https://ref.ly/Judg20:13\">20.13</a>; <a href=\"https://ref.ly/1Sam1:16\">1Sm 1.16</a>; <a href=\"https://ref.ly/1Sam2:12\">2.12</a>; <a href=\"https://ref.ly/1Sam10:27\">10.27</a>; <a href=\"https://ref.ly/Prov6:12\">Pv 6.12</a>). Uma exceção está em <a href=\"https://ref.ly/Nah1:15\">Naum 1.15</a>, que alguns estudiosos acham que deveria ser traduzido como &quot;Belial&quot;. Este é um nome pessoal do conquistador assírio que ameaçou o reino do sul de Judá.</p><p>Textos entre os dois Testamentos usam &quot;Belial&quot; como um nome e influenciaram como ele é usado no Novo Testamento. No Novo Testamento, o termo aparece uma vez como &quot;Belial&quot; (ou Beliar em <a href=\"https://ref.ly/2Cor6:15\">2Co 6.15</a>) e é identificado com Satanás, a representação do mal. Escritos não bíblicos do período do Novo Testamento frequentemente usavam Belial como um nome para Satanás ou o Anticristo.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40027019",
-          "start_ref_usfm": "MAT 27:19",
-          "end_ref": "40027019",
-          "end_ref_usfm": "MAT 27:19"
+          "start_ref": "05013013",
+          "start_ref_usfm": "DEU 13:13",
+          "end_ref": "05013013",
+          "end_ref_usfm": "DEU 13:13"
         },
         {
-          "start_ref": "43019013",
-          "start_ref_usfm": "JHN 19:13",
-          "end_ref": "43019013",
-          "end_ref_usfm": "JHN 19:13"
+          "start_ref": "07019022",
+          "start_ref_usfm": "JDG 19:22",
+          "end_ref": "07019022",
+          "end_ref_usfm": "JDG 19:22"
         },
         {
-          "start_ref": "44012021",
-          "start_ref_usfm": "ACT 12:21",
-          "end_ref": "44012021",
-          "end_ref_usfm": "ACT 12:21"
+          "start_ref": "07020013",
+          "start_ref_usfm": "JDG 20:13",
+          "end_ref": "07020013",
+          "end_ref_usfm": "JDG 20:13"
         },
         {
-          "start_ref": "44025006",
-          "start_ref_usfm": "ACT 25:6",
-          "end_ref": "44025006",
-          "end_ref_usfm": "ACT 25:6"
+          "start_ref": "09001016",
+          "start_ref_usfm": "1SA 1:16",
+          "end_ref": "09001016",
+          "end_ref_usfm": "1SA 1:16"
         },
         {
-          "start_ref": "44025010",
-          "start_ref_usfm": "ACT 25:10",
-          "end_ref": "44025010",
-          "end_ref_usfm": "ACT 25:10"
+          "start_ref": "09002012",
+          "start_ref_usfm": "1SA 2:12",
+          "end_ref": "09002012",
+          "end_ref_usfm": "1SA 2:12"
         },
         {
-          "start_ref": "44025017",
-          "start_ref_usfm": "ACT 25:17",
-          "end_ref": "44025017",
-          "end_ref_usfm": "ACT 25:17"
+          "start_ref": "09010027",
+          "start_ref_usfm": "1SA 10:27",
+          "end_ref": "09010027",
+          "end_ref_usfm": "1SA 10:27"
         },
         {
-          "start_ref": "45014010",
-          "start_ref_usfm": "ROM 14:10",
-          "end_ref": "45014010",
-          "end_ref_usfm": "ROM 14:10"
+          "start_ref": "20006012",
+          "start_ref_usfm": "PRO 6:12",
+          "end_ref": "20006012",
+          "end_ref_usfm": "PRO 6:12"
         },
         {
-          "start_ref": "47005010",
-          "start_ref_usfm": "2CO 5:10",
-          "end_ref": "47005010",
-          "end_ref_usfm": "2CO 5:10"
+          "start_ref": "34001015",
+          "start_ref_usfm": "NAM 1:15",
+          "end_ref": "34001015",
+          "end_ref_usfm": "NAM 1:15"
         },
         {
-          "start_ref": "44018012",
-          "start_ref_usfm": "ACT 18:12",
-          "end_ref": "44018017",
-          "end_ref_usfm": "ACT 18:17"
-        },
-        {
-          "start_ref": "46003013",
-          "start_ref_usfm": "1CO 3:13",
-          "end_ref": "46003015",
-          "end_ref_usfm": "1CO 3:15"
+          "start_ref": "47006015",
+          "start_ref_usfm": "2CO 6:15",
+          "end_ref": "47006015",
+          "end_ref_usfm": "2CO 6:15"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5662,
-          "content_id": 682991,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Trono do julgamento",
-          "language": "por"
-        },
-        {
-          "reference_id": 5663,
-          "content_id": 481551,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Julgamento",
-          "language": "por"
-        },
-        {
-          "reference_id": 5856,
-          "content_id": 816001,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Juízo final",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

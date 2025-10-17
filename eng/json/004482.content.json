@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 7743,
-    "reference_id": 6911,
-    "title": "Piram",
+    "content_id": 7742,
+    "reference_id": 6910,
+    "title": "Pipe",
     "media_type": "Text",
-    "index_reference": "piram",
+    "index_reference": "pipe",
     "language": "eng",
-    "content": "<h1>PIRAM</h1><p>King of Jarmuth, a Canaanite city located southwest of Jerusalem. After joining an alliance with four Amorite kings against Joshua, Piram—along with other kings—was defeated and killed (<a href=\"https://ref.ly/Josh10:3\">Jos 10:3</a>).</p>",
+    "content": "<h1>PIPE</h1><p>English word that translates a number of Hebrew and Greek words designating various tubular wind instruments. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6414\" data-resourceType=\"TyndaleBibleDictionary\">Musical Instruments</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "06010003",
-          "start_ref_usfm": "JOS 10:3",
-          "end_ref": "06010003",
-          "end_ref_usfm": "JOS 10:3"
+          "reference_id": 6414,
+          "content_id": 7246,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Musical Instruments",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

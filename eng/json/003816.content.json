@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 7076,
-    "reference_id": 6244,
-    "title": "Mesech",
+    "content_id": 7075,
+    "reference_id": 6243,
+    "title": "Meroz",
     "media_type": "Text",
-    "index_reference": "mesech",
+    "index_reference": "meroz",
     "language": "eng",
-    "content": "<h1>MESECH*</h1><p>KJV spelling of Meshech, Noah’s grandson, in <a href=\"https://ref.ly/Ps120:5\">Psalm 120:5</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6248\" data-resourceType=\"TyndaleBibleDictionary\">Meshech #1</span>.</p>",
+    "content": "<h1>MEROZ</h1><p>Town in northern Palestine whose inhabitants were cursed for not assisting Deborah and Barak in&nbsp;their war against Sisera and the Canaanites (<a href=\"https://ref.ly/Judg5:23\">Jgs 5:23</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19120005",
-          "start_ref_usfm": "PSA 120:5",
-          "end_ref": "19120005",
-          "end_ref_usfm": "PSA 120:5"
+          "start_ref": "07005023",
+          "start_ref_usfm": "JDG 5:23",
+          "end_ref": "07005023",
+          "end_ref_usfm": "JDG 5:23"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6248,
-          "content_id": 7080,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Meshech",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

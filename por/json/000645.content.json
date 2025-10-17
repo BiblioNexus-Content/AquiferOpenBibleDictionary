@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 759680,
-    "reference_id": 3478,
-    "title": "Emprestar, Empréstimo",
+    "content_id": 759734,
+    "reference_id": 4170,
+    "title": "Elidade",
     "media_type": "Text",
-    "index_reference": "emprestar, empréstimo",
+    "index_reference": "elidade",
     "language": "por",
-    "content": "<h1>EMPRESTAR, EMPRÉSTIMO</h1><p>Receber dinheiro ou bens que uma pessoa promete devolver. A Lei de Moisés regulamentava o empréstimo e os juros (<a href=\"https://ref.ly/Deut23:19-Deut23:20\">Dt 23.19–20</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3158\" data-resourceType=\"TyndaleBibleDictionary\">Banqueiro, Serviço bancário</span>.</p>",
+    "content": "<h1>ELIDADE</h1><p>Um homem da tribo de Benjamim. Ele era filho de Quislom. Elidade foi escolhido para trabalhar sob a liderança de Eleazar (o sumo sacerdote) e Josué. Sua tarefa era dividir a terra de Canaã a oeste do rio Jordão entre as dez tribos de Israel (<a href=\"https://ref.ly/Num34:21\">Nm 34.21</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05023019",
-          "start_ref_usfm": "DEU 23:19",
-          "end_ref": "05023020",
-          "end_ref_usfm": "DEU 23:20"
+          "start_ref": "04034021",
+          "start_ref_usfm": "NUM 34:21",
+          "end_ref": "04034021",
+          "end_ref_usfm": "NUM 34:21"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3158,
-          "content_id": 716926,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Banqueiro, Bancário",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

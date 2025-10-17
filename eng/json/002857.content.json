@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 6110,
-    "reference_id": 5278,
-    "title": "Ithnan",
+    "content_id": 6109,
+    "reference_id": 5277,
+    "title": "Ithmah",
     "media_type": "Text",
-    "index_reference": "ithnan",
+    "index_reference": "ithmah",
     "language": "eng",
-    "content": "<h1>ITHNAN</h1><p>Town in southern Judah (<a href=\"https://ref.ly/Josh15:23\">Jos 15:23</a>).</p>",
+    "content": "<h1>ITHMAH</h1><p>Warrior of Moabite origin and one of David’s mighty men (<a href=\"https://ref.ly/1Chr11:46\">1&nbsp;Chr 11:46</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015023",
-          "start_ref_usfm": "JOS 15:23",
-          "end_ref": "06015023",
-          "end_ref_usfm": "JOS 15:23"
+          "start_ref": "13011046",
+          "start_ref_usfm": "1CH 11:46",
+          "end_ref": "13011046",
+          "end_ref_usfm": "1CH 11:46"
         }
       ],
       "resource": []

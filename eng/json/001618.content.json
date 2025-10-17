@@ -1,23 +1,22 @@
 [
   {
-    "content_id": 4869,
-    "reference_id": 4037,
-    "title": "Division of the Land",
+    "content_id": 4868,
+    "reference_id": 4036,
+    "title": "Diviners’ Oak",
     "media_type": "Text",
-    "index_reference": "division of the land",
+    "index_reference": "diviners’ oak",
     "language": "eng",
-    "content": "<h1>DIVISION OF THE LAND</h1><p>Assignment of portions of the Promised Land to the 12 tribes of Israel following the Conquest. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3803\" data-resourceType=\"TyndaleBibleDictionary\">Conquest and Allotment of the Land</span>.</p>",
+    "content": "<h1>DIVINERS’ OAK</h1><p>Place apparently near Shechem (<a href=\"https://ref.ly/Judg9:37\">Jgs 9:37</a>); mistakenly called “the plain of Meonenim” in the kjv. The Diviners’ Oak may have been associated with those who practiced divination, hence the name.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 3803,
-          "content_id": 4635,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Conquest and Allotment of the Land",
-          "language": "eng"
+          "start_ref": "07009037",
+          "start_ref_usfm": "JDG 9:37",
+          "end_ref": "07009037",
+          "end_ref_usfm": "JDG 9:37"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

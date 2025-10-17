@@ -1,27 +1,33 @@
 [
   {
-    "content_id": 7891,
-    "reference_id": 7059,
-    "title": "Raamses",
+    "content_id": 7890,
+    "reference_id": 7058,
+    "title": "Raamiah",
     "media_type": "Text",
-    "index_reference": "raamses",
+    "index_reference": "raamiah",
     "language": "eng",
-    "content": "<h1>RAAMSES*</h1><p>Alternate spelling of Ramses and Rameses. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7105\" data-resourceType=\"TyndaleBibleDictionary\">Ramses (Person)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7098\" data-resourceType=\"TyndaleBibleDictionary\">Rameses (Place)</span>.</p>",
+    "content": "<h1>RAAMIAH*</h1><p>One who returned with Zerubbabel to Palestine following the Babylonian captivity (<a href=\"https://ref.ly/Neh7:7\">Neh 7:7</a>, nlt mg). Raamiah is alternately spelled Reelaiah in <a href=\"https://ref.ly/Ezra2:2\">Ezra 2:2</a>. The correct form of the word is uncertain. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7143\" data-resourceType=\"TyndaleBibleDictionary\">Reelaiah</span>.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 7098,
-          "content_id": 7930,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Rameses (Place)",
-          "language": "eng"
+          "start_ref": "15002002",
+          "start_ref_usfm": "EZR 2:2",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
         },
         {
-          "reference_id": 7105,
-          "content_id": 7937,
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 7143,
+          "content_id": 7975,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ramses (Person)",
+          "label": "Reelaiah",
           "language": "eng"
         }
       ]

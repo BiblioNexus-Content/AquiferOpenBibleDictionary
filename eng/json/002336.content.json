@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 5590,
-    "reference_id": 4758,
-    "title": "Haggiah",
+    "content_id": 5593,
+    "reference_id": 4761,
+    "title": "Haggi",
     "media_type": "Text",
-    "index_reference": "haggiah",
+    "index_reference": "haggi",
     "language": "eng",
-    "content": "<h1>HAGGIAH</h1><p>Merarite Levite, Shimea’s son and the father of Asaiah (<a href=\"https://ref.ly/1Chr6:30\">1&nbsp;Chr 6:30</a>).</p>",
+    "content": "<h1>HAGGI</h1><p>Gad’s son and founder of the family of Haggites (<a href=\"https://ref.ly/Gen46:16\">Gn 46:16</a>; <a href=\"https://ref.ly/Num26:15\">Nm 26:15</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13006030",
-          "start_ref_usfm": "1CH 6:30",
-          "end_ref": "13006030",
-          "end_ref_usfm": "1CH 6:30"
+          "start_ref": "01046016",
+          "start_ref_usfm": "GEN 46:16",
+          "end_ref": "01046016",
+          "end_ref_usfm": "GEN 46:16"
+        },
+        {
+          "start_ref": "04026015",
+          "start_ref_usfm": "NUM 26:15",
+          "end_ref": "04026015",
+          "end_ref_usfm": "NUM 26:15"
         }
       ],
       "resource": []

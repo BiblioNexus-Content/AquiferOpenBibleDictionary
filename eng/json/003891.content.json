@@ -1,36 +1,40 @@
 [
   {
-    "content_id": 7151,
-    "reference_id": 6319,
-    "title": "Mint",
+    "content_id": 7150,
+    "reference_id": 6318,
+    "title": "Minstrel",
     "media_type": "Text",
-    "index_reference": "mint",
+    "index_reference": "minstrel",
     "language": "eng",
-    "content": "<h1>MINT</h1><p>Mint refers to various plants with fragrant leaves that people use for flavoring food. Many types of mint grow in Israel and the surrounding areas, but the horse mint (<em>Mentha longifolia</em>) is likely the one mentioned in <a href=\"https://ref.ly/Matt23:23\">Matthew 23:23</a> and <a href=\"https://ref.ly/Luke11:42\">Luke 11:42</a>.</p><p>The ancient Hebrews, Greeks, and Romans used mints for several purposes. They added it as flavoring to foods, used it in medicine to relieve gas and stomach discomfort, and included it as a seasoning in cooking.</p>",
+    "content": "<h1>MINSTREL</h1><p>An old term for a musician (<a href=\"https://ref.ly/2Kgs3:15\">2&nbsp;Kings 3:15</a>; <a href=\"https://ref.ly/Ps68:25\">Psalm 68:25</a>; <a href=\"https://ref.ly/Matt9:23\">Matthew 9:23</a>; <a href=\"https://ref.ly/Rev18:22\">Revelation 18:22</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40023023",
-          "start_ref_usfm": "MAT 23:23",
-          "end_ref": "40023023",
-          "end_ref_usfm": "MAT 23:23"
+          "start_ref": "12003015",
+          "start_ref_usfm": "2KI 3:15",
+          "end_ref": "12003015",
+          "end_ref_usfm": "2KI 3:15"
         },
         {
-          "start_ref": "42011042",
-          "start_ref_usfm": "LUK 11:42",
-          "end_ref": "42011042",
-          "end_ref_usfm": "LUK 11:42"
+          "start_ref": "19068025",
+          "start_ref_usfm": "PSA 68:25",
+          "end_ref": "19068025",
+          "end_ref_usfm": "PSA 68:25"
+        },
+        {
+          "start_ref": "40009023",
+          "start_ref_usfm": "MAT 9:23",
+          "end_ref": "40009023",
+          "end_ref_usfm": "MAT 9:23"
+        },
+        {
+          "start_ref": "66018022",
+          "start_ref_usfm": "REV 18:22",
+          "end_ref": "66018022",
+          "end_ref_usfm": "REV 18:22"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

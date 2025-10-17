@@ -1,28 +1,36 @@
 [
   {
-    "content_id": 5616,
-    "reference_id": 4784,
-    "title": "Hamath-Zobah",
+    "content_id": 5615,
+    "reference_id": 4783,
+    "title": "Hamathite",
     "media_type": "Text",
-    "index_reference": "hamath-zobah",
+    "index_reference": "hamathite",
     "language": "eng",
-    "content": "<h1>HAMATH-ZOBAH</h1><p>City captured by King Solomon of Israel (<a href=\"https://ref.ly/2Chr8:3-2Chr8:4\">2&nbsp;Chr 8:3–4</a>). Its identity is uncertain. It occurs only once in the Bible and is not mentioned in any of the cuneiform inscriptions from that period. Some scholars have suggested that there were two Hamaths and that “Zobah” was added to distinguish it from the better-known city (cf. <a href=\"https://ref.ly/Ezek47:17\">Ez 47:17</a>). The city is mentioned with Hamath and Tadmor and was perhaps located in northeastern Syria.</p>",
+    "content": "<h1>HAMATHITE</h1><p>Resident of Hamath (<a href=\"https://ref.ly/Gen10:18\">Gn 10:18</a>; <a href=\"https://ref.ly/1Chr1:16\">1&nbsp;Chr 1:16</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4785\" data-resourceType=\"TyndaleBibleDictionary\">Hamath #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "26047017",
-          "start_ref_usfm": "EZK 47:17",
-          "end_ref": "26047017",
-          "end_ref_usfm": "EZK 47:17"
+          "start_ref": "01010018",
+          "start_ref_usfm": "GEN 10:18",
+          "end_ref": "01010018",
+          "end_ref_usfm": "GEN 10:18"
         },
         {
-          "start_ref": "14008003",
-          "start_ref_usfm": "2CH 8:3",
-          "end_ref": "14008004",
-          "end_ref_usfm": "2CH 8:4"
+          "start_ref": "13001016",
+          "start_ref_usfm": "1CH 1:16",
+          "end_ref": "13001016",
+          "end_ref_usfm": "1CH 1:16"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4785,
+          "content_id": 5617,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Hamath",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

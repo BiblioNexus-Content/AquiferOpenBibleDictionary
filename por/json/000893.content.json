@@ -1,58 +1,79 @@
 [
   {
-    "content_id": 717069,
-    "reference_id": 4950,
-    "title": "Heliópolis",
+    "content_id": 759788,
+    "reference_id": 4782,
+    "title": "Hamate*, Entrada de",
     "media_type": "Text",
-    "index_reference": "heliópolis",
+    "index_reference": "hamate*, entrada de",
     "language": "por",
-    "content": "<h1>HELIÓPOLIS</h1><p>Uma antiga cidade egípcia conhecida por adorar o deus do sol Rá. Seu nome significa &quot;cidade do sol&quot;. Estava localizada na área do delta do Rio Nilo no Baixo Egito, perto da moderna Cairo. Heliópolis tornou-se importante por volta de 2400 a.C., quando Atum-Rá se tornou o deus principal. Muitos faraós melhoraram os templos da cidade e construíram monumentos, especialmente durante o período do Novo Reino (1570–1150 a.C.).</p><p>Os templos em Heliópolis mantinham os registros reais, por isso os sacerdotes se tornaram os historiadores oficiais do Egito. Heródoto, um historiador grego do século V a.C., afirmou que os sacerdotes em Heliópolis eram famosos por conhecerem a história egípcia. A cidade também possuía escolas para sacerdotes e uma escola de medicina.</p><p>Havia outros centros de adoração ao sol no Egito, mas Heliópolis permaneceu popular por cerca de 2.000 anos. Embora não fosse muito importante politicamente, teve uma grande influência na religião. O templo de Rá em Heliópolis era o segundo maior edifício religioso do Egito, depois do templo de Amon em Tebas.</p><p>No Antigo Testamento, Heliópolis é chamada de Om. Quando José trabalhou para o governo egípcio, ele se casou com Asenate, cujo pai Potífera era sacerdote de Om (<a href=\"https://ref.ly/Gen41:45,Gen41:50\">Gn 41.45,50</a>; <a href=\"https://ref.ly/Gen46:20\">46.20</a>). O profeta Ezequiel advertiu que o rei babilônico Nabucodonosor destruiria cidades egípcias, incluindo Heliópolis (<a href=\"https://ref.ly/Ezek30:17\">Ez 30.17</a>).</p><p>No livro de <a href=\"https://ref.ly/Amos1:5\">Amós 1.5</a>, a Bíblia em inglês Revised Standard Version (RSV) oferece uma maneira diferente de ler &quot;Vale de Áven&quot;. Na margem, sugere &quot;Om&quot; como outra possível tradução. A mesma mudança é vista em <a href=\"https://ref.ly/Ezek30:17\">Ez 30.17</a>, onde a New Living Translation (NLT) usa &quot;Heliópolis&quot; no lugar.</p><p>Jeremias também disse que os pilares sagrados de Heliópolis seriam destruídos (<a href=\"https://ref.ly/Jer43:13\">Jr 43.13</a>). <a href=\"https://ref.ly/Isa19:18\">Isaías 19.18</a> pode também se referir a Heliópolis.</p><p>Heliópolis perdeu importância nos séculos IV e III a.C., em parte devido à nova biblioteca em Alexandria. Alexandria tornou-se o principal centro de aprendizado do Egito.</p><p>Hoje, não resta muito da antiga cidade do sol, mas ainda se pode ver um obelisco construído por Sesóstris I no local de Heliópolis. Sesóstris I governou o Egito de 1971 a 1928 a.C. Vários obeliscos de Heliópolis, construídos por Tutmés III, foram movidos para diferentes partes do mundo nos tempos modernos. Tutmés III governou o Egito de 1490 a 1436 a.C.</p>",
+    "content": "<h1>HAMATE*, Entrada de</h1><p>Local de identificação incerta, marcando a fronteira norte do território dos Cananeus prometido a Israel por Deus (<a href=\"https://ref.ly/Num34:8\">Nm 34.8</a>), mas somente alcançado na época da monarquia (<a href=\"https://ref.ly/1Kgs8:65\">1Rs 8.65</a>; <a href=\"https://ref.ly/1Chr13:5\">1Cr 13.5</a>; <a href=\"https://ref.ly/2Chr7:8\">2Cr 7.8</a>).</p><p>Após a morte de Salomão, o reino foi dividido e a fronteira norte diminuiu. Somente durante o reinado de Jeroboão II, filho de Joás (793–753 a.C.), rei do reino do norte (chamado Israel), as fronteiras do norte se estenderam novamente até a entrada de Hamate (<a href=\"https://ref.ly/2Kgs14:23-2Kgs14:25\">2Rs 14.23–25</a>).</p><p>Tanto Amós quanto Ezequiel referem-se à entrada de Hamate em suas profecias sobre Israel (<a href=\"https://ref.ly/Amos6:14\">Am 6.14</a>; <a href=\"https://ref.ly/Ezek47:15-Ezek47:20\">Ez 47.15–20</a>; <a href=\"https://ref.ly/Ezek48:1\">48.1</a>). Algumas autoridades consideram o lugar como a antiga cidade de Lebo-Hamate, identificada com a moderna Lebweh. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4785\" data-resourceType=\"TyndaleBibleDictionary\">Hamate #1</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5877\" data-resourceType=\"TyndaleBibleDictionary\">Lebo-Hamate</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01041045",
-          "start_ref_usfm": "GEN 41:45",
-          "end_ref": "01041045",
-          "end_ref_usfm": "GEN 41:45"
+          "start_ref": "04034008",
+          "start_ref_usfm": "NUM 34:8",
+          "end_ref": "04034008",
+          "end_ref_usfm": "NUM 34:8"
         },
         {
-          "start_ref": "01041050",
-          "start_ref_usfm": "GEN 41:50",
-          "end_ref": "01041050",
-          "end_ref_usfm": "GEN 41:50"
+          "start_ref": "11008065",
+          "start_ref_usfm": "1KI 8:65",
+          "end_ref": "11008065",
+          "end_ref_usfm": "1KI 8:65"
         },
         {
-          "start_ref": "01046020",
-          "start_ref_usfm": "GEN 46:20",
-          "end_ref": "01046020",
-          "end_ref_usfm": "GEN 46:20"
+          "start_ref": "13013005",
+          "start_ref_usfm": "1CH 13:5",
+          "end_ref": "13013005",
+          "end_ref_usfm": "1CH 13:5"
         },
         {
-          "start_ref": "23019018",
-          "start_ref_usfm": "ISA 19:18",
-          "end_ref": "23019018",
-          "end_ref_usfm": "ISA 19:18"
+          "start_ref": "14007008",
+          "start_ref_usfm": "2CH 7:8",
+          "end_ref": "14007008",
+          "end_ref_usfm": "2CH 7:8"
         },
         {
-          "start_ref": "24043013",
-          "start_ref_usfm": "JER 43:13",
-          "end_ref": "24043013",
-          "end_ref_usfm": "JER 43:13"
+          "start_ref": "26048001",
+          "start_ref_usfm": "EZK 48:1",
+          "end_ref": "26048001",
+          "end_ref_usfm": "EZK 48:1"
         },
         {
-          "start_ref": "26030017",
-          "start_ref_usfm": "EZK 30:17",
-          "end_ref": "26030017",
-          "end_ref_usfm": "EZK 30:17"
+          "start_ref": "30006014",
+          "start_ref_usfm": "AMO 6:14",
+          "end_ref": "30006014",
+          "end_ref_usfm": "AMO 6:14"
         },
         {
-          "start_ref": "30001005",
-          "start_ref_usfm": "AMO 1:5",
-          "end_ref": "30001005",
-          "end_ref_usfm": "AMO 1:5"
+          "start_ref": "12014023",
+          "start_ref_usfm": "2KI 14:23",
+          "end_ref": "12014025",
+          "end_ref_usfm": "2KI 14:25"
+        },
+        {
+          "start_ref": "26047015",
+          "start_ref_usfm": "EZK 47:15",
+          "end_ref": "26047020",
+          "end_ref_usfm": "EZK 47:20"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4785,
+          "content_id": 658650,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Hamate",
+          "language": "por"
+        },
+        {
+          "reference_id": 5877,
+          "content_id": 759872,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Lebo-Hamate",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

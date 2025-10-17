@@ -1,28 +1,23 @@
 [
   {
-    "content_id": 5062,
-    "reference_id": 4230,
-    "title": "Elzabad",
+    "content_id": 5061,
+    "reference_id": 4229,
+    "title": "Elyon",
     "media_type": "Text",
-    "index_reference": "elzabad",
+    "index_reference": "elyon",
     "language": "eng",
-    "content": "<h1>ELZABAD</h1><p>1. Military leader from Gad’s tribe who joined David at Ziklag (<a href=\"https://ref.ly/1Chr12:12\">1&nbsp;Chr 12:12</a>).</p><p>2. Korahite Levite from Obed-edom’s family, and a gatekeeper of the sanctuary (<a href=\"https://ref.ly/1Chr26:7\">1&nbsp;Chr 26:7</a>).</p>",
+    "content": "<h1>ELYON*</h1><p>Hebrew name for God meaning “Most High.” <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4667\" data-resourceType=\"TyndaleBibleDictionary\">God, Names of</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "13012012",
-          "start_ref_usfm": "1CH 12:12",
-          "end_ref": "13012012",
-          "end_ref_usfm": "1CH 12:12"
-        },
-        {
-          "start_ref": "13026007",
-          "start_ref_usfm": "1CH 26:7",
-          "end_ref": "13026007",
-          "end_ref_usfm": "1CH 26:7"
+          "reference_id": 4667,
+          "content_id": 5499,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "God, Names of",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

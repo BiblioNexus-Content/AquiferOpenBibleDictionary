@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 7225,
-    "reference_id": 6393,
-    "title": "Mount Hor",
+    "content_id": 7223,
+    "reference_id": 6391,
+    "title": "Mount Hermon",
     "media_type": "Text",
-    "index_reference": "mount hor",
+    "index_reference": "mount hermon",
     "language": "eng",
-    "content": "<h1>MOUNT HOR</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5074\" data-resourceType=\"TyndaleBibleDictionary\">Hor, Mount</span>.</p>",
+    "content": "<h1>MOUNT HERMON</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4988\" data-resourceType=\"TyndaleBibleDictionary\">Hermon, Mount</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5074,
-          "content_id": 5906,
+          "reference_id": 4988,
+          "content_id": 5820,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Hor, Mount",
+          "label": "Hermon, Mount",
           "language": "eng"
         }
       ]

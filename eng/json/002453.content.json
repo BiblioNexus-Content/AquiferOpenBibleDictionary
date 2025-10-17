@@ -1,25 +1,43 @@
 [
   {
-    "content_id": 5708,
-    "reference_id": 4876,
-    "title": "Hassophereth",
+    "content_id": 5707,
+    "reference_id": 4875,
+    "title": "Hasshub",
     "media_type": "Text",
-    "index_reference": "hassophereth",
+    "index_reference": "hasshub",
     "language": "eng",
-    "content": "<h1>HASSOPHERETH</h1><p>The ancestor of a family of temple assistants who returned to Jerusalem with Zerubbabel after the exile in Babylon (<a href=\"https://ref.ly/Ezra2:55\">Ezra 2:55</a>). Hassophereth may be the same person called Sophereth in <a href=\"https://ref.ly/Neh7:57\">Nehemiah 7:57</a>.</p>",
+    "content": "<h1>HASSHUB</h1><p>1. Merari clan leader of Levi’s tribe. Hasshub was the father of Shemaiah, a settler in Jerusalem after the return from captivity (<a href=\"https://ref.ly/1Chr9:14\">1&nbsp;Chr 9:14</a>; <a href=\"https://ref.ly/Neh11:15\">Neh 11:15</a>).</p><p>2. Pahath-moab’s son, who repaired a section of the Jerusalem wall and the Tower of the Ovens during the time of Nehemiah (<a href=\"https://ref.ly/Neh3:11\">Neh 3:11</a>).</p><p>3. Another Hasshub who repaired the Jerusalem wall opposite his house (<a href=\"https://ref.ly/Neh3:23\">Neh 3:23</a>).</p><p>4. Leader who signed Ezra’s covenant of faithfulness to God with Nehemiah and others after the exile (<a href=\"https://ref.ly/Neh10:23\">Neh 10:23</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002055",
-          "start_ref_usfm": "EZR 2:55",
-          "end_ref": "15002055",
-          "end_ref_usfm": "EZR 2:55"
+          "start_ref": "13009014",
+          "start_ref_usfm": "1CH 9:14",
+          "end_ref": "13009014",
+          "end_ref_usfm": "1CH 9:14"
         },
         {
-          "start_ref": "16007057",
-          "start_ref_usfm": "NEH 7:57",
-          "end_ref": "16007057",
-          "end_ref_usfm": "NEH 7:57"
+          "start_ref": "16003011",
+          "start_ref_usfm": "NEH 3:11",
+          "end_ref": "16003011",
+          "end_ref_usfm": "NEH 3:11"
+        },
+        {
+          "start_ref": "16003023",
+          "start_ref_usfm": "NEH 3:23",
+          "end_ref": "16003023",
+          "end_ref_usfm": "NEH 3:23"
+        },
+        {
+          "start_ref": "16010023",
+          "start_ref_usfm": "NEH 10:23",
+          "end_ref": "16010023",
+          "end_ref_usfm": "NEH 10:23"
+        },
+        {
+          "start_ref": "16011015",
+          "start_ref_usfm": "NEH 11:15",
+          "end_ref": "16011015",
+          "end_ref_usfm": "NEH 11:15"
         }
       ],
       "resource": []

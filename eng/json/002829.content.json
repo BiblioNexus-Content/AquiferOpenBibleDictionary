@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 6081,
-    "reference_id": 5249,
-    "title": "Ishtob",
+    "content_id": 6080,
+    "reference_id": 5248,
+    "title": "Ishtar",
     "media_type": "Text",
-    "index_reference": "ishtob",
+    "index_reference": "ishtar",
     "language": "eng",
-    "content": "<h1>ISHTOB</h1><p>The King James Version translation for “men of Tob” in <a href=\"https://ref.ly/2Sam10:6-2Sam10:8\">2&nbsp;Samuel 10:6–8</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8050\" data-resourceType=\"TyndaleBibleDictionary\">Tob</span>.</p>",
+    "content": "<h1>ISHTAR</h1><p>A fertility goddess (a female deity believed to help plants grow and animals reproduce) worshiped in ancient Babylon. The Babylonians wrote stories about her, including the famous Gilgamesh Epic (an ancient poem that tells the adventures of a legendary king named Gilgamesh).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4638\" data-resourceType=\"TyndaleBibleDictionary\">Gilgamesh Epic</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "10010006",
-          "start_ref_usfm": "2SA 10:6",
-          "end_ref": "10010008",
-          "end_ref_usfm": "2SA 10:8"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 8050,
-          "content_id": 8882,
+          "reference_id": 4638,
+          "content_id": 5470,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Tob",
+          "label": "Gilgamesh Epic",
           "language": "eng"
         }
       ]

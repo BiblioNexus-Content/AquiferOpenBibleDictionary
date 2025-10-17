@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 5589,
-    "reference_id": 4757,
-    "title": "Haggeri",
+    "content_id": 5588,
+    "reference_id": 4756,
+    "title": "Haggedolim",
     "media_type": "Text",
-    "index_reference": "haggeri",
+    "index_reference": "haggedolim",
     "language": "eng",
-    "content": "<h1>HAGGERI*</h1><p>KJV rendering of Hagri, Mibhar’s father, in <a href=\"https://ref.ly/1Chr11:38\">1&nbsp;Chronicles 11:38</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4763\" data-resourceType=\"TyndaleBibleDictionary\">Hagri</span>.</p>",
+    "content": "<h1>HAGGEDOLIM</h1><p>Father of Zabdiel, overseer of 128 “mighty men of valor” (rsv) who lived in Jerusalem in Nehemiah’s day (<a href=\"https://ref.ly/Neh11:14\">Neh 11:14</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13011038",
-          "start_ref_usfm": "1CH 11:38",
-          "end_ref": "13011038",
-          "end_ref_usfm": "1CH 11:38"
+          "start_ref": "16011014",
+          "start_ref_usfm": "NEH 11:14",
+          "end_ref": "16011014",
+          "end_ref_usfm": "NEH 11:14"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4763,
-          "content_id": 5595,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Hagri",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,12 +1,12 @@
 [
   {
-    "content_id": 7353,
-    "reference_id": 6521,
-    "title": "Nemuelite",
+    "content_id": 7354,
+    "reference_id": 6522,
+    "title": "Nemuel",
     "media_type": "Text",
-    "index_reference": "nemuelite",
+    "index_reference": "nemuel",
     "language": "eng",
-    "content": "<h1>NEMUELITE</h1><p>Member of Nemuel’s family from Simeon’s tribe (<a href=\"https://ref.ly/Num26:12\">Nm 26:12</a>; alternately called Jemuel in <a href=\"https://ref.ly/Gen46:10\">Gn 46:10</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5473\" data-resourceType=\"TyndaleBibleDictionary\">Jemuel</span>.</p>",
+    "content": "<h1>NEMUEL</h1><p>1. Reubenite and the son of Eliab (<a href=\"https://ref.ly/Num26:9\">Nm 26:9</a>).</p><p>2. One of Simeon’s sons (<a href=\"https://ref.ly/Num26:12\">Nm 26:12</a>; <a href=\"https://ref.ly/1Chr4:24\">1&nbsp;Chr 4:24</a>), also called Jemuel (<a href=\"https://ref.ly/Gen46:10\">Gn 46:10</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5473\" data-resourceType=\"TyndaleBibleDictionary\">Jemuel</span>.</p>",
     "associations": {
       "passage": [
         {
@@ -16,10 +16,22 @@
           "end_ref_usfm": "GEN 46:10"
         },
         {
+          "start_ref": "04026009",
+          "start_ref_usfm": "NUM 26:9",
+          "end_ref": "04026009",
+          "end_ref_usfm": "NUM 26:9"
+        },
+        {
           "start_ref": "04026012",
           "start_ref_usfm": "NUM 26:12",
           "end_ref": "04026012",
           "end_ref_usfm": "NUM 26:12"
+        },
+        {
+          "start_ref": "13004024",
+          "start_ref_usfm": "1CH 4:24",
+          "end_ref": "13004024",
+          "end_ref_usfm": "1CH 4:24"
         }
       ],
       "resource": [

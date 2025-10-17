@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 7349,
-    "reference_id": 6517,
-    "title": "Neiel",
+    "content_id": 7347,
+    "reference_id": 6515,
+    "title": "Nehushtan",
     "media_type": "Text",
-    "index_reference": "neiel",
+    "index_reference": "nehushtan",
     "language": "eng",
-    "content": "<h1>NEIEL</h1><p>Border town in Asher’s territory (<a href=\"https://ref.ly/Josh19:27\">Jos 19:27</a>). Its site is perhaps identifiable with modern Khirbet Ya’nin, on the east end of the plain of Acco.</p>",
+    "content": "<h1>NEHUSHTAN</h1><p>Name given to the bronze serpent that Moses made during the wilderness wanderings. At the time of King Hezekiah’s reforms, it was destroyed (<a href=\"https://ref.ly/2Kgs18:4\">2&nbsp;Kgs 18:4</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3512\" data-resourceType=\"TyndaleBibleDictionary\">Bronze Serpent, Bronze Snake</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06019027",
-          "start_ref_usfm": "JOS 19:27",
-          "end_ref": "06019027",
-          "end_ref_usfm": "JOS 19:27"
+          "start_ref": "12018004",
+          "start_ref_usfm": "2KI 18:4",
+          "end_ref": "12018004",
+          "end_ref_usfm": "2KI 18:4"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3512,
+          "content_id": 4344,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Bronze Snake, Bronze Serpent",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

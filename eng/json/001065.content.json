@@ -1,30 +1,15 @@
 [
   {
-    "content_id": 4321,
-    "reference_id": 3489,
-    "title": "Bozez",
+    "content_id": 715985,
+    "reference_id": 209530,
+    "title": "Boxthorn",
     "media_type": "Text",
-    "index_reference": "bozez",
+    "index_reference": "boxthorn",
     "language": "eng",
-    "content": "<h1>BOZEZ</h1><p>One of a pair of distinctive rocks (Seneh was the other) flanking the road between Michmash and Gaba. Jonathan and his armor bearer scaled one of these crags to take on a Philistine outpost (<a href=\"https://ref.ly/1Sam14:4\">1&nbsp;Sm 14:4</a>). The two rocks are still visible in the modern Wadi Suweinet. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7390\" data-resourceType=\"TyndaleBibleDictionary\">Seneh</span>.</p>",
+    "content": "<p>A boxthorn is a thorny shrub that grows in dry areas. Some species of boxthorn have purplish flowers and brightly colored berries. </p><p>The thornbush in <a href=\"https://ref.ly/Judg9:14-Judg9:15\">Judges 9:14–15</a> is thought to be to the European boxthorn (<em>Lycium europaeum</em>), also called desert-thorn. It is a thorny shrub that grows 1.8 to 3.7 meters (6 to 12 feet) tall. The plant has clusters of leaves and small violet flowers. These flowers eventually produce small, round red berries. The European boxthorn is native to Israel and the surrounding areas. It grows commonly throughout the region, especially in the area from Lebanon to the Dead Sea.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "09014004",
-          "start_ref_usfm": "1SA 14:4",
-          "end_ref": "09014004",
-          "end_ref_usfm": "1SA 14:4"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 7390,
-          "content_id": 8222,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Seneh",
-          "language": "eng"
-        }
-      ]
+      "passage": [],
+      "resource": []
     }
   }
 ]

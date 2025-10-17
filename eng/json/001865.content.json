@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5121,
-    "reference_id": 4289,
-    "title": "Ephrath (Person)",
+    "content_id": 5119,
+    "reference_id": 4287,
+    "title": "Ephrain",
     "media_type": "Text",
-    "index_reference": "ephrath (person)",
+    "index_reference": "ephrain",
     "language": "eng",
-    "content": "<h1>EPHRATH (Person)</h1><p>Mother of Hur and Caleb’s second wife (<a href=\"https://ref.ly/1Chr2:19,1Chr2:50\">1&nbsp;Chr 2:19, 50</a>).</p>",
+    "content": "<h1>EPHRAIN*</h1><p>KJV form of Ephron, a town near Bethel, in <a href=\"https://ref.ly/2Chr13:19\">2&nbsp;Chronicles 13:19</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4292\" data-resourceType=\"TyndaleBibleDictionary\">Ephron (Place) #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13002019",
-          "start_ref_usfm": "1CH 2:19",
-          "end_ref": "13002019",
-          "end_ref_usfm": "1CH 2:19"
-        },
-        {
-          "start_ref": "13002050",
-          "start_ref_usfm": "1CH 2:50",
-          "end_ref": "13002050",
-          "end_ref_usfm": "1CH 2:50"
+          "start_ref": "14013019",
+          "start_ref_usfm": "2CH 13:19",
+          "end_ref": "14013019",
+          "end_ref_usfm": "2CH 13:19"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4292,
+          "content_id": 5124,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Ephron (Place)",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

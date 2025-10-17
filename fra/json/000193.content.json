@@ -1,97 +1,46 @@
 [
   {
-    "content_id": 800699,
-    "reference_id": 4798,
-    "title": "Cham (Personne)",
+    "content_id": 811799,
+    "reference_id": 3406,
+    "title": "Bildad",
     "media_type": "Text",
-    "index_reference": "cham (personne)",
+    "index_reference": "bildad",
     "language": "fra",
-    "content": "<h1>CHAM (Personne)</h1><p>Deuxième fils de Noé (<a href=\"https://ref.ly/Gen5:32\">Gn 5.32</a> ; <a href=\"https://ref.ly/Gen6:10\">6.10</a> ; <a href=\"https://ref.ly/Gen7:13\">7.13</a> ; <a href=\"https://ref.ly/Gen9:18,Gen9:22\">9.18, 22</a> ; <a href=\"https://ref.ly/Gen10:1,Gen10:6,Gen10:20\">10.1, 6, 20</a>). Cham avait quatre fils dont les noms étaient Cusch, Mitsraïm (hébreu pour Égypte), Puth et Canaan (<a href=\"https://ref.ly/Gen10:6\">Gn 10.6</a> ; <a href=\"https://ref.ly/1Chr1:8\">1Ch 1.8</a>). Cham est donc considéré comme l&apos;ancêtre des Égyptiens (bien qu&apos;une race mixte soit apparemment apparue plus tard), ainsi que des peuples en Afrique, en Arabie et à Canaan.</p><p>Après le Déluge, Noé commencera à cultiver des vignes, et à une occasion, il exposera sa nudité, sous le coup de l&apos;ivresse (<a href=\"https://ref.ly/Gen9:20-Gen9:24\">Gn 9.20–24</a>). Lorsque Cham voit son père allongé nu et qu&apos;il raconte l&apos;incident à Sem et Japhet, ceux-ci couvrent Noé discrètement. Lorsque Noé se réveille et apprend ce que « son plus jeune fils » (vu par certains comme Cham) avait fait, il maudit le fils de Cham, Canaan, disant que ses frères (Cusch, Mitsraïm et Puth) ainsi que Sem et Japhet régneraient sur lui. Mais si Cham est celui mentionné dans <a href=\"https://ref.ly/Gen9:24\">9.24</a> comme ayant offensé Noé, pourquoi la malédiction devrait-elle tomber sur son fils Canaan ? La réponse la plus probable est que Cham n&apos;est pas celui dont il est question au verset <a href=\"https://ref.ly/Gen9:24\">24</a>. L&apos;expression est « son fils cadet », alors que Cham est à plusieurs reprises vu comme le deuxième des frères, non le plus jeune (<a href=\"https://ref.ly/Gen5:32\">5.32</a> ; <a href=\"https://ref.ly/Gen6:10\">6.10</a> ; <a href=\"https://ref.ly/Gen7:13\">7.13</a> ; <a href=\"https://ref.ly/Gen9:18\">9.18</a> ; <a href=\"https://ref.ly/Gen10:1\">10.1</a>), l&apos;ordre explicite des fils indiquant l&apos;âge. Au lieu de cela, « son plus jeune fils » se réfère à Canaan, et à quelque acte vil non enregistré, sur qui la malédiction tombe. L&apos;emploi de « fils » pour désigner le « petit-fils » est un usage sémitique courant, et il semble avoir été utilisé ici de cette manière puisque Canaan est le « plus jeune » des (petits-)fils. La malédiction, donc, comme le texte le dit clairement, repose sur Canaan plutôt que Cham. Canaan (et sa postérité) doit être soumis à Japhet et Sem avec les Cananéens, et ceux-ci disparaitront à l&apos;époque du Nouveau Testament.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6482\" data-resourceType=\"TyndaleBibleDictionary\">Nations</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"6581\" data-resourceType=\"TyndaleBibleDictionary\">Noé n° 1</span>.</p>",
+    "content": "<h1>BILDAD</h1><p>Un des trois amis venus réconforter Job dans son angoisse, identifié comme venant de Schuach (<a href=\"https://ref.ly/Job2:11\">Jb 2.11</a>). Ce terme suggère qu&apos;il était un descendant de Schuach, fils d&apos;Abraham et de sa seconde épouse Ketura (<a href=\"https://ref.ly/Gen25:1-Gen25:2\">Gn 25.1–2</a>). Bildad s&apos;adressa à Job à trois reprises. Dans son premier discours, il affirme que Dieu soutient les justes et punit les méchants (<a href=\"https://ref.ly/Job8:1-Job8:22\">Jb 8</a>). Job doit donc être un hypocrite puisqu&apos;il prétend être en accord avec Dieu. Dans son deuxième discours, Bildad souligne la punition immédiate des méchants dans cette vie (chap. <a href=\"https://ref.ly/Job18:1-Job18:21\">18</a>). Job doit donc être méchant à cause de sa souffrance intense. Dans son troisième discours, Bildad proclame la majesté de Dieu et compara l&apos;homme à un ver (chap. <a href=\"https://ref.ly/Job25:1-Job25:6\">25</a>). Il laisse entendre que Job était insensé de prétendre être juste devant un Dieu si saint.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5562\" data-resourceType=\"TyndaleBibleDictionary\">Job, Livre de</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01005032",
-          "start_ref_usfm": "GEN 5:32",
-          "end_ref": "01005032",
-          "end_ref_usfm": "GEN 5:32"
+          "start_ref": "18002011",
+          "start_ref_usfm": "JOB 2:11",
+          "end_ref": "18002011",
+          "end_ref_usfm": "JOB 2:11"
         },
         {
-          "start_ref": "01006010",
-          "start_ref_usfm": "GEN 6:10",
-          "end_ref": "01006010",
-          "end_ref_usfm": "GEN 6:10"
+          "start_ref": "01025001",
+          "start_ref_usfm": "GEN 25:1",
+          "end_ref": "01025002",
+          "end_ref_usfm": "GEN 25:2"
         },
         {
-          "start_ref": "01007013",
-          "start_ref_usfm": "GEN 7:13",
-          "end_ref": "01007013",
-          "end_ref_usfm": "GEN 7:13"
+          "start_ref": "18008001",
+          "start_ref_usfm": "JOB 8:1",
+          "end_ref": "18008022",
+          "end_ref_usfm": "JOB 8:22"
         },
         {
-          "start_ref": "01009018",
-          "start_ref_usfm": "GEN 9:18",
-          "end_ref": "01009018",
-          "end_ref_usfm": "GEN 9:18"
+          "start_ref": "18018001",
+          "start_ref_usfm": "JOB 18:1",
+          "end_ref": "18018021",
+          "end_ref_usfm": "JOB 18:21"
         },
         {
-          "start_ref": "01009022",
-          "start_ref_usfm": "GEN 9:22",
-          "end_ref": "01009022",
-          "end_ref_usfm": "GEN 9:22"
-        },
-        {
-          "start_ref": "01009024",
-          "start_ref_usfm": "GEN 9:24",
-          "end_ref": "01009024",
-          "end_ref_usfm": "GEN 9:24"
-        },
-        {
-          "start_ref": "01010001",
-          "start_ref_usfm": "GEN 10:1",
-          "end_ref": "01010001",
-          "end_ref_usfm": "GEN 10:1"
-        },
-        {
-          "start_ref": "01010006",
-          "start_ref_usfm": "GEN 10:6",
-          "end_ref": "01010006",
-          "end_ref_usfm": "GEN 10:6"
-        },
-        {
-          "start_ref": "01010020",
-          "start_ref_usfm": "GEN 10:20",
-          "end_ref": "01010020",
-          "end_ref_usfm": "GEN 10:20"
-        },
-        {
-          "start_ref": "13001008",
-          "start_ref_usfm": "1CH 1:8",
-          "end_ref": "13001008",
-          "end_ref_usfm": "1CH 1:8"
-        },
-        {
-          "start_ref": "01009020",
-          "start_ref_usfm": "GEN 9:20",
-          "end_ref": "01009024",
-          "end_ref_usfm": "GEN 9:24"
+          "start_ref": "18025001",
+          "start_ref_usfm": "JOB 25:1",
+          "end_ref": "18025006",
+          "end_ref_usfm": "JOB 25:6"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6482,
-          "content_id": 341280,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Nations",
-          "language": "fra"
-        },
-        {
-          "reference_id": 6581,
-          "content_id": 800724,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Noé, Noa",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

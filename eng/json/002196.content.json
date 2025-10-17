@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 5450,
-    "reference_id": 4618,
-    "title": "Gibeathite",
+    "content_id": 5449,
+    "reference_id": 4617,
+    "title": "Gibeath-Haaraloth",
     "media_type": "Text",
-    "index_reference": "gibeathite",
+    "index_reference": "gibeath-haaraloth",
     "language": "eng",
-    "content": "<h1>GIBEATHITE*</h1><p>Inhabitant of the Benjamite town of Gibeah (<a href=\"https://ref.ly/1Chr12:3\">1&nbsp;Chr 12:3</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4615\" data-resourceType=\"TyndaleBibleDictionary\">Gibeah #2</span>.</p>",
+    "content": "<h1>GIBEATH-HAARALOTH</h1><p>Place located between the Jordan River and Jericho, in the vicinity of Gilgal, where Joshua conducted the circumcision of the Hebrew males born in the wilderness during the 40 years of wandering. (<a href=\"https://ref.ly/Josh5:3\">Jos 5:3</a>, nlt; kjv “hill of the foreskins”).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13012003",
-          "start_ref_usfm": "1CH 12:3",
-          "end_ref": "13012003",
-          "end_ref_usfm": "1CH 12:3"
+          "start_ref": "06005003",
+          "start_ref_usfm": "JOS 5:3",
+          "end_ref": "06005003",
+          "end_ref_usfm": "JOS 5:3"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4615,
-          "content_id": 5447,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Gibeah",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

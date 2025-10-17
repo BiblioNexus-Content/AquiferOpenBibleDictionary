@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 760009,
-    "reference_id": 7633,
-    "title": "Sufã, Sufamitas",
+    "content_id": 717275,
+    "reference_id": 7404,
+    "title": "Serede, Seredite",
     "media_type": "Text",
-    "index_reference": "sufã, sufamitas",
+    "index_reference": "serede, seredite",
     "language": "por",
-    "content": "<h1>SUFÃ, SUFAMITAS</h1><p>Sufã era um filho de Benjamim e o ancestral da família sufamita, em <a href=\"https://ref.ly/Num26:39\">Números 26.39</a>. Muitos manuscritos apresentam a grafia &quot;Sefufã&quot;.</p>",
+    "content": "<h1>SEREDE, SEREDITA</h1><p>Um dos filhos de Zebulom (<a href=\"https://ref.ly/Gen46:14\">Gn 46.14</a>) e o pai da família Seredita (<a href=\"https://ref.ly/Num26:26\">Nm 26.26</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026039",
-          "start_ref_usfm": "NUM 26:39",
-          "end_ref": "04026039",
-          "end_ref_usfm": "NUM 26:39"
+          "start_ref": "01046014",
+          "start_ref_usfm": "GEN 46:14",
+          "end_ref": "01046014",
+          "end_ref_usfm": "GEN 46:14"
+        },
+        {
+          "start_ref": "04026026",
+          "start_ref_usfm": "NUM 26:26",
+          "end_ref": "04026026",
+          "end_ref_usfm": "NUM 26:26"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 7538,
-          "content_id": 717281,
-          "resource_code": "Unknown",
-          "label": "Sufã",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

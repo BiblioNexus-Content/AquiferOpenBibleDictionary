@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 602047,
-    "reference_id": 4278,
-    "title": "Éphphatha",
+    "content_id": 822899,
+    "reference_id": 4018,
+    "title": "Dinhaba",
     "media_type": "Text",
-    "index_reference": "éphphatha",
+    "index_reference": "dinhaba",
     "language": "fra",
-    "content": "<h1>ÉPHPHATHA</h1><p>Mot araméen qui signifie « ouvre-toi ». Marc l&apos;écrit en lettres grecques pour montrer la prononciation du mot araméen utilisé par Jésus. Il utilise ce mot alors qu&apos;il guérit un homme qui ne peut ni entendre ni parler (<a href=\"https://ref.ly/Mark7:34\">Mc 7.34</a>). Le mot n&apos;est pas utilisé comme une sorte de formule magique, mais il fait partie d&apos;un certain nombre de mots hébreux ou araméens prononcés par Jésus et que les Évangiles ne traduisent pas toujours par des mots équivalents en grec.</p>",
+    "content": "<h1>DINHABA</h1><p>Capitale d&apos;Édom avant l&apos;époque de la monarchie d&apos;Israël, dont le roi Béla est mentionné dans la Bible (<a href=\"https://ref.ly/Gen36:32\">Gn 36.32</a> ; <a href=\"https://ref.ly/1Chr1:43\">1Ch 1.43</a>). Son emplacement est inconnu.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41007034",
-          "start_ref_usfm": "MRK 7:34",
-          "end_ref": "41007034",
-          "end_ref_usfm": "MRK 7:34"
+          "start_ref": "01036032",
+          "start_ref_usfm": "GEN 36:32",
+          "end_ref": "01036032",
+          "end_ref_usfm": "GEN 36:32"
+        },
+        {
+          "start_ref": "13001043",
+          "start_ref_usfm": "1CH 1:43",
+          "end_ref": "13001043",
+          "end_ref_usfm": "1CH 1:43"
         }
       ],
       "resource": []

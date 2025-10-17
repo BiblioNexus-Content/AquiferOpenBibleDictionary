@@ -1,19 +1,37 @@
 [
   {
-    "content_id": 6911,
-    "reference_id": 6079,
-    "title": "Mamre (Person)",
+    "content_id": 6910,
+    "reference_id": 6078,
+    "title": "Mammon",
     "media_type": "Text",
-    "index_reference": "mamre (person)",
+    "index_reference": "mammon",
     "language": "eng",
-    "content": "<h1>MAMRE (Person)</h1><p>Owner of a parcel of land called “the plain of Mamre.” He was an Amorite and is recorded as having two brothers: Aner and Eshcol (<a href=\"https://ref.ly/Gen14:13\">Gn 14:13</a>). These became confederates of Abraham when he fought to save his nephew Lot.</p>",
+    "content": "<h1>MAMMON</h1><p>An Aramaic word meaning wealth or property. The Gospel writers wrote it in Greek letters. </p><p>Some English translations preserve the Greek form of the word in English (King James Version, Revised Standard Version, New American Standard Bible). Meanwhile, others translate it with the words “wealth” or “money” (New English Bible, Today&apos;s English Version, New International Version, New Living Translation). In <a href=\"https://ref.ly/Matt6:24\">Matthew 6:24</a> and <a href=\"https://ref.ly/Luke16:13\">Luke 16:13</a>, “mammon” is rivalled against God for his disciple&apos;s loyalty: Which master will they be obedient to? In <a href=\"https://ref.ly/Luke16:9-Luke16:11\">Luke 16:9–11</a> the term designates material wealth or property. <span>Mammon has no negative value. Luke 16:11 makes this clear. It says</span>: “<span>If you have not been faithful with worldly wealth, who will entrust you with true riches</span>?”</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014013",
-          "start_ref_usfm": "GEN 14:13",
-          "end_ref": "01014013",
-          "end_ref_usfm": "GEN 14:13"
+          "start_ref": "40006024",
+          "start_ref_usfm": "MAT 6:24",
+          "end_ref": "40006024",
+          "end_ref_usfm": "MAT 6:24"
+        },
+        {
+          "start_ref": "42016011",
+          "start_ref_usfm": "LUK 16:11",
+          "end_ref": "42016011",
+          "end_ref_usfm": "LUK 16:11"
+        },
+        {
+          "start_ref": "42016013",
+          "start_ref_usfm": "LUK 16:13",
+          "end_ref": "42016013",
+          "end_ref_usfm": "LUK 16:13"
+        },
+        {
+          "start_ref": "42016009",
+          "start_ref_usfm": "LUK 16:9",
+          "end_ref": "42016011",
+          "end_ref_usfm": "LUK 16:11"
         }
       ],
       "resource": []

@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7848,
-    "reference_id": 7016,
-    "title": "Pua",
+    "content_id": 7846,
+    "reference_id": 7014,
+    "title": "Ptolemais",
     "media_type": "Text",
-    "index_reference": "pua",
+    "index_reference": "ptolemais",
     "language": "eng",
-    "content": "<h1>PUA</h1><p>The King James Version form of Puvah, son of Issachar (<a href=\"https://ref.ly/Num26:23\">Numbers 26:23</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7040\" data-resourceType=\"TyndaleBibleDictionary\">Puvah</span>.</p>",
+    "content": "<h1>PTOLEMAIS</h1><p>Another name for Acco, a city in northern Palestine (<a href=\"https://ref.ly/Acts21:7\">Acts 21:7</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2499\" data-resourceType=\"TyndaleBibleDictionary\">Accho, Acco</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026023",
-          "start_ref_usfm": "NUM 26:23",
-          "end_ref": "04026023",
-          "end_ref_usfm": "NUM 26:23"
+          "start_ref": "44021007",
+          "start_ref_usfm": "ACT 21:7",
+          "end_ref": "44021007",
+          "end_ref_usfm": "ACT 21:7"
         }
       ],
       "resource": [
         {
-          "reference_id": 7040,
-          "content_id": 7872,
+          "reference_id": 2499,
+          "content_id": 3331,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Puvah",
+          "label": "Accho, Acco",
           "language": "eng"
         }
       ]

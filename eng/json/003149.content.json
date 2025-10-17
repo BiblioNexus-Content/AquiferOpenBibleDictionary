@@ -1,77 +1,27 @@
 [
   {
-    "content_id": 6413,
-    "reference_id": 5581,
-    "title": "John (Person)",
+    "content_id": 6405,
+    "reference_id": 5573,
+    "title": "Johanan Ben Zakkai",
     "media_type": "Text",
-    "index_reference": "john (person)",
+    "index_reference": "johanan ben zakkai",
     "language": "eng",
-    "content": "<h1>JOHN (Person)</h1><ol><li><p>The father of Simon Peter and Andrew (<a href=\"https://ref.ly/John1:40-John1:42\">John 1:40</a><a href=\"https://ref.ly/John1:40-John1:42\">–</a><a href=\"https://ref.ly/John1:40-John1:42\">42</a>; <a href=\"https://ref.ly/John21:15-John21:17\">21:15</a><a href=\"https://ref.ly/John21:15-John21:17\">–</a><a href=\"https://ref.ly/John21:15-John21:17\">17</a>). According to <a href=\"https://ref.ly/Matt16:17\">Matthew 16:17</a>, Peter’s father was named Jona (Jonas, Jonah). Jona was either another version of the name John or two stories existed about his name.</p></li><li><p>A member of the high priestly family who, along with Annas, Caiaphas, and Alexander, questioned Peter and John after the two apostles had healed a lame man (<a href=\"https://ref.ly/Acts4:6\">Acts 4:6</a>).</p></li><li><p>According to the early church bishop Papias, a member of the larger group of Jesus’ disciples outside the Twelve (compare <a href=\"https://ref.ly/Luke10:1\">Luke 10:1</a>). Known as “John the elder,&quot; he is often said to have written 2 and 3&nbsp;John (<a href=\"https://ref.ly/2John1:1\">2&nbsp;John 1:1</a>; <a href=\"https://ref.ly/3John1:1\">3&nbsp;John 1:1</a>). The term “elder” more likely refers to John the apostle.</p></li><li><p>The apostle. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5582\" data-resourceType=\"TyndaleBibleDictionary\">John, The Apostle</span>.</p></li><li><p>The Baptist. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5583\" data-resourceType=\"TyndaleBibleDictionary\">John the Baptist</span>.</p></li><li><p>An early disciple known as John Mark, author of the second Gospel. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6119\" data-resourceType=\"TyndaleBibleDictionary\">Mark, John</span>.</p></li></ol>",
+    "content": "<h1>JOHANAN BEN ZAKKAI*</h1><p>Leading Jewish sage at the end of the second temple period. His place of birth is not known; he went to Jerusalem to study, and after 18 years there spent some time in Galilee. Later, he returned to Jerusalem and taught “in the shadow of the temple.” He encouraged the Pharisees among the priesthood rather than the Sadducees. During the siege of Jerusalem, he managed to leave, in a coffin according to one version. He was a prisoner of Vespasian, probably in AD 68, who gave him permission to settle in Jamnia. There he began quietly to lay the groundwork for the survival of Judaism without its temple.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5646\" data-resourceType=\"TyndaleBibleDictionary\">Judaism</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6864\" data-resourceType=\"TyndaleBibleDictionary\">Pharisees</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "40016017",
-          "start_ref_usfm": "MAT 16:17",
-          "end_ref": "40016017",
-          "end_ref_usfm": "MAT 16:17"
-        },
-        {
-          "start_ref": "42010001",
-          "start_ref_usfm": "LUK 10:1",
-          "end_ref": "42010001",
-          "end_ref_usfm": "LUK 10:1"
-        },
-        {
-          "start_ref": "44004006",
-          "start_ref_usfm": "ACT 4:6",
-          "end_ref": "44004006",
-          "end_ref_usfm": "ACT 4:6"
-        },
-        {
-          "start_ref": "63001001",
-          "start_ref_usfm": "2JN 1:1",
-          "end_ref": "63001001",
-          "end_ref_usfm": "2JN 1:1"
-        },
-        {
-          "start_ref": "64001001",
-          "start_ref_usfm": "3JN 1:1",
-          "end_ref": "64001001",
-          "end_ref_usfm": "3JN 1:1"
-        },
-        {
-          "start_ref": "43001040",
-          "start_ref_usfm": "JHN 1:40",
-          "end_ref": "43001042",
-          "end_ref_usfm": "JHN 1:42"
-        },
-        {
-          "start_ref": "43021015",
-          "start_ref_usfm": "JHN 21:15",
-          "end_ref": "43021017",
-          "end_ref_usfm": "JHN 21:17"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5582,
-          "content_id": 6414,
+          "reference_id": 5646,
+          "content_id": 6478,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "John, the Apostle",
+          "label": "Judaism",
           "language": "eng"
         },
         {
-          "reference_id": 5583,
-          "content_id": 6415,
+          "reference_id": 6864,
+          "content_id": 7696,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "John the Baptist",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6119,
-          "content_id": 6951,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "John Mark",
+          "label": "Pharisees",
           "language": "eng"
         }
       ]

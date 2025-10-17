@@ -1,36 +1,46 @@
 [
   {
-    "content_id": 7495,
-    "reference_id": 6663,
-    "title": "Onesimus",
+    "content_id": 7494,
+    "reference_id": 6662,
+    "title": "Onan",
     "media_type": "Text",
-    "index_reference": "onesimus",
+    "index_reference": "onan",
     "language": "eng",
-    "content": "<h1>ONESIMUS</h1><p>Slave on whose behalf Paul wrote the Letter to Philemon. A slave of Philemon, he had robbed his master and run away from him. He is also mentioned with Tychicus as a bearer of the Letter to the Colossians (<a href=\"https://ref.ly/Col4:9\">Col 4:9</a>), indicating that he came from that region. Paul became acquainted with him, converted him, and developed a close friendship with him (<a href=\"https://ref.ly/Phlm1:10\">Phlm 1:10</a>). Paul wanted to keep Onesimus with him during his imprisonment because he had been helpful to him (in Greek, Onesimus means “useful”). However, Paul returned the slave to his master, confident that the runaway slave would be received by his former owner as a Christian brother and that Philemon would charge any wrong that Onesimus had done to Paul’s account.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6875\" data-resourceType=\"TyndaleBibleDictionary\">Philemon, Letter to</span>.</p>",
+    "content": "<h1>ONAN</h1><p>Second son of Judah and a Canaanitess named Shua (<a href=\"https://ref.ly/Gen38:4-Gen38:10\">Gn 38:4–10</a>; <a href=\"https://ref.ly/Gen46:12\">46:12</a>; <a href=\"https://ref.ly/Num26:19\">Nm 26:19</a>; <a href=\"https://ref.ly/1Chr2:3\">1&nbsp;Chr 2:3</a>). Judah forced him to enter into a levirate marriage with Tamar, the wife of his deceased brother, Er. Er and Tamar had no children. Onan refused to have children by Tamar, knowing that they would be heirs to his brother’s estate. As a result of Onan’s refusal to raise up descendants for his brother, the Lord punished him with death (<a href=\"https://ref.ly/Gen38:8-Gen38:10\">Gn 38:8–10</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "51004009",
-          "start_ref_usfm": "COL 4:9",
-          "end_ref": "51004009",
-          "end_ref_usfm": "COL 4:9"
+          "start_ref": "01046012",
+          "start_ref_usfm": "GEN 46:12",
+          "end_ref": "01046012",
+          "end_ref_usfm": "GEN 46:12"
         },
         {
-          "start_ref": "57001010",
-          "start_ref_usfm": "PHM 1:10",
-          "end_ref": "57001010",
-          "end_ref_usfm": "PHM 1:10"
+          "start_ref": "04026019",
+          "start_ref_usfm": "NUM 26:19",
+          "end_ref": "04026019",
+          "end_ref_usfm": "NUM 26:19"
+        },
+        {
+          "start_ref": "13002003",
+          "start_ref_usfm": "1CH 2:3",
+          "end_ref": "13002003",
+          "end_ref_usfm": "1CH 2:3"
+        },
+        {
+          "start_ref": "01038004",
+          "start_ref_usfm": "GEN 38:4",
+          "end_ref": "01038010",
+          "end_ref_usfm": "GEN 38:10"
+        },
+        {
+          "start_ref": "01038008",
+          "start_ref_usfm": "GEN 38:8",
+          "end_ref": "01038010",
+          "end_ref_usfm": "GEN 38:10"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6875,
-          "content_id": 7707,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Letter to Philemon",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

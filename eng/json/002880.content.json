@@ -1,48 +1,28 @@
 [
   {
-    "content_id": 6133,
-    "reference_id": 5301,
-    "title": "Jaalam",
+    "content_id": 6132,
+    "reference_id": 5300,
+    "title": "Jaalah",
     "media_type": "Text",
-    "index_reference": "jaalam",
+    "index_reference": "jaalah",
     "language": "eng",
-    "content": "<h1>JAALAM*</h1><p>KJV form of Jalam, Esau’s son, in <a href=\"https://ref.ly/Gen36:5,Gen36:14,Gen36:18\">Genesis 36:5, 14, 18</a> and <a href=\"https://ref.ly/1Chr1:35\">1&nbsp;Chronicles 1:35</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5365\" data-resourceType=\"TyndaleBibleDictionary\">Jalam</span>.</p>",
+    "content": "<h1>JAALAH</h1><p>Servant of King Solomon and head of a family who returned to Jerusalem with Zerubbabel after the Babylonian exile (<a href=\"https://ref.ly/Ezra2:56\">Ezr 2:56</a>; <a href=\"https://ref.ly/Neh7:58\">Neh 7:58</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036005",
-          "start_ref_usfm": "GEN 36:5",
-          "end_ref": "01036005",
-          "end_ref_usfm": "GEN 36:5"
+          "start_ref": "15002056",
+          "start_ref_usfm": "EZR 2:56",
+          "end_ref": "15002056",
+          "end_ref_usfm": "EZR 2:56"
         },
         {
-          "start_ref": "01036014",
-          "start_ref_usfm": "GEN 36:14",
-          "end_ref": "01036014",
-          "end_ref_usfm": "GEN 36:14"
-        },
-        {
-          "start_ref": "01036018",
-          "start_ref_usfm": "GEN 36:18",
-          "end_ref": "01036018",
-          "end_ref_usfm": "GEN 36:18"
-        },
-        {
-          "start_ref": "13001035",
-          "start_ref_usfm": "1CH 1:35",
-          "end_ref": "13001035",
-          "end_ref_usfm": "1CH 1:35"
+          "start_ref": "16007058",
+          "start_ref_usfm": "NEH 7:58",
+          "end_ref": "16007058",
+          "end_ref_usfm": "NEH 7:58"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5365,
-          "content_id": 6197,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Jalam",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

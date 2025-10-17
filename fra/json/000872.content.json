@@ -1,28 +1,36 @@
 [
   {
-    "content_id": 806117,
-    "reference_id": 7213,
-    "title": "Riphat",
+    "content_id": 823018,
+    "reference_id": 6521,
+    "title": "Nemuelite",
     "media_type": "Text",
-    "index_reference": "riphat",
+    "index_reference": "nemuelite",
     "language": "fra",
-    "content": "<h1>RIPHAT</h1><p>Fils de Gomer et frère d&apos;Aschkenaz et de Togarma, descendants non sémitiques de Noé par la lignée de Japhet (<a href=\"https://ref.ly/Gen10:3\">Gn 10.3</a>). <a href=\"https://ref.ly/1Chr1:6\">1 Chroniques 1.6</a>, un passage parallèle, mentionne Diphat au lieu de Riphath, sans doute une faute d&apos;orthographe d&apos;un copiste ultérieur qui n&apos;a jamais été corrigée.</p>",
+    "content": "<h1>NEMUÉLITE</h1><p>Membre de la famille de Nemuel de la tribu de Siméon (<a href=\"https://ref.ly/Num26:12\">Nb 26.12</a> ; également appelé Jemuel dans <a href=\"https://ref.ly/Gen46:10\">Gn 46.10</a>). <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5473\" data-resourceType=\"TyndaleBibleDictionary\">Jemuel</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010003",
-          "start_ref_usfm": "GEN 10:3",
-          "end_ref": "01010003",
-          "end_ref_usfm": "GEN 10:3"
+          "start_ref": "01046010",
+          "start_ref_usfm": "GEN 46:10",
+          "end_ref": "01046010",
+          "end_ref_usfm": "GEN 46:10"
         },
         {
-          "start_ref": "13001006",
-          "start_ref_usfm": "1CH 1:6",
-          "end_ref": "13001006",
-          "end_ref_usfm": "1CH 1:6"
+          "start_ref": "04026012",
+          "start_ref_usfm": "NUM 26:12",
+          "end_ref": "04026012",
+          "end_ref_usfm": "NUM 26:12"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5473,
+          "content_id": 822975,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jemuel",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5110,
-    "reference_id": 4278,
-    "title": "Ephphatha",
+    "content_id": 5109,
+    "reference_id": 4277,
+    "title": "Ephod (Person)",
     "media_type": "Text",
-    "index_reference": "ephphatha",
+    "index_reference": "ephod (person)",
     "language": "eng",
-    "content": "<h1>EPHPHATHA</h1><p>An Aramaic word meaning &quot;be opened.&quot; Mark writes it using Greek letters to show the sounds of the Aramaic word. Jesus said this when he healed a man who could not hear or speak (<a href=\"https://ref.ly/Mark7:34\">Mark 7:34</a>). Jesus was not trying to create a magical formula. Mark simply records the exact words Jesus used.</p>",
+    "content": "<h1>EPHOD (Person)</h1><p>The father of Hanniel. Hanniel was a leader from the tribe of Manasseh, one of the two tribes that came from Joseph (<a href=\"https://ref.ly/Num34:23\">Numbers 34:23</a>). He helped divide the land of Canaan among the tribes of Israel.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41007034",
-          "start_ref_usfm": "MRK 7:34",
-          "end_ref": "41007034",
-          "end_ref_usfm": "MRK 7:34"
+          "start_ref": "04034023",
+          "start_ref_usfm": "NUM 34:23",
+          "end_ref": "04034023",
+          "end_ref_usfm": "NUM 34:23"
         }
       ],
       "resource": []

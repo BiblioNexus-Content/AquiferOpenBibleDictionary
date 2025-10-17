@@ -1,49 +1,43 @@
 [
   {
-    "content_id": 7899,
-    "reference_id": 7067,
-    "title": "Rabshakeh",
+    "content_id": 7898,
+    "reference_id": 7066,
+    "title": "Rabsaris",
     "media_type": "Text",
-    "index_reference": "rabshakeh",
+    "index_reference": "rabsaris",
     "language": "eng",
-    "content": "<h1>RABSHAKEH</h1><p>An important Assyrian official. This role was first a cupbearer or household manager. But later, it was a powerful palace official. The <span>“</span>rabshakeh<span>”</span> was the ambassador of King Sennacherib. He demanded with insults that Hezekiah and Jerusalem abandon their reliance on both Egypt and God and surrender to Assyria. Hezekiah refused. The rabshakeh returned to Assyria to find his king at war against Libnah (<a href=\"https://ref.ly/2Kgs18:17-2Kgs18:37\">2&nbsp;Kings 18:17–37</a>; <a href=\"https://ref.ly/2Kgs19:4,2Kgs19:8\">19:4, 8</a>; <a href=\"https://ref.ly/Isa36:2-Isa36:22\">Isaiah 36:2–22</a>; <a href=\"https://ref.ly/Isa37:4,Isa37:8\">37:4, 8</a>).</p>",
+    "content": "<h1>RABSARIS</h1><p>The title of a high-ranking Assyrian and Babylonian court official, usually a eunuch and sometimes supervisor of the royal harem. A rabsaris was:</p><ul><li><p>part of the Assyrian delegation (<a href=\"https://ref.ly/2Kgs18:17\">2&nbsp;Kings 18:17</a>), </p></li><li><p>a judge at the gate (<a href=\"https://ref.ly/Jer39:3\">Jeremiah 39:3</a>), </p></li><li><p>the official who released Jeremiah from prison (verse <a href=\"https://ref.ly/Jer39:13\">13</a>), and </p></li><li><p>one of Nebuchadnezzar’s officials (<a href=\"https://ref.ly/Dan1:3,Dan1:7\">Daniel 1:3, 7</a>).</p></li></ul>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12019004",
-          "start_ref_usfm": "2KI 19:4",
-          "end_ref": "12019004",
-          "end_ref_usfm": "2KI 19:4"
-        },
-        {
-          "start_ref": "12019008",
-          "start_ref_usfm": "2KI 19:8",
-          "end_ref": "12019008",
-          "end_ref_usfm": "2KI 19:8"
-        },
-        {
-          "start_ref": "23037004",
-          "start_ref_usfm": "ISA 37:4",
-          "end_ref": "23037004",
-          "end_ref_usfm": "ISA 37:4"
-        },
-        {
-          "start_ref": "23037008",
-          "start_ref_usfm": "ISA 37:8",
-          "end_ref": "23037008",
-          "end_ref_usfm": "ISA 37:8"
-        },
-        {
           "start_ref": "12018017",
           "start_ref_usfm": "2KI 18:17",
-          "end_ref": "12018037",
-          "end_ref_usfm": "2KI 18:37"
+          "end_ref": "12018017",
+          "end_ref_usfm": "2KI 18:17"
         },
         {
-          "start_ref": "23036002",
-          "start_ref_usfm": "ISA 36:2",
-          "end_ref": "23036022",
-          "end_ref_usfm": "ISA 36:22"
+          "start_ref": "24039003",
+          "start_ref_usfm": "JER 39:3",
+          "end_ref": "24039003",
+          "end_ref_usfm": "JER 39:3"
+        },
+        {
+          "start_ref": "24039013",
+          "start_ref_usfm": "JER 39:13",
+          "end_ref": "24039013",
+          "end_ref_usfm": "JER 39:13"
+        },
+        {
+          "start_ref": "27001003",
+          "start_ref_usfm": "DAN 1:3",
+          "end_ref": "27001003",
+          "end_ref_usfm": "DAN 1:3"
+        },
+        {
+          "start_ref": "27001007",
+          "start_ref_usfm": "DAN 1:7",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
         }
       ],
       "resource": []

@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 7643,
-    "reference_id": 6811,
-    "title": "Peninnah",
+    "content_id": 7642,
+    "reference_id": 6810,
+    "title": "Peniel",
     "media_type": "Text",
-    "index_reference": "peninnah",
+    "index_reference": "peniel",
     "language": "eng",
-    "content": "<h1>PENINNAH</h1><p>One of Elkanah’s two wives, the other and more favored being Hannah (<a href=\"https://ref.ly/1Sam1:2-1Sam1:6\">1&nbsp;Sm 1:2–6</a>). Peninnah’s fortune in bearing children was the source of much domestic friction for the childless Hannah, especially at the time of the annual sacrifice at Shiloh. Rabbinic tradition explains Peninnah’s taunts as attempts to provoke Hannah into pregnancy, but the biblical record portrays the women as rivals.</p>",
+    "content": "<h1>PENIEL</h1><p>Another form of Penuel. This was the Palestinian city where the patriarch Jacob wrestled with the “man” of God (<a href=\"https://ref.ly/Gen32:30\">Genesis 32:30</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6817\" data-resourceType=\"TyndaleBibleDictionary\">Penuel (Place)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09001002",
-          "start_ref_usfm": "1SA 1:2",
-          "end_ref": "09001006",
-          "end_ref_usfm": "1SA 1:6"
+          "start_ref": "01032030",
+          "start_ref_usfm": "GEN 32:30",
+          "end_ref": "01032030",
+          "end_ref_usfm": "GEN 32:30"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6817,
+          "content_id": 7649,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Penuel (Place)",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

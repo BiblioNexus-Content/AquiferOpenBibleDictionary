@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 4973,
-    "reference_id": 4141,
-    "title": "Eldaah",
+    "content_id": 4971,
+    "reference_id": 4139,
+    "title": "El-Bethel",
     "media_type": "Text",
-    "index_reference": "eldaah",
+    "index_reference": "el-bethel",
     "language": "eng",
-    "content": "<h1>ELDAAH</h1><p>Midian’s fifth son and a descendant of Abraham and his wife Keturah (<a href=\"https://ref.ly/Gen25:4\">Gn 25:4</a>; <a href=\"https://ref.ly/1Chr1:33\">1&nbsp;Chr 1:33</a>).</p>",
+    "content": "<h1>EL-BETHEL</h1><p>Name Jacob gave to the place at Luz (Bethel) where he built an altar after he returned from Haran with his family (<a href=\"https://ref.ly/Gen35:7\">Gn 35:7</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3338\" data-resourceType=\"TyndaleBibleDictionary\">Bethel (Place), Bethelite</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01025004",
-          "start_ref_usfm": "GEN 25:4",
-          "end_ref": "01025004",
-          "end_ref_usfm": "GEN 25:4"
-        },
-        {
-          "start_ref": "13001033",
-          "start_ref_usfm": "1CH 1:33",
-          "end_ref": "13001033",
-          "end_ref_usfm": "1CH 1:33"
+          "start_ref": "01035007",
+          "start_ref_usfm": "GEN 35:7",
+          "end_ref": "01035007",
+          "end_ref_usfm": "GEN 35:7"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3338,
+          "content_id": 4170,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Bethel (Place), Bethelite",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

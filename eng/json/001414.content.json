@@ -1,28 +1,36 @@
 [
   {
-    "content_id": 4665,
-    "reference_id": 3833,
-    "title": "Cos",
+    "content_id": 4661,
+    "reference_id": 3829,
+    "title": "Corruption, Mount of",
     "media_type": "Text",
-    "index_reference": "cos",
+    "index_reference": "corruption, mount of",
     "language": "eng",
-    "content": "<h1>COS</h1><p>Cos is an island in the Aegean Sea, part of the Sporades group. The island has a city with the same name. Cos is located near the coast of Caria in Asia Minor (modern Turkey). </p><p>The apostle Paul visited Cos during his travels. It was his first stop after leaving Ephesus while he was traveling to Jerusalem at the end of his third missionary journey (<a href=\"https://ref.ly/Acts21:1\">Acts 21:1</a>, &quot;Coos&quot; in the King James Version). </p><p>In the Apocrypha (a set of ancient texts not included in the Hebrew Bible but accepted by some Christian groups), Cos is mentioned along with other areas. These places received a letter from the Roman consul Lucius. The letter forbade war against the Jewish people who lived in these areas (<a href=\"https://ref.ly/1Macc15:23\">1&nbsp;Maccabees 15:23</a>).</p><p>Cos (now called Kos) was an important center for shipping and trade. It was famous for its wheat, ointments, wines, and silk. Later it became one of the financial centers of the eastern Mediterranean.</p><p>Hippocrates, who is known as the &quot;father of medicine,&quot; was born on Cos. He practiced medicine there during the fifth and fourth centuries BC. During the rule of King Herod, Cos received ongoing financial payments. The people of Cos built a statue there to honor Herod&apos;s son, Herod Antipas.</p>",
+    "content": "<h1>CORRUPTION, Mount of</h1><p>Southern end of the Mt of Olives, called “corruption” because King Solomon built idols there for his foreign wives (<a href=\"https://ref.ly/1Kgs11:7\">1&nbsp;Kgs 11:7</a>; <a href=\"https://ref.ly/2Kgs23:13\">2&nbsp;Kgs 23:13</a>). The term is possibly an ironic play on the Hebrew word for “anointing.” The site may have originally been called the “Mount of Anointing” because oil from the many olive groves on its slopes was used in consecration ceremonies. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6649\" data-resourceType=\"TyndaleBibleDictionary\">Olives, Mount of</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44021001",
-          "start_ref_usfm": "ACT 21:1",
-          "end_ref": "44021001",
-          "end_ref_usfm": "ACT 21:1"
+          "start_ref": "11011007",
+          "start_ref_usfm": "1KI 11:7",
+          "end_ref": "11011007",
+          "end_ref_usfm": "1KI 11:7"
         },
         {
-          "start_ref": "78015023",
-          "start_ref_usfm": "1MA 15:23",
-          "end_ref": "78015023",
-          "end_ref_usfm": "1MA 15:23"
+          "start_ref": "12023013",
+          "start_ref_usfm": "2KI 23:13",
+          "end_ref": "12023013",
+          "end_ref_usfm": "2KI 23:13"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6649,
+          "content_id": 7481,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Olives, Mount of",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

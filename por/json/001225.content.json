@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 717166,
-    "reference_id": 6144,
-    "title": "Matrede",
+    "content_id": 717155,
+    "reference_id": 6035,
+    "title": "Mahali",
     "media_type": "Text",
-    "index_reference": "matrede",
+    "index_reference": "mahali",
     "language": "por",
-    "content": "<h1>MATREDE</h1><p>Mãe de Meetabel, a esposa do Rei Hadade (Hadar) de Edom (<a href=\"https://ref.ly/Gen36:39\">Gn 36.39</a>; <a href=\"https://ref.ly/1Chr1:50\">1Cr 1.50</a>).</p>",
+    "content": "<h1>MAHALI</h1><p>Uma diferente grafia de Mali, filho de Merari, em <a href=\"https://ref.ly/Exod6:19\">Êxodo 6.19</a>.</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6045\" data-resourceType=\"TyndaleBibleDictionary\">Mali nº 1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036039",
-          "start_ref_usfm": "GEN 36:39",
-          "end_ref": "01036039",
-          "end_ref_usfm": "GEN 36:39"
-        },
-        {
-          "start_ref": "13001050",
-          "start_ref_usfm": "1CH 1:50",
-          "end_ref": "13001050",
-          "end_ref_usfm": "1CH 1:50"
+          "start_ref": "02006019",
+          "start_ref_usfm": "EXO 6:19",
+          "end_ref": "02006019",
+          "end_ref_usfm": "EXO 6:19"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6045,
+          "content_id": 717157,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Mali",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

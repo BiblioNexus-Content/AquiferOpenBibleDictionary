@@ -1,28 +1,37 @@
 [
   {
-    "content_id": 5300,
-    "reference_id": 4468,
-    "title": "Foundation Gate",
+    "content_id": 3679,
+    "reference_id": 2847,
+    "title": "Forum of Appius",
     "media_type": "Text",
-    "index_reference": "foundation gate",
+    "index_reference": "forum of appius",
     "language": "eng",
-    "content": "<h1>FOUNDATION GATE</h1><p>Structure mentioned in <a href=\"https://ref.ly/2Chr23:5\">2&nbsp;Chronicles 23:5</a>, in the narrative about Queen Athaliah’s execution. The parallel passage in <a href=\"https://ref.ly/2Kgs11:6\">2&nbsp;Kings 11:6</a> reads “Sur Gate,” while the Septuagint has “gate of the ways,” indicating some difficulties within the Hebrew text.</p>",
+    "content": "<h1>FORUM OF APPIUS</h1><p>The marketplace in <a href=\"https://ref.ly/Acts28:15\">Acts 28:15.</a> This was the place where Christians met the apostle Paul when he came to appear before Caesar. It was apparently named for Appius Claudius. He was the builder of the Appian Way. The Appian Way was a major highway from southeast Italy running northwest to Rome. </p><p>Around the forum was a region of swamp and marsh. It was notorious in the ancient world for bad water, mosquitoes, expensive taverns for travelers, nighttime noisy traffic of cargoes, and passengers on mule-drawn barges along a canal cut through the area. The Appian Way passes through the Appius Forum about 64 kilometers (40 miles) south of Rome.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2846\" data-resourceType=\"TyndaleBibleDictionary\">Appian Way</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4467\" data-resourceType=\"TyndaleBibleDictionary\">Forum</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12011006",
-          "start_ref_usfm": "2KI 11:6",
-          "end_ref": "12011006",
-          "end_ref_usfm": "2KI 11:6"
-        },
-        {
-          "start_ref": "14023005",
-          "start_ref_usfm": "2CH 23:5",
-          "end_ref": "14023005",
-          "end_ref_usfm": "2CH 23:5"
+          "start_ref": "44028015",
+          "start_ref_usfm": "ACT 28:15",
+          "end_ref": "44028015",
+          "end_ref_usfm": "ACT 28:15"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2846,
+          "content_id": 3678,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Appian Way",
+          "language": "eng"
+        },
+        {
+          "reference_id": 4467,
+          "content_id": 5299,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Forum",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

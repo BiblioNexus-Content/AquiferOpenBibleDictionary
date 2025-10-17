@@ -1,39 +1,33 @@
 [
   {
-    "content_id": 161806,
-    "reference_id": 4295,
-    "title": "Epilepsia*, Epiléptico",
+    "content_id": 682920,
+    "reference_id": 4238,
+    "title": "Emim, Emins",
     "media_type": "Text",
-    "index_reference": "epilepsia*, epiléptico",
+    "index_reference": "emim, emins",
     "language": "por",
-    "content": "<h1>EPILEPSIA*, EPILÉPTICO</h1><p>Doença do sistema nervoso central, e alguém afligido com a doença, caracterizada por inconsciência e convulsões. As convulsões podem ser uma crise de ausência (espasmos no rosto ou nas mãos, dor abdominal breve, mas acentuada, e possível inconsciência momentânea) ou uma convulsão tônico-clônica (convulsões, formação espumante na boca e inconsciência, durando de 5 a 20 minutos). Embora as causas da epilepsia ainda não sejam conhecidas, os medicamentos estão disponíveis para prevenir ou controlar as convulsões.</p><p>Nos tempos bíblicos, a epilepsia (conhecida como a “doença de queda”) não poderia ser tratada de forma eficaz. Jesus curou um menino que evidentemente sofria dessa aflição (<a href=\"https://ref.ly/Matt17:14-Matt17:18\">Mt 17.14–18</a>; <a href=\"https://ref.ly/Mark9:17-Mark9:27\">Mc 9.17–27</a>; <a href=\"https://ref.ly/Luke9:37-Luke9:42\">Lc 9.37–42</a>). A descrição do menino como um “lunático” em algumas versões mais antigas da bíblia (do latim <em>luna</em>, “lua”) é um uso incorreto. A palavra grega em Mateus (literalmente “atingido pela lua”) refletia a crença antiga de que havia certa conexão entre certas doenças e as fases lunares. De acordo com o relato bíblico, o jovem foi curado quando Jesus expulsou um demônio, ou “espírito impuro”, dele. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6179\" data-resourceType=\"TyndaleBibleDictionary\">Medicina e Prática Médica</span>.</p>",
+    "content": "<h1>EMIM*, EMINS</h1><p>Nome dado aos habitantes originais de Moabe (<a href=\"https://ref.ly/Gen14:5\">Gn 14.5</a>) pelos moabitas que os expulsaram de sua terra. Eles eram um povo alto, também conhecido como refains (<a href=\"https://ref.ly/Deut2:10-Deut2:11\">Dt 2.10–11</a>), e foram comparados com os zuzitas, anaquins e horeus por seu tamanho. Este fenômeno é evidentemente uma indicação de isolamento genético. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4612\" data-resourceType=\"TyndaleBibleDictionary\">Gigantes</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40017014",
-          "start_ref_usfm": "MAT 17:14",
-          "end_ref": "40017018",
-          "end_ref_usfm": "MAT 17:18"
+          "start_ref": "01014005",
+          "start_ref_usfm": "GEN 14:5",
+          "end_ref": "01014005",
+          "end_ref_usfm": "GEN 14:5"
         },
         {
-          "start_ref": "41009017",
-          "start_ref_usfm": "MRK 9:17",
-          "end_ref": "41009027",
-          "end_ref_usfm": "MRK 9:27"
-        },
-        {
-          "start_ref": "42009037",
-          "start_ref_usfm": "LUK 9:37",
-          "end_ref": "42009042",
-          "end_ref_usfm": "LUK 9:42"
+          "start_ref": "05002010",
+          "start_ref_usfm": "DEU 2:10",
+          "end_ref": "05002011",
+          "end_ref_usfm": "DEU 2:11"
         }
       ],
       "resource": [
         {
-          "reference_id": 6179,
-          "content_id": 161846,
+          "reference_id": 4612,
+          "content_id": 658645,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Medicina E Prática Médica",
+          "label": "Gigantes",
           "language": "por"
         }
       ]

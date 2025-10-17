@@ -1,27 +1,39 @@
 [
   {
-    "content_id": 4768,
-    "reference_id": 3936,
-    "title": "David, Tower of",
+    "content_id": 4767,
+    "reference_id": 3935,
+    "title": "David, Root of",
     "media_type": "Text",
-    "index_reference": "david, tower of",
+    "index_reference": "david, root of",
     "language": "eng",
-    "content": "<h1>DAVID, Tower of</h1><ol><li><p>A fortress built by David, with a thousand shields hung on it. It is mentioned in <a href=\"https://ref.ly/Song4:4\">Song of Songs 4:4</a> but nowhere else.</p></li><li><p>David’s Tower in Jerusalem, near the Jaffa Gate. It was built in medieval times. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5501\" data-resourceType=\"TyndaleBibleDictionary\">Jerusalem</span>.</p></li></ol>",
+    "content": "<h1>DAVID*, Root of</h1><p>Phrase applied to Jesus Christ in the book of Revelation (<a href=\"https://ref.ly/Rev5:5\">Rv 5:5</a>; <a href=\"https://ref.ly/Rev22:16\">22:16</a>). Though “root” usually means “source,” the metaphor depicts Jesus as David’s royal descendant, as indicated by the parallel word “offspring” in <a href=\"https://ref.ly/Rev22:16\">Revelation 22:16</a>. That is, Jesus came from King David’s family as a branch grows from a rooted tree (cf. <a href=\"https://ref.ly/Isa11:1\">Is 11:1</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5518\" data-resourceType=\"TyndaleBibleDictionary\">Jesse, Root of</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "22004004",
-          "start_ref_usfm": "SNG 4:4",
-          "end_ref": "22004004",
-          "end_ref_usfm": "SNG 4:4"
+          "start_ref": "23011001",
+          "start_ref_usfm": "ISA 11:1",
+          "end_ref": "23011001",
+          "end_ref_usfm": "ISA 11:1"
+        },
+        {
+          "start_ref": "66005005",
+          "start_ref_usfm": "REV 5:5",
+          "end_ref": "66005005",
+          "end_ref_usfm": "REV 5:5"
+        },
+        {
+          "start_ref": "66022016",
+          "start_ref_usfm": "REV 22:16",
+          "end_ref": "66022016",
+          "end_ref_usfm": "REV 22:16"
         }
       ],
       "resource": [
         {
-          "reference_id": 5501,
-          "content_id": 6333,
+          "reference_id": 5518,
+          "content_id": 6350,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jerusalem",
+          "label": "Jesse, Root of",
           "language": "eng"
         }
       ]

@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 4995,
-    "reference_id": 4163,
-    "title": "Eliah",
+    "content_id": 4992,
+    "reference_id": 4160,
+    "title": "Eliadah",
     "media_type": "Text",
-    "index_reference": "eliah",
+    "index_reference": "eliadah",
     "language": "eng",
-    "content": "<h1>ELIAH*</h1><p>KJV form of the name Elijah in <a href=\"https://ref.ly/1Chr8:27\">1&nbsp;Chronicles 8:27</a> and <a href=\"https://ref.ly/Ezra10:26\">Ezra 10:26</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4179\" data-resourceType=\"TyndaleBibleDictionary\">Elijah #2, #4</span>.</p>",
+    "content": "<h1>ELIADAH</h1><p>The King James Version spelling of Eliada in <a href=\"https://ref.ly/1Kgs11:23\">1&nbsp;Kings 11:23</a>. Eliada was the father of Rezon. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4161\" data-resourceType=\"TyndaleBibleDictionary\">Eliada #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13008027",
-          "start_ref_usfm": "1CH 8:27",
-          "end_ref": "13008027",
-          "end_ref_usfm": "1CH 8:27"
-        },
-        {
-          "start_ref": "15010026",
-          "start_ref_usfm": "EZR 10:26",
-          "end_ref": "15010026",
-          "end_ref_usfm": "EZR 10:26"
+          "start_ref": "11011023",
+          "start_ref_usfm": "1KI 11:23",
+          "end_ref": "11011023",
+          "end_ref_usfm": "1KI 11:23"
         }
       ],
       "resource": [
         {
-          "reference_id": 4179,
-          "content_id": 5011,
+          "reference_id": 4161,
+          "content_id": 4993,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Elijah",
+          "label": "Eliada",
           "language": "eng"
         }
       ]

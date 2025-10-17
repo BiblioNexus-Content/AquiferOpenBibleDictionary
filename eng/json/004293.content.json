@@ -1,49 +1,43 @@
 [
   {
-    "content_id": 7551,
-    "reference_id": 6719,
-    "title": "Pahath-Moab",
+    "content_id": 7550,
+    "reference_id": 6718,
+    "title": "Pagiel",
     "media_type": "Text",
-    "index_reference": "pahath-moab",
+    "index_reference": "pagiel",
     "language": "eng",
-    "content": "<h1>PAHATH-MOAB</h1><p>Head of a family of Israelites who returned with Zerubbabel to Palestine after the Babylonian captivity (<a href=\"https://ref.ly/Ezra2:6\">Ezr 2:6</a>; <a href=\"https://ref.ly/Neh7:11\">Neh 7:11</a>). Other members of his family, about 200 men, came with Ezra (<a href=\"https://ref.ly/Ezra8:4\">Ezr 8:4</a>). After the return, certain of his sons were included among the Israelites who vowed to sever their relationships with foreign wives (<a href=\"https://ref.ly/Ezra10:30\">10:30</a>). Hasshub, Pahath-moab’s son, helped rebuild the Jerusalem wall and the tower of furnaces in Nehemiah’s day (<a href=\"https://ref.ly/Neh3:11\">Neh 3:11</a>). Pahath-moab, called a chief of the people, set his seal on Ezra’s covenant (<a href=\"https://ref.ly/Neh10:14\">10:14</a>).</p>",
+    "content": "<h1>PAGIEL</h1><p>Pagiel was a son of Ocran from the tribe of Asher. Moses chose Paigel to help count the Israelites while they were in the wilderness. Paigel also served as the leader of his tribe during that time (<a href=\"https://ref.ly/Num1:13\">Numbers 1:13</a>; <a href=\"https://ref.ly/Num2:27\">2:27</a>; <a href=\"https://ref.ly/Num7:72,Num7:77\">7:72, 77</a>; <a href=\"https://ref.ly/Num10:26\">10:26</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002006",
-          "start_ref_usfm": "EZR 2:6",
-          "end_ref": "15002006",
-          "end_ref_usfm": "EZR 2:6"
+          "start_ref": "04001013",
+          "start_ref_usfm": "NUM 1:13",
+          "end_ref": "04001013",
+          "end_ref_usfm": "NUM 1:13"
         },
         {
-          "start_ref": "15008004",
-          "start_ref_usfm": "EZR 8:4",
-          "end_ref": "15008004",
-          "end_ref_usfm": "EZR 8:4"
+          "start_ref": "04002027",
+          "start_ref_usfm": "NUM 2:27",
+          "end_ref": "04002027",
+          "end_ref_usfm": "NUM 2:27"
         },
         {
-          "start_ref": "15010030",
-          "start_ref_usfm": "EZR 10:30",
-          "end_ref": "15010030",
-          "end_ref_usfm": "EZR 10:30"
+          "start_ref": "04007072",
+          "start_ref_usfm": "NUM 7:72",
+          "end_ref": "04007072",
+          "end_ref_usfm": "NUM 7:72"
         },
         {
-          "start_ref": "16003011",
-          "start_ref_usfm": "NEH 3:11",
-          "end_ref": "16003011",
-          "end_ref_usfm": "NEH 3:11"
+          "start_ref": "04007077",
+          "start_ref_usfm": "NUM 7:77",
+          "end_ref": "04007077",
+          "end_ref_usfm": "NUM 7:77"
         },
         {
-          "start_ref": "16007011",
-          "start_ref_usfm": "NEH 7:11",
-          "end_ref": "16007011",
-          "end_ref_usfm": "NEH 7:11"
-        },
-        {
-          "start_ref": "16010014",
-          "start_ref_usfm": "NEH 10:14",
-          "end_ref": "16010014",
-          "end_ref_usfm": "NEH 10:14"
+          "start_ref": "04010026",
+          "start_ref_usfm": "NUM 10:26",
+          "end_ref": "04010026",
+          "end_ref_usfm": "NUM 10:26"
         }
       ],
       "resource": []

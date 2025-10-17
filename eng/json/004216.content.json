@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 7479,
-    "reference_id": 6647,
-    "title": "Old Testament",
+    "content_id": 7475,
+    "reference_id": 6643,
+    "title": "Old Man",
     "media_type": "Text",
-    "index_reference": "old testament",
+    "index_reference": "old man",
     "language": "eng",
-    "content": "<h1>OLD TESTAMENT</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3399\" data-resourceType=\"TyndaleBibleDictionary\">Bible</span>.</p>",
+    "content": "<h1>OLD MAN</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6096\" data-resourceType=\"TyndaleBibleDictionary\">Man, Old and New</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3399,
-          "content_id": 4231,
+          "reference_id": 6096,
+          "content_id": 6928,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bible",
+          "label": "Man, Old and New",
           "language": "eng"
         }
       ]

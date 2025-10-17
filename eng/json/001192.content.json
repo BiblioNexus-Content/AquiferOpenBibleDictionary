@@ -1,48 +1,27 @@
 [
   {
-    "content_id": 4447,
-    "reference_id": 3615,
-    "title": "Catholic Letters",
+    "content_id": 4446,
+    "reference_id": 3614,
+    "title": "Caterpillar",
     "media_type": "Text",
-    "index_reference": "catholic letters",
+    "index_reference": "caterpillar",
     "language": "eng",
-    "content": "<h1>CATHOLIC LETTERS</h1><p>A traditional name for seven New Testament books or letters: </p><ul><li><p>James</p></li><li><p>1 and 2&nbsp;Peter</p></li><li><p>1, 2, and 3&nbsp;John</p></li><li><p>Jude</p></li></ul><p>The term “catholic” has been understood in different ways: </p><ol><li><p>These letters express the views of all the apostles.</p></li><li><p>They are canonical or genuine.</p></li><li><p>Thus they were distinguished from works containing false beliefs written around the same time.</p></li><li><p>They are encyclical, that is, addressed to general audiences of believers rather than to specific groups, as were some of the apostle Paul’s letters. Of course, 2&nbsp;John and 3&nbsp;John are exceptions to this interpretation. 2 John is addressed to a lady or a local church. 3 John is addressed to an individual.</p></li></ol><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5369\" data-resourceType=\"TyndaleBibleDictionary\">James, Letter of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5578\" data-resourceType=\"TyndaleBibleDictionary\">John, Letters of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5656\" data-resourceType=\"TyndaleBibleDictionary\">Jude, Letter of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6846\" data-resourceType=\"TyndaleBibleDictionary\">Peter, First Letter of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6847\" data-resourceType=\"TyndaleBibleDictionary\">Peter, Second Letter of</span>.</p>",
+    "content": "<h1>CATERPILLAR</h1><p>Wormlike larva of a butterfly, moth, and some other insects. A larva is the young form of some insects that goes through a complete change before becoming an adult. Such insects pass through four stages:</p><ol><li><p>Egg</p></li><li><p>Larva</p></li><li><p>Pupa</p></li><li><p>Adult</p></li></ol><p>The caterpillar is the larval stage of insects. Bees, flies, moths, and butterflies all have a larval or caterpillar stage.</p><p>The word “caterpillar” occurs three times in certain translations, like the New Living Translation in <a href=\"https://ref.ly/1Kgs8:37\">1&nbsp;Kings 8:37</a>, <a href=\"https://ref.ly/2Chr6:28\">2&nbsp;Chronicles 6:28</a>, and <a href=\"https://ref.ly/Ps78:46\">Psalm 78:46</a>. In the book of Joel, the same word is translated “locust” (<a href=\"https://ref.ly/Joel1:4\">Joel 1:4</a>; <a href=\"https://ref.ly/Joel2:25\">2:25</a>). The locust and grasshopper do not have a full transformation. They have only three stages: </p><ol><li><p>Egg</p></li><li><p>Nymph</p></li><li><p>Adult</p></li></ol><p>The nymph is a tiny adult. Its wings are not fully developed, though their outline may be present. There are several nymph stages known as instars. The reference to locust refers to the last instars. The wing structures are still folded and enclosed in a sac. But, they are recognizable. That form of the insect is about two and a half centimeters (one inch) long.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5934\" data-resourceType=\"TyndaleBibleDictionary\">Locust</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5369,
-          "content_id": 6201,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "James, Letter of",
+          "reference_id": 2782,
+          "content_id": 3614,
+          "resource_code": "Unknown",
+          "label": "Animals",
           "language": "eng"
         },
         {
-          "reference_id": 5578,
-          "content_id": 6410,
+          "reference_id": 5934,
+          "content_id": 6766,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "John, Letters of",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5656,
-          "content_id": 6488,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Jude, Letter of",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6846,
-          "content_id": 7678,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Peter, First Letter of",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6847,
-          "content_id": 7679,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Peter, Second Letter of",
+          "label": "Locusts",
           "language": "eng"
         }
       ]

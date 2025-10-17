@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 805954,
-    "reference_id": 2498,
-    "title": "Accad",
+    "content_id": 805953,
+    "reference_id": 2489,
+    "title": "Abram",
     "media_type": "Text",
-    "index_reference": "accad",
+    "index_reference": "abram",
     "language": "fra",
-    "content": "<h1>ACCAD</h1><p>Une des trois villes (Babel, Érec et Accad) situées entre les fleuves Hiddékel et Euphrate.</p><p>Elle aurait été fondé par Nimrod (<a href=\"https://ref.ly/Gen10:10\">Gn 10.10</a>). Le nom de la langue parlée en Mésopotamie depuis l&apos;époque de Sargon (vers 2 360 av. J.‑C.) jusqu&apos;aux périodes assyrienne et babylonienne et l&apos;« Akkadien » (d&apos;Accad).</p>",
+    "content": "<h1>ABRAM</h1><p>Nom original du patriarche Abraham (<a href=\"https://ref.ly/Gen11:26\">Gn 11.26</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2488\" data-resourceType=\"TyndaleBibleDictionary\">Abraham</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010010",
-          "start_ref_usfm": "GEN 10:10",
-          "end_ref": "01010010",
-          "end_ref_usfm": "GEN 10:10"
+          "start_ref": "01011026",
+          "start_ref_usfm": "GEN 11:26",
+          "end_ref": "01011026",
+          "end_ref_usfm": "GEN 11:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2488,
+          "content_id": 207158,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Abraham",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

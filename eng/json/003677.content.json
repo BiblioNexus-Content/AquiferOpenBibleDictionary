@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 6935,
-    "reference_id": 6103,
-    "title": "Marah",
+    "content_id": 6938,
+    "reference_id": 6106,
+    "title": "Mara",
     "media_type": "Text",
-    "index_reference": "marah",
+    "index_reference": "mara",
     "language": "eng",
-    "content": "<h1>MARAH</h1><p>A spring (a natural source of water coming up from the ground) where the water was too bitter to drink. Marah was the first place where the Israelites camped after they crossed the Red Sea (<a href=\"https://ref.ly/Exod15:23\">Exodus 15:23</a>; <a href=\"https://ref.ly/Num33:8-Num33:9\">Numbers 33:8–9</a>). Today, many scholars believe Marah was located at a place now called &apos;Ain Hawarah. It is a pool of bitter water on the eastern coastal plain of the Gulf of Suez. It is about 70.8 kilometers (44 miles) southeast of Suez, and eight kilometers (five miles) northwest of &apos;Ain Gharandel. It is south of Wadi Amarah, a dry riverbed whose name might come from the ancient name Marah.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
+    "content": "<h1>MARA</h1><p>A name that means “bitter.” Naomi gave herself this name when she returned as a widow to Judah from Moab (<a href=\"https://ref.ly/Ruth1:20\">Ruth 1:20</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6468\" data-resourceType=\"TyndaleBibleDictionary\">Naomi</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02015023",
-          "start_ref_usfm": "EXO 15:23",
-          "end_ref": "02015023",
-          "end_ref_usfm": "EXO 15:23"
-        },
-        {
-          "start_ref": "04033008",
-          "start_ref_usfm": "NUM 33:8",
-          "end_ref": "04033009",
-          "end_ref_usfm": "NUM 33:9"
+          "start_ref": "08001020",
+          "start_ref_usfm": "RUT 1:20",
+          "end_ref": "08001020",
+          "end_ref_usfm": "RUT 1:20"
         }
       ],
       "resource": [
         {
-          "reference_id": 8231,
-          "content_id": 9063,
+          "reference_id": 6468,
+          "content_id": 7300,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Wilderness Wanderings",
+          "label": "Naomi",
           "language": "eng"
         }
       ]

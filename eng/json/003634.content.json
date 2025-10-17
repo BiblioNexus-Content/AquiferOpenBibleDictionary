@@ -1,12 +1,12 @@
 [
   {
-    "content_id": 6893,
-    "reference_id": 6061,
-    "title": "Malcham",
+    "content_id": 6892,
+    "reference_id": 6060,
+    "title": "Malcam",
     "media_type": "Text",
-    "index_reference": "malcham",
+    "index_reference": "malcam",
     "language": "eng",
-    "content": "<h1>MALCHAM*</h1><p>1. KJV form of Malcam in <a href=\"https://ref.ly/1Chr8:9\">1&nbsp;Chronicles 8:9</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6060\" data-resourceType=\"TyndaleBibleDictionary\">Malcam</span>.</p><p>2. KJV form of Milcom, an Ammonite god, in <a href=\"https://ref.ly/Zeph1:5\">Zephaniah 1:5</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6302\" data-resourceType=\"TyndaleBibleDictionary\">Milcom</span>.</p>",
+    "content": "<h1>MALCAM</h1><p>Shaharaim’s son from Benjamin’s tribe (<a href=\"https://ref.ly/1Chr8:9\">1&nbsp;Chr 8:9</a>).</p>",
     "associations": {
       "passage": [
         {
@@ -14,30 +14,9 @@
           "start_ref_usfm": "1CH 8:9",
           "end_ref": "13008009",
           "end_ref_usfm": "1CH 8:9"
-        },
-        {
-          "start_ref": "36001005",
-          "start_ref_usfm": "ZEP 1:5",
-          "end_ref": "36001005",
-          "end_ref_usfm": "ZEP 1:5"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6060,
-          "content_id": 6892,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Malcam",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6302,
-          "content_id": 7134,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Milcom",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

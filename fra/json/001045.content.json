@@ -1,37 +1,25 @@
 [
   {
-    "content_id": 806160,
-    "reference_id": 8346,
-    "title": "Tsemariens",
+    "content_id": 734284,
+    "reference_id": 7245,
+    "title": "Sabachthani",
     "media_type": "Text",
-    "index_reference": "tsemariens",
+    "index_reference": "sabachthani",
     "language": "fra",
-    "content": "<h1>TSEMARIENS</h1><p>Une des familles des Cananéens dans les listes ethnologiques de <a href=\"https://ref.ly/Gen10:1-Gen10:32\">Genèse 10</a> (v. <a href=\"https://ref.ly/Gen10:18\">18</a>) et <a href=\"https://ref.ly/1Chr1:1-1Chr1:54\">1 Chroniques 1</a> (v. <a href=\"https://ref.ly/1Chr1:16\">16</a>). Les <span>Tsemariens</span> étaient une tribu hamitique mentionnée en relation avec les Arvadiens et les Hamathiens. Ils étaient probablement situés près de la Méditerranée, dans les environs de Tripoli.</p>",
+    "content": "<h1>SABACHTHANI</h1><p>Un des derniers mots que Jésus a prononcés quand il était sur la croix (<a href=\"https://ref.ly/Matt27:46\">Mt 27.46</a> ; <a href=\"https://ref.ly/Mark15:34\">Mc 15.34</a>). Il s&apos;agit d&apos;un mot araméen. Les mots « <span>Éli, Éli, lama sabachthani</span> » se traduisent par « Mon Dieu, mon Dieu, pourquoi m&apos;as-tu abandonné ? » Cette question correspond à l&apos;introduction du Psaume 22.</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4172\" data-resourceType=\"TyndaleBibleDictionary\">Éli, Éli, lama sabachthani</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010018",
-          "start_ref_usfm": "GEN 10:18",
-          "end_ref": "01010018",
-          "end_ref_usfm": "GEN 10:18"
+          "start_ref": "40027046",
+          "start_ref_usfm": "MAT 27:46",
+          "end_ref": "40027046",
+          "end_ref_usfm": "MAT 27:46"
         },
         {
-          "start_ref": "13001016",
-          "start_ref_usfm": "1CH 1:16",
-          "end_ref": "13001016",
-          "end_ref_usfm": "1CH 1:16"
-        },
-        {
-          "start_ref": "01010001",
-          "start_ref_usfm": "GEN 10:1",
-          "end_ref": "01010032",
-          "end_ref_usfm": "GEN 10:32"
-        },
-        {
-          "start_ref": "13001001",
-          "start_ref_usfm": "1CH 1:1",
-          "end_ref": "13001054",
-          "end_ref_usfm": "1CH 1:54"
+          "start_ref": "41015034",
+          "start_ref_usfm": "MRK 15:34",
+          "end_ref": "41015034",
+          "end_ref_usfm": "MRK 15:34"
         }
       ],
       "resource": []

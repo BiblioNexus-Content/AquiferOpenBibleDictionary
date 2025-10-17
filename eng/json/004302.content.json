@@ -1,23 +1,46 @@
 [
   {
-    "content_id": 7562,
-    "reference_id": 6730,
-    "title": "Palm, Date Palm",
+    "content_id": 7559,
+    "reference_id": 6727,
+    "title": "Pallu, Palluite",
     "media_type": "Text",
-    "index_reference": "palm, date palm",
+    "index_reference": "pallu, palluite",
     "language": "eng",
-    "content": "<h1>PALM, DATE PALM</h1><p>The palm tree mentioned in the Bible is certainly the date palm (<em>Phoenix dactylifera</em>). At one time, this tree was as common in Israel and the surrounding areas as it is still today in Egypt. The date palm has a trunk with no branches that tapers as it grows upward, reaching heights of up to 24.2 meters (80 feet) or more. At the top is a large cluster of feathery leaves, each 1.8 to 2.7 meters (six to nine feet) or more long.</p><p>Because of its height and unusual shape, people naturally used it as a decorative form in Eastern architecture. The trunk and leaves were favorite subjects for architectural decoration. The huge, branch-like leaves (which are called &quot;branches&quot; in the Bible) were symbols of victory and were used during times of great celebration (<a href=\"https://ref.ly/John12:13\">John 12:13</a>; <a href=\"https://ref.ly/Rev7:9\">Revelation 7:9</a>).</p><p>People still use the large leaves to cover the roofs and sides of houses and to strengthen reed fences. They make mats, baskets, and even dishes from them. Small leaves are used as dusters, and the wood from the trunk is used for timber. People make rope from the web-like material in the crown of the tree.</p><p>The fruit grows in a huge drooping cluster that may weigh from 13.6 to 22.7 kilograms (30 to 50 pounds). Dates are the main food for many native people of Arabia and North Africa. A single tree may produce up to 90.7 kilograms (200 pounds) of dates each year. The dates can be dried for future use.</p>",
+    "content": "<h1>PALLU, PALLUITE</h1><p>Reuben’s son, the father of Eliab (<a href=\"https://ref.ly/Gen46:9\">Genesis 46:9</a>; <a href=\"https://ref.ly/Exod6:14\">Exodus 6:14</a>; <a href=\"https://ref.ly/Num26:8\">Numbers 26:8</a>; <a href=\"https://ref.ly/1Chr5:3\">1&nbsp;Chronicles 5:3</a>). The founder of the Palluite family (<a href=\"https://ref.ly/Num26:5\">Numbers 26:5</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
-          "language": "eng"
+          "start_ref": "01046009",
+          "start_ref_usfm": "GEN 46:9",
+          "end_ref": "01046009",
+          "end_ref_usfm": "GEN 46:9"
+        },
+        {
+          "start_ref": "02006014",
+          "start_ref_usfm": "EXO 6:14",
+          "end_ref": "02006014",
+          "end_ref_usfm": "EXO 6:14"
+        },
+        {
+          "start_ref": "04026005",
+          "start_ref_usfm": "NUM 26:5",
+          "end_ref": "04026005",
+          "end_ref_usfm": "NUM 26:5"
+        },
+        {
+          "start_ref": "04026008",
+          "start_ref_usfm": "NUM 26:8",
+          "end_ref": "04026008",
+          "end_ref_usfm": "NUM 26:8"
+        },
+        {
+          "start_ref": "13005003",
+          "start_ref_usfm": "1CH 5:3",
+          "end_ref": "13005003",
+          "end_ref_usfm": "1CH 5:3"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

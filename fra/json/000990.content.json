@@ -1,34 +1,56 @@
 [
   {
-    "content_id": 756987,
-    "reference_id": 7912,
-    "title": "Tarsis, Tarsisa (Personne)",
+    "content_id": 788745,
+    "reference_id": 6996,
+    "title": "Procurateur",
     "media_type": "Text",
-    "index_reference": "tarsis, tarsisa (personne)",
+    "index_reference": "procurateur",
     "language": "fra",
-    "content": "<h1>TARSIS, TARSISA (Personne)</h1><ol><li><p>L&apos;un des quatre fils de Javan, descendant de Noé par la lignée familiale de Japhet (<a href=\"https://ref.ly/1Chr1:7\">1Ch 1.7</a>).</p></li><li><p>Le sixième des sept fils de Bilhan. Il était un chef compétent dans la tribu de Benjamin et faisait partie de ceux capables de partir en guerre (<a href=\"https://ref.ly/1Chr7:10\">1Ch 7.10</a>).</p></li><li><p>L&apos;un des sept princes de Perse et de Médie. Ces hommes avaient un accès personnel au roi Assuérus (également appelé Xerxès). Leurs positions d&apos;honneur étaient seulement inférieures à celle du roi (<a href=\"https://ref.ly/Esth1:14\">Est 1.14</a>).</p></li></ol>",
+    "content": "<h1>PROCURATEUR</h1><p>Un procurateur était un officier financier de Rome. De nombreuses traductions modernes utilisent le terme « gouverneur ». Il était généralement issu du rang équestre (classe moyenne supérieure de la société romaine). Le travail du procurateur comprenait la supervision et la collecte des impôts impériaux dans une province assignée. En Judée et dans d&apos;autres petites provinces de l&apos;Empire romain, le procurateur agissait parfois comme gouverneur de cette région.</p><p>Un procurateur ne gérait pas seulement les finances, mais avait également une autorité judiciaire et militaire. Sa principale responsabilité était de maintenir la paix dans sa juridiction. Le Nouveau Testament mentionne trois procurateurs romains :</p><ul><li><p>Ponce Pilate était procurateur de 26 à 36 apr. J.‑C. (voir <a href=\"https://ref.ly/Matt27:1-Matt27:66\">Mt 27</a> ; <a href=\"https://ref.ly/John18:1-John19:42\">Jn 18–19</a>).</p></li><li><p>Antonius Félix était procurateur de 52 à 59 apr. J.‑C. (voir <a href=\"https://ref.ly/Acts23:24-Acts25:14\">Ac 23.24–25.14</a>).</p></li><li><p>Porcius Festus fut procurateur de 59 à 62 apr. J.‑C. (voir <a href=\"https://ref.ly/Acts24:27-Acts26:32\">Ac 24.27–26.32</a>).</p></li></ul><p>Ces administrateurs étaient subordonnés au gouverneur de la Syrie, à qui ils devaient rendre des comptes.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4417\" data-resourceType=\"TyndaleBibleDictionary\">Félix, Antoine</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"4422\" data-resourceType=\"TyndaleBibleDictionary\">Festus, Porcius</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"6902\" data-resourceType=\"TyndaleBibleDictionary\">Pilate, Ponce</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13001007",
-          "start_ref_usfm": "1CH 1:7",
-          "end_ref": "13001007",
-          "end_ref_usfm": "1CH 1:7"
+          "start_ref": "43018001",
+          "start_ref_usfm": "JHN 18:1",
+          "end_ref": "43019042",
+          "end_ref_usfm": "JHN 19:42"
         },
         {
-          "start_ref": "13007010",
-          "start_ref_usfm": "1CH 7:10",
-          "end_ref": "13007010",
-          "end_ref_usfm": "1CH 7:10"
+          "start_ref": "44023024",
+          "start_ref_usfm": "ACT 23:24",
+          "end_ref": "44025014",
+          "end_ref_usfm": "ACT 25:14"
         },
         {
-          "start_ref": "17001014",
-          "start_ref_usfm": "EST 1:14",
-          "end_ref": "17001014",
-          "end_ref_usfm": "EST 1:14"
+          "start_ref": "44024027",
+          "start_ref_usfm": "ACT 24:27",
+          "end_ref": "44026032",
+          "end_ref_usfm": "ACT 26:32"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4417,
+          "content_id": 788722,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Félix, Antonius",
+          "language": "fra"
+        },
+        {
+          "reference_id": 4422,
+          "content_id": 788723,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Festus, Porcius",
+          "language": "fra"
+        },
+        {
+          "reference_id": 6902,
+          "content_id": 728142,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Pilate, Ponce",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

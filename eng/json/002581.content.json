@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 5835,
-    "reference_id": 5003,
-    "title": "Hezion",
+    "content_id": 5832,
+    "reference_id": 5000,
+    "title": "Hezekiah’s Tunnel",
     "media_type": "Text",
-    "index_reference": "hezion",
+    "index_reference": "hezekiah’s tunnel",
     "language": "eng",
-    "content": "<h1>HEZION</h1><p>Tabrimmon’s father and the grandfather of Ben-hadad, king of Syria. Ben-hadad formed an alliance with King Asa of Judah (910–869 BC) and opposed Israel’s King Baasha (908–886 BC; <a href=\"https://ref.ly/1Kgs15:18\">1&nbsp;Kgs 15:18</a>).</p>",
+    "content": "<h1>HEZEKIAH’S TUNNEL*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7662\" data-resourceType=\"TyndaleBibleDictionary\">Siloam, Pool of</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "11015018",
-          "start_ref_usfm": "1KI 15:18",
-          "end_ref": "11015018",
-          "end_ref_usfm": "1KI 15:18"
+          "reference_id": 7662,
+          "content_id": 8494,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Siloam, Pool of",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

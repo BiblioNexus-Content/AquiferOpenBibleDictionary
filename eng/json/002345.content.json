@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 5600,
-    "reference_id": 4768,
-    "title": "Hakkatan",
+    "content_id": 5599,
+    "reference_id": 4767,
+    "title": "Hakilah",
     "media_type": "Text",
-    "index_reference": "hakkatan",
+    "index_reference": "hakilah",
     "language": "eng",
-    "content": "<h1>HAKKATAN</h1><p>Member of Azgad’s family, the father of Johanan, and one of the exiles who returned to Jerusalem with Ezra (<a href=\"https://ref.ly/Ezra8:12\">Ezr 8:12</a>).</p>",
+    "content": "<h1>HAKILAH</h1><p>Another spelling of Hachilah, an unidentified site in Horesh.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4731\" data-resourceType=\"TyndaleBibleDictionary\">Hachilah</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "15008012",
-          "start_ref_usfm": "EZR 8:12",
-          "end_ref": "15008012",
-          "end_ref_usfm": "EZR 8:12"
+          "reference_id": 4731,
+          "content_id": 5563,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Hachilah",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

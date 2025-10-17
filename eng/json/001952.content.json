@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 5211,
-    "reference_id": 4379,
-    "title": "Ezar",
+    "content_id": 5210,
+    "reference_id": 4378,
+    "title": "Eye Paint",
     "media_type": "Text",
-    "index_reference": "ezar",
+    "index_reference": "eye paint",
     "language": "eng",
-    "content": "<h1>EZAR*</h1><p>KJV spelling of Ezer, Seir’s son, in <a href=\"https://ref.ly/1Chr1:38\">1&nbsp;Chronicles 1:38</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4387\" data-resourceType=\"TyndaleBibleDictionary\">Ezer #1</span>.</p>",
+    "content": "<h1>EYE PAINT</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3832\" data-resourceType=\"TyndaleBibleDictionary\">Cosmetics</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "13001038",
-          "start_ref_usfm": "1CH 1:38",
-          "end_ref": "13001038",
-          "end_ref_usfm": "1CH 1:38"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 4387,
-          "content_id": 5219,
+          "reference_id": 3832,
+          "content_id": 4664,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ezer",
+          "label": "Cosmetics",
           "language": "eng"
         }
       ]

@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 7414,
-    "reference_id": 6582,
-    "title": "No-Amon",
+    "content_id": 3744,
+    "reference_id": 2912,
+    "title": "Noah's Ark",
     "media_type": "Text",
-    "index_reference": "no-amon",
+    "index_reference": "noah's ark",
     "language": "eng",
-    "content": "<h1>NO-AMON*</h1><p>Alternate reading for No, the Hebrew name for Thebes, capital of upper Egypt (<a href=\"https://ref.ly/Nah3:8\">Na 3:8</a>, nlt mg). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7978\" data-resourceType=\"TyndaleBibleDictionary\">Thebes</span>.</p>",
+    "content": "<h1> NOAH’S ARK</h1><p>A large boat described in the Bible, built by Noah to save his family and animals from a great flood (Genesis 6:14–16).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6581\" data-resourceType=\"TyndaleBibleDictionary\">Noah #1</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "34003008",
-          "start_ref_usfm": "NAM 3:8",
-          "end_ref": "34003008",
-          "end_ref_usfm": "NAM 3:8"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 7978,
-          "content_id": 8810,
+          "reference_id": 6581,
+          "content_id": 7413,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Thebes",
+          "label": "Noah",
           "language": "eng"
         }
       ]

@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 5050,
-    "reference_id": 4218,
-    "title": "Elpalet",
+    "content_id": 5049,
+    "reference_id": 4217,
+    "title": "Elpaal",
     "media_type": "Text",
-    "index_reference": "elpalet",
+    "index_reference": "elpaal",
     "language": "eng",
-    "content": "<h1>ELPALET*</h1><p>KJV spelling of Elpelet, an alternate name for David’s son Eliphelet in <a href=\"https://ref.ly/1Chr14:5\">1&nbsp;Chronicles 14:5</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4188\" data-resourceType=\"TyndaleBibleDictionary\">Eliphelet #3</span>.</p>",
+    "content": "<h1>ELPAAL</h1><p>Benjamite and one of Shaharaim’s sons (<a href=\"https://ref.ly/1Chr8:11-1Chr8:12,1Chr8:18\">1&nbsp;Chr 8:11–12, 18</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13014005",
-          "start_ref_usfm": "1CH 14:5",
-          "end_ref": "13014005",
-          "end_ref_usfm": "1CH 14:5"
+          "start_ref": "13008018",
+          "start_ref_usfm": "1CH 8:18",
+          "end_ref": "13008018",
+          "end_ref_usfm": "1CH 8:18"
+        },
+        {
+          "start_ref": "13008011",
+          "start_ref_usfm": "1CH 8:11",
+          "end_ref": "13008012",
+          "end_ref_usfm": "1CH 8:12"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4188,
-          "content_id": 5020,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Eliphelet",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

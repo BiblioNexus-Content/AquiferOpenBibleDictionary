@@ -1,45 +1,27 @@
 [
   {
-    "content_id": 6709,
-    "reference_id": 5877,
-    "title": "Lebo-Hamath",
+    "content_id": 6708,
+    "reference_id": 5876,
+    "title": "Lebbaeus",
     "media_type": "Text",
-    "index_reference": "lebo-hamath",
+    "index_reference": "lebbaeus",
     "language": "eng",
-    "content": "<h1>LEBO-HAMATH</h1><p>Town on the Orontes River below Riblah; perhaps the correct reading for the phrase “entrance of Hamath” in numerous OT passages (<a href=\"https://ref.ly/Num34:8\">Nm 34:8</a>; <a href=\"https://ref.ly/1Kgs8:65\">1&nbsp;Kgs 8:65</a>; <a href=\"https://ref.ly/2Kgs14:25\">2&nbsp;Kgs 14:25</a>; <a href=\"https://ref.ly/Ezek47:15\">Ez 47:15</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4785\" data-resourceType=\"TyndaleBibleDictionary\">Hamath #1</span>.</p>",
+    "content": "<h1>LEBBAEUS</h1><p>An alternate name in the King James Version given to Thaddaeus, one of the 12 disciples, in <a href=\"https://ref.ly/Matt10:3\">Matthew 10:3</a>. Most versions do not include the name, which comes from a textual variant followed by the King James Version&apos;s translators. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7969\" data-resourceType=\"TyndaleBibleDictionary\">Thaddaeus, The Apostle</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04034008",
-          "start_ref_usfm": "NUM 34:8",
-          "end_ref": "04034008",
-          "end_ref_usfm": "NUM 34:8"
-        },
-        {
-          "start_ref": "11008065",
-          "start_ref_usfm": "1KI 8:65",
-          "end_ref": "11008065",
-          "end_ref_usfm": "1KI 8:65"
-        },
-        {
-          "start_ref": "12014025",
-          "start_ref_usfm": "2KI 14:25",
-          "end_ref": "12014025",
-          "end_ref_usfm": "2KI 14:25"
-        },
-        {
-          "start_ref": "26047015",
-          "start_ref_usfm": "EZK 47:15",
-          "end_ref": "26047015",
-          "end_ref_usfm": "EZK 47:15"
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
         }
       ],
       "resource": [
         {
-          "reference_id": 4785,
-          "content_id": 5617,
+          "reference_id": 7969,
+          "content_id": 8801,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Hamath",
+          "label": "Thaddaeus, the Apostle",
           "language": "eng"
         }
       ]

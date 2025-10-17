@@ -1,34 +1,23 @@
 [
   {
-    "content_id": 5078,
-    "reference_id": 4246,
-    "title": "Endor",
+    "content_id": 718557,
+    "reference_id": 209538,
+    "title": "Endive",
     "media_type": "Text",
-    "index_reference": "endor",
+    "index_reference": "endive",
     "language": "eng",
-    "content": "<h1>ENDOR</h1><p>Ancient Canaanite city, four miles (6.5 kilometers) south of Mt Tabor, assigned to the tribe of Manasseh, though never fully taken by them (<a href=\"https://ref.ly/Josh17:11\">Jos 17:11</a>). The city witnessed the defeat of Jabin and Sisera by Barak (<a href=\"https://ref.ly/Ps83:9-Ps83:10\">Ps 83:9–10</a>). Endor is best known as the dwelling place of the witch who was called upon by King Saul (<a href=\"https://ref.ly/1Sam28:7\">1&nbsp;Sm 28:7</a>). On that occasion, Saul disguised himself because his journey to Endor took him near the Philistine army encamped at Shunem.</p>",
+    "content": "<h1>Endive</h1><p>Endive (<em>Cichorium endivia</em>) is a leafy vegetable with a slightly bitter taste. It is related to chicory and has curly leaves that grow in a loose head. Endive grows well in the Middle East and has been cultivated as a food plant in the region for centuries.</p><p>Some scholars suggest that endive may have been among the bitter herbs (<em>merorim</em>) eaten by the Israelites during Passover (<a href=\"https://ref.ly/Exod12:8\">Exodus 12:8</a>), though the Bible does not specify which plants were used. In ancient times, people ate endive both raw and cooked as a green vegetable.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3428\" data-resourceType=\"TyndaleBibleDictionary\">Bitter Herbs</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "06017011",
-          "start_ref_usfm": "JOS 17:11",
-          "end_ref": "06017011",
-          "end_ref_usfm": "JOS 17:11"
-        },
-        {
-          "start_ref": "09028007",
-          "start_ref_usfm": "1SA 28:7",
-          "end_ref": "09028007",
-          "end_ref_usfm": "1SA 28:7"
-        },
-        {
-          "start_ref": "19083009",
-          "start_ref_usfm": "PSA 83:9",
-          "end_ref": "19083010",
-          "end_ref_usfm": "PSA 83:10"
+          "reference_id": 3428,
+          "content_id": 4260,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Bitter Herbs",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

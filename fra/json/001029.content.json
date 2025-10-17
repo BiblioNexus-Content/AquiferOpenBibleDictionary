@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 806151,
-    "reference_id": 8075,
-    "title": "Trachonite",
+    "content_id": 811871,
+    "reference_id": 7185,
+    "title": "Réuma",
     "media_type": "Text",
-    "index_reference": "trachonite",
+    "index_reference": "réuma",
     "language": "fra",
-    "content": "<h1>TRACHONITE</h1><p>Une des cinq provinces romaines à l&apos;est du Jourdain. Les autres provinces romaines à l&apos;est du Jourdain étaient la Batanée, la Gaulanitide, l&apos;Auranitide et l&apos;Iturée. Cette région, qui pouvait inclure des parties de Gaulanitide, de la Batanée et de l&apos;&apos;Auranitide, faisait partie de la tétrarchie gouvernée par Philippe, le frère d&apos;Hérode (<a href=\"https://ref.ly/Luke3:1\">Lc 3.1</a>). La <span>Trachonite</span> était une zone aride située au nord-est de la mer de Galilée. En araméen, elle était connue sous le nom d&apos;<em>Argob</em>, signifiant « tas de pierres », une description apte du terrain accidenté et rocheux.</p><p>Mis à part la référence dans Luc, la Traconitide est rarement mentionnée dans les archives historiques. L&apos;historien juif Josèphe suggère qu&apos;Uts, le fils d&apos;Aram (voir <a href=\"https://ref.ly/Gen10:23\">Gn 10.23</a>), a colonisé la région. Les Romains ont pris le contrôle de la Traconitide lorsqu&apos;Auguste a vaincu un chef de bandits local, Zénodore. Il a ensuite donné la terre à Hérode le Grand, à condition qu&apos;il réprime les bandits. Après la mort d&apos;Hérode, son fils Philippe héritera de la terre, mais n&apos;en avait probablement le contrôle qu&apos;en nom.</p><p>Aujourd&apos;hui, la région s&apos;appelle <em>el-Lejah</em> et est située dans le sud de la Syrie et le nord de la Jordanie.</p>",
+    "content": "<h1>RÉUMA</h1><p>Concubine de Nachor (<a href=\"https://ref.ly/Gen22:24\">Gn 22.24</a>). Ses quatre fils sont devenus les ancêtres des tribus araméennes vivant au nord de Damas.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010023",
-          "start_ref_usfm": "GEN 10:23",
-          "end_ref": "01010023",
-          "end_ref_usfm": "GEN 10:23"
-        },
-        {
-          "start_ref": "42003001",
-          "start_ref_usfm": "LUK 3:1",
-          "end_ref": "42003001",
-          "end_ref_usfm": "LUK 3:1"
+          "start_ref": "01022024",
+          "start_ref_usfm": "GEN 22:24",
+          "end_ref": "01022024",
+          "end_ref_usfm": "GEN 22:24"
         }
       ],
       "resource": []

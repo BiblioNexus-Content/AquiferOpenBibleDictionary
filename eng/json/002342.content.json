@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 5598,
-    "reference_id": 4766,
-    "title": "Hai",
+    "content_id": 5596,
+    "reference_id": 4764,
+    "title": "Hahiroth",
     "media_type": "Text",
-    "index_reference": "hai",
+    "index_reference": "hahiroth",
     "language": "eng",
-    "content": "<h1>HAI*</h1><p>KJV form for the Canaanite city Ai in <a href=\"https://ref.ly/Gen12:8\">Genesis 12:8</a> and <a href=\"https://ref.ly/Gen13:3\">13:3</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2647\" data-resourceType=\"TyndaleBibleDictionary\">Ai</span>.</p>",
+    "content": "<h1>HAHIROTH</h1><p>Another name for &quot;Pi-hahiroth,&quot; a place that the Israelites visited on their journey from Egypt to the promised land (<a href=\"https://ref.ly/Num33:8\">Numbers 33:8</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6901\" data-resourceType=\"TyndaleBibleDictionary\">Pi-hahiroth</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01012008",
-          "start_ref_usfm": "GEN 12:8",
-          "end_ref": "01012008",
-          "end_ref_usfm": "GEN 12:8"
-        },
-        {
-          "start_ref": "01013003",
-          "start_ref_usfm": "GEN 13:3",
-          "end_ref": "01013003",
-          "end_ref_usfm": "GEN 13:3"
+          "start_ref": "04033008",
+          "start_ref_usfm": "NUM 33:8",
+          "end_ref": "04033008",
+          "end_ref_usfm": "NUM 33:8"
         }
       ],
       "resource": [
         {
-          "reference_id": 2647,
-          "content_id": 3479,
+          "reference_id": 6901,
+          "content_id": 7733,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ai",
+          "label": "Pi-hahiroth",
           "language": "eng"
         }
       ]

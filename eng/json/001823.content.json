@@ -1,20 +1,34 @@
 [
   {
-    "content_id": 718557,
-    "reference_id": 209538,
-    "title": "Endive",
+    "content_id": 5077,
+    "reference_id": 4245,
+    "title": "End of the World",
     "media_type": "Text",
-    "index_reference": "endive",
+    "index_reference": "end of the world",
     "language": "eng",
-    "content": "<h1>Endive</h1><p>Endive (<em>Cichorium endivia</em>) is a leafy vegetable with a slightly bitter taste. It is related to chicory and has curly leaves that grow in a loose head. Endive grows well in the Middle East and has been cultivated as a food plant in the region for centuries.</p><p>Some scholars suggest that endive may have been among the bitter herbs (<em>merorim</em>) eaten by the Israelites during Passover (<a href=\"https://ref.ly/Exod12:8\">Exodus 12:8</a>), though the Bible does not specify which plants were used. In ancient times, people ate endive both raw and cooked as a green vegetable.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3428\" data-resourceType=\"TyndaleBibleDictionary\">Bitter Herbs</span>.</p>",
+    "content": "<h1>END OF THE WORLD</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3940\" data-resourceType=\"TyndaleBibleDictionary\">Day of the Lord</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4308\" data-resourceType=\"TyndaleBibleDictionary\">Eschatology</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5856\" data-resourceType=\"TyndaleBibleDictionary\">Last Judgment</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3428,
-          "content_id": 4260,
+          "reference_id": 3940,
+          "content_id": 4772,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bitter Herbs",
+          "label": "Day of the Lord",
+          "language": "eng"
+        },
+        {
+          "reference_id": 4308,
+          "content_id": 5140,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Eschatology",
+          "language": "eng"
+        },
+        {
+          "reference_id": 5856,
+          "content_id": 6688,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Last Judgment",
           "language": "eng"
         }
       ]

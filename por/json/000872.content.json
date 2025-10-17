@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 481542,
-    "reference_id": 4888,
-    "title": "Havilá (Lugar)",
+    "content_id": 759779,
+    "reference_id": 4701,
+    "title": "Grande Lagarto",
     "media_type": "Text",
-    "index_reference": "havilá (lugar)",
+    "index_reference": "grande lagarto",
     "language": "por",
-    "content": "<h1>HAVILÁ (Lugar)</h1><p>Terra na vizinhança do Éden, agora desconhecida, mas diz no texto bíblico que era regada pelo rio Pisom e conter suprimentos de ouro, bdélio e pedra de ônix (<a href=\"https://ref.ly/Gen2:11-Gen2:12\">Gn 2.11–12</a>). A localização de Havilá tem sido objeto de muita disputa. Não pode ter qualquer conexão com a Havilá de <a href=\"https://ref.ly/1Sam15:7\">1&nbsp;Samuel 15.7</a>, onde Saul lutou contra certos amalequitas, porque o local das narrativas do Éden é mesopotâmico e não palestino. Com base no mesmo princípio, qualquer tentativa de localizar Havilá no sul da Arábia, na região da Somália ou Índia estaria equivocada. O “rio” Pisom pode ter sido um canal de irrigação, já que o acádio não tem uma palavra separada para esses dois diferentes corpos de água, e o costume mesopotâmico era nomear grandes canais de irrigação como se fossem rios. Isso ajudaria a explicar a sobrevivência do nome “Pisom” muito tempo depois que o canal havia desaparecido. O Pisom era um dos quatro ramos que o rio formava uma vez que deixava o Éden; portanto, Havilá deve ter estado ao norte, já que a narrativa assume uma perspectiva rio acima. Provavelmente Havilá estava na área geral da planície de Sinar e era regada por um grande canal de irrigação. Tanto Havilá quanto o canal há muito desapareceram.</p>",
+    "content": "<h1>GRANDE LAGARTO</h1><p>Um dos répteis que a lei judaica listava como cerimonialmente impuro (<a href=\"https://ref.ly/Lev11:29\">Lv 11.29</a>). Poucas versões em português descrevem dessa maneira. Em geral as traduções em português trazem apenas &quot;lagarto&quot;.</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5931\" data-resourceType=\"TyndaleBibleDictionary\">Lagarto</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09015007",
-          "start_ref_usfm": "1SA 15:7",
-          "end_ref": "09015007",
-          "end_ref_usfm": "1SA 15:7"
-        },
-        {
-          "start_ref": "01002011",
-          "start_ref_usfm": "GEN 2:11",
-          "end_ref": "01002012",
-          "end_ref_usfm": "GEN 2:12"
+          "start_ref": "03011029",
+          "start_ref_usfm": "LEV 11:29",
+          "end_ref": "03011029",
+          "end_ref_usfm": "LEV 11:29"
         }
       ],
       "resource": []

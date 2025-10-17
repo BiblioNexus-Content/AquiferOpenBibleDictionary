@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4514,
-    "reference_id": 3682,
-    "title": "Chesil",
+    "content_id": 4513,
+    "reference_id": 3681,
+    "title": "Chesed",
     "media_type": "Text",
-    "index_reference": "chesil",
+    "index_reference": "chesed",
     "language": "eng",
-    "content": "<h1>CHESIL</h1><p>A city on the borders of Edom in the Negev. It was given to the tribe of Judah (<a href=\"https://ref.ly/Josh15:30\">Joshua 15:30</a>). In another lists of towns, Chesil is replaced by: </p><ol><li><p>Bethul (<a href=\"https://ref.ly/Josh19:4\">Joshua 19:4</a>)</p></li><li><p>Bethuel (<a href=\"https://ref.ly/1Chr4:30\">1&nbsp;Chronicles 4:30</a>)</p></li><li><p>Perhaps Bethel, though not the Bethel north of Jerusalem (<a href=\"https://ref.ly/1Sam30:27\">1&nbsp;Samel 30:27</a>)</p></li></ol><p>Bethuel or Bethul is considered by many scholars to be the original name, with Chesil as a later error.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3376\" data-resourceType=\"TyndaleBibleDictionary\">Bethuel, Bethul (Place)</span>.</p>",
+    "content": "<h1>CHESED</h1><p>A son of Milcah and Nahor (<a href=\"https://ref.ly/Gen22:22\">Genesis 22:22</a>). Nahor was a brother of the patriarch Abraham.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5733,
-          "content_id": 6565,
+          "reference_id": 5732,
+          "content_id": 6564,
           "resource_code": "Unknown",
-          "label": "Kesil",
+          "label": "Kesed",
           "language": "eng"
         }
       ]

@@ -1,27 +1,40 @@
 [
   {
-    "content_id": 759977,
-    "reference_id": 7331,
-    "title": "Bode expiatório",
+    "content_id": 125240,
+    "reference_id": 3447,
+    "title": "Boanerges*",
     "media_type": "Text",
-    "index_reference": "bode expiatório",
+    "index_reference": "boanerges*",
     "language": "por",
-    "content": "<h1>BODE EXPIATÓRIO</h1><p>O bode do sacrifício era um bode utilizado em uma cerimônia especial no Dia da Expiação (ou, Dia do Perdão) . Durante este importante dia religioso, o sumo sacerdote colocava simbolicamente os pecados de todo o povo israelita neste bode. Em seguida, o bode era enviado para o deserto, simbolicamente levando embora os pecados do povo (<a href=\"https://ref.ly/Lev16:1-Lev16:34\">Lv 16</a>).</p><p><em>Veja também </em><span data-bnType=\"resourceReference\" data-resourceId=\"3034\" data-resourceType=\"TyndaleBibleDictionary\">Expiação, Dia da</span>.</p>",
+    "content": "<h1>BOANERGES*</h1><p>Nome que significa “filhos do trovão” dado por Jesus a Tiago e João, os filhos de Zebedeu (<a href=\"https://ref.ly/Mark3:17\">Mc 3.17</a>). Sua derivação é incerta. O nome pode ter se referido às personalidades voláteis dos dois irmãos (<a href=\"https://ref.ly/Luke9:54\">Lc 9.54</a>), ao seu possível passado revolucionário como zelotes, ou até mesmo a um estilo de fala “trovejante”.</p><p><em>Ver também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5370\" data-resourceType=\"TyndaleBibleDictionary\">Tiago (Pessoa)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5582\" data-resourceType=\"TyndaleBibleDictionary\">João, O Apóstolo</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "03016001",
-          "start_ref_usfm": "LEV 16:1",
-          "end_ref": "03016034",
-          "end_ref_usfm": "LEV 16:34"
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003017",
+          "end_ref_usfm": "MRK 3:17"
+        },
+        {
+          "start_ref": "42009054",
+          "start_ref_usfm": "LUK 9:54",
+          "end_ref": "42009054",
+          "end_ref_usfm": "LUK 9:54"
         }
       ],
       "resource": [
         {
-          "reference_id": 3034,
-          "content_id": 716920,
+          "reference_id": 5370,
+          "content_id": 125278,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Dia da Expiação",
+          "label": "Tiago (Pessoa)",
+          "language": "por"
+        },
+        {
+          "reference_id": 5582,
+          "content_id": 125282,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "João, O Apóstolo",
           "language": "por"
         }
       ]

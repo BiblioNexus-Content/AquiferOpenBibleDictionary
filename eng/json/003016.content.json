@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 6271,
-    "reference_id": 5439,
-    "title": "Jehoadah, Jehoaddah",
+    "content_id": 6270,
+    "reference_id": 5438,
+    "title": "Jehizkiah",
     "media_type": "Text",
-    "index_reference": "jehoadah, jehoaddah",
+    "index_reference": "jehizkiah",
     "language": "eng",
-    "content": "<h1>JEHOADAH*, JEHOADDAH*</h1><p>Ahaz’s son and a descendant of King Saul through Jonathan’s line (<a href=\"https://ref.ly/1Chr8:36\">1&nbsp;Chr 8:36</a>); alternately called Jarah in <a href=\"https://ref.ly/1Chr9:42\">1&nbsp;Chronicles 9:42</a>.</p>",
+    "content": "<h1>JEHIZKIAH</h1><p>Shallum’s son and a chief of Ephraim during the reign of Ahaz in Judah. He opposed the enslavement of the men of Judah by victorious Israel (<a href=\"https://ref.ly/2Chr28:12\">2&nbsp;Chr 28:12</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13008036",
-          "start_ref_usfm": "1CH 8:36",
-          "end_ref": "13008036",
-          "end_ref_usfm": "1CH 8:36"
-        },
-        {
-          "start_ref": "13009042",
-          "start_ref_usfm": "1CH 9:42",
-          "end_ref": "13009042",
-          "end_ref_usfm": "1CH 9:42"
+          "start_ref": "14028012",
+          "start_ref_usfm": "2CH 28:12",
+          "end_ref": "14028012",
+          "end_ref_usfm": "2CH 28:12"
         }
       ],
       "resource": []

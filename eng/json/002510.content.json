@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 5764,
-    "reference_id": 4932,
-    "title": "Hegai, Hege",
+    "content_id": 5763,
+    "reference_id": 4931,
+    "title": "Hedgehog",
     "media_type": "Text",
-    "index_reference": "hegai, hege",
+    "index_reference": "hedgehog",
     "language": "eng",
-    "content": "<h1>HEGAI, HEGE</h1><p>A manager of Ahasuerus&apos;s household and keeper of his harem when Esther was chosen as queen (<a href=\"https://ref.ly/Esth2:3\">Esther 2:3</a>).</p>",
+    "content": "<h1>HEDGEHOG*</h1><p>Small, insect-eating mammal with a coat of short spines and similar to the porcupine (<a href=\"https://ref.ly/Isa14:23\">Is 14:23</a>; <a href=\"https://ref.ly/Zeph2:14\">Zep 2:14</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals (Porcupine)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "17002003",
-          "start_ref_usfm": "EST 2:3",
-          "end_ref": "17002003",
-          "end_ref_usfm": "EST 2:3"
+          "start_ref": "23014023",
+          "start_ref_usfm": "ISA 14:23",
+          "end_ref": "23014023",
+          "end_ref_usfm": "ISA 14:23"
+        },
+        {
+          "start_ref": "36002014",
+          "start_ref_usfm": "ZEP 2:14",
+          "end_ref": "36002014",
+          "end_ref_usfm": "ZEP 2:14"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2782,
+          "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Animals",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7282,
-    "reference_id": 6450,
-    "title": "Nahallal",
+    "content_id": 7281,
+    "reference_id": 6449,
+    "title": "Nahaliel",
     "media_type": "Text",
-    "index_reference": "nahallal",
+    "index_reference": "nahaliel",
     "language": "eng",
-    "content": "<h1>NAHALLAL*</h1><p>KJV spelling of Nahalal, a city of Zebulun, in <a href=\"https://ref.ly/Josh19:15\">Joshua 19:15</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6448\" data-resourceType=\"TyndaleBibleDictionary\">Nahalal</span>.</p>",
+    "content": "<h1>NAHALIEL</h1><p>A temporary camping place for the Israelites during their wilderness wanderings. It was east of the Dead Sea in the region of Moab between Mattanah and Bamoth (<a href=\"https://ref.ly/Num21:19\">Numbers 21:19</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06019015",
-          "start_ref_usfm": "JOS 19:15",
-          "end_ref": "06019015",
-          "end_ref_usfm": "JOS 19:15"
+          "start_ref": "04021019",
+          "start_ref_usfm": "NUM 21:19",
+          "end_ref": "04021019",
+          "end_ref_usfm": "NUM 21:19"
         }
       ],
       "resource": [
         {
-          "reference_id": 6448,
-          "content_id": 7280,
+          "reference_id": 8231,
+          "content_id": 9063,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Nahalal",
+          "label": "Wilderness Wanderings",
           "language": "eng"
         }
       ]

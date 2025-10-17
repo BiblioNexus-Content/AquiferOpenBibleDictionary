@@ -1,14 +1,21 @@
 [
   {
-    "content_id": 7876,
-    "reference_id": 7044,
-    "title": "Qere",
+    "content_id": 7875,
+    "reference_id": 7043,
+    "title": "Pyrrhus",
     "media_type": "Text",
-    "index_reference": "qere",
+    "index_reference": "pyrrhus",
     "language": "eng",
-    "content": "<h1>QERE</h1><p>An Aramaic word meaning “what is&nbsp;to be read.” Until the time of the Masoretes (medieval Jewish scribes), the Hebrew Bible was written only with consonants. The Masoretes, however, thought that the vowels would make the Scriptures easier to read. So, they began to write them&nbsp;with the vowels. </p><p>When they copied a word they thought was unclear as it was written, they would put the word in the margin with other vowels, changing the meaning or intent. The word that was written in the text was called the &quot;Ketib,” and what was to be read was “Qere.” The qere was the word written in the margins.</p>",
+    "content": "<h1>PYRRHUS</h1><p>The father of Sopater of Berea. His son Sopater was one of several men who traveled with the apostle Paul on his return trip through Macedonia (<a href=\"https://ref.ly/Acts20:4\">Acts 20:4</a>).</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        }
+      ],
       "resource": []
     }
   }

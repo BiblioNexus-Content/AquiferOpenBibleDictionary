@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 7690,
-    "reference_id": 6858,
-    "title": "Phanuel",
+    "content_id": 7688,
+    "reference_id": 6856,
+    "title": "Phaltiel",
     "media_type": "Text",
-    "index_reference": "phanuel",
+    "index_reference": "phaltiel",
     "language": "eng",
-    "content": "<h1>PHANUEL</h1><p>The father of Anna. the prophetess. Anna was a prophetess who thanked God and spoke about Jesus when he was brought to the temple as a baby (<a href=\"https://ref.ly/Luke2:36\">Luke 2:36</a>).</p>",
+    "content": "<h1>PHALTIEL</h1><p>An alternate spelling used in the King James Version for the name Paltiel. This refers to the son of Laish mentioned in <a href=\"https://ref.ly/2Sam3:15\">2&nbsp;Samuel 3:15</a>. Phaltiel is another name for Palti. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6734\" data-resourceType=\"TyndaleBibleDictionary\">Palti #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "42002036",
-          "start_ref_usfm": "LUK 2:36",
-          "end_ref": "42002036",
-          "end_ref_usfm": "LUK 2:36"
+          "start_ref": "10003015",
+          "start_ref_usfm": "2SA 3:15",
+          "end_ref": "10003015",
+          "end_ref_usfm": "2SA 3:15"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6734,
+          "content_id": 7566,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Palti",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 161805,
-    "reference_id": 4278,
-    "title": "Efatá*",
+    "content_id": 759726,
+    "reference_id": 4053,
+    "title": "Dofca",
     "media_type": "Text",
-    "index_reference": "efatá*",
+    "index_reference": "dofca",
     "language": "por",
-    "content": "<h1>EFATÁ*</h1><p>Transliteração na voz imperativa da expressão aramaica “seja aberto”, usada por Jesus na cura de um surdo (<a href=\"https://ref.ly/Mark7:34\">Mc 7.34</a>, ARA). Nenhuma tentativa de estabelecer uma fórmula de palavra mágica foi pretendida aqui; Marcos simplesmente preservou a expressão utilizada por Jesus.</p>",
+    "content": "<h1>DOFCA</h1><p>Um nome de uma área perto do Deserto de Sin. Dofca é onde os israelitas acamparam a caminho do Monte Sinai (<a href=\"https://ref.ly/Num33:12-Num33:13\">Nm 33.12–13</a>). Dofca pode ser o mesmo lugar que Serabit el-Khadem. Serabit el-Khadem era um centro de mineração de turquesa egípcio.</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações no deserto</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41007034",
-          "start_ref_usfm": "MRK 7:34",
-          "end_ref": "41007034",
-          "end_ref_usfm": "MRK 7:34"
+          "start_ref": "04033012",
+          "start_ref_usfm": "NUM 33:12",
+          "end_ref": "04033013",
+          "end_ref_usfm": "NUM 33:13"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8231,
+          "content_id": 717332,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Peregrinações no deserto",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

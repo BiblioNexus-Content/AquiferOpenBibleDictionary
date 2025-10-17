@@ -1,20 +1,52 @@
 [
   {
-    "content_id": 6730,
-    "reference_id": 5898,
-    "title": "Levirate Marriage",
+    "content_id": 6728,
+    "reference_id": 5896,
+    "title": "Leviathan",
     "media_type": "Text",
-    "index_reference": "levirate marriage",
+    "index_reference": "leviathan",
     "language": "eng",
-    "content": "<h1>LEVIRATE MARRIAGE*</h1><p>Israelite custom in which a man, upon the death of his brother, marries his brother’s widow and raises up children for his brother. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6123\" data-resourceType=\"TyndaleBibleDictionary\">Marriage, Marriage Customs</span>.</p>",
+    "content": "<h1>LEVIATHAN</h1><p>Great sea monster or large aquatic reptile (<a href=\"https://ref.ly/Job3:8\">Jb 3:8</a>; <a href=\"https://ref.ly/Ps74:14\">Pss 74:14</a>; <a href=\"https://ref.ly/Ps104:26\">104:26</a>; <a href=\"https://ref.ly/Isa27:1\">Is 27:1</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "18003008",
+          "start_ref_usfm": "JOB 3:8",
+          "end_ref": "18003008",
+          "end_ref_usfm": "JOB 3:8"
+        },
+        {
+          "start_ref": "19074014",
+          "start_ref_usfm": "PSA 74:14",
+          "end_ref": "19074014",
+          "end_ref_usfm": "PSA 74:14"
+        },
+        {
+          "start_ref": "19104026",
+          "start_ref_usfm": "PSA 104:26",
+          "end_ref": "19104026",
+          "end_ref_usfm": "PSA 104:26"
+        },
+        {
+          "start_ref": "23027001",
+          "start_ref_usfm": "ISA 27:1",
+          "end_ref": "23027001",
+          "end_ref_usfm": "ISA 27:1"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 6123,
-          "content_id": 6955,
+          "reference_id": 2782,
+          "content_id": 3614,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Marriage, Marriage Customs",
+          "label": "Animals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 3864,
+          "content_id": 4696,
+          "resource_code": "Unknown",
+          "label": "Crocodile",
           "language": "eng"
         }
       ]

@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 6751,
-    "reference_id": 5919,
-    "title": "Likhi",
+    "content_id": 6750,
+    "reference_id": 5918,
+    "title": "Ligure",
     "media_type": "Text",
-    "index_reference": "likhi",
+    "index_reference": "ligure",
     "language": "eng",
-    "content": "<h1>LIKHI</h1><p>Shemida’s son from Manasseh’s tribe (<a href=\"https://ref.ly/1Chr7:19\">1&nbsp;Chr 7:19</a>).</p>",
+    "content": "<h1>LIGURE</h1><p>The King James Version translation for jacinth in <a href=\"https://ref.ly/Exod28:19\">Exodus 28:19</a> and <a href=\"https://ref.ly/Exod39:12\">39:12</a>.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7796\" data-resourceType=\"TyndaleBibleDictionary\">Stones, Precious</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13007019",
-          "start_ref_usfm": "1CH 7:19",
-          "end_ref": "13007019",
-          "end_ref_usfm": "1CH 7:19"
+          "start_ref": "02028019",
+          "start_ref_usfm": "EXO 28:19",
+          "end_ref": "02028019",
+          "end_ref_usfm": "EXO 28:19"
+        },
+        {
+          "start_ref": "02039012",
+          "start_ref_usfm": "EXO 39:12",
+          "end_ref": "02039012",
+          "end_ref_usfm": "EXO 39:12"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 7796,
+          "content_id": 8628,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Stones, Precious",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

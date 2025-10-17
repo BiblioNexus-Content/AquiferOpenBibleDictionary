@@ -1,28 +1,51 @@
 [
   {
-    "content_id": 7093,
-    "reference_id": 6261,
-    "title": "Metheg-ammah",
+    "content_id": 7092,
+    "reference_id": 6260,
+    "title": "Metallurgy",
     "media_type": "Text",
-    "index_reference": "metheg-ammah",
+    "index_reference": "metallurgy",
     "language": "eng",
-    "content": "<h1>METHEG-AMMAH</h1><p>A place was a place conquered by King David (<a href=\"https://ref.ly/2Sam8:1\">2&nbsp;Samuel 8:1</a>). The name means &quot;Bridle of the Mother City.&quot; This place was most likely the Philistine capital city called Gath (<a href=\"https://ref.ly/1Chr18:1\">1&nbsp;Chronicles 18:1</a>). In ancient times, people often called a capital city a &quot;mother&quot; city and the smaller surrounding cities were called &quot;daughters.&quot; The word &quot;bridle&quot; in the name shows control or authority, meaning that whoever controlled this city had power over the whole region.</p>",
+    "content": "<h1>METALLURGY</h1><p>A field of study about how to find, process, and work with metals. Throughout history, people have developed different ways to get metals from the earth and shape them into tools, weapons, and decorative items.</p><p>The most common metals mentioned in the Bible are:</p><ul><li><p>Gold (used for valuable items and temple decorations)</p></li><li><p>Silver (used for money and jewelry)</p></li><li><p>Copper (used for everyday tools and large containers)</p></li><li><p>Iron (used for strong tools and weapons)</p></li></ul><p><em>See&nbsp;</em><span data-bnType=\"resourceReference\" data-resourceId=\"3812\" data-resourceType=\"TyndaleBibleDictionary\">Coppersmith</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4673\" data-resourceType=\"TyndaleBibleDictionary\">Goldsmith</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5219\" data-resourceType=\"TyndaleBibleDictionary\">Ironsmith</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7666\" data-resourceType=\"TyndaleBibleDictionary\">Silversmith</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "10008001",
-          "start_ref_usfm": "2SA 8:1",
-          "end_ref": "10008001",
-          "end_ref_usfm": "2SA 8:1"
+          "reference_id": 3812,
+          "content_id": 4644,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Coppersmith",
+          "language": "eng"
         },
         {
-          "start_ref": "13018001",
-          "start_ref_usfm": "1CH 18:1",
-          "end_ref": "13018001",
-          "end_ref_usfm": "1CH 18:1"
+          "reference_id": 4673,
+          "content_id": 5505,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Goldsmith",
+          "language": "eng"
+        },
+        {
+          "reference_id": 5219,
+          "content_id": 6051,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Ironsmith",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6313,
+          "content_id": 7145,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Minerals and Metals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 7666,
+          "content_id": 8498,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Silversmith",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

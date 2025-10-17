@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 806079,
-    "reference_id": 6079,
-    "title": "Mamré (Personne)",
+    "content_id": 806049,
+    "reference_id": 5229,
+    "title": "Jisca",
     "media_type": "Text",
-    "index_reference": "mamré (personne)",
+    "index_reference": "jisca",
     "language": "fra",
-    "content": "<h1>MAMRÉ (Personne)</h1><p>Propriétaire d&apos;une parcelle de terre appelée « <span>les chênes de</span> Mamré ». Il était un Amoréen et est mentionné comme ayant deux frères : Aner et Eschcol (<a href=\"https://ref.ly/Gen14:13\">Gn 14.13</a>). Ceux-ci sont devenus alliés d&apos;Abraham lorsqu&apos;il combattra pour sauver son neveu Lot.</p>",
+    "content": "<h1>JISCA</h1><p>Fille de Haran et sœur de Milca (<a href=\"https://ref.ly/Gen11:29\">Gn 11.29</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014013",
-          "start_ref_usfm": "GEN 14:13",
-          "end_ref": "01014013",
-          "end_ref_usfm": "GEN 14:13"
+          "start_ref": "01011029",
+          "start_ref_usfm": "GEN 11:29",
+          "end_ref": "01011029",
+          "end_ref_usfm": "GEN 11:29"
         }
       ],
       "resource": []

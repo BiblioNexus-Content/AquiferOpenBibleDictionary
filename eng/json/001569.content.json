@@ -1,46 +1,55 @@
 [
   {
-    "content_id": 4822,
-    "reference_id": 3990,
-    "title": "Deuel",
+    "content_id": 4819,
+    "reference_id": 3987,
+    "title": "Destiny",
     "media_type": "Text",
-    "index_reference": "deuel",
+    "index_reference": "destiny",
     "language": "eng",
-    "content": "<h1>DEUEL</h1><p>Deuel was the father of Eliasaph. Eliasaph led the tribe of Gad during the wilderness wanderings of the Israelites (<a href=\"https://ref.ly/Num1:14\">Numbers 1:14</a>; <a href=\"https://ref.ly/Num7:42,Num7:47\">7:42, 47</a>; <a href=\"https://ref.ly/Num10:20\">10:20</a>). In <a href=\"https://ref.ly/Num2:14\">Numbers 2:14</a>, most manuscripts spell his name Reuel. Some others spell it Deuel. This is due to a confusing similarity between the Hebrew letters for “d” and “r.”</p>",
+    "content": "<h1>DESTINY</h1><ol><li><p>A pagan god (Meni) mentioned in connection with another pagan god (Gad). This god was probably a god of good luck or fortune (<a href=\"https://ref.ly/Isa65:11\">Isaiah 65:11</a>).</p></li><li><p>The determined future of the Hebrews as God’s chosen people (<a href=\"https://ref.ly/Exod19:5-Exod19:6\">Exodus 19:5–6</a>). In the New Testament, eternal destiny depends upon a person’s relationship with Jesus (<a href=\"https://ref.ly/Acts17:30-Acts17:31\">Acts 17:30–31</a>; <a href=\"https://ref.ly/1John5:1-1John5:5\">1&nbsp;John 5:1–5</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4149\" data-resourceType=\"TyndaleBibleDictionary\">Elect, Election</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4459\" data-resourceType=\"TyndaleBibleDictionary\">Foreordination</span>.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04001014",
-          "start_ref_usfm": "NUM 1:14",
-          "end_ref": "04001014",
-          "end_ref_usfm": "NUM 1:14"
+          "start_ref": "23065011",
+          "start_ref_usfm": "ISA 65:11",
+          "end_ref": "23065011",
+          "end_ref_usfm": "ISA 65:11"
         },
         {
-          "start_ref": "04002014",
-          "start_ref_usfm": "NUM 2:14",
-          "end_ref": "04002014",
-          "end_ref_usfm": "NUM 2:14"
+          "start_ref": "02019005",
+          "start_ref_usfm": "EXO 19:5",
+          "end_ref": "02019006",
+          "end_ref_usfm": "EXO 19:6"
         },
         {
-          "start_ref": "04007042",
-          "start_ref_usfm": "NUM 7:42",
-          "end_ref": "04007042",
-          "end_ref_usfm": "NUM 7:42"
+          "start_ref": "44017030",
+          "start_ref_usfm": "ACT 17:30",
+          "end_ref": "44017031",
+          "end_ref_usfm": "ACT 17:31"
         },
         {
-          "start_ref": "04007047",
-          "start_ref_usfm": "NUM 7:47",
-          "end_ref": "04007047",
-          "end_ref_usfm": "NUM 7:47"
-        },
-        {
-          "start_ref": "04010020",
-          "start_ref_usfm": "NUM 10:20",
-          "end_ref": "04010020",
-          "end_ref_usfm": "NUM 10:20"
+          "start_ref": "62005001",
+          "start_ref_usfm": "1JN 5:1",
+          "end_ref": "62005005",
+          "end_ref_usfm": "1JN 5:5"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4149,
+          "content_id": 4981,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Elect, Election",
+          "language": "eng"
+        },
+        {
+          "reference_id": 4459,
+          "content_id": 5291,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Foreordination",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

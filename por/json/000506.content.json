@@ -1,78 +1,70 @@
 [
   {
-    "content_id": 682901,
-    "reference_id": 3919,
-    "title": "Dã (Pessoa)",
+    "content_id": 815894,
+    "reference_id": 3257,
+    "title": "Crentes",
     "media_type": "Text",
-    "index_reference": "dã (pessoa)",
+    "index_reference": "crentes",
     "language": "por",
-    "content": "<h1>DÃ (Pessoa)</h1><p>Quinto filho do patriarca judeu Jacó. A mãe de Dã era Bila, serva da esposa de Jacó, Raquel (<a href=\"https://ref.ly/Gen30:1-Gen30:6\">Gn 30.1–6</a>). Os descendentes de Dã se estabeleceram em Israel com vista para a Planície de Hula, em território originalmente atribuído a Naftali, irmão (de pai e mãe) de Dã (<a href=\"https://ref.ly/Gen30:7-Gen30:8\">Gn 30.7–8</a>; <a href=\"https://ref.ly/Gen35:25\">35.25</a>; <a href=\"https://ref.ly/Josh19:32-Josh19:48\">Js 19.32–48</a>). Os dois irmãos são mencionados juntos em várias referências (e.g. <a href=\"https://ref.ly/Exod1:4\">Êx 1.4</a>).</p><p>O nome de Dã foi dado a ele não por Bila, mas por Raquel, que considerava a criança como sua. Raquel havia sido estéril por muito tempo — uma vergonha para as mulheres nas culturas antigas — e ela estava com ciúmes da outra esposa de Jacó, Lia, que já lhe havia dado quatro filhos. Raquel via o nascimento do filho de Bila como uma forma de evitar sua vergonha e como a vindicação de Deus de seu status como esposa. O nome Dã (“ele julgou”) significava que Deus a havia julgado e a havia vindicado através do nascimento da criança (<a href=\"https://ref.ly/Gen30:6\">Gn 30.6</a>).</p><p>Evidentemente, Dã teve apenas um filho para continuar sua linhagem, Husim (<a href=\"https://ref.ly/Gen46:23\">Gn 46.23</a>; “Suão”, <a href=\"https://ref.ly/Num26:42-Num26:43\">Nm 26.42–43</a>). Na bênção patriarcal de Jacó, foi prometido a Dã o papel de “juiz” entre seu povo, mas também foi mencionado como alguém furtivo e perigoso, como uma serpente (<a href=\"https://ref.ly/Gen49:16-Gen49:17\">Gn 49.16–17</a>). Como essa bênção se manifestou na vida de seus descendentes é desconhecido. A pequena quantidade de informações dadas sobre o próprio Dã reflete a insignificância de sua tribo em tempos posteriores.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3920\" data-resourceType=\"TyndaleBibleDictionary\">Dã (Lugar)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3921\" data-resourceType=\"TyndaleBibleDictionary\">Dã, Tribo de</span>.</p>",
+    "content": "<h1>CRENTES</h1><p>As pessoas que acreditam. No Novo Testamento, refere-se especificamente às pessoas que acreditam em Jesus como Senhor e o seguem (<a href=\"https://ref.ly/Acts5:14\">At 5.14</a>).</p><p>Poderíamos esperar que o termo “crentes” (às vezes traduzido como “fiéis”) fosse um título para os cristãos, já que o Novo Testamento enfatiza a crença em Jesus. Embora os autores do Novo Testamento tenham destacado a crença, raramente usaram o termo “crente” como nome para os cristãos.</p><p>Existem alguns exemplos claros de &quot;crente&quot; sendo usado como um nome para cristãos em <a href=\"https://ref.ly/Acts4:32\">Atos 4.32</a>, <a href=\"https://ref.ly/Acts10:45\">10.45</a>, <a href=\"https://ref.ly/Acts19:18\">19.18</a>, e <a href=\"https://ref.ly/1Tim4:12\">1 Timóteo 4.12</a>. Mas em outros lugares, o termo é uma descrição, não um nome (<a href=\"https://ref.ly/Acts2:44\">At 2.44</a>; <a href=\"https://ref.ly/Acts15:5\">15.5</a>; <a href=\"https://ref.ly/Acts18:27\">18.27</a>; <a href=\"https://ref.ly/1Tim4:3\">1Tm 4.3</a>). Como nome, &quot;crente&quot; aponta para o compromisso pessoal dos cristãos com Jesus. Os cristãos foram chamados não apenas para acreditar em algo, mas para se entregar a alguém.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01030006",
-          "start_ref_usfm": "GEN 30:6",
-          "end_ref": "01030006",
-          "end_ref_usfm": "GEN 30:6"
+          "start_ref": "44002044",
+          "start_ref_usfm": "ACT 2:44",
+          "end_ref": "44002044",
+          "end_ref_usfm": "ACT 2:44"
         },
         {
-          "start_ref": "01035025",
-          "start_ref_usfm": "GEN 35:25",
-          "end_ref": "01035025",
-          "end_ref_usfm": "GEN 35:25"
+          "start_ref": "44004032",
+          "start_ref_usfm": "ACT 4:32",
+          "end_ref": "44004032",
+          "end_ref_usfm": "ACT 4:32"
         },
         {
-          "start_ref": "01046023",
-          "start_ref_usfm": "GEN 46:23",
-          "end_ref": "01046023",
-          "end_ref_usfm": "GEN 46:23"
+          "start_ref": "44005014",
+          "start_ref_usfm": "ACT 5:14",
+          "end_ref": "44005014",
+          "end_ref_usfm": "ACT 5:14"
         },
         {
-          "start_ref": "02001004",
-          "start_ref_usfm": "EXO 1:4",
-          "end_ref": "02001004",
-          "end_ref_usfm": "EXO 1:4"
+          "start_ref": "44010045",
+          "start_ref_usfm": "ACT 10:45",
+          "end_ref": "44010045",
+          "end_ref_usfm": "ACT 10:45"
         },
         {
-          "start_ref": "01030001",
-          "start_ref_usfm": "GEN 30:1",
-          "end_ref": "01030006",
-          "end_ref_usfm": "GEN 30:6"
+          "start_ref": "44015005",
+          "start_ref_usfm": "ACT 15:5",
+          "end_ref": "44015005",
+          "end_ref_usfm": "ACT 15:5"
         },
         {
-          "start_ref": "01030007",
-          "start_ref_usfm": "GEN 30:7",
-          "end_ref": "01030008",
-          "end_ref_usfm": "GEN 30:8"
+          "start_ref": "44018027",
+          "start_ref_usfm": "ACT 18:27",
+          "end_ref": "44018027",
+          "end_ref_usfm": "ACT 18:27"
         },
         {
-          "start_ref": "06019032",
-          "start_ref_usfm": "JOS 19:32",
-          "end_ref": "06019048",
-          "end_ref_usfm": "JOS 19:48"
+          "start_ref": "44019018",
+          "start_ref_usfm": "ACT 19:18",
+          "end_ref": "44019018",
+          "end_ref_usfm": "ACT 19:18"
         },
         {
-          "start_ref": "04026042",
-          "start_ref_usfm": "NUM 26:42",
-          "end_ref": "04026043",
-          "end_ref_usfm": "NUM 26:43"
+          "start_ref": "54004003",
+          "start_ref_usfm": "1TI 4:3",
+          "end_ref": "54004003",
+          "end_ref_usfm": "1TI 4:3"
         },
         {
-          "start_ref": "01049016",
-          "start_ref_usfm": "GEN 49:16",
-          "end_ref": "01049017",
-          "end_ref_usfm": "GEN 49:17"
+          "start_ref": "54004012",
+          "start_ref_usfm": "1TI 4:12",
+          "end_ref": "54004012",
+          "end_ref_usfm": "1TI 4:12"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3921,
-          "content_id": 716985,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "DÃ, Tribo de",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

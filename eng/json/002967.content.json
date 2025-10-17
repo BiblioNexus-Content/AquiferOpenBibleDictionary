@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 6228,
-    "reference_id": 5396,
-    "title": "Jar",
+    "content_id": 6219,
+    "reference_id": 5387,
+    "title": "Japho",
     "media_type": "Text",
-    "index_reference": "jar",
+    "index_reference": "japho",
     "language": "eng",
-    "content": "<h1>JAR</h1><p>A container made of clay, used to store liquids or dry goods.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6963\" data-resourceType=\"TyndaleBibleDictionary\">Pottery</span>.</p>",
+    "content": "<h1>JAPHO*</h1><p>KJV form of Joppa in <a href=\"https://ref.ly/Josh19:46\">Joshua 19:46</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5603\" data-resourceType=\"TyndaleBibleDictionary\">Joppa</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "06019046",
+          "start_ref_usfm": "JOS 19:46",
+          "end_ref": "06019046",
+          "end_ref_usfm": "JOS 19:46"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 6963,
-          "content_id": 7795,
+          "reference_id": 5603,
+          "content_id": 6435,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Pottery",
+          "label": "Joppa",
           "language": "eng"
         }
       ]

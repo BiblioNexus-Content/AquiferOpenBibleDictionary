@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 6128,
-    "reference_id": 5296,
-    "title": "Izri",
+    "content_id": 6127,
+    "reference_id": 5295,
+    "title": "Izrahite",
     "media_type": "Text",
-    "index_reference": "izri",
+    "index_reference": "izrahite",
     "language": "eng",
-    "content": "<h1>IZRI*</h1><p>Temple musician and head of the 4th of the 24 divisions of priests for service as musicians in the sanctuary (<a href=\"https://ref.ly/1Chr25:11\">1&nbsp;Chr 25:11</a>, nlt mg). He is called Zeri in <a href=\"https://ref.ly/1Chr25:3\">1&nbsp;Chronicles 25:3</a>.</p>",
+    "content": "<h1>IZRAHITE</h1><p>Designation given to Shamhuth, one of David’s 12 monthly captains, meaning a man of a family or town called Izra (<a href=\"https://ref.ly/1Chr27:8\">1&nbsp;Chr 27:8</a>). The word “Izrahite” is perhaps a corruption of “Zerahite,” a descendant of Zerah of Judah (<a href=\"https://ref.ly/1Chr27:11\">1&nbsp;Chr 27:11</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13025003",
-          "start_ref_usfm": "1CH 25:3",
-          "end_ref": "13025003",
-          "end_ref_usfm": "1CH 25:3"
+          "start_ref": "13027008",
+          "start_ref_usfm": "1CH 27:8",
+          "end_ref": "13027008",
+          "end_ref_usfm": "1CH 27:8"
         },
         {
-          "start_ref": "13025011",
-          "start_ref_usfm": "1CH 25:11",
-          "end_ref": "13025011",
-          "end_ref_usfm": "1CH 25:11"
+          "start_ref": "13027011",
+          "start_ref_usfm": "1CH 27:11",
+          "end_ref": "13027011",
+          "end_ref_usfm": "1CH 27:11"
         }
       ],
       "resource": []

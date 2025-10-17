@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 7858,
-    "reference_id": 7026,
-    "title": "Punite",
+    "content_id": 7856,
+    "reference_id": 7024,
+    "title": "Punishment, Eternal",
     "media_type": "Text",
-    "index_reference": "punite",
+    "index_reference": "punishment, eternal",
     "language": "eng",
-    "content": "<h1>PUNITE</h1><p>A Punite was a member of a family group in the tribe of Issachar. Puvah was the leader of this family group (<a href=\"https://ref.ly/Num26:23\">Numbers 26:23</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7040\" data-resourceType=\"TyndaleBibleDictionary\">Puvah</span>.</p>",
+    "content": "<h1>PUNISHMENT, Eternal</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4957\" data-resourceType=\"TyndaleBibleDictionary\">Hell</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "04026023",
-          "start_ref_usfm": "NUM 26:23",
-          "end_ref": "04026023",
-          "end_ref_usfm": "NUM 26:23"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 7040,
-          "content_id": 7872,
+          "reference_id": 4957,
+          "content_id": 5789,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Puvah",
+          "label": "Hell",
           "language": "eng"
         }
       ]

@@ -1,67 +1,37 @@
 [
   {
-    "content_id": 4927,
-    "reference_id": 4095,
-    "title": "Eber",
+    "content_id": 4926,
+    "reference_id": 4094,
+    "title": "Ebenezer",
     "media_type": "Text",
-    "index_reference": "eber",
+    "index_reference": "ebenezer",
     "language": "eng",
-    "content": "<h1>EBER</h1><ol><li><p>Abraham’s ancestor (<a href=\"https://ref.ly/Gen10:21-Gen10:25\">Genesis 10:21–25</a>; <a href=\"https://ref.ly/Gen11:14-Gen11:17\">11:14–17</a>; <a href=\"https://ref.ly/1Chr1:18-1Chr1:25\">1&nbsp;Chronicles 1:18–25</a>; <a href=\"https://ref.ly/Luke3:35\">Luke 3:35</a>). The word “Hebrew” may come from his name. Eber lived 464 years and was the ancestor of the “sons of Eber,” a phrase which may refer to the “Hebrews.” In the same passage “sons of Heth” equals the “Hittites” (<a href=\"https://ref.ly/Gen23:10\">Genesis 23:10</a>). However, the term “Hebrew” may be a sign of social class rather than of descent from Eber. Eber had a son named Peleg. During Peleg&apos;s lifetime, the people on Earth split into two main groups: ones who traveled from place to place (nomads) and ones who stayed in permanent settlements.</p></li><li><p>A Gadite leader during the reigns of Jothan, king of Judah, and Jeroboam II, king of Israel (<a href=\"https://ref.ly/1Chr5:13\">1&nbsp;Chronicles 5:13</a>, “Heber” in the King James Version).</p></li><li><p>Benjamite and Elpaal’s descendant (<a href=\"https://ref.ly/1Chr8:12\">1&nbsp;Chronicles 8:12</a>).</p></li><li><p>Benjamite and Shashak’s descendant (<a href=\"https://ref.ly/1Chr8:22\">1&nbsp;Chronicles 8:22</a>).</p></li><li><p>The head of Amok’s priestly family during the days of the high priest Joiakim (<a href=\"https://ref.ly/Neh12:20\">Nehemiah 12:20</a>).</p></li></ol>",
+    "content": "<h1>EBENEZER</h1><p>1. Site where the Israelite army encamped before a battle with the Philistines (<a href=\"https://ref.ly/1Sam4:1-1Sam4:11\">1&nbsp;Sm 4:1–11</a>). It is thought to have been near Aphek, where the Philistines were encamped. The Israelite army was badly defeated in the battle, and 4,000 of its men were slain on the field. The elders of Israel tried to change their fortunes by bringing the ark of the covenant into their camp, but Israel was again defeated with a loss of 30,000 foot soldiers, and the ark of God was captured (<a href=\"https://ref.ly/1Sam4:3-1Sam4:11\">1&nbsp;Sm 4:3–11</a>; <a href=\"https://ref.ly/1Sam5:1\">5:1</a>).</p><p>2. Site near Mizpah, where God gave Israel a great victory over the Philistines. To commemorate the victory Samuel set up a stone between Mizpah and Jeshanah and called its name Ebenezer, meaning “the stone of help,” for the Lord had helped them get the victory (<a href=\"https://ref.ly/1Sam7:12\">1&nbsp;Sm 7:12</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01023010",
-          "start_ref_usfm": "GEN 23:10",
-          "end_ref": "01023010",
-          "end_ref_usfm": "GEN 23:10"
+          "start_ref": "09005001",
+          "start_ref_usfm": "1SA 5:1",
+          "end_ref": "09005001",
+          "end_ref_usfm": "1SA 5:1"
         },
         {
-          "start_ref": "13005013",
-          "start_ref_usfm": "1CH 5:13",
-          "end_ref": "13005013",
-          "end_ref_usfm": "1CH 5:13"
+          "start_ref": "09007012",
+          "start_ref_usfm": "1SA 7:12",
+          "end_ref": "09007012",
+          "end_ref_usfm": "1SA 7:12"
         },
         {
-          "start_ref": "13008012",
-          "start_ref_usfm": "1CH 8:12",
-          "end_ref": "13008012",
-          "end_ref_usfm": "1CH 8:12"
+          "start_ref": "09004001",
+          "start_ref_usfm": "1SA 4:1",
+          "end_ref": "09004011",
+          "end_ref_usfm": "1SA 4:11"
         },
         {
-          "start_ref": "13008022",
-          "start_ref_usfm": "1CH 8:22",
-          "end_ref": "13008022",
-          "end_ref_usfm": "1CH 8:22"
-        },
-        {
-          "start_ref": "16012020",
-          "start_ref_usfm": "NEH 12:20",
-          "end_ref": "16012020",
-          "end_ref_usfm": "NEH 12:20"
-        },
-        {
-          "start_ref": "42003035",
-          "start_ref_usfm": "LUK 3:35",
-          "end_ref": "42003035",
-          "end_ref_usfm": "LUK 3:35"
-        },
-        {
-          "start_ref": "01010021",
-          "start_ref_usfm": "GEN 10:21",
-          "end_ref": "01010025",
-          "end_ref_usfm": "GEN 10:25"
-        },
-        {
-          "start_ref": "01011014",
-          "start_ref_usfm": "GEN 11:14",
-          "end_ref": "01011017",
-          "end_ref_usfm": "GEN 11:17"
-        },
-        {
-          "start_ref": "13001018",
-          "start_ref_usfm": "1CH 1:18",
-          "end_ref": "13001025",
-          "end_ref_usfm": "1CH 1:25"
+          "start_ref": "09004003",
+          "start_ref_usfm": "1SA 4:3",
+          "end_ref": "09004011",
+          "end_ref_usfm": "1SA 4:11"
         }
       ],
       "resource": []

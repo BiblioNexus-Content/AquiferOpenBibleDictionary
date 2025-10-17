@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 6407,
-    "reference_id": 5575,
-    "title": "Joha",
+    "content_id": 6404,
+    "reference_id": 5572,
+    "title": "Jogli",
     "media_type": "Text",
-    "index_reference": "joha",
+    "index_reference": "jogli",
     "language": "eng",
-    "content": "<h1>JOHA</h1><p>1. Benjamite and one of Beriah’s nine sons (<a href=\"https://ref.ly/1Chr8:16\">1&nbsp;Chr 8:16</a>).</p><p>2. Tizite, the brother of Jediael and one of David’s mighty men (<a href=\"https://ref.ly/1Chr11:45\">1&nbsp;Chr 11:45</a>).</p>",
+    "content": "<h1>JOGLI</h1><p>The father of Bukki. Bukki was a leader from the tribe of Dan. He helped oversee how the promised land west of the Jordan River was divided among the tribes of Israel (<a href=\"https://ref.ly/Num34:22\">Numbers 34:22</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13008016",
-          "start_ref_usfm": "1CH 8:16",
-          "end_ref": "13008016",
-          "end_ref_usfm": "1CH 8:16"
-        },
-        {
-          "start_ref": "13011045",
-          "start_ref_usfm": "1CH 11:45",
-          "end_ref": "13011045",
-          "end_ref_usfm": "1CH 11:45"
+          "start_ref": "04034022",
+          "start_ref_usfm": "NUM 34:22",
+          "end_ref": "04034022",
+          "end_ref_usfm": "NUM 34:22"
         }
       ],
       "resource": []

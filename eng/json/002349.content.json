@@ -1,25 +1,31 @@
 [
   {
-    "content_id": 5605,
-    "reference_id": 4773,
-    "title": "Halak, Mount",
+    "content_id": 5603,
+    "reference_id": 4771,
+    "title": "Halah",
     "media_type": "Text",
-    "index_reference": "halak, mount",
+    "index_reference": "halah",
     "language": "eng",
-    "content": "<h1>HALAK, Mount</h1><p>Mountain listed as marking the southern boundary of Joshua’s conquests (<a href=\"https://ref.ly/Josh11:17\">Jos 11:17</a>; <a href=\"https://ref.ly/Josh12:7\">12:7</a>). It is located in the western Arabah and is probably identical with Jebel Halaq on the northwest side of the Wadi Marra.</p>",
+    "content": "<h1>HALAH</h1><p>Place in Assyria where the inhabitants of Samaria were taken after its fall in 722 BC (<a href=\"https://ref.ly/2Kgs17:6\">2&nbsp;Kgs 17:6</a>; <a href=\"https://ref.ly/2Kgs18:11\">18:11</a>; cf. <a href=\"https://ref.ly/1Chr5:26\">1&nbsp;Chr 5:26</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06011017",
-          "start_ref_usfm": "JOS 11:17",
-          "end_ref": "06011017",
-          "end_ref_usfm": "JOS 11:17"
+          "start_ref": "12017006",
+          "start_ref_usfm": "2KI 17:6",
+          "end_ref": "12017006",
+          "end_ref_usfm": "2KI 17:6"
         },
         {
-          "start_ref": "06012007",
-          "start_ref_usfm": "JOS 12:7",
-          "end_ref": "06012007",
-          "end_ref_usfm": "JOS 12:7"
+          "start_ref": "12018011",
+          "start_ref_usfm": "2KI 18:11",
+          "end_ref": "12018011",
+          "end_ref_usfm": "2KI 18:11"
+        },
+        {
+          "start_ref": "13005026",
+          "start_ref_usfm": "1CH 5:26",
+          "end_ref": "13005026",
+          "end_ref_usfm": "1CH 5:26"
         }
       ],
       "resource": []

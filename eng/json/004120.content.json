@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 7379,
-    "reference_id": 6547,
-    "title": "New Covenant",
+    "content_id": 7378,
+    "reference_id": 6546,
+    "title": "New Commandment",
     "media_type": "Text",
-    "index_reference": "new covenant",
+    "index_reference": "new commandment",
     "language": "eng",
-    "content": "<h1>NEW COVENANT</h1><p>An expression used by Jesus to describe the meaning of his death (<a href=\"https://ref.ly/Luke22:20\">Luke 22:20</a>; compare <a href=\"https://ref.ly/Jer31:31\">Jeremiah 31:31</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3841\" data-resourceType=\"TyndaleBibleDictionary\">Covenant, The New</span>.</p>",
+    "content": "<h1>NEW COMMANDMENT</h1><p>Expression used by Jesus (<a href=\"https://ref.ly/John13:34\">Jn 13:34</a>) to designate his teaching concerning the love of Christians for each other. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3787\" data-resourceType=\"TyndaleBibleDictionary\">Commandment, The New</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "24031031",
-          "start_ref_usfm": "JER 31:31",
-          "end_ref": "24031031",
-          "end_ref_usfm": "JER 31:31"
-        },
-        {
-          "start_ref": "42022020",
-          "start_ref_usfm": "LUK 22:20",
-          "end_ref": "42022020",
-          "end_ref_usfm": "LUK 22:20"
+          "start_ref": "43013034",
+          "start_ref_usfm": "JHN 13:34",
+          "end_ref": "43013034",
+          "end_ref_usfm": "JHN 13:34"
         }
       ],
       "resource": [
         {
-          "reference_id": 3841,
-          "content_id": 4673,
+          "reference_id": 3787,
+          "content_id": 4619,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "The New Covenant",
+          "label": "Commandment, the New",
           "language": "eng"
         }
       ]

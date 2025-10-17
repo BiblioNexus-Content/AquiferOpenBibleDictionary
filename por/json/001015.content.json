@@ -1,99 +1,63 @@
 [
   {
-    "content_id": 658665,
-    "reference_id": 5410,
-    "title": "Javã (Lugar)",
+    "content_id": 682915,
+    "reference_id": 4197,
+    "title": "Isabel",
     "media_type": "Text",
-    "index_reference": "javã (lugar)",
+    "index_reference": "isabel",
     "language": "por",
-    "content": "<h1>JAVÃ (Lugar)</h1><p>Um local comumente identificado com a Grécia. O nome Javã está linguisticamente associado à Jônia, uma região no extremo oeste da Ásia Menor que foi colonizada por gregos. Com o tempo, as pessoas começaram a usar o nome Javã para se referir a toda a Grécia. Em muitos lugares na tradução grega da Bíblia, Javã aparece como “Hellas”, que é outro nome para a Grécia.</p><p>Algumas pistas sobre sua localização são dadas já na &quot;tabela das nações&quot;, onde Javã aparece como o quarto filho de Jafé (<a href=\"https://ref.ly/Gen10:2\">Gn 10.2</a>; compare <a href=\"https://ref.ly/1Chr1:5\">1Cr 1.5</a>). Movendo-se para oeste a partir de Gomer, isso tende a colocá-lo na Europa. Diz-se também que Jafé é o pai de:</p><ul><li><p>Eliseu</p></li><li><p>Társis</p></li><li><p>Quetim</p></li><li><p>Dodanim ou Rodanim (<a href=\"https://ref.ly/Gen10:4\">Gn 10.4</a>; <a href=\"https://ref.ly/1Chr1:7\">1Cr 1.7</a>)</p></li></ul><p>As conexões dessas áreas ou povos são amplamente conhecidas.</p><p>A maioria das referências a Ionia (Grécia) está nos livros proféticos. <a href=\"https://ref.ly/Isa66:19\">Isaías 66.19</a> lista Javã com Társis, Pute, Lude e Tubal. A glória do Senhor será declarada nesses lugares. Estes são considerados representantes das nações distantes.</p><p>Em uma longa profecia contra Tiro, Ezequiel menciona Javã, Tubal e Mesaque. Eles trocavam escravos e vasos de bronze pelos bens de Tiro (<a href=\"https://ref.ly/Ezek27:13\">Ez 27.13</a>). <a href=\"https://ref.ly/Joel3:6\">Joel 3.6</a> condena Tiro por vender o povo de Judá e Jerusalém aos gregos.</p><p><a href=\"https://ref.ly/Ezek27:19\">Ezequiel 27.19</a> no texto hebraico lê-se “Também Dã e Javã, de Uzal”. Certas traduções tratam isso de forma diferente:</p><ul><li><p>&quot;De Uzal traziam para você vinho, ferro trabalhado e especiarias&quot; (NTLH)</p></li><li><p>“Também Dã e Javã, o caminhante, traficavam nas tuas feiras” (ARC)</p></li></ul><p>As referências a Javã em Daniel claramente significam Grécia. O bode que representa o rei da Grécia (<a href=\"https://ref.ly/Dan8:21\">Dn 8.21</a>) é Alexandre, o Grande. Seu império foi dividido entre seus quatro generais após sua morte. O príncipe da Grécia em <a href=\"https://ref.ly/Dan10:20\">Daniel 10.20</a> é comparado ao príncipe da Pérsia em <a href=\"https://ref.ly/Dan10:13,Dan10:20\">Daniel 10.13,20</a>. Foi sugerido que &quot;príncipe&quot; significa anjo guardião. No entanto, a oposição do príncipe da Pérsia ao arcanjo Miguel mostra que &quot;príncipe&quot; é um espírito demoníaco de alta patente (compare <a href=\"https://ref.ly/Eph6:12\">Ef 6.12</a>). <a href=\"https://ref.ly/Dan11:2\">Daniel 11.2</a> prediz um conflito entre Pérsia e Grécia. O próximo versículo fala sobre o sucesso de Alexandre, o Grande, e a divisão de seu império.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4705\" data-resourceType=\"TyndaleBibleDictionary\">Grécia, Grego</span>.</p>",
+    "content": "<h1>Isabel</h1><p>A mãe de João Batista é uma parente de Maria, a mãe de Jesus (<a href=\"https://ref.ly/Luke1:36\">Lc 1.36</a>). Ela pertencia a uma família de sacerdotes (<a href=\"https://ref.ly/Luke1:5\">Lc 1.5</a>). O nome Isabel (ou Elisabete) vem da mesma palavra hebraica que Eliseba, a esposa de Arão (<a href=\"https://ref.ly/Exod6:23\">Êx 6.23</a>). Significa &quot;meu Deus é um juramento&quot;. Somente o Evangelho de Lucas, que frequentemente enfatiza o papel das mulheres, nos conta sobre Isabel e seu marido, Zacarias.</p><p>Lucas destaca que Isabel e Zacarias eram justos e viviam de uma maneira que agradava a Deus (<a href=\"https://ref.ly/Luke1:6\">Lc 1.6</a>). No entanto, o casal era idoso e não tinha filhos, o que muitas vezes era visto como uma desgraça na cultura judaica (<a href=\"https://ref.ly/Gen30:22-Gen30:23\">Gn 30.22–23</a>; <a href=\"https://ref.ly/Luke1:25\">Lc 1.25</a>). Apesar disso, eles permaneceram fiéis em sua adoração e serviço a Deus. Um dia, um anjo do Senhor apareceu a Zacarias, anunciando que Isabel teria um filho. Este filho seria aquele que prepararia o caminho para o Messias Prometido (<a href=\"https://ref.ly/Luke1:13-Luke1:17\">Lc 1.13–17</a>). Quando Isabel ficou grávida, ela permaneceu em reclusão por cinco meses. Durante esse tempo, sua parente Maria veio visitá-la.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5583\" data-resourceType=\"TyndaleBibleDictionary\">João Batista</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010002",
-          "start_ref_usfm": "GEN 10:2",
-          "end_ref": "01010002",
-          "end_ref_usfm": "GEN 10:2"
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006023",
+          "end_ref_usfm": "EXO 6:23"
         },
         {
-          "start_ref": "01010004",
-          "start_ref_usfm": "GEN 10:4",
-          "end_ref": "01010004",
-          "end_ref_usfm": "GEN 10:4"
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
         },
         {
-          "start_ref": "13001005",
-          "start_ref_usfm": "1CH 1:5",
-          "end_ref": "13001005",
-          "end_ref_usfm": "1CH 1:5"
+          "start_ref": "42001006",
+          "start_ref_usfm": "LUK 1:6",
+          "end_ref": "42001006",
+          "end_ref_usfm": "LUK 1:6"
         },
         {
-          "start_ref": "13001007",
-          "start_ref_usfm": "1CH 1:7",
-          "end_ref": "13001007",
-          "end_ref_usfm": "1CH 1:7"
+          "start_ref": "42001025",
+          "start_ref_usfm": "LUK 1:25",
+          "end_ref": "42001025",
+          "end_ref_usfm": "LUK 1:25"
         },
         {
-          "start_ref": "23066019",
-          "start_ref_usfm": "ISA 66:19",
-          "end_ref": "23066019",
-          "end_ref_usfm": "ISA 66:19"
+          "start_ref": "42001036",
+          "start_ref_usfm": "LUK 1:36",
+          "end_ref": "42001036",
+          "end_ref_usfm": "LUK 1:36"
         },
         {
-          "start_ref": "26027013",
-          "start_ref_usfm": "EZK 27:13",
-          "end_ref": "26027013",
-          "end_ref_usfm": "EZK 27:13"
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030023",
+          "end_ref_usfm": "GEN 30:23"
         },
         {
-          "start_ref": "26027019",
-          "start_ref_usfm": "EZK 27:19",
-          "end_ref": "26027019",
-          "end_ref_usfm": "EZK 27:19"
-        },
-        {
-          "start_ref": "27008021",
-          "start_ref_usfm": "DAN 8:21",
-          "end_ref": "27008021",
-          "end_ref_usfm": "DAN 8:21"
-        },
-        {
-          "start_ref": "27010013",
-          "start_ref_usfm": "DAN 10:13",
-          "end_ref": "27010013",
-          "end_ref_usfm": "DAN 10:13"
-        },
-        {
-          "start_ref": "27010020",
-          "start_ref_usfm": "DAN 10:20",
-          "end_ref": "27010020",
-          "end_ref_usfm": "DAN 10:20"
-        },
-        {
-          "start_ref": "27011002",
-          "start_ref_usfm": "DAN 11:2",
-          "end_ref": "27011002",
-          "end_ref_usfm": "DAN 11:2"
-        },
-        {
-          "start_ref": "29003006",
-          "start_ref_usfm": "JOL 3:6",
-          "end_ref": "29003006",
-          "end_ref_usfm": "JOL 3:6"
-        },
-        {
-          "start_ref": "49006012",
-          "start_ref_usfm": "EPH 6:12",
-          "end_ref": "49006012",
-          "end_ref_usfm": "EPH 6:12"
+          "start_ref": "42001013",
+          "start_ref_usfm": "LUK 1:13",
+          "end_ref": "42001017",
+          "end_ref_usfm": "LUK 1:17"
         }
       ],
       "resource": [
         {
-          "reference_id": 4705,
-          "content_id": 161819,
+          "reference_id": 5583,
+          "content_id": 125283,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Grécia, Grego",
+          "label": "João Batista",
           "language": "por"
         }
       ]

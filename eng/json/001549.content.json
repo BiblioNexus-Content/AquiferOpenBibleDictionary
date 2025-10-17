@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 4800,
-    "reference_id": 3968,
-    "title": "Dehavites",
+    "content_id": 4799,
+    "reference_id": 3967,
+    "title": "Degrees, Song of",
     "media_type": "Text",
-    "index_reference": "dehavites",
+    "index_reference": "degrees, song of",
     "language": "eng",
-    "content": "<h1>DEHAVITES*</h1><p>Group of people among those colonized in Samaria by the Assyrian king Ashurbanipal (<a href=\"https://ref.ly/Ezra4:9\">Ezr 4:9</a>). The Dehavites, whom some scholars associate with the Daoi (a Persian tribe originating near the Caspian Sea), wrote to Artaxerxes to protest the rebuilding of Jerusalem by the returning Jewish exiles. Some interpreters suggest that the word translated “Dehavites” could mean “that is,” so that the phrase would read “the men of Susa, that&nbsp;is, the Elamites” (rsv).</p>",
+    "content": "<h1>DEGREES*, Song of</h1><p>Superscription of <a href=\"https://ref.ly/Ps120:1-Ps134:3\">Psalms 120–134</a> (kjv). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7734\" data-resourceType=\"TyndaleBibleDictionary\">Song of Ascents, Song of Degrees</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15004009",
-          "start_ref_usfm": "EZR 4:9",
-          "end_ref": "15004009",
-          "end_ref_usfm": "EZR 4:9"
+          "start_ref": "19120001",
+          "start_ref_usfm": "PSA 120:1",
+          "end_ref": "19134003",
+          "end_ref_usfm": "PSA 134:3"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 7734,
+          "content_id": 8566,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Song of Ascents, Song of Degrees",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

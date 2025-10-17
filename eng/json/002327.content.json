@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 5581,
-    "reference_id": 4749,
-    "title": "Hagaba, Hagabah",
+    "content_id": 5582,
+    "reference_id": 4750,
+    "title": "Hagab",
     "media_type": "Text",
-    "index_reference": "hagaba, hagabah",
+    "index_reference": "hagab",
     "language": "eng",
-    "content": "<h1>HAGABA*, HAGABAH</h1><p>Forefather of a family of temple servants who returned to Jerusalem with Zerubbabel after the Babylonian exile (<a href=\"https://ref.ly/Neh7:48\">Neh 7:48</a>; spelled “Hagabah” in <a href=\"https://ref.ly/Ezra2:45\">Ezr 2:45</a>).</p>",
+    "content": "<h1>HAGAB</h1><p>Ancestor of a family of temple servants returning with Zerubbabel to Palestine following the exile (<a href=\"https://ref.ly/Ezra2:46\">Ezr 2:46</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002045",
-          "start_ref_usfm": "EZR 2:45",
-          "end_ref": "15002045",
-          "end_ref_usfm": "EZR 2:45"
-        },
-        {
-          "start_ref": "16007048",
-          "start_ref_usfm": "NEH 7:48",
-          "end_ref": "16007048",
-          "end_ref_usfm": "NEH 7:48"
+          "start_ref": "15002046",
+          "start_ref_usfm": "EZR 2:46",
+          "end_ref": "15002046",
+          "end_ref_usfm": "EZR 2:46"
         }
       ],
       "resource": []

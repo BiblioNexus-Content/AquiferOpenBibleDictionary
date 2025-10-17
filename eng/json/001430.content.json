@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 4679,
-    "reference_id": 3847,
-    "title": "Cozeba",
+    "content_id": 4678,
+    "reference_id": 3846,
+    "title": "Cozbi",
     "media_type": "Text",
-    "index_reference": "cozeba",
+    "index_reference": "cozbi",
     "language": "eng",
-    "content": "<h1>COZEBA</h1><p>Alternate name of Aczib, a city in Judah’s territory, in <a href=\"https://ref.ly/1Chr4:22\">1&nbsp;Chronicles 4:22</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2524\" data-resourceType=\"TyndaleBibleDictionary\">Aczib #1</span>.</p>",
+    "content": "<h1>COZBI</h1><p>A woman from Midian who had an improper relationship with an Israelite man named Zimri. This relationship broke God&apos;s laws. During this time, a deadly disease was spreading among the Israelites as punishment. Phinehas was the grandson of Aaron the high priest. He stopped the disease by killing both Zimri and Cozbi (<a href=\"https://ref.ly/Num25:15-Num25:18\">Numbers 25:15–18</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13004022",
-          "start_ref_usfm": "1CH 4:22",
-          "end_ref": "13004022",
-          "end_ref_usfm": "1CH 4:22"
+          "start_ref": "04025015",
+          "start_ref_usfm": "NUM 25:15",
+          "end_ref": "04025018",
+          "end_ref_usfm": "NUM 25:18"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 2524,
-          "content_id": 3356,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Aczib",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

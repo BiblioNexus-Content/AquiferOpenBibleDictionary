@@ -1,34 +1,51 @@
 [
   {
-    "content_id": 5551,
-    "reference_id": 4719,
-    "title": "Guni",
+    "content_id": 5549,
+    "reference_id": 4717,
+    "title": "Gum",
     "media_type": "Text",
-    "index_reference": "guni",
+    "index_reference": "gum",
     "language": "eng",
-    "content": "<h1>GUNI</h1><p>1. Naphtali’s son and the grandson of Jacob (<a href=\"https://ref.ly/Gen46:24\">Gn 46:24</a>; <a href=\"https://ref.ly/1Chr7:13\">1&nbsp;Chr 7:13</a>).</p><p>2. Abdiel’s father from Gad’s tribe (<a href=\"https://ref.ly/1Chr5:15\">1&nbsp;Chr 5:15</a>).</p>",
+    "content": "<h1>GUM*</h1><p>General name for tragacanth, used in trade and obtained from the sap of shrubs of the <em>Astragalus</em> genus (<a href=\"https://ref.ly/Gen43:11\">Gn 43:11</a>). These shrubs grew widely in the Near East. Gum from the <em>Astragalus tragacantha</em> is still used commercially. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plants</span> (<span data-bnType=\"resourceReference\" data-resourceId=\"2693\" data-resourceType=\"TyndaleBibleDictionary\">Aloe</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3152\" data-resourceType=\"TyndaleBibleDictionary\">Balm</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6421\" data-resourceType=\"TyndaleBibleDictionary\">Myrrh</span>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01046024",
-          "start_ref_usfm": "GEN 46:24",
-          "end_ref": "01046024",
-          "end_ref_usfm": "GEN 46:24"
-        },
-        {
-          "start_ref": "13005015",
-          "start_ref_usfm": "1CH 5:15",
-          "end_ref": "13005015",
-          "end_ref_usfm": "1CH 5:15"
-        },
-        {
-          "start_ref": "13007013",
-          "start_ref_usfm": "1CH 7:13",
-          "end_ref": "13007013",
-          "end_ref_usfm": "1CH 7:13"
+          "start_ref": "01043011",
+          "start_ref_usfm": "GEN 43:11",
+          "end_ref": "01043011",
+          "end_ref_usfm": "GEN 43:11"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2693,
+          "content_id": 3525,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Aloe",
+          "language": "eng"
+        },
+        {
+          "reference_id": 3152,
+          "content_id": 3984,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Balm, Balsam",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6421,
+          "content_id": 7253,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Myrrh",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6929,
+          "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Plants",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

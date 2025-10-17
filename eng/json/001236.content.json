@@ -1,42 +1,28 @@
 [
   {
-    "content_id": 4490,
-    "reference_id": 3658,
-    "title": "Chasten, Chastisement",
+    "content_id": 4489,
+    "reference_id": 3657,
+    "title": "Chaspho",
     "media_type": "Text",
-    "index_reference": "chasten, chastisement",
+    "index_reference": "chaspho",
     "language": "eng",
-    "content": "<h1>CHASTEN, CHASTISEMENT</h1><p>These terms indicate correction or discipline that is intended to make a person righteous (<a href=\"https://ref.ly/Deut21:18\">Deuteronomy 21:18</a>; <a href=\"https://ref.ly/Job5:17\">Job 5:17</a>; <a href=\"https://ref.ly/2Tim2:25\">2&nbsp;Timothy 2:25</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4027\" data-resourceType=\"TyndaleBibleDictionary\">Discipline</span>.</p>",
+    "content": "<h1>CHASPHO</h1><p>Chaspho was a town east of the Sea of Galilee. It is mentioned in 1 and 2 Maccabees.</p><p>Judas and Jonathan Maccabeus led their army into the region of Transjordan. They captured Chaspho, along with Maked, Bosor, and other cities in Gilead (<a href=\"https://ref.ly/1Macc5:36\">1&nbsp;Maccabees 5:36</a>). </p><p>Most scholars think that Chaspho is the same place called <em>Caspin</em> in <a href=\"https://ref.ly/2Macc12:13\">2&nbsp;Maccabees 12:13</a>. Some believe Chaspho was located at el-Muzeirib in the Hauran plain or at Tell el-Jamid by the Yarmuk River. But today, most scholars place it at Khisfin, about 16 kilometers (10 miles) east of the Sea of Galilee.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05021018",
-          "start_ref_usfm": "DEU 21:18",
-          "end_ref": "05021018",
-          "end_ref_usfm": "DEU 21:18"
+          "start_ref": "78005036",
+          "start_ref_usfm": "1MA 5:36",
+          "end_ref": "78005036",
+          "end_ref_usfm": "1MA 5:36"
         },
         {
-          "start_ref": "18005017",
-          "start_ref_usfm": "JOB 5:17",
-          "end_ref": "18005017",
-          "end_ref_usfm": "JOB 5:17"
-        },
-        {
-          "start_ref": "55002025",
-          "start_ref_usfm": "2TI 2:25",
-          "end_ref": "55002025",
-          "end_ref_usfm": "2TI 2:25"
+          "start_ref": "79012013",
+          "start_ref_usfm": "2MA 12:13",
+          "end_ref": "79012013",
+          "end_ref_usfm": "2MA 12:13"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4027,
-          "content_id": 4859,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Discipline",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

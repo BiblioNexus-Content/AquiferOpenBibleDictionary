@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 5884,
-    "reference_id": 5052,
-    "title": "Holy Place",
+    "content_id": 5883,
+    "reference_id": 5051,
+    "title": "Holy One of Israel",
     "media_type": "Text",
-    "index_reference": "holy place",
+    "index_reference": "holy one of israel",
     "language": "eng",
-    "content": "<h1>HOLY PLACE</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7864\" data-resourceType=\"TyndaleBibleDictionary\">Tabernacle</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7950\" data-resourceType=\"TyndaleBibleDictionary\">Temple</span>.</p>",
+    "content": "<h1>HOLY ONE OF ISRAEL</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4667\" data-resourceType=\"TyndaleBibleDictionary\">God, Names of</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 7864,
-          "content_id": 8696,
+          "reference_id": 4667,
+          "content_id": 5499,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Tabernacle",
-          "language": "eng"
-        },
-        {
-          "reference_id": 7950,
-          "content_id": 8782,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Temple",
+          "label": "God, Names of",
           "language": "eng"
         }
       ]

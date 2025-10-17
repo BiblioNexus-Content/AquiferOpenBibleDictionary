@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5777,
-    "reference_id": 4945,
-    "title": "Helek, Helekite",
+    "content_id": 5776,
+    "reference_id": 4944,
+    "title": "Heled",
     "media_type": "Text",
-    "index_reference": "helek, helekite",
+    "index_reference": "heled",
     "language": "eng",
-    "content": "<h1>HELEK, HELEKITE</h1><p>A son of Gilead from the tribe of Manasseh&nbsp;(<a href=\"https://ref.ly/Josh17:2\">Joshua 17:2</a>). He founded the Helekite clan (<a href=\"https://ref.ly/Num26:30\">Numbers 26:30</a>).</p>",
+    "content": "<h1>HELED</h1><p>Alternate name for Heldai, Baanah’s son, in <a href=\"https://ref.ly/1Chr11:30\">1&nbsp;Chronicles 11:30</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4941\" data-resourceType=\"TyndaleBibleDictionary\">Heldai #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026030",
-          "start_ref_usfm": "NUM 26:30",
-          "end_ref": "04026030",
-          "end_ref_usfm": "NUM 26:30"
-        },
-        {
-          "start_ref": "06017002",
-          "start_ref_usfm": "JOS 17:2",
-          "end_ref": "06017002",
-          "end_ref_usfm": "JOS 17:2"
+          "start_ref": "13011030",
+          "start_ref_usfm": "1CH 11:30",
+          "end_ref": "13011030",
+          "end_ref_usfm": "1CH 11:30"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4941,
+          "content_id": 5773,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Heldai",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

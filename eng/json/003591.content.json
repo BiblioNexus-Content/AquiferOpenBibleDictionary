@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 6849,
-    "reference_id": 6017,
-    "title": "Magdala",
+    "content_id": 6848,
+    "reference_id": 6016,
+    "title": "Magbish",
     "media_type": "Text",
-    "index_reference": "magdala",
+    "index_reference": "magbish",
     "language": "eng",
-    "content": "<h1>MAGDALA</h1><p>A King James Version name used in <a href=\"https://ref.ly/Matt15:39\">Matthew 15:39</a>. Recent versions and translations use the name Magadan. Sources dating from New Testament times locate the town of Magdala a short distance north of the city of Tiberias on the western shore of the Sea of Galilee.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6015\" data-resourceType=\"TyndaleBibleDictionary\">Magadan</span>.</p>",
+    "content": "<h1>MAGBISH</h1><p>Town reoccupied after the exile by 156 descendants of its former residents (<a href=\"https://ref.ly/Ezra2:30\">Ezr 2:30</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40015039",
-          "start_ref_usfm": "MAT 15:39",
-          "end_ref": "40015039",
-          "end_ref_usfm": "MAT 15:39"
+          "start_ref": "15002030",
+          "start_ref_usfm": "EZR 2:30",
+          "end_ref": "15002030",
+          "end_ref_usfm": "EZR 2:30"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6015,
-          "content_id": 6847,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Magadan",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

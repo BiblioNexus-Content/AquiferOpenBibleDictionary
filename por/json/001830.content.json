@@ -1,42 +1,22 @@
 [
   {
-    "content_id": 806272,
-    "reference_id": 7617,
-    "title": "Sosanim, Sosanim-Edute",
+    "content_id": 683087,
+    "reference_id": 7518,
+    "title": "Semeber",
     "media_type": "Text",
-    "index_reference": "sosanim, sosanim-edute",
+    "index_reference": "semeber",
     "language": "por",
-    "content": "<h1>SOSANIM*, SOSANIM-EDUTE*</h1><p>Palavra e frase hebraica nas superscrições dos <a href=\"https://ref.ly/Ps45:1-Ps45:17\">Salmos 45</a>, <a href=\"https://ref.ly/Ps69:1-Ps69:36\">69</a> e <a href=\"https://ref.ly/Ps80:1-Ps80:19\">80</a> (ARC), traduzida como “Os Lírios” (NTLH); possivelmente uma melodia antiga familiar à qual os salmos eram executados. </p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Música</span>.</p>",
+    "content": "<h1>SEMEBER</h1><p>Rei de Zeboim, que se juntou a uma confederação com outros quatro reis em rebelião contra Quedorlaomer e seus aliados. Abraão resgatou Ló do cativeiro depois que Semeber, junto com Sodoma e Gomorra, foi derrotado (<a href=\"https://ref.ly/Gen14:2\">Gn 14.2</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19080001",
-          "start_ref_usfm": "PSA 80:1",
-          "end_ref": "19080019",
-          "end_ref_usfm": "PSA 80:19"
-        },
-        {
-          "start_ref": "19045001",
-          "start_ref_usfm": "PSA 45:1",
-          "end_ref": "19045017",
-          "end_ref_usfm": "PSA 45:17"
-        },
-        {
-          "start_ref": "19069001",
-          "start_ref_usfm": "PSA 69:1",
-          "end_ref": "19069036",
-          "end_ref_usfm": "PSA 69:36"
+          "start_ref": "01014002",
+          "start_ref_usfm": "GEN 14:2",
+          "end_ref": "01014002",
+          "end_ref_usfm": "GEN 14:2"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6416,
-          "content_id": 658691,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Música",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

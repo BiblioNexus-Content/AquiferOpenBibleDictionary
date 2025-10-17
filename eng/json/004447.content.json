@@ -1,57 +1,33 @@
 [
   {
-    "content_id": 7708,
-    "reference_id": 6876,
-    "title": "Philemon (Person)",
+    "content_id": 7706,
+    "reference_id": 6874,
+    "title": "Philadelphia",
     "media_type": "Text",
-    "index_reference": "philemon (person)",
+    "index_reference": "philadelphia",
     "language": "eng",
-    "content": "<h1>PHILEMON (Person)</h1><p>Philemon was a Christian known only from the letter the apostle Paul wrote to him. The New Testament does not mention him anywhere else. </p><p><a href=\"https://ref.ly/Col4:17\">Colossians 4:17</a> lists Archippus, a man of Colossae, along with Philemon in <a href=\"https://ref.ly/Phlm1:2\">Philemon 1:2</a>. Archippus may have been the son of Philemon. Although Paul had never visited Colossae, it is clear he knew Philemon well (<a href=\"https://ref.ly/Col2:1\">Colossians 2:1</a>). Paul called him “our beloved co-worker” (<a href=\"https://ref.ly/Phlm1:1\">Philemon 1:1</a>). Perhaps Philemon had worked with Paul during Paul&apos;s three-year mission in Ephesus (<a href=\"https://ref.ly/Acts19:8-Acts19:10\">Acts 19:8–10</a>; <a href=\"https://ref.ly/Acts20:31\">20:31</a>). </p><p>Paul knew he could appeal to Philemon on behalf of Onesimus, who was Philemon&apos;s runaway slave. The letter to Philemon focuses on Paul&apos;s request that Philemon accept Onesimus back, not just as a slave, but as a Christian brother.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6875\" data-resourceType=\"TyndaleBibleDictionary\">Philemon, Letter to</span>.</p>",
+    "content": "<h1>PHILADELPHIA</h1><p>1. City of the Decapolis, not specifically mentioned in any NT writing. It was located on the plateau about 25&nbsp;miles (40.2&nbsp;kilometers) east of the Jordan River. In&nbsp;63 BC Palestine came under Roman domination. Pompey, the Roman general who conquered the region, reorganized the territory. He established a league of 10 self-governing cities or city-states. Most of&nbsp;these were located on the eastern side of the Jordan&nbsp;River. Philadelphia was the southernmost, and&nbsp;Damascus the northernmost, of the 10. In the Gospels this territory is referred to as the Decapolis.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3958\" data-resourceType=\"TyndaleBibleDictionary\">Decapolis</span>.</p><p>2. City in western Asia Minor. It was one of the seven Asian cities to which the author of the book of Revelation addressed letters, mentioned in <a href=\"https://ref.ly/Rev1:11\">1:11</a> and <a href=\"https://ref.ly/Rev3:7-Rev3:13\">3:7–13</a>.</p><p>This city was founded about 140 BC by Attalus II of the city of Pergamum. Attalus II was also known as “Philadelphus”; the name of the city was derived from this royal nickname. He intended that it would serve as a center for the spread of Greek culture throughout the region, especially to the people of Phrygia. Situated on a fertile plain, it was rich with vineyards and wine production. Asian Philadelphia was heavily damaged by an earthquake in the year AD 17. For the purpose of rebuilding, it was granted disaster aid by the Roman emperor Tiberius.</p><p>When John wrote from Patmos near the end of the first century, the churches of western Asia were undergoing persecution. The church in Philadelphia was one of them. This church was enduring the persecution faithfully, and the letter to it (<a href=\"https://ref.ly/Rev3:7-Rev3:13\">Rv 3:7–13</a>) contains no words of reproach or warning. Instead, Jesus gave them encouragement and precious promises.</p><p>Some years later, the Christian bishop and martyr Ignatius of Antioch also wrote a letter to the church in Philadelphia. He expressed appreciation for his recent visit with them, and encouraged them in Christian unity.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44020031",
-          "start_ref_usfm": "ACT 20:31",
-          "end_ref": "44020031",
-          "end_ref_usfm": "ACT 20:31"
+          "start_ref": "66001011",
+          "start_ref_usfm": "REV 1:11",
+          "end_ref": "66001011",
+          "end_ref_usfm": "REV 1:11"
         },
         {
-          "start_ref": "51002001",
-          "start_ref_usfm": "COL 2:1",
-          "end_ref": "51002001",
-          "end_ref_usfm": "COL 2:1"
-        },
-        {
-          "start_ref": "51004017",
-          "start_ref_usfm": "COL 4:17",
-          "end_ref": "51004017",
-          "end_ref_usfm": "COL 4:17"
-        },
-        {
-          "start_ref": "57001001",
-          "start_ref_usfm": "PHM 1:1",
-          "end_ref": "57001001",
-          "end_ref_usfm": "PHM 1:1"
-        },
-        {
-          "start_ref": "57001002",
-          "start_ref_usfm": "PHM 1:2",
-          "end_ref": "57001002",
-          "end_ref_usfm": "PHM 1:2"
-        },
-        {
-          "start_ref": "44019008",
-          "start_ref_usfm": "ACT 19:8",
-          "end_ref": "44019010",
-          "end_ref_usfm": "ACT 19:10"
+          "start_ref": "66003007",
+          "start_ref_usfm": "REV 3:7",
+          "end_ref": "66003013",
+          "end_ref_usfm": "REV 3:13"
         }
       ],
       "resource": [
         {
-          "reference_id": 6875,
-          "content_id": 7707,
+          "reference_id": 3958,
+          "content_id": 4790,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Letter to Philemon",
+          "label": "Decapolis",
           "language": "eng"
         }
       ]

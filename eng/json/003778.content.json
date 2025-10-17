@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 7038,
-    "reference_id": 6206,
-    "title": "Melkon",
+    "content_id": 7037,
+    "reference_id": 6205,
+    "title": "Melki",
     "media_type": "Text",
-    "index_reference": "melkon",
+    "index_reference": "melki",
     "language": "eng",
-    "content": "<h1>MELKON</h1><p>The name that has been traditionally given to one of the wise men (who is also called Melchior) who brought gifts to Jesus (<a href=\"https://ref.ly/Matt2:1-Matt2:2\">Matthew 2:1</a><a href=\"https://ref.ly/Matt2:1-Matt2:2\">–</a><a href=\"https://ref.ly/Matt2:1-Matt2:2\">2</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6023\" data-resourceType=\"TyndaleBibleDictionary\">Magi</span>.</p>",
+    "content": "<h1>MELKI</h1><p>Melki is another spelling of the name Melchi.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6200\" data-resourceType=\"TyndaleBibleDictionary\">Melchi</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "40002001",
-          "start_ref_usfm": "MAT 2:1",
-          "end_ref": "40002002",
-          "end_ref_usfm": "MAT 2:2"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 6023,
-          "content_id": 6855,
+          "reference_id": 6200,
+          "content_id": 7032,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Magi",
+          "label": "Melchi",
           "language": "eng"
         }
       ]

@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7327,
-    "reference_id": 6495,
-    "title": "Nebat",
+    "content_id": 7326,
+    "reference_id": 6494,
+    "title": "Neballat",
     "media_type": "Text",
-    "index_reference": "nebat",
+    "index_reference": "neballat",
     "language": "eng",
-    "content": "<h1>NEBAT</h1><p>Ephraimite of Zeredah in the Jordan Valley, a servant to Solomon, and the father of King Jeroboam (<a href=\"https://ref.ly/1Kgs11:26\">1&nbsp;Kgs 11:26</a>).</p>",
+    "content": "<h1>NEBALLAT</h1><p>Town situated in the hills overlooking the southeastern region of the plain of Sharon, settled by Benjamites after the exile (<a href=\"https://ref.ly/Neh11:34\">Neh 11:34</a>). It is identified with modern Beit Nebala, four miles (6.4 kilometers) east of Lod and two miles (3.2&nbsp;kilometers) north of Hadid.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11011026",
-          "start_ref_usfm": "1KI 11:26",
-          "end_ref": "11011026",
-          "end_ref_usfm": "1KI 11:26"
+          "start_ref": "16011034",
+          "start_ref_usfm": "NEH 11:34",
+          "end_ref": "16011034",
+          "end_ref_usfm": "NEH 11:34"
         }
       ],
       "resource": []

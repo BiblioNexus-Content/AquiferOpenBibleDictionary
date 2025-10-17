@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 7584,
-    "reference_id": 6752,
-    "title": "Parent",
+    "content_id": 7583,
+    "reference_id": 6751,
+    "title": "Pardon",
     "media_type": "Text",
-    "index_reference": "parent",
+    "index_reference": "pardon",
     "language": "eng",
-    "content": "<h1>PARENT</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4403\" data-resourceType=\"TyndaleBibleDictionary\">Family Life and Relations</span>.</p>",
+    "content": "<h1>PARDON</h1><p>To pardon someone means to forgive them.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4462\" data-resourceType=\"TyndaleBibleDictionary\">Forgiveness</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 4403,
-          "content_id": 5235,
+          "reference_id": 4462,
+          "content_id": 5294,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Family Life and Relations",
+          "label": "Forgiveness",
           "language": "eng"
         }
       ]

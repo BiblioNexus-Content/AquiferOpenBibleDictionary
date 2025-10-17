@@ -1,36 +1,40 @@
 [
   {
-    "content_id": 760063,
-    "reference_id": 8357,
-    "title": "Zeraíta",
+    "content_id": 760037,
+    "reference_id": 8033,
+    "title": "Tirza (pessoa)",
     "media_type": "Text",
-    "index_reference": "zeraíta",
+    "index_reference": "tirza (pessoa)",
     "language": "por",
-    "content": "<h1>ZERAÍTA</h1><ol><li><p>Qualquer descendente de Zera, filho de Simeão (<a href=\"https://ref.ly/Num26:13\">Nm 26.13</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8358\" data-resourceType=\"TyndaleBibleDictionary\">Zera #3</span>.</p></li><li><p>Qualquer descendente de Zera, filho de Judá com Tamar (<a href=\"https://ref.ly/Num26:20\">Nm 26.20</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8358\" data-resourceType=\"TyndaleBibleDictionary\">Zera #2</span>.</p></li></ol><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5295\" data-resourceType=\"TyndaleBibleDictionary\">Izraíta</span>.</p>",
+    "content": "<h1>TIRZA (pessoa)</h1><p>Tirza era uma das filhas de Zelofeade da tribo de Manassés (<a href=\"https://ref.ly/Num26:33\">Nm 26.33</a>). Como seu pai não tinha filhos, ela e suas irmãs pediram e receberam a herança de seu pai (<a href=\"https://ref.ly/Num27:1\">Nm 27.1</a>; <a href=\"https://ref.ly/Josh17:3\">Js 17.3</a>). Esta situação levou à criação de uma nova lei sobre direitos de herança. A lei estipulava que as filhas que recebessem a herança de suas famílias deveriam se casar com alguém de sua própria tribo (<a href=\"https://ref.ly/Num36:11\">Nm 36.11</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026013",
-          "start_ref_usfm": "NUM 26:13",
-          "end_ref": "04026013",
-          "end_ref_usfm": "NUM 26:13"
+          "start_ref": "04026033",
+          "start_ref_usfm": "NUM 26:33",
+          "end_ref": "04026033",
+          "end_ref_usfm": "NUM 26:33"
         },
         {
-          "start_ref": "04026020",
-          "start_ref_usfm": "NUM 26:20",
-          "end_ref": "04026020",
-          "end_ref_usfm": "NUM 26:20"
+          "start_ref": "04027001",
+          "start_ref_usfm": "NUM 27:1",
+          "end_ref": "04027001",
+          "end_ref_usfm": "NUM 27:1"
+        },
+        {
+          "start_ref": "04036011",
+          "start_ref_usfm": "NUM 36:11",
+          "end_ref": "04036011",
+          "end_ref_usfm": "NUM 36:11"
+        },
+        {
+          "start_ref": "06017003",
+          "start_ref_usfm": "JOS 17:3",
+          "end_ref": "06017003",
+          "end_ref_usfm": "JOS 17:3"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 8358,
-          "content_id": 717340,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Zerá",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,43 +1,22 @@
 [
   {
-    "content_id": 4640,
-    "reference_id": 3808,
-    "title": "Consumption",
+    "content_id": 4639,
+    "reference_id": 3807,
+    "title": "Consul",
     "media_type": "Text",
-    "index_reference": "consumption",
+    "index_reference": "consul",
     "language": "eng",
-    "content": "<h1>CONSUMPTION</h1><p>A medical term that in the past referred to tuberculosis of the lungs (an infection caused by bacteria). The word &quot;consumption&quot; appears twice in the Bible (<a href=\"https://ref.ly/Lev26:16\">Leviticus 26:16</a>; <a href=\"https://ref.ly/Deut28:22\">Deuteronomy 28:22</a>, Revised Standard Version). However, it does not specifically mean tuberculosis. Instead, it refers to any long-lasting disease that causes the body to waste away. This could include cancer, diarrhea, poor nutrition, malaria, kidney failure, and other health problems. In the Bible, consumption is listed as one of many medical conditions that would affect those who do not follow God&apos;s commandments.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4028\" data-resourceType=\"TyndaleBibleDictionary\">Disease</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6179\" data-resourceType=\"TyndaleBibleDictionary\">Medicine and Medical Practice</span>.</p>",
+    "content": "<h1>CONSUL*</h1><p>Title of the two highest civil and military magistrates of Rome in the time of the Republic. The consuls functioned as the heads of state, commanding the army and governing with the Senate. They also had certain judicial functions. Ordinarily a consul was appointed to a one-year term. A letter from the consul Lucius Calpurnius Piso (consul, 140–139 BC) to Ptolemy VII Physcon (reigned 145–116 BC) of Egypt is&nbsp;mentioned in <a href=\"https://ref.ly/1Macc15:16\">1&nbsp;Maccabees 15:16</a>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "03026016",
-          "start_ref_usfm": "LEV 26:16",
-          "end_ref": "03026016",
-          "end_ref_usfm": "LEV 26:16"
-        },
-        {
-          "start_ref": "05028022",
-          "start_ref_usfm": "DEU 28:22",
-          "end_ref": "05028022",
-          "end_ref_usfm": "DEU 28:22"
+          "start_ref": "78015016",
+          "start_ref_usfm": "1MA 15:16",
+          "end_ref": "78015016",
+          "end_ref_usfm": "1MA 15:16"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4028,
-          "content_id": 4860,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Disease",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6179,
-          "content_id": 7011,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Medicine and Medical Practice",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

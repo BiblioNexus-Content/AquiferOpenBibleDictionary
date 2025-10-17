@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5227,
-    "reference_id": 4395,
-    "title": "Fair Havens",
+    "content_id": 5226,
+    "reference_id": 4394,
+    "title": "Ezri",
     "media_type": "Text",
-    "index_reference": "fair havens",
+    "index_reference": "ezri",
     "language": "eng",
-    "content": "<h1>FAIR HAVENS</h1><p>A small harbor located along the southern coast of Crete, an island in the Mediterranean Sea. Today it is known as Limenes Kali. Fair Havens is about 8.1 kilometers (5 miles) east of Cape Matala and is near the city of Lasea.</p><p>This harbor appears in the Bible when the aspotle Paul&apos;s ship stopped there to find protection from strong winds during his journey to Rome (<a href=\"https://ref.ly/Acts27:8\">Acts 27:8</a>). The ship&apos;s crew sought shelter in this harbor because the weather made it dangerous to continue sailing.</p>",
+    "content": "<h1>EZRI</h1><p>Son of Kelub and one of the men who supervised the tilling of David’s lands (<a href=\"https://ref.ly/1Chr27:26\">1&nbsp;Chr 27:26</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44027008",
-          "start_ref_usfm": "ACT 27:8",
-          "end_ref": "44027008",
-          "end_ref_usfm": "ACT 27:8"
+          "start_ref": "13027026",
+          "start_ref_usfm": "1CH 27:26",
+          "end_ref": "13027026",
+          "end_ref_usfm": "1CH 27:26"
         }
       ],
       "resource": []

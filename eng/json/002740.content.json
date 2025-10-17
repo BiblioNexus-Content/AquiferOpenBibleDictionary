@@ -1,19 +1,37 @@
 [
   {
-    "content_id": 5990,
-    "reference_id": 5158,
-    "title": "Igdaliah",
+    "content_id": 5989,
+    "reference_id": 5157,
+    "title": "Igal",
     "media_type": "Text",
-    "index_reference": "igdaliah",
+    "index_reference": "igal",
     "language": "eng",
-    "content": "<h1>IGDALIAH</h1><p>Hanan’s father. Hanan’s sons had a room adjacent to the temple during Jehoiakim’s reign (<a href=\"https://ref.ly/Jer35:4\">Jer 35:4</a>).</p>",
+    "content": "<h1>IGAL</h1><ol><li><p>A son of Joseph from the tribe of Issachar. He was one of the 12 spies sent by Moses to search out Canaan (<a href=\"https://ref.ly/Num13:7\">Numbers 13:7</a>).</p></li><li><p>A son of Nathan and one of the mighty men of King David (<a href=\"https://ref.ly/2Sam23:36\">2&nbsp;Samuel 23:36</a>). In <a href=\"https://ref.ly/1Chr11:38\">1&nbsp;Chronicles 11:38</a> he is called Joel, the brother of Nathan. In Hebrew, this names is only one letter different from Igal.</p></li><li><p>A son of Shemaiah and a descendant of King David through King Jehoiachin (<a href=\"https://ref.ly/1Chr3:22\">1&nbsp;Chronicles 3:22</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "24035004",
-          "start_ref_usfm": "JER 35:4",
-          "end_ref": "24035004",
-          "end_ref_usfm": "JER 35:4"
+          "start_ref": "04013007",
+          "start_ref_usfm": "NUM 13:7",
+          "end_ref": "04013007",
+          "end_ref_usfm": "NUM 13:7"
+        },
+        {
+          "start_ref": "10023036",
+          "start_ref_usfm": "2SA 23:36",
+          "end_ref": "10023036",
+          "end_ref_usfm": "2SA 23:36"
+        },
+        {
+          "start_ref": "13003022",
+          "start_ref_usfm": "1CH 3:22",
+          "end_ref": "13003022",
+          "end_ref_usfm": "1CH 3:22"
+        },
+        {
+          "start_ref": "13011038",
+          "start_ref_usfm": "1CH 11:38",
+          "end_ref": "13011038",
+          "end_ref_usfm": "1CH 11:38"
         }
       ],
       "resource": []

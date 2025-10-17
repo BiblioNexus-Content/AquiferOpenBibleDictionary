@@ -1,36 +1,22 @@
 [
   {
-    "content_id": 5334,
-    "reference_id": 4502,
-    "title": "Gabri, Gabrias",
+    "content_id": 5332,
+    "reference_id": 4500,
+    "title": "Gabbatha",
     "media_type": "Text",
-    "index_reference": "gabri, gabrias",
+    "index_reference": "gabbatha",
     "language": "eng",
-    "content": "<h1>GABRI, GABRIAS*</h1><p>Brother or father of Gabael. The genitive case of the original does not make the exact relationship certain; it simply specifies that there is a relationship (<a href=\"https://ref.ly/Tob1:14\">Tb 1:14</a>; <a href=\"https://ref.ly/Tob4:20\">4:20</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4496\" data-resourceType=\"TyndaleBibleDictionary\">Gabael #2</span>.</p>",
+    "content": "<h1>GABBATHA</h1><p>Transliteration of an uncertain Aramaic expression, which is rendered in Greek as “paved with stones” and refers to the raised area before the palace in Jerusalem where formal sentencing by the governor occurred. Pilate seated himself on the elevated judgment seat here in order to preside over the trial of Jesus (<a href=\"https://ref.ly/John19:13\">Jn 19:13</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "68001014",
-          "start_ref_usfm": "TOB 1:14",
-          "end_ref": "68001014",
-          "end_ref_usfm": "TOB 1:14"
-        },
-        {
-          "start_ref": "68004020",
-          "start_ref_usfm": "TOB 4:20",
-          "end_ref": "68004020",
-          "end_ref_usfm": "TOB 4:20"
+          "start_ref": "43019013",
+          "start_ref_usfm": "JHN 19:13",
+          "end_ref": "43019013",
+          "end_ref_usfm": "JHN 19:13"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4496,
-          "content_id": 5328,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Gabael",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

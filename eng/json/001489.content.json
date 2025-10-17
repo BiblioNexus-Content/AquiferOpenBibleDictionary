@@ -1,22 +1,49 @@
 [
   {
-    "content_id": 4739,
-    "reference_id": 3907,
-    "title": "Dalmatia",
+    "content_id": 4738,
+    "reference_id": 3906,
+    "title": "Dalmanutha",
     "media_type": "Text",
-    "index_reference": "dalmatia",
+    "index_reference": "dalmanutha",
     "language": "eng",
-    "content": "<h1>DALMATIA</h1><p>Dalmatia was a mountainous region on the eastern shore of the Adriatic Sea, across from Italy. The Dalmatians were an Illyrian (Greek) tribe, or a group of tribes that banded together. They came from the area around the town of Delmion (or Delminium). Their attacks on ships at sea caused the Romans much difficulty until the emperor Octavian (also known as Caesar Augustus) brought them under control in 33 BC.</p><p>At the time of the apostle Paul, Dalmatia was the name of the Roman province. Its southern boundary was Macedonia, but its northern boundary is uncertain. The New Testament gives one reference to this province. In <a href=\"https://ref.ly/2Tim4:10\">2&nbsp;Timothy 4:10, </a>Titus is mentioned as having traveled there. We are not told why he went. It may be that Paul had organized some churches there. It is also possible that Titus went there to teach about Christianity in a new area.</p>",
+    "content": "<h1>DALMANUTHA</h1><p>An area on the west side of the Sea of Galilee near the southern end of the land of Gennesaret. Its exact location is not certain. Jesus and his disciples stayed there for a short time after the feeding of the 4,000 (<a href=\"https://ref.ly/Mark8:10\">Mark 8:10</a>). The Pharisees came to him seeking a sign from heaven to test Jesus. After his answer that no sign would be given to this generation (<a href=\"https://ref.ly/Mark8:12\">Mark 8:12</a>), he departed from there.</p><p>The word “Dalmanutha” is present in the best and oldest copies of the Bible. Some other sources use the names Magadan or Magdala. Matthew&apos;s version of this story in <a href=\"https://ref.ly/Matt15:39\">Matthew 15:39</a> uses the name Magadan. Because of this, the exact name and location have been difficult to identify. Probably the different names are meant to identify the same location or at least two places in the same area.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6015\" data-resourceType=\"TyndaleBibleDictionary\">Magadan</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6017\" data-resourceType=\"TyndaleBibleDictionary\">Magdala</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "55004010",
-          "start_ref_usfm": "2TI 4:10",
-          "end_ref": "55004010",
-          "end_ref_usfm": "2TI 4:10"
+          "start_ref": "40015039",
+          "start_ref_usfm": "MAT 15:39",
+          "end_ref": "40015039",
+          "end_ref_usfm": "MAT 15:39"
+        },
+        {
+          "start_ref": "41008010",
+          "start_ref_usfm": "MRK 8:10",
+          "end_ref": "41008010",
+          "end_ref_usfm": "MRK 8:10"
+        },
+        {
+          "start_ref": "41008012",
+          "start_ref_usfm": "MRK 8:12",
+          "end_ref": "41008012",
+          "end_ref_usfm": "MRK 8:12"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6015,
+          "content_id": 6847,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Magadan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6017,
+          "content_id": 6849,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Magdala",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

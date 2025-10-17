@@ -1,25 +1,31 @@
 [
   {
-    "content_id": 4941,
-    "reference_id": 4109,
-    "title": "Eder (Place)",
+    "content_id": 4940,
+    "reference_id": 4108,
+    "title": "Eder (Person)",
     "media_type": "Text",
-    "index_reference": "eder (place)",
+    "index_reference": "eder (person)",
     "language": "eng",
-    "content": "<h1>EDER (Place)</h1><p>1. First camping place of Jacob between Ephrath (Bethlehem) and Hebron, following Rachel’s death. The tower of Eder, meaning “the tower of the flock,” was perhaps a watchtower constructed for shepherds to guard their flocks (<a href=\"https://ref.ly/Gen35:21\">Gn 35:21</a>). It was located a short distance from Bethlehem.</p><p>2. One of the 29 cities located near the border of Edom in the southern extremity of the land allotted to Judah’s tribe for an inheritance. It is listed between Kabzeel and Jagur in <a href=\"https://ref.ly/Josh15:21\">Joshua 15:21</a>. Its site is unknown.</p>",
+    "content": "<h1>EDER (Person)</h1><p>1. Member of Benjamin’s tribe and the son of Beriah, a leader in the town of Aijalon (<a href=\"https://ref.ly/1Chr8:15\">1&nbsp;Chr 8:15</a>).</p><p>2. Levite of Merari’s clan and the son of Mushi (<a href=\"https://ref.ly/1Chr23:23\">1&nbsp;Chr 23:23</a>; <a href=\"https://ref.ly/1Chr24:30\">24:30</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01035021",
-          "start_ref_usfm": "GEN 35:21",
-          "end_ref": "01035021",
-          "end_ref_usfm": "GEN 35:21"
+          "start_ref": "13008015",
+          "start_ref_usfm": "1CH 8:15",
+          "end_ref": "13008015",
+          "end_ref_usfm": "1CH 8:15"
         },
         {
-          "start_ref": "06015021",
-          "start_ref_usfm": "JOS 15:21",
-          "end_ref": "06015021",
-          "end_ref_usfm": "JOS 15:21"
+          "start_ref": "13023023",
+          "start_ref_usfm": "1CH 23:23",
+          "end_ref": "13023023",
+          "end_ref_usfm": "1CH 23:23"
+        },
+        {
+          "start_ref": "13024030",
+          "start_ref_usfm": "1CH 24:30",
+          "end_ref": "13024030",
+          "end_ref_usfm": "1CH 24:30"
         }
       ],
       "resource": []

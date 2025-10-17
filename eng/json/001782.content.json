@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5035,
-    "reference_id": 4203,
-    "title": "Elkosh",
+    "content_id": 5034,
+    "reference_id": 4202,
+    "title": "Elkiah",
     "media_type": "Text",
-    "index_reference": "elkosh",
+    "index_reference": "elkiah",
     "language": "eng",
-    "content": "<h1>ELKOSH</h1><p>Home or birthplace of the prophet Nahum (<a href=\"https://ref.ly/Nah1:1\">Na 1:1</a>). Three sites have been suggested: (1)&nbsp;Hilkeesei, a village in Galilee, perhaps corresponding to modern el-Kauzeh; (2)&nbsp;Capernaum near the Sea of Galilee, where Jesus frequently taught; and (3)&nbsp;Bein Jebrin in southern Judea.</p>",
+    "content": "<h1>ELKIAH</h1><p>Ananias’s son and father of Oziel, an ancestor of Judith (<a href=\"https://ref.ly/Jdt8:1\">Jdt 8:1</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "34001001",
-          "start_ref_usfm": "NAM 1:1",
-          "end_ref": "34001001",
-          "end_ref_usfm": "NAM 1:1"
+          "start_ref": "69008001",
+          "start_ref_usfm": "JDT 8:1",
+          "end_ref": "69008001",
+          "end_ref_usfm": "JDT 8:1"
         }
       ],
       "resource": []

@@ -1,20 +1,33 @@
 [
   {
-    "content_id": 7524,
-    "reference_id": 6692,
-    "title": "Osiris",
+    "content_id": 7523,
+    "reference_id": 6691,
+    "title": "Oshea",
     "media_type": "Text",
-    "index_reference": "osiris",
+    "index_reference": "oshea",
     "language": "eng",
-    "content": "<h1>OSIRIS*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4122\" data-resourceType=\"TyndaleBibleDictionary\">Egypt, Egyptian</span>.</p>",
+    "content": "<h1>OSHEA</h1><p>The King James Version form of Hoshea. This is the alternate name for Joshua in <a href=\"https://ref.ly/Num13:8,Num13:16\">Numbers 13:8, 16</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5627\" data-resourceType=\"TyndaleBibleDictionary\">Joshua (Person) #1</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "04013008",
+          "start_ref_usfm": "NUM 13:8",
+          "end_ref": "04013008",
+          "end_ref_usfm": "NUM 13:8"
+        },
+        {
+          "start_ref": "04013016",
+          "start_ref_usfm": "NUM 13:16",
+          "end_ref": "04013016",
+          "end_ref_usfm": "NUM 13:16"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 4122,
-          "content_id": 4954,
+          "reference_id": 5627,
+          "content_id": 6459,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Egypt, Egyptian",
+          "label": "Joshua (Person)",
           "language": "eng"
         }
       ]

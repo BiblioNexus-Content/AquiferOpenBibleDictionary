@@ -1,51 +1,27 @@
 [
   {
-    "content_id": 4655,
-    "reference_id": 3823,
-    "title": "Corner Gate",
+    "content_id": 4654,
+    "reference_id": 3822,
+    "title": "Cornelius",
     "media_type": "Text",
-    "index_reference": "corner gate",
+    "index_reference": "cornelius",
     "language": "eng",
-    "content": "<h1>CORNER GATE</h1><p>Gate presumably located in the northwest corner of the Jerusalem wall. After King Jehoash of Israel captured King Amaziah of Judah, he tore down a section of the Jerusalem wall from the Corner Gate to the Ephraim Gate (<a href=\"https://ref.ly/2Kgs14:13\">2&nbsp;Kgs 14:13</a>; <a href=\"https://ref.ly/2Chr25:23\">2&nbsp;Chr 25:23</a>); later King Uzziah of Judah built towers at this gate (<a href=\"https://ref.ly/2Chr26:9\">2&nbsp;Chr 26:9</a>). Jeremiah (<a href=\"https://ref.ly/Jer31:38\">Jer 31:38</a>) foretells a time when the Jerusalem wall will be rebuilt from the Tower of Hananel to the Corner Gate. Zechariah (<a href=\"https://ref.ly/Zech14:10\">Zec 14:10</a>) also envisions a period of security and prosperity epitomized by the presence of the Jerusalem wall, including the Corner Gate.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5501\" data-resourceType=\"TyndaleBibleDictionary\">Jerusalem</span>.</p>",
+    "content": "<h1>CORNELIUS</h1><p>Roman centurion and the first gentile Christian mentioned in the book of Acts.</p><p>The story of Cornelius’s conversion through the preaching of the apostle Peter is recorded in <a href=\"https://ref.ly/Acts10:1-Acts11:18\">Acts 10:1–11:18</a>. Before his conversion, Cornelius was well known to the Jews as a person who feared God, prayed continually, and gave alms.</p><p>At first the church was composed only of Jews, who were reluctant to preach the gospel to Gentiles because law-abiding Jews never had fellowship with “pagans.” Peter, a law-abiding Jew, had scruples about entering a Gentile’s house and eating “unclean” food. Through a vision, however, God led Peter to Cornelius’s house to preach the gospel to him and his family and close friends. Before Peter had finished speaking, and before baptism or the laying on of hands could be administered, God dramatically demonstrated his acceptance of Gentiles into the fellowship of the church by giving them the gift of the Holy Spirit. Peter remained several days in Cornelius’s house, no doubt rejoicing in the centurion’s conversion and instructing him in his newfound faith.</p><p>Cornelius’s conversion represented a significant step in the separation of the early church from Judaism. Cornelius did not have to submit to any of the Jewish practices, such as circumcision or eating only ritually “clean” animals. For the first time a gentile believer was accepted into the church on equal terms with Jewish Christians.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2523\" data-resourceType=\"TyndaleBibleDictionary\">Acts of the Apostles, Book of the</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12014013",
-          "start_ref_usfm": "2KI 14:13",
-          "end_ref": "12014013",
-          "end_ref_usfm": "2KI 14:13"
-        },
-        {
-          "start_ref": "14025023",
-          "start_ref_usfm": "2CH 25:23",
-          "end_ref": "14025023",
-          "end_ref_usfm": "2CH 25:23"
-        },
-        {
-          "start_ref": "14026009",
-          "start_ref_usfm": "2CH 26:9",
-          "end_ref": "14026009",
-          "end_ref_usfm": "2CH 26:9"
-        },
-        {
-          "start_ref": "24031038",
-          "start_ref_usfm": "JER 31:38",
-          "end_ref": "24031038",
-          "end_ref_usfm": "JER 31:38"
-        },
-        {
-          "start_ref": "38014010",
-          "start_ref_usfm": "ZEC 14:10",
-          "end_ref": "38014010",
-          "end_ref_usfm": "ZEC 14:10"
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
         }
       ],
       "resource": [
         {
-          "reference_id": 5501,
-          "content_id": 6333,
+          "reference_id": 2523,
+          "content_id": 3355,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jerusalem",
+          "label": "Book of the Acts of the Apostles",
           "language": "eng"
         }
       ]

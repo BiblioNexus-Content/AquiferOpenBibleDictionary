@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 5775,
-    "reference_id": 4943,
-    "title": "Helech",
+    "content_id": 5774,
+    "reference_id": 4942,
+    "title": "Heleb",
     "media_type": "Text",
-    "index_reference": "helech",
+    "index_reference": "heleb",
     "language": "eng",
-    "content": "<h1>HELECH</h1><p>Term mentioned in Ezekiel’s prophecy against the city of Tyre (<a href=\"https://ref.ly/Ezek27:11\">Ez 27:11</a>), perhaps referring to Cilicia or to mercenaries from Cilicia, which was southeast of Asia Minor. Assyrian texts indicate that Cilicia was once called Hilakku, but little is known about the people. They are first mentioned by Shalmaneser III, king of Assyria (854–824 BC), in his conquest of Asia Minor. Their history under the Assyrians was quite violent. Sargon, Sennacherib, and Esarhaddon had to put down revolts from the Hilakku. Later, they gave tribute to Ashurbanipal.</p>",
+    "content": "<h1>HELEB</h1><p>Another name for Heldai, the son of Baanah (<a href=\"https://ref.ly/2Sam23:29\">2&nbsp;Samuel 23:29</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4941\" data-resourceType=\"TyndaleBibleDictionary\">Heldai #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "26027011",
-          "start_ref_usfm": "EZK 27:11",
-          "end_ref": "26027011",
-          "end_ref_usfm": "EZK 27:11"
+          "start_ref": "10023029",
+          "start_ref_usfm": "2SA 23:29",
+          "end_ref": "10023029",
+          "end_ref_usfm": "2SA 23:29"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4941,
+          "content_id": 5773,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Heldai",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

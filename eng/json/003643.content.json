@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6902,
-    "reference_id": 6070,
-    "title": "Malkijah",
+    "content_id": 6901,
+    "reference_id": 6069,
+    "title": "Malkiel, Malkielite",
     "media_type": "Text",
-    "index_reference": "malkijah",
+    "index_reference": "malkiel, malkielite",
     "language": "eng",
-    "content": "<h1>MALKIJAH</h1><p>Malkijah is another spelling of the name Malchijah.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6064\" data-resourceType=\"TyndaleBibleDictionary\">Malchijah</span>.</p>",
+    "content": "<h1>MALKIEL, MALKIELITE</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6063\" data-resourceType=\"TyndaleBibleDictionary\">Malchiel, Malchielite</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 6064,
-          "content_id": 6896,
+          "reference_id": 6063,
+          "content_id": 6895,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Malchijah",
+          "label": "Malchiel, Malchielite",
           "language": "eng"
         }
       ]

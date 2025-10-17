@@ -1,30 +1,34 @@
 [
   {
-    "content_id": 6864,
-    "reference_id": 6032,
-    "title": "Mahalath Leannoth",
+    "content_id": 6866,
+    "reference_id": 6034,
+    "title": "Mahalath (Person)",
     "media_type": "Text",
-    "index_reference": "mahalath leannoth",
+    "index_reference": "mahalath (person)",
     "language": "eng",
-    "content": "<h1>MAHALATH LEANNOTH*</h1><p>Hebrew phrase in the title of <a href=\"https://ref.ly/Ps88:1-Ps88:18\">Psalm 88</a>, translated “The Suffering of Affliction”; perhaps a familiar ancient melody to which the psalm was performed. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Music</span>.</p>",
+    "content": "<h1>MAHALATH (Person)</h1><p>1. Daughter of Ishmael, Nebaioth’s sister, Esau’s third wife, and Reuel’s mother (<a href=\"https://ref.ly/Gen28:9\">Gn 28:9</a>); alternately called Basemath (kjv “Bashemath”) in <a href=\"https://ref.ly/Gen36:3-Gen36:17\">Genesis 36:3–17</a>.</p><p>2. Jerimoth’s daughter and King Rehoboam’s first wife (<a href=\"https://ref.ly/2Chr11:18\">2&nbsp;Chr 11:18</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19088001",
-          "start_ref_usfm": "PSA 88:1",
-          "end_ref": "19088018",
-          "end_ref_usfm": "PSA 88:18"
+          "start_ref": "01028009",
+          "start_ref_usfm": "GEN 28:9",
+          "end_ref": "01028009",
+          "end_ref_usfm": "GEN 28:9"
+        },
+        {
+          "start_ref": "14011018",
+          "start_ref_usfm": "2CH 11:18",
+          "end_ref": "14011018",
+          "end_ref_usfm": "2CH 11:18"
+        },
+        {
+          "start_ref": "01036003",
+          "start_ref_usfm": "GEN 36:3",
+          "end_ref": "01036017",
+          "end_ref_usfm": "GEN 36:17"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6416,
-          "content_id": 7248,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Music",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

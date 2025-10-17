@@ -1,25 +1,43 @@
 [
   {
-    "content_id": 658693,
-    "reference_id": 6475,
-    "title": "Naftuim, naftuítas",
+    "content_id": 683035,
+    "reference_id": 6332,
+    "title": "Misma",
     "media_type": "Text",
-    "index_reference": "naftuim, naftuítas",
+    "index_reference": "misma",
     "language": "por",
-    "content": "<h1>NAFTUIM*, NAFTUITAS</h1><p>Descendentes egípcios de Noé através da linhagem de Cam (<a href=\"https://ref.ly/Gen10:13\">Gn 10.13</a>; <a href=\"https://ref.ly/1Chr1:11\">1Cr 1.11</a>), listados entre as tribos de Leabe e Patrus. Alguns estudiosos sugerem que os naftuitas eram os habitantes do Médio Egito, situados entre os líbios do Baixo Egito e os patrusios do Alto Egito. No entanto, o local exato de seus antigos assentamentos é incerto.</p>",
+    "content": "<h1>MISMA</h1><p>1. Filho de Ismael, neto de Abraão e pai de uma tribo árabe (<a href=\"https://ref.ly/Gen25:14\">Gn 25.14</a>; <a href=\"https://ref.ly/1Chr1:30\">1Cr 1.30</a>).</p><p>2. O filho de Mibsão da tribo de Simeão (<a href=\"https://ref.ly/1Chr4:25-1Chr4:26\">1Cr 4.25–26</a>). Sua omissão em <a href=\"https://ref.ly/Gen25:1-Gen25:34\">Gênesis 25</a> e inclusão na genealogia de 1 Crônicas pode indicar que ele nasceu após Jacó ter mudado sua família para o Egito ou que ele representava uma tribo árabe que se afiliou a Simeão quando a tribo de Simeão se expandiu para o sul (<a href=\"https://ref.ly/1Chr4:38-1Chr4:43\">1Cr 4.38–43</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010013",
-          "start_ref_usfm": "GEN 10:13",
-          "end_ref": "01010013",
-          "end_ref_usfm": "GEN 10:13"
+          "start_ref": "01025014",
+          "start_ref_usfm": "GEN 25:14",
+          "end_ref": "01025014",
+          "end_ref_usfm": "GEN 25:14"
         },
         {
-          "start_ref": "13001011",
-          "start_ref_usfm": "1CH 1:11",
-          "end_ref": "13001011",
-          "end_ref_usfm": "1CH 1:11"
+          "start_ref": "13001030",
+          "start_ref_usfm": "1CH 1:30",
+          "end_ref": "13001030",
+          "end_ref_usfm": "1CH 1:30"
+        },
+        {
+          "start_ref": "01025001",
+          "start_ref_usfm": "GEN 25:1",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
+        },
+        {
+          "start_ref": "13004025",
+          "start_ref_usfm": "1CH 4:25",
+          "end_ref": "13004026",
+          "end_ref_usfm": "1CH 4:26"
+        },
+        {
+          "start_ref": "13004038",
+          "start_ref_usfm": "1CH 4:38",
+          "end_ref": "13004043",
+          "end_ref_usfm": "1CH 4:43"
         }
       ],
       "resource": []

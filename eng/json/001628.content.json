@@ -1,23 +1,70 @@
 [
   {
-    "content_id": 4880,
-    "reference_id": 4048,
-    "title": "Dog",
+    "content_id": 4878,
+    "reference_id": 4046,
+    "title": "Doeg",
     "media_type": "Text",
-    "index_reference": "dog",
+    "index_reference": "doeg",
     "language": "eng",
-    "content": "<h1>DOG</h1><p>Dogs were one of the first animals that humans kept as pets. Scientists believe modern dogs <em>(Canis familiaris) </em>came from the Indian wolf <em>(Canis lupus pallipes)</em>. Dogs in biblical times probably looked similar to today&apos;s German shepherd dogs. They had pointed ears, a pointed nose, and a long tail.</p><h2>Negative Views of Dogs in the Bible</h2><p>In biblical times, people did not like dogs (<a href=\"https://ref.ly/Prov26:11\">Proverbs 26:11</a>; <a href=\"https://ref.ly/2Pet2:22\">2&nbsp;Peter 2:22</a>). While many people today consider dogs to be close friends, the writers of the Bible saw them differently. Dogs would search for food in the streets and among garbage (<a href=\"https://ref.ly/Exod22:31\">Exodus 22:31</a>; <a href=\"https://ref.ly/1Kgs22:38\">1&nbsp;Kings 22:38</a>; <a href=\"https://ref.ly/Matt15:26\">Matthew 15:26</a>; <a href=\"https://ref.ly/Luke16:21\">Luke 16:21</a>). They would even eat dead human bodies (<a href=\"https://ref.ly/2Kgs9:35-2Kgs9:36\">2&nbsp;Kings 9:35–36</a>). In general, dogs served the same function as vultures and other birds of prey. The Bible mentions dogs 41 times, and most of these mentions are negative. People thought dogs were dirty animals that acted with fear.</p><p>Dogs used in hunting occur in paintings in Egyptian tombs, and there is a reference to dogs herding sheep in <a href=\"https://ref.ly/Job30:1\">Job 30:1</a>. One good quality of dogs highly esteemed by the Israelites was watchfulness (<a href=\"https://ref.ly/Isa56:10\">Isaiah 56:10</a>). In general, however, in biblical times “dog” was a term of contempt (<a href=\"https://ref.ly/1Sam17:43\">1&nbsp;Samuel 17:43</a>; <a href=\"https://ref.ly/2Sam16:9\">2&nbsp;Samuel 16:9</a>). It was used to describe: </p><ul><li><p>Submissive people (<a href=\"https://ref.ly/2Sam9:8\">2&nbsp;Samuel 9:8</a>; <a href=\"https://ref.ly/2Kgs8:13\">2&nbsp;Kings 8:13</a>) </p></li><li><p>Evil people (<a href=\"https://ref.ly/Isa56:10-Isa56:11\">Isaiah 56:10–11</a>; <a href=\"https://ref.ly/Matt7:6\">Matthew 7:6</a>; <a href=\"https://ref.ly/Phil3:2\">Philippians 3:2</a>; <a href=\"https://ref.ly/Rev22:15\">Revelation 22:15</a>)</p></li></ul><p>Dogs, like pigs, were voracious and omnivorous (eating any kind of food). A gentile woman asked Jesus to heal her daughter. He replied using a metaphor about throwing household food scraps to dogs (<a href=\"https://ref.ly/Matt15:22-Matt15:28\">Matthew 15:22–28</a>; <a href=\"https://ref.ly/Mark7:25-Mark7:30\">Mark 7:25–30</a>). In Jesus&apos;s time, &quot;dog&quot; was a Jewish insult for Gentiles. They were considered unclean, like dogs. Jesus used a diminutive form of the word, which softened it. Seeing her faith, Jesus granted the woman’s request, giving a non-Jew some of “the children’s bread.”</p>",
+    "content": "<h1>DOEG</h1><p>Doeg was an official who worked for King Saul. Saul commanded him to kill the innocent priests at Nob (<a href=\"https://ref.ly/1Sam21:1-1Sam22:23\">1&nbsp;Samuel 21–22</a>). Doeg was an Edomite. which means he was either a foreigner who converted to the Israelite religion or a prominent leader from Edom who was captured during Saul&apos;s military campaign against the Edomites (<a href=\"https://ref.ly/1Sam14:47\">14:47</a>). </p><p>Saul put Doeg in charge of his flocks of animals (<a href=\"https://ref.ly/1Sam21:7\">21:7). </a>King David also later had a foreigner in charge of his cattle (<a href=\"https://ref.ly/1Chr27:30\">1&nbsp;Chronicles 27:30</a>). </p><p>The Bible does not clearly explain why Doeg was at the sanctuary at Nob (<a href=\"https://ref.ly/1Sam21:7\">1&nbsp;Samuel 21:7</a>). He might have been there for a religious purpose. If he was going through a purification process, this may have forced him to stay here (like a Nazirite vow described in <a href=\"https://ref.ly/Num6:13\">Numbers 6:13</a>). Another possibility is that he was hiding there as a spy for King Saul.</p><p>What we do know is that while at Nob, Doeg saw the priests welcome David and give him food and a weapon—the sword of Goliath (<a href=\"https://ref.ly/1Sam21:9\">1&nbsp;Samuel 21:9</a>). A short time later, Doeg had opportunity to report this to Saul (<a href=\"https://ref.ly/1Sam22:9-1Sam22:10\">22:9–10</a>; <a href=\"https://ref.ly/Ps52:1\">Psalm 52 title</a>).  He hoped to demonstrate his loyalty with this report. </p><p>Doeg&apos;s character is revealed when he brutally killed the priests and all the people living in the city of Nob (<a href=\"https://ref.ly/1Sam22:18-1Sam22:19\">1&nbsp;Samuel 22:18–19</a>). This cruel action suggests he was not truly an Israelite, even if he lived among them.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 2782,
-          "content_id": 3614,
-          "resource_code": "Unknown",
-          "label": "Animals",
-          "language": "eng"
+          "start_ref": "04006013",
+          "start_ref_usfm": "NUM 6:13",
+          "end_ref": "04006013",
+          "end_ref_usfm": "NUM 6:13"
+        },
+        {
+          "start_ref": "09014047",
+          "start_ref_usfm": "1SA 14:47",
+          "end_ref": "09014047",
+          "end_ref_usfm": "1SA 14:47"
+        },
+        {
+          "start_ref": "09021007",
+          "start_ref_usfm": "1SA 21:7",
+          "end_ref": "09021007",
+          "end_ref_usfm": "1SA 21:7"
+        },
+        {
+          "start_ref": "09021009",
+          "start_ref_usfm": "1SA 21:9",
+          "end_ref": "09021009",
+          "end_ref_usfm": "1SA 21:9"
+        },
+        {
+          "start_ref": "13027030",
+          "start_ref_usfm": "1CH 27:30",
+          "end_ref": "13027030",
+          "end_ref_usfm": "1CH 27:30"
+        },
+        {
+          "start_ref": "19052001",
+          "start_ref_usfm": "PSA 52:1",
+          "end_ref": "19052001",
+          "end_ref_usfm": "PSA 52:1"
+        },
+        {
+          "start_ref": "09021001",
+          "start_ref_usfm": "1SA 21:1",
+          "end_ref": "09022023",
+          "end_ref_usfm": "1SA 22:23"
+        },
+        {
+          "start_ref": "09022009",
+          "start_ref_usfm": "1SA 22:9",
+          "end_ref": "09022010",
+          "end_ref_usfm": "1SA 22:10"
+        },
+        {
+          "start_ref": "09022018",
+          "start_ref_usfm": "1SA 22:18",
+          "end_ref": "09022019",
+          "end_ref_usfm": "1SA 22:19"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 390347,
-    "reference_id": 7306,
-    "title": "Saphira",
+    "content_id": 806098,
+    "reference_id": 6674,
+    "title": "Ophir (Personne)",
     "media_type": "Text",
-    "index_reference": "saphira",
+    "index_reference": "ophir (personne)",
     "language": "fra",
-    "content": "<h1>SAPHIRA</h1><p>Membre de l&apos;Église de Jérusalem et épouse d&apos;Ananias (<a href=\"https://ref.ly/Acts5:1\">Ac 5.1</a>). <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2761\" data-resourceType=\"TyndaleBibleDictionary\">Ananias n°1</span>.</p>",
+    "content": "<h1>OPHIR (Personne)</h1><p>Fils de Jokthan et descendant de Sem par la lignée d&apos;Arpacschad (<a href=\"https://ref.ly/Gen10:29\">Gn 10.29</a> ; <a href=\"https://ref.ly/1Chr1:23\">1Ch 1.23</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44005001",
-          "start_ref_usfm": "ACT 5:1",
-          "end_ref": "44005001",
-          "end_ref_usfm": "ACT 5:1"
+          "start_ref": "01010029",
+          "start_ref_usfm": "GEN 10:29",
+          "end_ref": "01010029",
+          "end_ref_usfm": "GEN 10:29"
+        },
+        {
+          "start_ref": "13001023",
+          "start_ref_usfm": "1CH 1:23",
+          "end_ref": "13001023",
+          "end_ref_usfm": "1CH 1:23"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 2761,
-          "content_id": 390324,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Ananias",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

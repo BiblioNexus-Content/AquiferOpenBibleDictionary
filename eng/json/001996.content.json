@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 8933,
-    "reference_id": 8101,
-    "title": "Festival of Trumpets",
+    "content_id": 5252,
+    "reference_id": 4420,
+    "title": "Fertility Cults",
     "media_type": "Text",
-    "index_reference": "festival of trumpets",
+    "index_reference": "fertility cults",
     "language": "eng",
-    "content": "<h1>FESTIVAL OF TRUMPETS</h1><p>A holy day for the Israelites that marked the beginning of the fall feasts. It was a day of rest when no regular work was done. During this festival, the Israelites sounded trumpets to call for a time of remembrance, reflection, and preparation for the upcoming Day of Atonement. The festival was a time to remember God’s covenant with them, particularly the agreement made at Mount Sinai (<a href=\"https://ref.ly/Lev23:23-Lev23:25\">Leviticus 23:23–25</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4416\" data-resourceType=\"TyndaleBibleDictionary\">Feasts and Festivals of Israel</span>.</p>",
+    "content": "<h1>FERTILITY CULTS*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3573\" data-resourceType=\"TyndaleBibleDictionary\">Canaanite Deities and Religion</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "03023023",
-          "start_ref_usfm": "LEV 23:23",
-          "end_ref": "03023025",
-          "end_ref_usfm": "LEV 23:25"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 4416,
-          "content_id": 5248,
+          "reference_id": 3573,
+          "content_id": 4405,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Feasts and Festivals of Israel",
+          "label": "Canaanite Deities and Religion",
           "language": "eng"
         }
       ]

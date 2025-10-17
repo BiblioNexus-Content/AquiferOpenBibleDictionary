@@ -1,138 +1,64 @@
 [
   {
-    "content_id": 7511,
-    "reference_id": 6679,
-    "title": "Oracle",
+    "content_id": 7510,
+    "reference_id": 6678,
+    "title": "Ophrah (Place)",
     "media_type": "Text",
-    "index_reference": "oracle",
+    "index_reference": "ophrah (place)",
     "language": "eng",
-    "content": "<h1>ORACLE</h1><p>An oracle is a divine message from God given through a spokesperson (like a prophet, priest, or king). Oracles usually announce blessings, give instructions, or declare judgments.</p><p>When Balak asked Balaam to speak a curse against Israel, Balaam instead spoke an oracle of blessing (<a href=\"https://ref.ly/Num24:3-Num24:16\">Numbers 24:3–16</a>). God instructed Moses through “living words” (<a href=\"https://ref.ly/Acts7:38\">Acts 7:38</a>). God trusted the Jewish people with these messages (<a href=\"https://ref.ly/Rom3:2\">Romans 3:2</a>). </p><p>The book of Proverbs contains two wisdom oracles: one from Agur, who was Jakeh&apos;s son (<a href=\"https://ref.ly/Prov30:1\">Proverbs 30:1</a>), and another from King Lemuel (<a href=\"https://ref.ly/Prov31:1\">31:1</a>). </p><p>The Bible lists oracles of judgment delivered against kings Joram of Israel (<a href=\"https://ref.ly/2Kgs9:25\">2&nbsp;Kings 9:25</a>) and Joash of Judah (<a href=\"https://ref.ly/2Chr24:27\">2&nbsp;Chronicles 24:27</a>). The prophets often spoke oracles against nations that did evil:</p><ul><li><p>Isaiah spoke oracles against Babylon (<a href=\"https://ref.ly/Isa13:1\">Isaiah 13:1</a>; <a href=\"https://ref.ly/Isa21:1\">21:1</a>)</p></li><li><p>Isaiah spoke oracles against Damascus (<a href=\"https://ref.ly/Isa17:1\">17:1</a>)</p></li><li><p>Isaiah spoke oracles against Egypt (<a href=\"https://ref.ly/Isa19:1\">19:1</a>)</p></li><li><p>Isaiah spoke oracles against Jerusalem (<a href=\"https://ref.ly/Isa22:1\">22:1</a>)</p></li><li><p>Isaiah spoke oracles against Moab (<a href=\"https://ref.ly/Isa15:1\">15:1</a>)</p></li><li><p>Isaiah spoke oracles against Philistia (<a href=\"https://ref.ly/Isa14:28\">14:28</a>)</p></li><li><p>Isaiah spoke oracles against Tyre (<a href=\"https://ref.ly/Isa23:1\">23:1</a>)</p></li><li><p>Nahum spoke oracles against Nineveh (<a href=\"https://ref.ly/Nah1:1\">Nahum 1:1</a>)</p></li><li><p>Habakkuk spoke oracles against Judah (<a href=\"https://ref.ly/Hab1:1\">Habakkuk 1:1</a>)</p></li><li><p>Malachi spoke oracles against Israel (<a href=\"https://ref.ly/Mal1:1\">Malachi 1:1</a>)</p></li></ul><p>Sometimes false prophets gave false and misleading oracles (<a href=\"https://ref.ly/Lam2:14\">Lamentations 2:14</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6998\" data-resourceType=\"TyndaleBibleDictionary\">Prophecy</span>.</p>",
+    "content": "<h1>OPHRAH (Place)</h1><ol><li><p>A city in the land of Benjamin. This city was probably the same place as Ephraim (<a href=\"https://ref.ly/2Sam13:23\">2&nbsp;Samuel 13:23</a>; <a href=\"https://ref.ly/2Chr13:19\">2&nbsp;Chronicles 13:19</a>, where it is called “Ephron”; <a href=\"https://ref.ly/John11:54\">John 11:54</a>). Most scholars think this city is now the town called <em>et-Taiyibeh</em>, which is eight kilometers (five miles) north of Michmash and six and a half kilometers (four miles) northeast of Bethel.</p></li><li><p>A city in Manasseh that belonged to Joash the Abiezrite. He was the father of the judge Gideon. Gideon lived in this city (<a href=\"https://ref.ly/Judg6:11\">Judges 6:11</a>). An angel of the Lord appeared to Gideon at Ophrah. The angel told Gideon to rescue Israel from the Midianites (verses <a href=\"https://ref.ly/Judg6:12-Judg6:24\">12–24</a>). </p><p>After Gideon won the battle, the people wanted him to be king. But he refused. Instead, he made an ephod (a special garment used by priests) from the gold he had taken in the battle (<a href=\"https://ref.ly/Judg8:22-Judg8:28\">Judges 8:22–28</a>). Sadly, the people began to worship this object as an idol. It became a problem for Gideon and his family.</p><p>Gideon died in Ophrah as an old man (verses <a href=\"https://ref.ly/Judg8:29-Judg8:32\">29–32</a>). Later, Gideon’s son Abimelech wanted to become king. He killed his 70 brothers at Ophrah so he could rule. Only one brother, Jotham, escaped (<a href=\"https://ref.ly/Judg9:1-Judg9:6\">9:1–6</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12009025",
-          "start_ref_usfm": "2KI 9:25",
-          "end_ref": "12009025",
-          "end_ref_usfm": "2KI 9:25"
+          "start_ref": "07006011",
+          "start_ref_usfm": "JDG 6:11",
+          "end_ref": "07006011",
+          "end_ref_usfm": "JDG 6:11"
         },
         {
-          "start_ref": "14024027",
-          "start_ref_usfm": "2CH 24:27",
-          "end_ref": "14024027",
-          "end_ref_usfm": "2CH 24:27"
+          "start_ref": "10013023",
+          "start_ref_usfm": "2SA 13:23",
+          "end_ref": "10013023",
+          "end_ref_usfm": "2SA 13:23"
         },
         {
-          "start_ref": "20030001",
-          "start_ref_usfm": "PRO 30:1",
-          "end_ref": "20030001",
-          "end_ref_usfm": "PRO 30:1"
+          "start_ref": "14013019",
+          "start_ref_usfm": "2CH 13:19",
+          "end_ref": "14013019",
+          "end_ref_usfm": "2CH 13:19"
         },
         {
-          "start_ref": "20031001",
-          "start_ref_usfm": "PRO 31:1",
-          "end_ref": "20031001",
-          "end_ref_usfm": "PRO 31:1"
+          "start_ref": "43011054",
+          "start_ref_usfm": "JHN 11:54",
+          "end_ref": "43011054",
+          "end_ref_usfm": "JHN 11:54"
         },
         {
-          "start_ref": "23013001",
-          "start_ref_usfm": "ISA 13:1",
-          "end_ref": "23013001",
-          "end_ref_usfm": "ISA 13:1"
+          "start_ref": "07008029",
+          "start_ref_usfm": "JDG 8:29",
+          "end_ref": "07008032",
+          "end_ref_usfm": "JDG 8:32"
         },
         {
-          "start_ref": "23014028",
-          "start_ref_usfm": "ISA 14:28",
-          "end_ref": "23014028",
-          "end_ref_usfm": "ISA 14:28"
+          "start_ref": "07009001",
+          "start_ref_usfm": "JDG 9:1",
+          "end_ref": "07009006",
+          "end_ref_usfm": "JDG 9:6"
         },
         {
-          "start_ref": "23015001",
-          "start_ref_usfm": "ISA 15:1",
-          "end_ref": "23015001",
-          "end_ref_usfm": "ISA 15:1"
+          "start_ref": "07006012",
+          "start_ref_usfm": "JDG 6:12",
+          "end_ref": "07006024",
+          "end_ref_usfm": "JDG 6:24"
         },
         {
-          "start_ref": "23017001",
-          "start_ref_usfm": "ISA 17:1",
-          "end_ref": "23017001",
-          "end_ref_usfm": "ISA 17:1"
-        },
-        {
-          "start_ref": "23019001",
-          "start_ref_usfm": "ISA 19:1",
-          "end_ref": "23019001",
-          "end_ref_usfm": "ISA 19:1"
-        },
-        {
-          "start_ref": "23021001",
-          "start_ref_usfm": "ISA 21:1",
-          "end_ref": "23021001",
-          "end_ref_usfm": "ISA 21:1"
-        },
-        {
-          "start_ref": "23022001",
-          "start_ref_usfm": "ISA 22:1",
-          "end_ref": "23022001",
-          "end_ref_usfm": "ISA 22:1"
-        },
-        {
-          "start_ref": "23023001",
-          "start_ref_usfm": "ISA 23:1",
-          "end_ref": "23023001",
-          "end_ref_usfm": "ISA 23:1"
-        },
-        {
-          "start_ref": "25002014",
-          "start_ref_usfm": "LAM 2:14",
-          "end_ref": "25002014",
-          "end_ref_usfm": "LAM 2:14"
-        },
-        {
-          "start_ref": "34001001",
-          "start_ref_usfm": "NAM 1:1",
-          "end_ref": "34001001",
-          "end_ref_usfm": "NAM 1:1"
-        },
-        {
-          "start_ref": "35001001",
-          "start_ref_usfm": "HAB 1:1",
-          "end_ref": "35001001",
-          "end_ref_usfm": "HAB 1:1"
-        },
-        {
-          "start_ref": "39001001",
-          "start_ref_usfm": "MAL 1:1",
-          "end_ref": "39001001",
-          "end_ref_usfm": "MAL 1:1"
-        },
-        {
-          "start_ref": "44007038",
-          "start_ref_usfm": "ACT 7:38",
-          "end_ref": "44007038",
-          "end_ref_usfm": "ACT 7:38"
-        },
-        {
-          "start_ref": "45003002",
-          "start_ref_usfm": "ROM 3:2",
-          "end_ref": "45003002",
-          "end_ref_usfm": "ROM 3:2"
-        },
-        {
-          "start_ref": "04024003",
-          "start_ref_usfm": "NUM 24:3",
-          "end_ref": "04024016",
-          "end_ref_usfm": "NUM 24:16"
+          "start_ref": "07008022",
+          "start_ref_usfm": "JDG 8:22",
+          "end_ref": "07008028",
+          "end_ref_usfm": "JDG 8:28"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6998,
-          "content_id": 7830,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Prophecy",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

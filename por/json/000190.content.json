@@ -1,57 +1,85 @@
 [
   {
-    "content_id": 759629,
-    "reference_id": 2958,
-    "title": "Asã",
+    "content_id": 481590,
+    "reference_id": 8085,
+    "title": "Árvore do conhecimento do bem e do mal",
     "media_type": "Text",
-    "index_reference": "asã",
+    "index_reference": "árvore do conhecimento do bem e do mal",
     "language": "por",
-    "content": "<h1>ASÃ</h1><p>Uma cidade nas colinas do sudoeste da Judeia, um pouco a noroeste de Berseba.</p><p>Asã estava originalmente na tribo de Judá (<a href=\"https://ref.ly/Josh15:42\">Js 15.42</a>). Depois, tornou-se parte de Simeão (<a href=\"https://ref.ly/Josh19:7\">Js 19.7</a>). Finalmente, foi dada aos levitas como uma cidade de refúgio (<a href=\"https://ref.ly/1Chr6:59\">1Cr 6.59</a>). Davi viajou naquela área com seu grupo de homens que não estavam seguindo a lei (<a href=\"https://ref.ly/1Sam30:30\">1Sm 30.30</a>). A cidade de Aim mencionada em <a href=\"https://ref.ly/Josh21:16\">Josué 21.16</a> provavelmente refere-se a Asã (esta é diferente da Aim no nordeste de Canaã, <a href=\"https://ref.ly/Num34:11\">Nm 34.11</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3738\" data-resourceType=\"TyndaleBibleDictionary\">Cidades de Refúgio</span>.</p>",
+    "content": "<h1>ÁRVORE DO CONHECIMENTO DO BEM E DO MAL</h1><p>Árvore proibida no Éden, cujo fruto conferiu conhecimento e subsequente morte, ou seja, separação de Deus e morte (<a href=\"https://ref.ly/Gen2:9,Gen2:15-Gen2:17\">Gn 2.9,15–17</a>; <a href=\"https://ref.ly/Gen3:1-Gen3:24\">3.1–24</a>). A serpente tentadora prometeu a Eva igualdade com Deus se ela comesse o fruto. O resultado de Eva e Adão comerem desta árvore foi que eles de fato alcançaram o “conhecimento do bem e do mal”. De acordo com o uso da expressão “conhecer o bem e o mal” no restante da Bíblia (<a href=\"https://ref.ly/Deut1:39\">Dt 1.39</a>; <a href=\"https://ref.ly/Isa7:15-Isa7:16\">Is 7.15–16</a>; <a href=\"https://ref.ly/Heb5:14\">Hb 5.14</a>), a ideia é que descreve uma fase na vida de uma criança quando ela passa da inocência para a consciência moral.</p><p>Acompanhando esse conhecimento está a autoconsciência sexual. Assim, quando Adão e Eva comeram do fruto, eles se tornaram conscientes de sua própria sexualidade. Ao mesmo tempo, eles foram capazes de ver como Deus via e, assim, pensaram que Deus os envergonharia por sua nudez. A história veio a simbolizar a perda da inocência e da companhia divina através da desobediência deliberada na tentativa de alcançar a divindade.</p><p>O triste resultado de comer o fruto da árvore do conhecimento do bem e do mal foi que Adão e Eva perderam sua inocência e foram posteriormente separados de Deus. O banimento do Éden seguiu-se para evitar que comessem o fruto de uma segunda árvore, “a árvore da vida”, que os teria tornado imortais. Mas eles teriam sido imortais em seu estado caído e pecaminoso. Assim, foi uma bênção bani-los.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2531\" data-resourceType=\"TyndaleBibleDictionary\">Adão (Pessoa)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4362\" data-resourceType=\"TyndaleBibleDictionary\">Eva</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4534\" data-resourceType=\"TyndaleBibleDictionary\">Jardim do Éden</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4399\" data-resourceType=\"TyndaleBibleDictionary\">Queda do homem</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8086\" data-resourceType=\"TyndaleBibleDictionary\">Árvore da Vida</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04034011",
-          "start_ref_usfm": "NUM 34:11",
-          "end_ref": "04034011",
-          "end_ref_usfm": "NUM 34:11"
+          "start_ref": "01002009",
+          "start_ref_usfm": "GEN 2:9",
+          "end_ref": "01002009",
+          "end_ref_usfm": "GEN 2:9"
         },
         {
-          "start_ref": "06015042",
-          "start_ref_usfm": "JOS 15:42",
-          "end_ref": "06015042",
-          "end_ref_usfm": "JOS 15:42"
+          "start_ref": "05001039",
+          "start_ref_usfm": "DEU 1:39",
+          "end_ref": "05001039",
+          "end_ref_usfm": "DEU 1:39"
         },
         {
-          "start_ref": "06019007",
-          "start_ref_usfm": "JOS 19:7",
-          "end_ref": "06019007",
-          "end_ref_usfm": "JOS 19:7"
+          "start_ref": "58005014",
+          "start_ref_usfm": "HEB 5:14",
+          "end_ref": "58005014",
+          "end_ref_usfm": "HEB 5:14"
         },
         {
-          "start_ref": "06021016",
-          "start_ref_usfm": "JOS 21:16",
-          "end_ref": "06021016",
-          "end_ref_usfm": "JOS 21:16"
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
         },
         {
-          "start_ref": "09030030",
-          "start_ref_usfm": "1SA 30:30",
-          "end_ref": "09030030",
-          "end_ref_usfm": "1SA 30:30"
+          "start_ref": "01002015",
+          "start_ref_usfm": "GEN 2:15",
+          "end_ref": "01002017",
+          "end_ref_usfm": "GEN 2:17"
         },
         {
-          "start_ref": "13006059",
-          "start_ref_usfm": "1CH 6:59",
-          "end_ref": "13006059",
-          "end_ref_usfm": "1CH 6:59"
+          "start_ref": "23007015",
+          "start_ref_usfm": "ISA 7:15",
+          "end_ref": "23007016",
+          "end_ref_usfm": "ISA 7:16"
         }
       ],
       "resource": [
         {
-          "reference_id": 3738,
-          "content_id": 759697,
+          "reference_id": 2531,
+          "content_id": 481506,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Cidades de refúgio",
+          "label": "Adam (Pessoa)",
+          "language": "por"
+        },
+        {
+          "reference_id": 4362,
+          "content_id": 481532,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "EVA",
+          "language": "por"
+        },
+        {
+          "reference_id": 4399,
+          "content_id": 481533,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Queda do homem",
+          "language": "por"
+        },
+        {
+          "reference_id": 4534,
+          "content_id": 481540,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jardim do Éden",
+          "language": "por"
+        },
+        {
+          "reference_id": 8086,
+          "content_id": 481591,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Árvore da Vida",
           "language": "por"
         }
       ]

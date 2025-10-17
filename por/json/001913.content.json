@@ -1,28 +1,42 @@
 [
   {
-    "content_id": 658744,
-    "reference_id": 8075,
-    "title": "Traconites, Traconitis",
+    "content_id": 717288,
+    "reference_id": 7623,
+    "title": "Sua",
     "media_type": "Text",
-    "index_reference": "traconites, traconitis",
+    "index_reference": "sua",
     "language": "por",
-    "content": "<h1>TRACONITES, TRACONITIS</h1><p>Uma das cinco províncias romanas a leste do Rio Jordão. As outras províncias romanas a leste do Rio Jordão eram Bataneia, Gaulanites, Auranites e Itureia. Esta região, que pode ter incluído partes de Gaulanites, Bataneia e Auranites, fazia parte da tetrarquia governada por Filipe, o irmão de Herodes (<a href=\"https://ref.ly/Luke3:1\">Lc 3.1</a>). Traconites era uma área árida localizada a nordeste do Mar da Galileia. Em aramaico, era conhecida como <em>Argobe</em>, que significa “monte de pedras”, descrevendo o terreno áspero e rochoso.</p><p>Além da referência em Lucas, Traconites é raramente mencionada nos registros históricos. O historiador judeu Josefo sugere que Uz, filho de Arã (compare <a href=\"https://ref.ly/Gen10:23\">Gn 10.23</a>), colonizou a área. Os romanos assumiram o controle de Traconites quando Augusto derrotou um chefe de ladrões local, Zenodoro. Ele então deu a terra a Herodes, o Grande, com a condição de que ele suprimisse os bandidos. Após a morte de Herodes, seu filho Filipe herdou a terra, mas provavelmente só teve controle nominal sobre ela.</p><p>Hoje, a região é chamada de <em>el-Lejah</em> e está localizada no sul da Síria e no norte da Jordânia.</p>",
+    "content": "<h1>SUA</h1><p>1. Cananeu cuja filha Judá se casou. Ela deu a Judá três filhos: Er, Onã e Selá (<a href=\"https://ref.ly/Gen38:2-Gen38:5,Gen38:12\">Gn 38.2–5,12</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3200\" data-resourceType=\"TyndaleBibleDictionary\">Bate-Sua #1</span>.</p><p>2. Aserita, filha de Héber e irmã de Jaflete, Somer e Hotão (<a href=\"https://ref.ly/1Chr7:32\">1Cr 7.32</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010023",
-          "start_ref_usfm": "GEN 10:23",
-          "end_ref": "01010023",
-          "end_ref_usfm": "GEN 10:23"
+          "start_ref": "01038012",
+          "start_ref_usfm": "GEN 38:12",
+          "end_ref": "01038012",
+          "end_ref_usfm": "GEN 38:12"
         },
         {
-          "start_ref": "42003001",
-          "start_ref_usfm": "LUK 3:1",
-          "end_ref": "42003001",
-          "end_ref_usfm": "LUK 3:1"
+          "start_ref": "13007032",
+          "start_ref_usfm": "1CH 7:32",
+          "end_ref": "13007032",
+          "end_ref_usfm": "1CH 7:32"
+        },
+        {
+          "start_ref": "01038002",
+          "start_ref_usfm": "GEN 38:2",
+          "end_ref": "01038005",
+          "end_ref_usfm": "GEN 38:5"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3200,
+          "content_id": 716928,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Bate-Sua, Suá",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

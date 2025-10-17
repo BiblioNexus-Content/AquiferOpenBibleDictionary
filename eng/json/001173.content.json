@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 4429,
-    "reference_id": 3597,
-    "title": "Caria",
+    "content_id": 4428,
+    "reference_id": 3596,
+    "title": "Careah",
     "media_type": "Text",
-    "index_reference": "caria",
+    "index_reference": "careah",
     "language": "eng",
-    "content": "<h1>CARIA</h1><p>Caria was a region in the southwest part of Asia Minor (modern-day Turkey).</p><p>When Simon was high priest in Jerusalem, Lucius, a Roman leader, sent a letter to King Ptolemy (who ruled from 145 to 116 BC). The letter talked about friendship between Rome and Simon.</p><p>Caria was one of several Greek regions that received this letter (<a href=\"https://ref.ly/1Macc15:23\">1&nbsp;Maccabees 15:23</a>). In the letter, Lucius said that anyone who ran away from Israel to these regions should be sent back to Simon. Simon would then punish them according to Jewish law (verse <a href=\"https://ref.ly/1Macc15:21\">21</a>).</p>",
+    "content": "<h1>CAREAH</h1><p>The King James Version spelling of Kareah in <a href=\"https://ref.ly/2Kgs25:23\">2&nbsp;Kings 25:23</a>. Kareah was the father of Johanan.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5688\" data-resourceType=\"TyndaleBibleDictionary\">Kareah</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "78015021",
-          "start_ref_usfm": "1MA 15:21",
-          "end_ref": "78015021",
-          "end_ref_usfm": "1MA 15:21"
-        },
-        {
-          "start_ref": "78015023",
-          "start_ref_usfm": "1MA 15:23",
-          "end_ref": "78015023",
-          "end_ref_usfm": "1MA 15:23"
+          "start_ref": "12025023",
+          "start_ref_usfm": "2KI 25:23",
+          "end_ref": "12025023",
+          "end_ref_usfm": "2KI 25:23"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5688,
+          "content_id": 6520,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Kareah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

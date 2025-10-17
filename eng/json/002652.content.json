@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 5900,
-    "reference_id": 5068,
-    "title": "Horem",
+    "content_id": 5899,
+    "reference_id": 5067,
+    "title": "Horeb, Mount",
     "media_type": "Text",
-    "index_reference": "horem",
+    "index_reference": "horeb, mount",
     "language": "eng",
-    "content": "<h1>HOREM</h1><p>Town set up for defense purposes in the uplands of Naphtali’s territory (<a href=\"https://ref.ly/Josh19:38\">Jos 19:38</a>). Though its exact site is unknown, it must have been in northern Galilee.</p>",
+    "content": "<h1>HOREB*, Mount</h1><p>Alternate name for Mt Sinai. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7681\" data-resourceType=\"TyndaleBibleDictionary\">Sina, Sinai</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "06019038",
-          "start_ref_usfm": "JOS 19:38",
-          "end_ref": "06019038",
-          "end_ref_usfm": "JOS 19:38"
+          "reference_id": 7681,
+          "content_id": 8513,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Sina, Sinai",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

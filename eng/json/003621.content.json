@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 6880,
-    "reference_id": 6048,
-    "title": "Mahseiah",
+    "content_id": 6879,
+    "reference_id": 6047,
+    "title": "Mahol",
     "media_type": "Text",
-    "index_reference": "mahseiah",
+    "index_reference": "mahol",
     "language": "eng",
-    "content": "<h1>MAHSEIAH</h1><p>Forefather of Baruch (<a href=\"https://ref.ly/Jer32:12\">Jer 32:12</a>) and Seraiah (<a href=\"https://ref.ly/Jer51:59\">51:59</a>), spelled Maaseiah in the kjv.</p>",
+    "content": "<h1>MAHOL</h1><p>Father of three famous wise men (Heman, Calcol, and Darda) during the Solomonic era (970–930 BC; <a href=\"https://ref.ly/1Kgs4:31\">1&nbsp;Kgs 4:31</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "24032012",
-          "start_ref_usfm": "JER 32:12",
-          "end_ref": "24032012",
-          "end_ref_usfm": "JER 32:12"
-        },
-        {
-          "start_ref": "24051059",
-          "start_ref_usfm": "JER 51:59",
-          "end_ref": "24051059",
-          "end_ref_usfm": "JER 51:59"
+          "start_ref": "11004031",
+          "start_ref_usfm": "1KI 4:31",
+          "end_ref": "11004031",
+          "end_ref_usfm": "1KI 4:31"
         }
       ],
       "resource": []

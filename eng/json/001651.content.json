@@ -1,49 +1,22 @@
 [
   {
-    "content_id": 4902,
-    "reference_id": 4070,
-    "title": "Dulcimer",
+    "content_id": 4901,
+    "reference_id": 4069,
+    "title": "Drusilla",
     "media_type": "Text",
-    "index_reference": "dulcimer",
+    "index_reference": "drusilla",
     "language": "eng",
-    "content": "<h1>DULCIMER</h1><p>Dulcimer is the King James Version translation of &quot;pipe&quot; in <a href=\"https://ref.ly/Dan3:5,Dan3:10,Dan3:15\">Daniel 3:5, 10, 15</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6414\" data-resourceType=\"TyndaleBibleDictionary\">Musical Instruments (Psantrin)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Music</span>.</p>",
+    "content": "<h1>DRUSILLA</h1><p>Drusilla was the third and youngest daughter of Herod Agrippa, who was king of Judea. She was Jewish and was born around AD 38. She had two sisters named Bernice and Mariamne. She became engaged to Epiphanes, who was prince of Commogene. But she canceled the engagement because he refused to convert to Judaism.</p><p>Drusilla&apos;s brother, Agrippa II, then arranged for her to marry Azizus, the king of Emesa. Azizus agreed to be circumcised (a Jewish religious requirement). Soon after her marriage, Felix, governor of Judea, fell in love with Drusilla. This happened when Drusilla was only 16 years old. Felix was a gentile (non-Jewish). Around AD 54, Felix convinced Drusilla to break Jewish law by leaving her husband to marry him.</p><p>While Paul was being held in custody at Caesarea, Drusilla and Felix listened to him explain the gospel message (<a href=\"https://ref.ly/Acts24:24\">Acts 24:24</a>). Their son, also named Agrippa, died when the Italian volcano called Vesuvius erupted in AD 79.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "27003005",
-          "start_ref_usfm": "DAN 3:5",
-          "end_ref": "27003005",
-          "end_ref_usfm": "DAN 3:5"
-        },
-        {
-          "start_ref": "27003010",
-          "start_ref_usfm": "DAN 3:10",
-          "end_ref": "27003010",
-          "end_ref_usfm": "DAN 3:10"
-        },
-        {
-          "start_ref": "27003015",
-          "start_ref_usfm": "DAN 3:15",
-          "end_ref": "27003015",
-          "end_ref_usfm": "DAN 3:15"
+          "start_ref": "44024024",
+          "start_ref_usfm": "ACT 24:24",
+          "end_ref": "44024024",
+          "end_ref_usfm": "ACT 24:24"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6414,
-          "content_id": 7246,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Musical Instruments",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6416,
-          "content_id": 7248,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Music",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

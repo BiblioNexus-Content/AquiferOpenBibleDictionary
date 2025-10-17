@@ -1,40 +1,42 @@
 [
   {
-    "content_id": 4923,
-    "reference_id": 4091,
-    "title": "Ebal",
+    "content_id": 4918,
+    "reference_id": 4086,
+    "title": "Eastern Sea",
     "media_type": "Text",
-    "index_reference": "ebal",
+    "index_reference": "eastern sea",
     "language": "eng",
-    "content": "<h1>EBAL</h1><p>1. Shobal’s son and descendant of Seir the Horite (<a href=\"https://ref.ly/Gen36:23\">Gn 36:23</a>; <a href=\"https://ref.ly/1Chr1:40\">1&nbsp;Chr 1:40</a>).</p><p>2. Joktan’s son and descendant of Shem (<a href=\"https://ref.ly/1Chr1:22\">1&nbsp;Chr 1:22</a>). He is called Obal in <a href=\"https://ref.ly/Gen10:28\">Genesis 10:28</a>.</p>",
+    "content": "<h1>EASTERN SEA</h1><p>Another name for the Salt Sea, or Dead Sea. The name comes from the sea’s location on the eastern boundary of the land of Israel (<a href=\"https://ref.ly/Ezek47:18\">Ezekiel 47:18</a>; <a href=\"https://ref.ly/Joel2:20\">Joel 2:20</a>; <a href=\"https://ref.ly/Zech14:8\">Zechariah 14:8</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3947\" data-resourceType=\"TyndaleBibleDictionary\">Dead Sea</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010028",
-          "start_ref_usfm": "GEN 10:28",
-          "end_ref": "01010028",
-          "end_ref_usfm": "GEN 10:28"
+          "start_ref": "26047018",
+          "start_ref_usfm": "EZK 47:18",
+          "end_ref": "26047018",
+          "end_ref_usfm": "EZK 47:18"
         },
         {
-          "start_ref": "01036023",
-          "start_ref_usfm": "GEN 36:23",
-          "end_ref": "01036023",
-          "end_ref_usfm": "GEN 36:23"
+          "start_ref": "29002020",
+          "start_ref_usfm": "JOL 2:20",
+          "end_ref": "29002020",
+          "end_ref_usfm": "JOL 2:20"
         },
         {
-          "start_ref": "13001022",
-          "start_ref_usfm": "1CH 1:22",
-          "end_ref": "13001022",
-          "end_ref_usfm": "1CH 1:22"
-        },
-        {
-          "start_ref": "13001040",
-          "start_ref_usfm": "1CH 1:40",
-          "end_ref": "13001040",
-          "end_ref_usfm": "1CH 1:40"
+          "start_ref": "38014008",
+          "start_ref_usfm": "ZEC 14:8",
+          "end_ref": "38014008",
+          "end_ref_usfm": "ZEC 14:8"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3947,
+          "content_id": 4779,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Dead Sea",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

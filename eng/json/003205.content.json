@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 6467,
-    "reference_id": 5635,
-    "title": "Jot or Tittle",
+    "content_id": 6463,
+    "reference_id": 5631,
+    "title": "Josiphiah",
     "media_type": "Text",
-    "index_reference": "jot or tittle",
+    "index_reference": "josiphiah",
     "language": "eng",
-    "content": "<h1>JOT OR TITTLE</h1><p>An expression Jesus used in the Sermon on the Mount. </p><p>In <a href=\"https://ref.ly/Matt5:18\">Matthew 5:18</a> <em>jot</em> is a transliteration of the Greek letter iota. Originally, &quot;jot&quot; referred to the Hebrew letter <em>yod</em>, the smallest letter. <em>Tittle</em> comes from Middle English. It refers to the dot over abbreviated words. The King James Version translators used it for a Greek word meaning &quot;little horn.&quot; Jews used the word to refer to the small markings that differentiate certain Hebrew letters. Jesus used both terms to stress the law&apos;s importance. He said not one jot or tittle would vanish from the law until all was fulfilled.</p>",
+    "content": "<h1>JOSIPHIAH</h1><p>Father of Shelomith, leader of a family of which 160 members accompanied Ezra back to Palestine (<a href=\"https://ref.ly/Ezra8:10\">Ezr 8:10</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40005018",
-          "start_ref_usfm": "MAT 5:18",
-          "end_ref": "40005018",
-          "end_ref_usfm": "MAT 5:18"
+          "start_ref": "15008010",
+          "start_ref_usfm": "EZR 8:10",
+          "end_ref": "15008010",
+          "end_ref_usfm": "EZR 8:10"
         }
       ],
       "resource": []

@@ -1,23 +1,58 @@
 [
   {
-    "content_id": 7953,
-    "reference_id": 7121,
-    "title": "Raven",
+    "content_id": 7951,
+    "reference_id": 7119,
+    "title": "Rathamin",
     "media_type": "Text",
-    "index_reference": "raven",
+    "index_reference": "rathamin",
     "language": "eng",
-    "content": "<h1>RAVEN</h1><p>A raven is a large black bird in the crow family (Corvidae). The Hebrew word for “raven” means “black one.” The common raven (<em>Corvus corax</em>) weighs about 1.36 kilograms (3 pounds) and is 56–66 centimeters (22–26 inches) long. Its tail is wider in the middle than at the ends.</p><p>There are eight species in Israel: </p><ul><li><p>three ravens, </p></li><li><p>two jackdaws, </p></li><li><p>one crow, </p></li><li><p>one rook, and </p></li><li><p>one chough. </p></li></ul><p>The crow is smaller than the raven (about 50.8 centimeters or 20 inches long) and has a tail that is the same width along its length. The raven’s feathers are glossy black and shine in the light.</p><p>Ravens and crows are intelligent birds and can live in many places. Ravens are bold and curious. They can solve problems, remember tasks, and even learn to speak some words. They sometimes use these skills to steal food or shiny objects. </p><p>They are excellent fliers and migrate during the day in large groups. Sometimes these flocks number hundreds of thousands. Ravens build stick nests for two to seven eggs. They mate for life. Ravens often live in empty or wild places but travel far to find food.</p><h3>Ravens in the Bible</h3><p>The raven that Noah released from the ark did not return, which showed that it had found food and likely a dry place to rest (<a href=\"https://ref.ly/Gen8:7\">Genesis 8:7</a>). Ravens are scavengers (they eat dead animals and other waste), so they were ceremonially unclean for Israelites (<a href=\"https://ref.ly/Lev11:15\">Leviticus 11:15</a>; <a href=\"https://ref.ly/Deut14:14\">Deuteronomy 14:14</a>).</p><p>God used ravens to bring food to Elijah (<a href=\"https://ref.ly/1Kgs17:4-1Kgs17:6\">1&nbsp;Kings 17:4–6</a>). God provides food for ravens (<a href=\"https://ref.ly/Job38:41\">Job 38:41</a>; <a href=\"https://ref.ly/Ps147:9\">Psalm 147:9</a>; <a href=\"https://ref.ly/Luke12:24\">Luke 12:24</a>). In the Song of Solomon, the bride compares her beloved’s hair to a raven’s black feathers (<a href=\"https://ref.ly/Song5:11\">Song of Solomon 5:11</a>). Isaiah mentions ravens living in deserted places (<a href=\"https://ref.ly/Isa34:11\">Isaiah 34:11</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Birds</span>.</p>",
+    "content": "<h1>RATHAMIN*</h1><p>A territory transferred from the dominion of Samaria to Judah by Demetrius of Syria. A letter from Demetrius to his adjutant Lasthenes authorizing the transfer is mentioned in <a href=\"https://ref.ly/1Macc11:34\">1&nbsp;Maccabees 11:34</a>. The word is sometimes translated Ramathaim (nlt), the birthplace of Samuel and home of Elkanah and Hannah (<a href=\"https://ref.ly/1Sam1:1,1Sam1:19\">1&nbsp;Sm 1:1, 19</a>; <a href=\"https://ref.ly/1Sam2:19\">2:19</a>). In that case, it figures prominently in OT history, for there Saul first made acquaintance with Samuel (<a href=\"https://ref.ly/1Sam9:6,1Sam9:10\">9:6, 10</a>), there Samuel retreated after his last break with Saul, and there Samuel’s grave is located (<a href=\"https://ref.ly/1Sam25:1\">25:1</a>). Textual variants Armathaim (tev “Arimathea”) and&nbsp;Ramatha are partly explained by the transposition of <em>m</em> and <em>th</em> in the Septuagint version. Two modern sites are recommended for the ancient district: Beit Rime, 13 miles (20.9 kilometers) east and north of Lydda, and Ramallah, 8 miles (12.9 kilometers) north of Jerusalem.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 3418,
-          "content_id": 4250,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Birds",
-          "language": "eng"
+          "start_ref": "09001001",
+          "start_ref_usfm": "1SA 1:1",
+          "end_ref": "09001001",
+          "end_ref_usfm": "1SA 1:1"
+        },
+        {
+          "start_ref": "09001019",
+          "start_ref_usfm": "1SA 1:19",
+          "end_ref": "09001019",
+          "end_ref_usfm": "1SA 1:19"
+        },
+        {
+          "start_ref": "09002019",
+          "start_ref_usfm": "1SA 2:19",
+          "end_ref": "09002019",
+          "end_ref_usfm": "1SA 2:19"
+        },
+        {
+          "start_ref": "09009006",
+          "start_ref_usfm": "1SA 9:6",
+          "end_ref": "09009006",
+          "end_ref_usfm": "1SA 9:6"
+        },
+        {
+          "start_ref": "09009010",
+          "start_ref_usfm": "1SA 9:10",
+          "end_ref": "09009010",
+          "end_ref_usfm": "1SA 9:10"
+        },
+        {
+          "start_ref": "09025001",
+          "start_ref_usfm": "1SA 25:1",
+          "end_ref": "09025001",
+          "end_ref_usfm": "1SA 25:1"
+        },
+        {
+          "start_ref": "78011034",
+          "start_ref_usfm": "1MA 11:34",
+          "end_ref": "78011034",
+          "end_ref_usfm": "1MA 11:34"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

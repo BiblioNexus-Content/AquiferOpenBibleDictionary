@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7423,
-    "reference_id": 6591,
-    "title": "Nohah (Place)",
+    "content_id": 7422,
+    "reference_id": 6590,
+    "title": "Nohah (Person)",
     "media_type": "Text",
-    "index_reference": "nohah (place)",
+    "index_reference": "nohah (person)",
     "language": "eng",
-    "content": "<h1>NOHAH* (Place)</h1><p>Place west of Gibeah in Benjamin’s territory (<a href=\"https://ref.ly/Judg20:43\">Jgs 20:43</a>, rsv). Other translations consider Nohah (meaning “quiet”) an adverb and translate it accordingly, “with ease” (kjv), because no town by that name is known.</p>",
+    "content": "<h1>NOHAH (Person)</h1><p>Fourth son of Benjamin (<a href=\"https://ref.ly/1Chr8:2\">1&nbsp;Chr 8:2</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "07020043",
-          "start_ref_usfm": "JDG 20:43",
-          "end_ref": "07020043",
-          "end_ref_usfm": "JDG 20:43"
+          "start_ref": "13008002",
+          "start_ref_usfm": "1CH 8:2",
+          "end_ref": "13008002",
+          "end_ref_usfm": "1CH 8:2"
         }
       ],
       "resource": []

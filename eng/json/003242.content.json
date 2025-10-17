@@ -1,30 +1,15 @@
 [
   {
-    "content_id": 6500,
-    "reference_id": 5668,
-    "title": "Junia",
+    "content_id": 787495,
+    "reference_id": 212865,
+    "title": "Julius Caesar",
     "media_type": "Text",
-    "index_reference": "junia",
+    "index_reference": "julius caesar",
     "language": "eng",
-    "content": "<h1>JUNIA</h1><p>A Jew who, along with Andronicus, was greeted by Paul in his letter to the church in Rome. This is according to the text in some manuscripts (<a href=\"https://ref.ly/Rom16:7\">Romans 16:7</a>). Paul recognized Junia as an apostle who had been a prisoner with Paul for the sake of the gospel. Scholars are not certain whether Junia was a woman or a man. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5666\" data-resourceType=\"TyndaleBibleDictionary\">Julia #2</span>.</p>",
+    "content": "<h1>Julius Caesar </h1><p>Julius Caesar was a powerful leader in ancient Rome. He was born in 100 BC and died in 44 BC. Julius was not officially called an emperor, but he ruled like one. For almost 500 years, Rome had been a republic. This meant that elected leaders made the laws. But in reality, wealthy men held most of the power. The people of Rome did not want a king. They believed kings had too much power.</p><p>Caesar became very popular and gained strong political and military power. He took a government position, but he ruled with complete control. The Roman Republic still existed in name, but Caesar acted like a dictator (a ruler with full power). Some leaders feared Caesar wanted to make himself king. They hoped to protect the republic by removing him. On March 15, 44 BC, a group of senators stabbed and killed Caesar as he entered the Senate. This day became known as the <em>ides of March</em>.</p><p>The plan to save the republic failed. A civil war followed Caesar’s death. His grand-nephew Octavian won the war. In 31 BC, Octavian became the first official emperor of Rome. He later took the name Augustus.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3548\" data-resourceType=\"TyndaleBibleDictionary\">Caesars, The</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "45016007",
-          "start_ref_usfm": "ROM 16:7",
-          "end_ref": "45016007",
-          "end_ref_usfm": "ROM 16:7"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 5666,
-          "content_id": 6498,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Julia",
-          "language": "eng"
-        }
-      ]
+      "passage": [],
+      "resource": []
     }
   }
 ]

@@ -1,42 +1,22 @@
 [
   {
-    "content_id": 4718,
-    "reference_id": 3886,
-    "title": "Cushi",
+    "content_id": 4715,
+    "reference_id": 3883,
+    "title": "Cushan-Rishathaim",
     "media_type": "Text",
-    "index_reference": "cushi",
+    "index_reference": "cushan-rishathaim",
     "language": "eng",
-    "content": "<h1>CUSHI</h1><ol><li><p>A messenger sent by Joab to King David. He was sent to announce the defeat of Absalom (<a href=\"https://ref.ly/2Sam18:21-2Sam18:32\">2&nbsp;Samuel 18:21–32</a>). The Hebrew word written as &quot;Cushi&quot; in English should probably be translated as &quot;Cushite,&quot; which means a person from Cush. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3888\" data-resourceType=\"TyndaleBibleDictionary\">Cush (Place)</span>.</p></li><li><p>The great-grandfather of Jehudi. Jehudi was a prince in the court of King Jehoiakim of Judah in the time of Jeremiah the prophet (<a href=\"https://ref.ly/Jer36:14\">Jeremiah 36:14</a>).</p></li><li><p>The father of the prophet Zephaniah (<a href=\"https://ref.ly/Zeph1:1\">Zephaniah 1:1</a>).</p></li></ol>",
+    "content": "<h1>CUSHAN-RISHATHAIM</h1><p>King of Mesopotamia whom Israel served for eight years. The Lord raised up Othniel, Kenaz’s son, to deliver Israel out of his hand; later, Cushan-rishathaim was defeated by Othniel in war (<a href=\"https://ref.ly/Judg3:8-Judg3:10\">Jgs 3:8–10</a>). His exact identity is uncertain.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "24036014",
-          "start_ref_usfm": "JER 36:14",
-          "end_ref": "24036014",
-          "end_ref_usfm": "JER 36:14"
-        },
-        {
-          "start_ref": "36001001",
-          "start_ref_usfm": "ZEP 1:1",
-          "end_ref": "36001001",
-          "end_ref_usfm": "ZEP 1:1"
-        },
-        {
-          "start_ref": "10018021",
-          "start_ref_usfm": "2SA 18:21",
-          "end_ref": "10018032",
-          "end_ref_usfm": "2SA 18:32"
+          "start_ref": "07003008",
+          "start_ref_usfm": "JDG 3:8",
+          "end_ref": "07003010",
+          "end_ref_usfm": "JDG 3:10"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3888,
-          "content_id": 4720,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Cush (Place)",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

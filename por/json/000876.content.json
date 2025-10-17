@@ -1,34 +1,37 @@
 [
   {
-    "content_id": 759798,
-    "reference_id": 4895,
-    "title": "Hazar-Enã, Hazar-Enom",
+    "content_id": 759709,
+    "reference_id": 3860,
+    "title": "Grilo",
     "media_type": "Text",
-    "index_reference": "hazar-enã, hazar-enom",
+    "index_reference": "grilo",
     "language": "por",
-    "content": "<h1>HAZAR-ENÃ, HAZAR-ENON*</h1><p>Local que descreve o canto nordeste da fronteira de Israel (<a href=\"https://ref.ly/Num34:9-Num34:10\">Nm 34.9–10</a>); alternadamente escrito como Hazar-enom em <a href=\"https://ref.ly/Ezek47:17-Ezek47:18\">Ezequiel 47.17–18</a> e <a href=\"https://ref.ly/Ezek48:1\">48.1</a>. A (NTLH) traduz como Enom. É identificado com o moderno Hadr na base do Monte Hermon.</p>",
+    "content": "<h1>GRILO</h1><p>Um inseto alado com quatro patas (da família científica <em>Orthoptera</em>). Esses insetos estão relacionados aos gafanhotos e às locustas. Os israelitas consideravam os grilos cerimonialmente limpos para comer (<a href=\"https://ref.ly/Lev11:22\">Lv 11.22</a>). A referência na Bíblia pode, na verdade, estar descrevendo um dos estágios de crescimento do gafanhoto-migratório, em vez do que chamamos de grilos hoje.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3243\" data-resourceType=\"TyndaleBibleDictionary\">Besouro</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4695\" data-resourceType=\"TyndaleBibleDictionary\">Gafanhoto</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5934\" data-resourceType=\"TyndaleBibleDictionary\">Gafanhoto-migratório</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "26048001",
-          "start_ref_usfm": "EZK 48:1",
-          "end_ref": "26048001",
-          "end_ref_usfm": "EZK 48:1"
-        },
-        {
-          "start_ref": "04034009",
-          "start_ref_usfm": "NUM 34:9",
-          "end_ref": "04034010",
-          "end_ref_usfm": "NUM 34:10"
-        },
-        {
-          "start_ref": "26047017",
-          "start_ref_usfm": "EZK 47:17",
-          "end_ref": "26047018",
-          "end_ref_usfm": "EZK 47:18"
+          "start_ref": "03011022",
+          "start_ref_usfm": "LEV 11:22",
+          "end_ref": "03011022",
+          "end_ref_usfm": "LEV 11:22"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2782,
+          "content_id": 125233,
+          "resource_code": "Unknown",
+          "label": "Animais",
+          "language": "por"
+        },
+        {
+          "reference_id": 3243,
+          "content_id": 759660,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Besouro",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

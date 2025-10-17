@@ -1,70 +1,36 @@
 [
   {
-    "content_id": 6471,
-    "reference_id": 5639,
-    "title": "Jozadak",
+    "content_id": 6470,
+    "reference_id": 5638,
+    "title": "Jozacar, Jozachar",
     "media_type": "Text",
-    "index_reference": "jozadak",
+    "index_reference": "jozacar, jozachar",
     "language": "eng",
-    "content": "<h1>JOZADAK*</h1><p>Seraiah’s son and one of the exiles transported by Nebuchadnezzar to Babylonia (<a href=\"https://ref.ly/1Chr6:14-1Chr6:15\">1&nbsp;Chr 6:14–15</a>). He was the father of Jeshua (also called Joshua), the high priest in postexilic Jerusalem during the days of Zerubbabel (<a href=\"https://ref.ly/Ezra3:2,Ezra3:8\">Ezr 3:2, 8</a>; <a href=\"https://ref.ly/Ezra5:2\">5:2</a>; <a href=\"https://ref.ly/Ezra10:18\">10:18</a>; <a href=\"https://ref.ly/Neh12:26\">Neh 12:26</a>; <a href=\"https://ref.ly/Hag1:1-Hag1:14\">Hg 1:1–14</a>; <a href=\"https://ref.ly/Hag2:2-Hag2:4\">2:2–4</a>; <a href=\"https://ref.ly/Zech6:11\">Zec 6:11</a>). Jozadak is alternately called Jehozadak.</p>",
+    "content": "<h1>JOZACAR, JOZACHAR</h1><p>An alternate name for <span>Jozabad</span>, son of Shimeath the Ammonitess. He was one of the royal servants who plotted against the murdered King Joash of Judah (<a href=\"https://ref.ly/2Kgs12:21\">2&nbsp;Kings 12:21</a>). He is also called Zabad in <a href=\"https://ref.ly/2Chr24:26\">2&nbsp;Chronicles 24:26</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8280\" data-resourceType=\"TyndaleBibleDictionary\">Zabad</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15003002",
-          "start_ref_usfm": "EZR 3:2",
-          "end_ref": "15003002",
-          "end_ref_usfm": "EZR 3:2"
+          "start_ref": "12012021",
+          "start_ref_usfm": "2KI 12:21",
+          "end_ref": "12012021",
+          "end_ref_usfm": "2KI 12:21"
         },
         {
-          "start_ref": "15003008",
-          "start_ref_usfm": "EZR 3:8",
-          "end_ref": "15003008",
-          "end_ref_usfm": "EZR 3:8"
-        },
-        {
-          "start_ref": "15005002",
-          "start_ref_usfm": "EZR 5:2",
-          "end_ref": "15005002",
-          "end_ref_usfm": "EZR 5:2"
-        },
-        {
-          "start_ref": "15010018",
-          "start_ref_usfm": "EZR 10:18",
-          "end_ref": "15010018",
-          "end_ref_usfm": "EZR 10:18"
-        },
-        {
-          "start_ref": "16012026",
-          "start_ref_usfm": "NEH 12:26",
-          "end_ref": "16012026",
-          "end_ref_usfm": "NEH 12:26"
-        },
-        {
-          "start_ref": "38006011",
-          "start_ref_usfm": "ZEC 6:11",
-          "end_ref": "38006011",
-          "end_ref_usfm": "ZEC 6:11"
-        },
-        {
-          "start_ref": "13006014",
-          "start_ref_usfm": "1CH 6:14",
-          "end_ref": "13006015",
-          "end_ref_usfm": "1CH 6:15"
-        },
-        {
-          "start_ref": "37001001",
-          "start_ref_usfm": "HAG 1:1",
-          "end_ref": "37001014",
-          "end_ref_usfm": "HAG 1:14"
-        },
-        {
-          "start_ref": "37002002",
-          "start_ref_usfm": "HAG 2:2",
-          "end_ref": "37002004",
-          "end_ref_usfm": "HAG 2:4"
+          "start_ref": "14024026",
+          "start_ref_usfm": "2CH 24:26",
+          "end_ref": "14024026",
+          "end_ref_usfm": "2CH 24:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8280,
+          "content_id": 9112,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Zabad",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

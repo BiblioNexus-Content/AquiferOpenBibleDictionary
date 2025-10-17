@@ -1,25 +1,31 @@
 [
   {
-    "content_id": 341293,
-    "reference_id": 7675,
-    "title": "Simon le Cananite",
+    "content_id": 811862,
+    "reference_id": 6873,
+    "title": "Picol",
     "media_type": "Text",
-    "index_reference": "simon le cananite",
+    "index_reference": "picol",
     "language": "fra",
-    "content": "<h1>Simon le Cananite*</h1><p>Nom d&apos;un des Douze dans <a href=\"https://ref.ly/Matt10:4\">Matthieu 10.4</a> et <a href=\"https://ref.ly/Mark3:18\">Marc 3.18</a>, parfois appelé le zélote (TOB 2010). <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7679\" data-resourceType=\"TyndaleBibleDictionary\">Simon n°5</span>.</p>",
+    "content": "<h1>PICOL</h1><p>Chef de l&apos;armée d&apos;Abimélec, présent lorsqu&apos;Abimélec a conclu des accords de paix avec Abraham, puis plus tard avec Isaac (<a href=\"https://ref.ly/Gen21:22,Gen21:32\">Gn 21.22, 32</a> ; <a href=\"https://ref.ly/Gen26:26\">26.26</a>). La présence d&apos;un commandant d&apos;armée indiquait sans doute qu&apos;Abraham était vulnérable. Cependant, les ennemis ont reconnu la puissance supérieure du Dieu d&apos;Abraham. Ainsi, ils ont cherché à vivre en paix avec lui.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40010004",
-          "start_ref_usfm": "MAT 10:4",
-          "end_ref": "40010004",
-          "end_ref_usfm": "MAT 10:4"
+          "start_ref": "01021022",
+          "start_ref_usfm": "GEN 21:22",
+          "end_ref": "01021022",
+          "end_ref_usfm": "GEN 21:22"
         },
         {
-          "start_ref": "41003018",
-          "start_ref_usfm": "MRK 3:18",
-          "end_ref": "41003018",
-          "end_ref_usfm": "MRK 3:18"
+          "start_ref": "01021032",
+          "start_ref_usfm": "GEN 21:32",
+          "end_ref": "01021032",
+          "end_ref_usfm": "GEN 21:32"
+        },
+        {
+          "start_ref": "01026026",
+          "start_ref_usfm": "GEN 26:26",
+          "end_ref": "01026026",
+          "end_ref_usfm": "GEN 26:26"
         }
       ],
       "resource": []

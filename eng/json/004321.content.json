@@ -1,71 +1,88 @@
 [
   {
-    "content_id": 7580,
-    "reference_id": 6748,
-    "title": "Paran",
+    "content_id": 7579,
+    "reference_id": 6747,
+    "title": "Paralysis, Paralytic, Paralyzed",
     "media_type": "Text",
-    "index_reference": "paran",
+    "index_reference": "paralysis, paralytic, paralyzed",
     "language": "eng",
-    "content": "<h1>PARAN</h1><p>Desert region in the northeast Sinai Peninsula west of the Arabah (Rift Valley). The settlement of Kadesh-barnea is its northernmost limit. Some scholars identify the great Et-Tih plateau of the central Sinai as a part of this wilderness.</p><p>The wilderness of Paran is a wild, arid expanse of tableland, mountains, gorges, and wadis. The lack of water and vegetation made it a most inhospitable place and a stark contrast to the land flowing with milk and honey that was promised to Israel.</p><p>This wilderness became the home of Ishmael (<a href=\"https://ref.ly/Gen21:20-Gen21:21\">Gn 21:20–21</a>). The nation of Israel camped there on the way&nbsp;from Egypt to Canaan (<a href=\"https://ref.ly/Num10:12\">Nm 10:12</a>; <a href=\"https://ref.ly/Num12:16\">12:16</a>). From Kadesh-barnea, at the northern edge of the wilderness, Moses sent spies to reconnoiter the Promised Land (<a href=\"https://ref.ly/Num13:3,Num13:26\">13:3, 26</a>). David is said to have led his band of men to this region after the death of Samuel so as to distance himself from King Saul (<a href=\"https://ref.ly/1Sam25:1\">1&nbsp;Sm 25:1</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6726\" data-resourceType=\"TyndaleBibleDictionary\">Palestine</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7681\" data-resourceType=\"TyndaleBibleDictionary\">Sina, Sinai</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
+    "content": "<h1>PARALYSIS, PARALYTIC, PARALYZED</h1><p>Paralysis is a symptom of a disease of the central nervous system. A paralytic experiences temporary or permanent loss of sensation and/or voluntary muscle control in one or more areas of the body. In the case of permanent loss, an affected individual is paralyzed. </p><p>This degenerative condition was considered incurable. A few cases of paralysis are mentioned in the New Testament. All occur in connection with Christ’s healing ministry.</p><p>Paralytics sought Jesus’s healing in Galilee (<a href=\"https://ref.ly/Matt4:24\">Matthew 4:24</a>). Some paralytics were among the sick at Bethesda in Jerusalem (<a href=\"https://ref.ly/John5:3\">John 5:3</a>). Philip cured some paralytics in Samaria (<a href=\"https://ref.ly/Acts8:7\">Acts 8:7</a>). Luke described the paralyzed servant of the centurion as very sick and at the point of death (<a href=\"https://ref.ly/Luke7:2\">Luke 7:2</a>). This man was probably the victim of an often-fatal form of paralysis that begins in the legs and spreads upward through the rest of the body. </p><p>The paralytic at Capernaum was most likely suffering from paraplegia, a paralysis of the lower half of the body (<a href=\"https://ref.ly/Matt9:2,Matt9:6\">Matthew 9:2, 6</a>; <a href=\"https://ref.ly/Mark2:3-Mark2:10\">Mark 2:3–10</a>; <a href=\"https://ref.ly/Luke5:18,Luke5:24\">Luke 5:18, 24</a>). This disease may have come from an injury at birth or from damage to the spinal cord. Aeneas, whom Peter healed at Lydda, may also have suffered from paraplegia (<a href=\"https://ref.ly/Acts9:33\">Acts 9:33</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4028\" data-resourceType=\"TyndaleBibleDictionary\">Disease</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6179\" data-resourceType=\"TyndaleBibleDictionary\">Medicine and Medical Practice</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04010012",
-          "start_ref_usfm": "NUM 10:12",
-          "end_ref": "04010012",
-          "end_ref_usfm": "NUM 10:12"
+          "start_ref": "40004024",
+          "start_ref_usfm": "MAT 4:24",
+          "end_ref": "40004024",
+          "end_ref_usfm": "MAT 4:24"
         },
         {
-          "start_ref": "04012016",
-          "start_ref_usfm": "NUM 12:16",
-          "end_ref": "04012016",
-          "end_ref_usfm": "NUM 12:16"
+          "start_ref": "40009002",
+          "start_ref_usfm": "MAT 9:2",
+          "end_ref": "40009002",
+          "end_ref_usfm": "MAT 9:2"
         },
         {
-          "start_ref": "04013003",
-          "start_ref_usfm": "NUM 13:3",
-          "end_ref": "04013003",
-          "end_ref_usfm": "NUM 13:3"
+          "start_ref": "40009006",
+          "start_ref_usfm": "MAT 9:6",
+          "end_ref": "40009006",
+          "end_ref_usfm": "MAT 9:6"
         },
         {
-          "start_ref": "04013026",
-          "start_ref_usfm": "NUM 13:26",
-          "end_ref": "04013026",
-          "end_ref_usfm": "NUM 13:26"
+          "start_ref": "42005018",
+          "start_ref_usfm": "LUK 5:18",
+          "end_ref": "42005018",
+          "end_ref_usfm": "LUK 5:18"
         },
         {
-          "start_ref": "09025001",
-          "start_ref_usfm": "1SA 25:1",
-          "end_ref": "09025001",
-          "end_ref_usfm": "1SA 25:1"
+          "start_ref": "42005024",
+          "start_ref_usfm": "LUK 5:24",
+          "end_ref": "42005024",
+          "end_ref_usfm": "LUK 5:24"
         },
         {
-          "start_ref": "01021020",
-          "start_ref_usfm": "GEN 21:20",
-          "end_ref": "01021021",
-          "end_ref_usfm": "GEN 21:21"
+          "start_ref": "42007002",
+          "start_ref_usfm": "LUK 7:2",
+          "end_ref": "42007002",
+          "end_ref_usfm": "LUK 7:2"
+        },
+        {
+          "start_ref": "43005003",
+          "start_ref_usfm": "JHN 5:3",
+          "end_ref": "43005003",
+          "end_ref_usfm": "JHN 5:3"
+        },
+        {
+          "start_ref": "44008007",
+          "start_ref_usfm": "ACT 8:7",
+          "end_ref": "44008007",
+          "end_ref_usfm": "ACT 8:7"
+        },
+        {
+          "start_ref": "44009033",
+          "start_ref_usfm": "ACT 9:33",
+          "end_ref": "44009033",
+          "end_ref_usfm": "ACT 9:33"
+        },
+        {
+          "start_ref": "41002003",
+          "start_ref_usfm": "MRK 2:3",
+          "end_ref": "41002010",
+          "end_ref_usfm": "MRK 2:10"
         }
       ],
       "resource": [
         {
-          "reference_id": 6726,
-          "content_id": 7558,
+          "reference_id": 4028,
+          "content_id": 4860,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Palestine",
+          "label": "Disease",
           "language": "eng"
         },
         {
-          "reference_id": 7681,
-          "content_id": 8513,
+          "reference_id": 6179,
+          "content_id": 7011,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Sina, Sinai",
-          "language": "eng"
-        },
-        {
-          "reference_id": 8231,
-          "content_id": 9063,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Wilderness Wanderings",
+          "label": "Medicine and Medical Practice",
           "language": "eng"
         }
       ]

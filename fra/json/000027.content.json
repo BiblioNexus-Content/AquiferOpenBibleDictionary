@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 785147,
-    "reference_id": 2583,
-    "title": "Agabus",
+    "content_id": 788691,
+    "reference_id": 2567,
+    "title": "Adramytte",
     "media_type": "Text",
-    "index_reference": "agabus",
+    "index_reference": "adramytte",
     "language": "fra",
-    "content": "<h1>AGABUS</h1><p>Prophète de l&apos;époque du Nouveau Testament. Il a fait deux prédictions notées dans Actes. Il a correctement prédit une grave famine, qui s&apos;est produite lorsque Claude était l&apos;empereur de Rome (<a href=\"https://ref.ly/Acts11:27-Acts11:28\">Ac 11.27</a>–<a href=\"https://ref.ly/Acts11:27-Acts11:28\">28</a>). Il a également prédit que Paul serait livré aux païens par les Juifs à Jérusalem s&apos;il s&apos;y rendait (<a href=\"https://ref.ly/Acts21:10-Acts21:11\">Ac 21.10</a>–<a href=\"https://ref.ly/Acts21:10-Acts21:11\">11</a>).</p>",
+    "content": "<h1>ADRAMYTTE</h1><p>Ancienne ville portuaire en Asie Mineure. Lors de son voyage vers Rome en tant que prisonnier, Paul naviguera sur un navire d&apos;Adramytte (<a href=\"https://ref.ly/Acts27:2\">Ac 27.2</a>). Adramytte est la ville turque moderne d&apos;Edremit. Les pièces de monnaie trouvées dans la région indiquent qu&apos;Adramytte a pu avoir été un centre cultuel pour Castor et Pollux (fils jumeaux du dieu païen Zeus).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44011027",
-          "start_ref_usfm": "ACT 11:27",
-          "end_ref": "44011028",
-          "end_ref_usfm": "ACT 11:28"
-        },
-        {
-          "start_ref": "44021010",
-          "start_ref_usfm": "ACT 21:10",
-          "end_ref": "44021011",
-          "end_ref_usfm": "ACT 21:11"
+          "start_ref": "44027002",
+          "start_ref_usfm": "ACT 27:2",
+          "end_ref": "44027002",
+          "end_ref_usfm": "ACT 27:2"
         }
       ],
       "resource": []

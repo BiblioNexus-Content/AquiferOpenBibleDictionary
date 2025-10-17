@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 5766,
-    "reference_id": 4934,
-    "title": "Heglam",
+    "content_id": 5765,
+    "reference_id": 4933,
+    "title": "Hegemonides",
     "media_type": "Text",
-    "index_reference": "heglam",
+    "index_reference": "hegemonides",
     "language": "eng",
-    "content": "<h1>HEGLAM*</h1><p>Alternate name for Gera, Bela’s son, in <a href=\"https://ref.ly/1Chr8:7\">1&nbsp;Chronicles 8:7</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4594\" data-resourceType=\"TyndaleBibleDictionary\">Gera #4</span>.</p>",
+    "content": "<h1>HEGEMONIDES</h1><p>Principal Syrian officer appointed by Antiochus, king of Syria, to govern the territory from Ptolemais to Gerar (<a href=\"https://ref.ly/2Macc13:24\">2&nbsp;Macc 13:24</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13008007",
-          "start_ref_usfm": "1CH 8:7",
-          "end_ref": "13008007",
-          "end_ref_usfm": "1CH 8:7"
+          "start_ref": "79013024",
+          "start_ref_usfm": "2MA 13:24",
+          "end_ref": "79013024",
+          "end_ref_usfm": "2MA 13:24"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4594,
-          "content_id": 5426,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Gera",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

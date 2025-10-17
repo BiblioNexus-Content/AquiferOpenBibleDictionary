@@ -1,46 +1,33 @@
 [
   {
-    "content_id": 5482,
-    "reference_id": 4650,
-    "title": "Gittith",
+    "content_id": 5481,
+    "reference_id": 4649,
+    "title": "Gittite",
     "media_type": "Text",
-    "index_reference": "gittith",
+    "index_reference": "gittite",
     "language": "eng",
-    "content": "<h1>GITTITH*</h1><p>Obscure Hebrew term in the superscriptions of <a href=\"https://ref.ly/Ps8:1-Ps8:9\">Psalms 8</a>, <a href=\"https://ref.ly/Ps81:1-Ps81:16\">81</a>, and <a href=\"https://ref.ly/Ps84:1-Ps84:12\">84</a> (nlt mg); perhaps a musical instrument or a musical cue, signaling a mood, to which the psalms were to be performed. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Music</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6414\" data-resourceType=\"TyndaleBibleDictionary\">Musical Instruments</span>.</p>",
+    "content": "<h1>GITTITE</h1><p>A person who lived in Gath, which was a Philistine city (<a href=\"https://ref.ly/2Sam6:10-2Sam6:11\">2&nbsp;Samuel 6:10–11</a>; <a href=\"https://ref.ly/1Chr13:13\">1&nbsp;Chronicles 13:13</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4547\" data-resourceType=\"TyndaleBibleDictionary\">Gath</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19084001",
-          "start_ref_usfm": "PSA 84:1",
-          "end_ref": "19084012",
-          "end_ref_usfm": "PSA 84:12"
+          "start_ref": "13013013",
+          "start_ref_usfm": "1CH 13:13",
+          "end_ref": "13013013",
+          "end_ref_usfm": "1CH 13:13"
         },
         {
-          "start_ref": "19008001",
-          "start_ref_usfm": "PSA 8:1",
-          "end_ref": "19008009",
-          "end_ref_usfm": "PSA 8:9"
-        },
-        {
-          "start_ref": "19081001",
-          "start_ref_usfm": "PSA 81:1",
-          "end_ref": "19081016",
-          "end_ref_usfm": "PSA 81:16"
+          "start_ref": "10006010",
+          "start_ref_usfm": "2SA 6:10",
+          "end_ref": "10006011",
+          "end_ref_usfm": "2SA 6:11"
         }
       ],
       "resource": [
         {
-          "reference_id": 6414,
-          "content_id": 7246,
+          "reference_id": 4547,
+          "content_id": 5379,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Musical Instruments",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6416,
-          "content_id": 7248,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Music",
+          "label": "Gath",
           "language": "eng"
         }
       ]

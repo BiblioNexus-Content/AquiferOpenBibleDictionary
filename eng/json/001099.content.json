@@ -1,15 +1,23 @@
 [
   {
-    "content_id": 715986,
-    "reference_id": 209531,
-    "title": "Buckthorn",
+    "content_id": 4354,
+    "reference_id": 3522,
+    "title": "Buckler",
     "media_type": "Text",
-    "index_reference": "buckthorn",
+    "index_reference": "buckler",
     "language": "eng",
-    "content": "<h1>Buckthorn</h1><p>The Palestinian buckthorn is a shrub or small tree that grows to a height of 0.9 to 1.8 meters (three to six feet). It has velvety, thorny branches, evergreen leaves, and clusters of small flowers that bloom in March or April. This plant grows in thickets and on hillsides from Syria and Lebanon through the Israel and the surrounding areas to Arabia and the Sinai.</p>",
+    "content": "<h1>BUCKLER</h1><p>A small shield carried in the hand or worn on the arm in battle. It was usually round. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2918\" data-resourceType=\"TyndaleBibleDictionary\">Armor and Weapons</span>.</p>",
     "associations": {
       "passage": [],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2918,
+          "content_id": 3750,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Armor and Weapons",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

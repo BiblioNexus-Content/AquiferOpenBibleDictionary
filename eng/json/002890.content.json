@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 6143,
-    "reference_id": 5311,
-    "title": "Jaaziah",
+    "content_id": 6142,
+    "reference_id": 5310,
+    "title": "Jaazer",
     "media_type": "Text",
-    "index_reference": "jaaziah",
+    "index_reference": "jaazer",
     "language": "eng",
-    "content": "<h1>JAAZIAH</h1><p>Descendant of Merari in a list of family leaders among Levites assigned to temple duty in David’s reign (<a href=\"https://ref.ly/1Chr24:26-1Chr24:27\">1&nbsp;Chr 24:26–27</a>).</p>",
+    "content": "<h1>JAAZER</h1><p>The King James Version alternate form of Jazer. Jazer was an Amorite city in Gilead (<a href=\"https://ref.ly/Num21:32\">Numbers 21:32</a> and <a href=\"https://ref.ly/Num32:35\">32:35</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5412\" data-resourceType=\"TyndaleBibleDictionary\">Jazer</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13024026",
-          "start_ref_usfm": "1CH 24:26",
-          "end_ref": "13024027",
-          "end_ref_usfm": "1CH 24:27"
+          "start_ref": "04021032",
+          "start_ref_usfm": "NUM 21:32",
+          "end_ref": "04021032",
+          "end_ref_usfm": "NUM 21:32"
+        },
+        {
+          "start_ref": "04032035",
+          "start_ref_usfm": "NUM 32:35",
+          "end_ref": "04032035",
+          "end_ref_usfm": "NUM 32:35"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5412,
+          "content_id": 6244,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jazer",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

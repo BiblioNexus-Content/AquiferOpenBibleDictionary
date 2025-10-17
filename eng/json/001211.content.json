@@ -1,37 +1,25 @@
 [
   {
-    "content_id": 4465,
-    "reference_id": 3633,
-    "title": "Chaff",
+    "content_id": 4464,
+    "reference_id": 3632,
+    "title": "Chaereas",
     "media_type": "Text",
-    "index_reference": "chaff",
+    "index_reference": "chaereas",
     "language": "eng",
-    "content": "<h1>CHAFF</h1><p>Loose hulls separated from the edible grains by threshing and winnowing. In Bible times, winnowed grain was a common sight. The wind blew away the lighter husks, leaving only the grain. This gave rise to a strong metaphor. It symbolized that good people or nations would survive judgment, but the wicked would not. So, for example, sinners “<span>are like chaff driven off by the wind</span>” (<a href=\"https://ref.ly/Ps1:4\">Psalm 1:4</a>).</p><p>The prophet Isaiah said of the Assyrians, “<span>You conceive chaff; you give birth to stubble. Your breath is a fire that will consume you</span>” (<a href=\"https://ref.ly/Isa33:11\">Isaiah 33:11</a>). In Nebuchadnezzar’s dream, the world&apos;s nations collapse and are like the chaff of the summer threshing floors before the victory of the coming kingdom of God (<a href=\"https://ref.ly/Dan2:35\">Daniel 2:35</a>).</p><p>In the New Testament, it is said that the coming Messiah will “<span>gather His wheat into the barn; but He will burn up the chaff with unquenchable fire</span>” (<a href=\"https://ref.ly/Matt3:12\">Matthew 3:12</a>).</p>",
+    "content": "<h1>CHAEREAS</h1><p>Chaereas was the brother of Timothy. He was the governor (ruler) of the city of Gazara (<a href=\"https://ref.ly/2Macc10:32\">2&nbsp;Maccabees 10:32</a>). The Maccabees attacked Gazara and defeated its army. Many people died in the battle, including Chaereas and Timothy (verses <a href=\"https://ref.ly/2Macc10:36-2Macc10:37\">36–37</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19001004",
-          "start_ref_usfm": "PSA 1:4",
-          "end_ref": "19001004",
-          "end_ref_usfm": "PSA 1:4"
+          "start_ref": "79010032",
+          "start_ref_usfm": "2MA 10:32",
+          "end_ref": "79010032",
+          "end_ref_usfm": "2MA 10:32"
         },
         {
-          "start_ref": "23033011",
-          "start_ref_usfm": "ISA 33:11",
-          "end_ref": "23033011",
-          "end_ref_usfm": "ISA 33:11"
-        },
-        {
-          "start_ref": "27002035",
-          "start_ref_usfm": "DAN 2:35",
-          "end_ref": "27002035",
-          "end_ref_usfm": "DAN 2:35"
-        },
-        {
-          "start_ref": "40003012",
-          "start_ref_usfm": "MAT 3:12",
-          "end_ref": "40003012",
-          "end_ref_usfm": "MAT 3:12"
+          "start_ref": "79010036",
+          "start_ref_usfm": "2MA 10:36",
+          "end_ref": "79010037",
+          "end_ref_usfm": "2MA 10:37"
         }
       ],
       "resource": []

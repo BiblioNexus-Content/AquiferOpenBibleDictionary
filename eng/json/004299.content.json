@@ -1,36 +1,22 @@
 [
   {
-    "content_id": 7557,
-    "reference_id": 6725,
-    "title": "Palestina",
+    "content_id": 7556,
+    "reference_id": 6724,
+    "title": "Palal",
     "media_type": "Text",
-    "index_reference": "palestina",
+    "index_reference": "palal",
     "language": "eng",
-    "content": "<h1>PALESTINA</h1><p>The King James Version spelling of Philistia, a country along the southwest coast of Canaan, in <a href=\"https://ref.ly/Exod15:14\">Exodus 15:14</a> and <a href=\"https://ref.ly/Isa14:29-Isa14:31\">Isaiah 14:29–31</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6881\" data-resourceType=\"TyndaleBibleDictionary\">Philistia, Philistines</span>.</p>",
+    "content": "<h1>PALAL</h1><p>Uzai’s son, who helped rebuild the Jerusalem wall in Nehemiah’s day (<a href=\"https://ref.ly/Neh3:25\">Neh 3:25</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02015014",
-          "start_ref_usfm": "EXO 15:14",
-          "end_ref": "02015014",
-          "end_ref_usfm": "EXO 15:14"
-        },
-        {
-          "start_ref": "23014029",
-          "start_ref_usfm": "ISA 14:29",
-          "end_ref": "23014031",
-          "end_ref_usfm": "ISA 14:31"
+          "start_ref": "16003025",
+          "start_ref_usfm": "NEH 3:25",
+          "end_ref": "16003025",
+          "end_ref_usfm": "NEH 3:25"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6881,
-          "content_id": 7713,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Philistia, Philistines",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

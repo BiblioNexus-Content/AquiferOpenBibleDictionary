@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4484,
-    "reference_id": 3652,
-    "title": "Chariot",
+    "content_id": 4483,
+    "reference_id": 3651,
+    "title": "Charchemish",
     "media_type": "Text",
-    "index_reference": "chariot",
+    "index_reference": "charchemish",
     "language": "eng",
-    "content": "<h1>CHARIOT</h1><p>A chariot is an ancient two-wheeled vehicle pulled by animals, often horses. Chariots were used in war. They were also a means of transportation for persons of rank or wealth, and for hunting.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8083\" data-resourceType=\"TyndaleBibleDictionary\">Travel</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8197\" data-resourceType=\"TyndaleBibleDictionary\">Warfare</span>.</p>",
+    "content": "<h1>CHARCHEMISH*</h1><p>KJV spelling of the city Carchemish in <a href=\"https://ref.ly/2Chr35:20\">2&nbsp;Chronicles 35:20</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3595\" data-resourceType=\"TyndaleBibleDictionary\">Carchemish</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "14035020",
+          "start_ref_usfm": "2CH 35:20",
+          "end_ref": "14035020",
+          "end_ref_usfm": "2CH 35:20"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 8083,
-          "content_id": 8915,
+          "reference_id": 3595,
+          "content_id": 4427,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Travel",
-          "language": "eng"
-        },
-        {
-          "reference_id": 8197,
-          "content_id": 9029,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Warfare",
+          "label": "Carchemish",
           "language": "eng"
         }
       ]

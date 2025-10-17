@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7966,
-    "reference_id": 7134,
-    "title": "Rechah",
+    "content_id": 7965,
+    "reference_id": 7133,
+    "title": "Rechab, Rechabite",
     "media_type": "Text",
-    "index_reference": "rechah",
+    "index_reference": "rechab, rechabite",
     "language": "eng",
-    "content": "<h1>RECHAH*</h1><p>KJV spelling of Recah, a Judean town, in <a href=\"https://ref.ly/1Chr4:12\">1&nbsp;Chronicles 4:12</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7132\" data-resourceType=\"TyndaleBibleDictionary\">Recah</span>.</p>",
+    "content": "<h1>RECHAB*, RECHABITE*</h1><p>Alternate spelling for Recab, Recabite. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7131\" data-resourceType=\"TyndaleBibleDictionary\">Recab</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7130\" data-resourceType=\"TyndaleBibleDictionary\">Recabite</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "13004012",
-          "start_ref_usfm": "1CH 4:12",
-          "end_ref": "13004012",
-          "end_ref_usfm": "1CH 4:12"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 7132,
-          "content_id": 7964,
+          "reference_id": 7130,
+          "content_id": 7962,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Recah",
+          "label": "Recabite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 7131,
+          "content_id": 7963,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Recab",
           "language": "eng"
         }
       ]

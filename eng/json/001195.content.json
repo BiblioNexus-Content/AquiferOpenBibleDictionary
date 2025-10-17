@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 4450,
-    "reference_id": 3618,
-    "title": "Caulk, Caulker",
+    "content_id": 4449,
+    "reference_id": 3617,
+    "title": "Cauda",
     "media_type": "Text",
-    "index_reference": "caulk, caulker",
+    "index_reference": "cauda",
     "language": "eng",
-    "content": "<h1>CAULK, CAULKER</h1><p>A waterproofing substance, such as bitumen, and the one who puts it into the seams of a ship’s planking to make them watertight (<a href=\"https://ref.ly/Ezek27:9\">Ez 27:9</a>, kjv “calker”).</p>",
+    "content": "<h1>CAUDA</h1><p>Cauda was a small island south of Crete. The ship carrying the apostle Paul to Rome stopped at Cauda during a storm to find temporary protection (<a href=\"https://ref.ly/Acts27:16\">Acts 27:16</a>). </p><p>Behind the island, the water was calmer. In this protected area, the sailors pulled on board a small boat they had been towing behind the ship. They also worked to strengthen the ship&apos;s hull.</p><p>Even after they lowered the sails, the strong winds pushed them past the island. Eventually, the ship was wrecked.</p><p>Cauda is the modern island of Gaudos (also called Gozzo). Ancient handwritten copies of the Bible spell the name in different ways. Some use &quot;Cauda&quot; (as in most modern Bible versions), while others use &quot;Clauda&quot; (as in the King James Version and New American Standard Bible).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "26027009",
-          "start_ref_usfm": "EZK 27:9",
-          "end_ref": "26027009",
-          "end_ref_usfm": "EZK 27:9"
+          "start_ref": "44027016",
+          "start_ref_usfm": "ACT 27:16",
+          "end_ref": "44027016",
+          "end_ref_usfm": "ACT 27:16"
         }
       ],
       "resource": []

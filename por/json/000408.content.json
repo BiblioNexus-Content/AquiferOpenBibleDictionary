@@ -1,37 +1,28 @@
 [
   {
-    "content_id": 717261,
-    "reference_id": 7204,
-    "title": "Centeio",
+    "content_id": 658623,
+    "reference_id": 3609,
+    "title": "Casluim, Casluítas",
     "media_type": "Text",
-    "index_reference": "centeio",
+    "index_reference": "casluim, casluítas",
     "language": "por",
-    "content": "<h1>CENTEIO</h1><p>Uma forma comum de trigo nos tempos bíblicos.</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Alimentos e preparação de alimentos</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas (Espelta)</span>.</p>",
+    "content": "<h1>CASLUIM*, CASLUÍTAS</h1><p>Descendentes de Noé através de seu filho Cam e neto Mizraim (“Egito” em algumas versões), e ancestrais dos filisteus (<a href=\"https://ref.ly/Gen10:14\">Gn 10.14</a>; <a href=\"https://ref.ly/1Chr1:12\">1Cr 1.12</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02009032",
-          "start_ref_usfm": "EXO 9:32",
-          "end_ref": "02009032",
-          "end_ref_usfm": "EXO 9:32"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 4454,
-          "content_id": 125261,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Comida E Preparação De Alimentos",
-          "language": "por"
+          "start_ref": "01010014",
+          "start_ref_usfm": "GEN 10:14",
+          "end_ref": "01010014",
+          "end_ref_usfm": "GEN 10:14"
         },
         {
-          "reference_id": 6929,
-          "content_id": 125318,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Plantas",
-          "language": "por"
+          "start_ref": "13001012",
+          "start_ref_usfm": "1CH 1:12",
+          "end_ref": "13001012",
+          "end_ref_usfm": "1CH 1:12"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

@@ -1,46 +1,79 @@
 [
   {
-    "content_id": 5313,
-    "reference_id": 4481,
-    "title": "Frost",
+    "content_id": 5312,
+    "reference_id": 4480,
+    "title": "Frontlet",
     "media_type": "Text",
-    "index_reference": "frost",
+    "index_reference": "frontlet",
     "language": "eng",
-    "content": "<h1>FROST</h1><p>Frozen water vapor or dew (<a href=\"https://ref.ly/Ps78:47\">Pss 78:47</a>; <a href=\"https://ref.ly/Ps147:16\">147:16</a>; <a href=\"https://ref.ly/Ps148:8\">148:8</a>; <a href=\"https://ref.ly/Jer36:30\">Jer 36:30</a>; <a href=\"https://ref.ly/Zech14:6\">Zec 14:6</a>).</p>",
+    "content": "<h1>FRONTLET</h1><p>A translation of a Hebrew word referring to anything bound on the forehead (<a href=\"https://ref.ly/Exod13:16\">Exodus 13:16</a>; <a href=\"https://ref.ly/Deut6:8\">Deuteronomy 6:8</a>; <a href=\"https://ref.ly/Deut11:18\">11:18</a>). The phylacteries (leather boxes) of Jesus’s day (<a href=\"https://ref.ly/Matt23:5\">Matthew 23:5</a>) were worn daily at morning prayer by every male Israelite over the age of 13. They consisted of four Scripture passages (<a href=\"https://ref.ly/Exod13:1-Exod13:10\">Exodus 13:1</a><a href=\"https://ref.ly/Exod13:1-Exod13:10\">–</a><a href=\"https://ref.ly/Exod13:1-Exod13:10\">10</a>; <a href=\"https://ref.ly/Exod13:11-Exod13:16\">13:11</a><a href=\"https://ref.ly/Exod13:11-Exod13:16\">–</a><a href=\"https://ref.ly/Exod13:11-Exod13:16\">16</a>; <a href=\"https://ref.ly/Deut6:4-Deut6:9\">Deuteronomy 6:4</a><a href=\"https://ref.ly/Deut6:4-Deut6:9\">–</a><a href=\"https://ref.ly/Deut6:4-Deut6:9\">9</a>; <a href=\"https://ref.ly/Deut11:13-Deut11:21\">11:13</a><a href=\"https://ref.ly/Deut11:13-Deut11:21\">–</a><a href=\"https://ref.ly/Deut11:13-Deut11:21\">21</a>) written on parchment and placed in small leather boxes tied to the forehead and the left arm. The phylacteries may have been the parchments or the leather boxes. There is no proof to suggest that the Israelites made phylacteries during the time of Moses. The commands were probably not literal. They aimed to show the memorial value of the Feast of Unleavened Bread and the Law&apos;s importance in the people&apos;s lives. For the Pharisees, visibly obeying the Law had replaced the need to apply God&apos;s Word to the heart (<a href=\"https://ref.ly/Matt23:5\">Matthew 23:5</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6896\" data-resourceType=\"TyndaleBibleDictionary\">Phylactery</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"2749\" data-resourceType=\"TyndaleBibleDictionary\">Amulet</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19078047",
-          "start_ref_usfm": "PSA 78:47",
-          "end_ref": "19078047",
-          "end_ref_usfm": "PSA 78:47"
+          "start_ref": "02013016",
+          "start_ref_usfm": "EXO 13:16",
+          "end_ref": "02013016",
+          "end_ref_usfm": "EXO 13:16"
         },
         {
-          "start_ref": "19147016",
-          "start_ref_usfm": "PSA 147:16",
-          "end_ref": "19147016",
-          "end_ref_usfm": "PSA 147:16"
+          "start_ref": "05006008",
+          "start_ref_usfm": "DEU 6:8",
+          "end_ref": "05006008",
+          "end_ref_usfm": "DEU 6:8"
         },
         {
-          "start_ref": "19148008",
-          "start_ref_usfm": "PSA 148:8",
-          "end_ref": "19148008",
-          "end_ref_usfm": "PSA 148:8"
+          "start_ref": "05011018",
+          "start_ref_usfm": "DEU 11:18",
+          "end_ref": "05011018",
+          "end_ref_usfm": "DEU 11:18"
         },
         {
-          "start_ref": "24036030",
-          "start_ref_usfm": "JER 36:30",
-          "end_ref": "24036030",
-          "end_ref_usfm": "JER 36:30"
+          "start_ref": "40023005",
+          "start_ref_usfm": "MAT 23:5",
+          "end_ref": "40023005",
+          "end_ref_usfm": "MAT 23:5"
         },
         {
-          "start_ref": "38014006",
-          "start_ref_usfm": "ZEC 14:6",
-          "end_ref": "38014006",
-          "end_ref_usfm": "ZEC 14:6"
+          "start_ref": "02013001",
+          "start_ref_usfm": "EXO 13:1",
+          "end_ref": "02013010",
+          "end_ref_usfm": "EXO 13:10"
+        },
+        {
+          "start_ref": "02013011",
+          "start_ref_usfm": "EXO 13:11",
+          "end_ref": "02013016",
+          "end_ref_usfm": "EXO 13:16"
+        },
+        {
+          "start_ref": "05006004",
+          "start_ref_usfm": "DEU 6:4",
+          "end_ref": "05006009",
+          "end_ref_usfm": "DEU 6:9"
+        },
+        {
+          "start_ref": "05011013",
+          "start_ref_usfm": "DEU 11:13",
+          "end_ref": "05011021",
+          "end_ref_usfm": "DEU 11:21"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2749,
+          "content_id": 3581,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Amulet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6896,
+          "content_id": 7728,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Phylactery",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

@@ -1,28 +1,42 @@
 [
   {
-    "content_id": 658620,
-    "reference_id": 3553,
-    "title": "Calá",
+    "content_id": 759852,
+    "reference_id": 5682,
+    "title": "Caim (tribo)",
     "media_type": "Text",
-    "index_reference": "calá",
+    "index_reference": "caim (tribo)",
     "language": "por",
-    "content": "<h1>CALÁ</h1><p>Uma das antigas capitais da Assíria, construída por Ninrode (<a href=\"https://ref.ly/Gen10:11-Gen10:12\">Gn 10.11–12</a>). Calá é o nome antigo para a moderna Nimrud, localizada a 38 quilômetros ao sul de Nínive, na margem leste do Rio Tigre. Foi escavada por Henry Layard de 1845 a 1849 e pela Escola Britânica de Arqueologia no Iraque de 1949 a 1964. O local foi ocupado desde tempos pré-históricos até o período helenístico.</p><p>Escavações em Calá revelaram um grande zigurate e templos dedicados a Ninurta e Nabu. Uma grande cidadela construída por Salmanaser I no século XIII a.C. e um palácio construído por Assurnasirpal II (883–859 a.C.) também foram descobertos lá. Palácios de Salmanaser III (858–824 a.C.) e Esar-Hadom (680–669 a.C.) foram parcialmente desobstruídos. Entre outras descobertas notáveis da cidade está o obelisco negro de Salmanaser III, que atualmente está no Museu Britânico. O monumento é importante para os estudos bíblicos devido ao registro do tributo pago pelo Rei Jeú de Israel aos assírios.</p><p>Tiglate-Pileser III (745–727 a.C.) e Sargão II (721–705 a.C.) lançaram seus ataques contra Israel e Judá a partir de Calá. Sargão capturou Samaria. Tiglate-Pileser esteve envolvido com Judá quando Acaz formou uma coalizão com ele contra Israel e Síria (<a href=\"https://ref.ly/Isa7:1-Isa7:17\">Is 7.1–17</a>). Calá foi eventualmente destruída pelos babilônios e medos em 612 a.C.</p>",
+    "content": "<h1>CAIM (tribo)</h1><p>Caim era uma tribo de pessoas que eram as mesmas que os queneus (<a href=\"https://ref.ly/Num24:22\">Nm 24.22</a>; <a href=\"https://ref.ly/Judg4:11\">Jz 4.11</a>). O nome Caim em hebraico significa &quot;lança&quot;, o que sugere que eles podem ter sido habilidosos na fabricação de ferramentas e armas de metal. A tribo vivia como nômades, mudando-se de lugar em lugar em vez de se estabelecerem em uma área. Eles eram amigáveis com Israel (<a href=\"https://ref.ly/1Sam15:6\">1Sm 15.6</a>). Mais tarde, tornaram-se parte de Judá.</p><p><em>Veja </em><span data-bnType=\"resourceReference\" data-resourceId=\"5718\" data-resourceType=\"TyndaleBibleDictionary\"><em>O</em>s queneus</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010011",
-          "start_ref_usfm": "GEN 10:11",
-          "end_ref": "01010012",
-          "end_ref_usfm": "GEN 10:12"
+          "start_ref": "04024022",
+          "start_ref_usfm": "NUM 24:22",
+          "end_ref": "04024022",
+          "end_ref_usfm": "NUM 24:22"
         },
         {
-          "start_ref": "23007001",
-          "start_ref_usfm": "ISA 7:1",
-          "end_ref": "23007017",
-          "end_ref_usfm": "ISA 7:17"
+          "start_ref": "07004011",
+          "start_ref_usfm": "JDG 4:11",
+          "end_ref": "07004011",
+          "end_ref_usfm": "JDG 4:11"
+        },
+        {
+          "start_ref": "09015006",
+          "start_ref_usfm": "1SA 15:6",
+          "end_ref": "09015006",
+          "end_ref_usfm": "1SA 15:6"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5718,
+          "content_id": 658672,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Queneus",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

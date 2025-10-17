@@ -1,40 +1,27 @@
 [
   {
-    "content_id": 7864,
-    "reference_id": 7032,
-    "title": "Purple",
+    "content_id": 7863,
+    "reference_id": 7031,
+    "title": "Purim",
     "media_type": "Text",
-    "index_reference": "purple",
+    "index_reference": "purim",
     "language": "eng",
-    "content": "<h1>PURPLE</h1><p>A highly prized dye extracted from sea snails. Purple was used to dye fabrics for the tabernacle. It was also used for the clothes of the wealthy (<a href=\"https://ref.ly/Exod25:4\">Exodus 25:4</a>; <a href=\"https://ref.ly/Judg8:26\">Judges 8:26</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals (Snail)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3781\" data-resourceType=\"TyndaleBibleDictionary\">Color</span>.</p>",
+    "content": "<h1>PURIM</h1><p>The Hebrew name for the Jewish festival celebrating the Jewish people&apos;s rescue from Haman (<a href=\"https://ref.ly/Esth9:26-Esth9:32\">Esther 9:26–32</a>). Purim means &quot;lots,&quot; small objects used for making decisions.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4416\" data-resourceType=\"TyndaleBibleDictionary\">Feasts and Festivals of Israel</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02025004",
-          "start_ref_usfm": "EXO 25:4",
-          "end_ref": "02025004",
-          "end_ref_usfm": "EXO 25:4"
-        },
-        {
-          "start_ref": "07008026",
-          "start_ref_usfm": "JDG 8:26",
-          "end_ref": "07008026",
-          "end_ref_usfm": "JDG 8:26"
+          "start_ref": "17009026",
+          "start_ref_usfm": "EST 9:26",
+          "end_ref": "17009032",
+          "end_ref_usfm": "EST 9:32"
         }
       ],
       "resource": [
         {
-          "reference_id": 2782,
-          "content_id": 3614,
+          "reference_id": 4416,
+          "content_id": 5248,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Animals",
-          "language": "eng"
-        },
-        {
-          "reference_id": 3781,
-          "content_id": 4613,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Color",
+          "label": "Feasts and Festivals of Israel",
           "language": "eng"
         }
       ]

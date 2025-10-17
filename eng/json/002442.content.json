@@ -1,27 +1,33 @@
 [
   {
-    "content_id": 5697,
-    "reference_id": 4865,
-    "title": "Hashmonah",
+    "content_id": 5696,
+    "reference_id": 4864,
+    "title": "Hashem",
     "media_type": "Text",
-    "index_reference": "hashmonah",
+    "index_reference": "hashem",
     "language": "eng",
-    "content": "<h1>HASHMONAH</h1><p>One of the places where the Israelites stopped during the 40 years they wandered in the wilderness (<a href=\"https://ref.ly/Num33:29-Num33:30\">Numbers 33:29–30</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
+    "content": "<h1>HASHEM</h1><p>A warrior among the mighty men of King David (<a href=\"https://ref.ly/1Chr11:34\">1&nbsp;Chronicles 11:34</a>, see also New Living Translation marginal note). Another name for Jashen in <a href=\"https://ref.ly/2Sam23:32\">2&nbsp;Samuel 23:32</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5398\" data-resourceType=\"TyndaleBibleDictionary\">Jashen</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04033029",
-          "start_ref_usfm": "NUM 33:29",
-          "end_ref": "04033030",
-          "end_ref_usfm": "NUM 33:30"
+          "start_ref": "10023032",
+          "start_ref_usfm": "2SA 23:32",
+          "end_ref": "10023032",
+          "end_ref_usfm": "2SA 23:32"
+        },
+        {
+          "start_ref": "13011034",
+          "start_ref_usfm": "1CH 11:34",
+          "end_ref": "13011034",
+          "end_ref_usfm": "1CH 11:34"
         }
       ],
       "resource": [
         {
-          "reference_id": 8231,
-          "content_id": 9063,
+          "reference_id": 5398,
+          "content_id": 6230,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Wilderness Wanderings",
+          "label": "Jashen",
           "language": "eng"
         }
       ]

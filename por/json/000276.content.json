@@ -1,36 +1,34 @@
 [
   {
-    "content_id": 759658,
-    "reference_id": 3237,
-    "title": "Beerote-Benê-Jaacã",
+    "content_id": 682876,
+    "reference_id": 3236,
+    "title": "Beer-Lahai-Roi",
     "media_type": "Text",
-    "index_reference": "beerote-benê-jaacã",
+    "index_reference": "beer-lahai-roi",
     "language": "por",
-    "content": "<h1>BEEROTE-BENÊ-JAACÃ</h1><p>O local onde os israelitas acamparam durante sua jornada pelo deserto desde o Egito ficava perto de Mosera ou Moserote (<a href=\"https://ref.ly/Deut10:6\">Dt 10.6</a>). Também é chamado de Benê-Jaacã em <a href=\"https://ref.ly/Num33:31-Num33:32\">Números 33.31–32</a>. Beerote-Benê-Jaacã significa &quot;poço dos filhos de Jaacã&quot;.</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações no deserto</span>.</p>",
+    "content": "<h1>BEER-LAAI-ROI</h1><p>Um poço entre Cades e Berede onde Agar foi confrontada pelo anjo do Senhor quando estava grávida de Ismael (<a href=\"https://ref.ly/Gen16:7-Gen16:14\">Gn 16.7–14</a>). Beer-Laai-Roi significa “Poço daquele que Vive e me vê”. Isso se refere à aparição de Deus à serva de Sarai. Mais tarde, Isaque frequentemente usava o poço como local de abastecimento de água em suas viagens (<a href=\"https://ref.ly/Gen24:62\">Gn 24.62</a>; <a href=\"https://ref.ly/Gen25:11\">25.11</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05010006",
-          "start_ref_usfm": "DEU 10:6",
-          "end_ref": "05010006",
-          "end_ref_usfm": "DEU 10:6"
+          "start_ref": "01024062",
+          "start_ref_usfm": "GEN 24:62",
+          "end_ref": "01024062",
+          "end_ref_usfm": "GEN 24:62"
         },
         {
-          "start_ref": "04033031",
-          "start_ref_usfm": "NUM 33:31",
-          "end_ref": "04033032",
-          "end_ref_usfm": "NUM 33:32"
+          "start_ref": "01025011",
+          "start_ref_usfm": "GEN 25:11",
+          "end_ref": "01025011",
+          "end_ref_usfm": "GEN 25:11"
+        },
+        {
+          "start_ref": "01016007",
+          "start_ref_usfm": "GEN 16:7",
+          "end_ref": "01016014",
+          "end_ref_usfm": "GEN 16:14"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 8231,
-          "content_id": 717332,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Peregrinações no deserto",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

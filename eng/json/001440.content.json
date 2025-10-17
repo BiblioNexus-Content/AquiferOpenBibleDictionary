@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 4690,
-    "reference_id": 3858,
-    "title": "Crescens",
+    "content_id": 4689,
+    "reference_id": 3857,
+    "title": "Creeping Things",
     "media_type": "Text",
-    "index_reference": "crescens",
+    "index_reference": "creeping things",
     "language": "eng",
-    "content": "<h1>CRESCENS</h1><p>Crescens was a coworker of the apostle Paul. He traveled to Galatia when Paul was imprisoned in Rome (<a href=\"https://ref.ly/2Tim4:10\">2&nbsp;Timothy 4:10</a>).</p>",
+    "content": "<h1>CREEPING THINGS</h1><p>Reference to insects, reptiles, and some other animals that crawl on the belly or creep on four or more feet. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "55004010",
-          "start_ref_usfm": "2TI 4:10",
-          "end_ref": "55004010",
-          "end_ref_usfm": "2TI 4:10"
+          "reference_id": 2782,
+          "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Animals",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

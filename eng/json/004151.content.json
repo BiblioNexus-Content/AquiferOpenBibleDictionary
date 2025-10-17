@@ -1,33 +1,33 @@
 [
   {
-    "content_id": 7411,
-    "reference_id": 6579,
-    "title": "Nisroch",
+    "content_id": 7410,
+    "reference_id": 6578,
+    "title": "Nisan",
     "media_type": "Text",
-    "index_reference": "nisroch",
+    "index_reference": "nisan",
     "language": "eng",
-    "content": "<h1>NISROCH</h1><p>The god of King Sennacherib, in whose temple at Nineveh the king was assassinated by Adrammelech and Sharezer, his sons (<a href=\"https://ref.ly/2Kgs19:37\">2&nbsp;Kgs 19:37</a>; <a href=\"https://ref.ly/Isa37:38\">Is 37:38</a>). Nisroch was the city god of Nineveh, the chief capital of the Assyrian Empire; he was perhaps identical with the Assyrian god Nusku.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3009\" data-resourceType=\"TyndaleBibleDictionary\">Assyria, Assyrians</span>.</p>",
+    "content": "<h1>NISAN</h1><p>Nisan is one of the months in the Jewish calendar. The name comes from the ancient language of Babylon (<a href=\"https://ref.ly/Neh2:1\">Nehemiah 2:1</a>; <a href=\"https://ref.ly/Esth3:7\">Esther 3:7</a>). According to our modern calendar, Nisan usually occurs during parts of March and April.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3559\" data-resourceType=\"TyndaleBibleDictionary\">Calendars, Ancient and Modern</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12019037",
-          "start_ref_usfm": "2KI 19:37",
-          "end_ref": "12019037",
-          "end_ref_usfm": "2KI 19:37"
+          "start_ref": "16002001",
+          "start_ref_usfm": "NEH 2:1",
+          "end_ref": "16002001",
+          "end_ref_usfm": "NEH 2:1"
         },
         {
-          "start_ref": "23037038",
-          "start_ref_usfm": "ISA 37:38",
-          "end_ref": "23037038",
-          "end_ref_usfm": "ISA 37:38"
+          "start_ref": "17003007",
+          "start_ref_usfm": "EST 3:7",
+          "end_ref": "17003007",
+          "end_ref_usfm": "EST 3:7"
         }
       ],
       "resource": [
         {
-          "reference_id": 3009,
-          "content_id": 3841,
+          "reference_id": 3559,
+          "content_id": 4391,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Assyria, Assyrians",
+          "label": "Calendars, Ancient and Modern",
           "language": "eng"
         }
       ]

@@ -1,34 +1,27 @@
 [
   {
-    "content_id": 7430,
-    "reference_id": 6598,
-    "title": "Not My People",
+    "content_id": 7429,
+    "reference_id": 6597,
+    "title": "Not Loved, Not Pitied",
     "media_type": "Text",
-    "index_reference": "not my people",
+    "index_reference": "not loved, not pitied",
     "language": "eng",
-    "content": "<h1>NOT MY PEOPLE</h1><p>A symbolic name given by the prophet Hosea to his third son (<a href=\"https://ref.ly/Hos1:9\">Hosea 1:9</a>). It was a warning of the coming judgment of God upon Israel. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2733\" data-resourceType=\"TyndaleBibleDictionary\">Ammi</span>.</p>",
+    "content": "<h1>NOT LOVED, NOT PITIED</h1><p>A symbolic name the prophet Hosea gave to his daughter (<a href=\"https://ref.ly/Hos1:6-Hos1:8\">Hosea 1:6–8</a>). It was a warning of the coming judgment of God upon Israel. </p><p><em>See&nbsp;</em><span data-bnType=\"resourceReference\" data-resourceId=\"7238\" data-resourceType=\"TyndaleBibleDictionary\">Ruhamah</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "28001009",
-          "start_ref_usfm": "HOS 1:9",
-          "end_ref": "28001009",
-          "end_ref_usfm": "HOS 1:9"
+          "start_ref": "28001006",
+          "start_ref_usfm": "HOS 1:6",
+          "end_ref": "28001008",
+          "end_ref_usfm": "HOS 1:8"
         }
       ],
       "resource": [
         {
-          "reference_id": 2733,
-          "content_id": 3565,
+          "reference_id": 7238,
+          "content_id": 8070,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ammi",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5932,
-          "content_id": 6764,
-          "resource_code": "Unknown",
-          "label": "Lo-Ammi",
+          "label": "Ruhamah",
           "language": "eng"
         }
       ]

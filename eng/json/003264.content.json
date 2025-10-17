@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 6522,
-    "reference_id": 5690,
-    "title": "Karkor",
+    "content_id": 6521,
+    "reference_id": 5689,
+    "title": "Karka",
     "media_type": "Text",
-    "index_reference": "karkor",
+    "index_reference": "karka",
     "language": "eng",
-    "content": "<h1>KARKOR</h1><p>City in the Transjordan where Gideon attacked the armies of the two Midianite kings, Zebah and Zalmunna (<a href=\"https://ref.ly/Judg8:10\">Jgs 8:10</a>). Indications of its location are sketchy. <a href=\"https://ref.ly/Judg8:11\">Judges 8:11</a> places it east of Nobah and Jog-behah, a town identified with Jubeiah, which is seven miles (11.3&nbsp;kilometers) northwest of Amman in Jordan. A more feasible site is in the vicinity of ancient Succoth (Tell Dier ‘Alla) and Penuel (Tell edh-Dhahab esh-Sherqiyeh), both assigned to Gad’s tribe in Gilead.</p>",
+    "content": "<h1>KARKA</h1><p>Unidentified town marking a part of Judah’s southern boundary (<a href=\"https://ref.ly/Josh15:3\">Jos 15:3</a>). It was located in the southwest section of Palestine between Kadesh-barnea and Wadi el-Arish (Besor Brook).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "07008010",
-          "start_ref_usfm": "JDG 8:10",
-          "end_ref": "07008010",
-          "end_ref_usfm": "JDG 8:10"
-        },
-        {
-          "start_ref": "07008011",
-          "start_ref_usfm": "JDG 8:11",
-          "end_ref": "07008011",
-          "end_ref_usfm": "JDG 8:11"
+          "start_ref": "06015003",
+          "start_ref_usfm": "JOS 15:3",
+          "end_ref": "06015003",
+          "end_ref_usfm": "JOS 15:3"
         }
       ],
       "resource": []

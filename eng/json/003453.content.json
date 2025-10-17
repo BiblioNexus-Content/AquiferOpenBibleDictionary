@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 6712,
-    "reference_id": 5880,
-    "title": "Leech",
+    "content_id": 6711,
+    "reference_id": 5879,
+    "title": "Lecah",
     "media_type": "Text",
-    "index_reference": "leech",
+    "index_reference": "lecah",
     "language": "eng",
-    "content": "<h1>LEECH</h1><p>Blood-sucking, segmented worm, mentioned only in <a href=\"https://ref.ly/Prov30:15\">Proverbs 30:15</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
+    "content": "<h1>LECAH</h1><p>Either a person, descendant of the Judahite Er, or an otherwise unknown place in Judah settled by Er, depending on one’s understanding of “father” (<a href=\"https://ref.ly/1Chr4:21\">1&nbsp;Chr 4:21</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "20030015",
-          "start_ref_usfm": "PRO 30:15",
-          "end_ref": "20030015",
-          "end_ref_usfm": "PRO 30:15"
+          "start_ref": "13004021",
+          "start_ref_usfm": "1CH 4:21",
+          "end_ref": "13004021",
+          "end_ref_usfm": "1CH 4:21"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 2782,
-          "content_id": 3614,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Animals",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

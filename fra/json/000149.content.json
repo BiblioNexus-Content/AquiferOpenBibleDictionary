@@ -1,43 +1,37 @@
 [
   {
-    "content_id": 811798,
-    "reference_id": 3377,
-    "title": "Bethuel (Personne)",
+    "content_id": 788703,
+    "reference_id": 3171,
+    "title": "Barbare",
     "media_type": "Text",
-    "index_reference": "bethuel (personne)",
+    "index_reference": "barbare",
     "language": "fra",
-    "content": "<h1>BETHUEL (Personne)</h1><p>Le plus jeune fils du frère d&apos;Abraham, Nachor, et de sa femme, Milca. Bethuel était le neveu d&apos;Abraham et le père de Rebecca (<a href=\"https://ref.ly/Gen22:23\">Gn 22.23</a>;<a href=\"https://ref.ly/Gen24:15,Gen24:24\"> 24.15, 24</a>). Il est désigné comme un Araméen de Paddan-Aram (<a href=\"https://ref.ly/Gen25:20\">Gn 25.20</a>; <a href=\"https://ref.ly/Gen28:5\">28.5</a>).</p>",
+    "content": "<h1>BARBARE</h1><p>Étranger, en particulier quelqu&apos;un d&apos;une culture considérée comme non avancée ou développée. Le mot grec « <em>barbarous</em> », que nous traduisons par « barbare », provient à l&apos;origine du son répétitif et absurde « <em>bar-bar</em> ». Ce son imite les sons inconnus des langues étrangères. Les Grecs se considéraient comme le peuple le plus cultivé et utilisaient ce terme pour décrire toute personne qui n&apos;était pas grecque. Les Romains, qui ont adopté la culture grecque et se considéraient comme égaux aux Grecs, utilisaient également « barbare » pour désigner les personnes qui ne partageaient pas leurs langues ou leurs coutumes.</p><p>Dans le Nouveau Testament, le mot « barbare » endosse différentes significations. La relation avec la langue est évidente dans une déclaration concernant le parler en langues par le Saint-Esprit. Dans <a href=\"https://ref.ly/1Cor14:11\">1 Corinthiens 14.11,</a> Paul mentionne que si la langue spirituelle d&apos;un chrétien n&apos;est pas comprise, cela ferait du locuteur un « barbare » pour Paul et vice versa. Dans <a href=\"https://ref.ly/Acts28:2-Acts28:4\">Actes 28.2–4</a>, Luc décrit les habitants de Malte comme « barbares », sans que cela soit entendu de manière insultante. Au contraire, il soulignait leur gentillesse envers Paul après son naufrage.</p><p>Paul a également employé le terme dans un sens gréco-romain plus large, déclarant qu&apos;il ressentait une responsabilité envers les Grecs et les barbares (<a href=\"https://ref.ly/Rom1:14\">Rm 1.14</a>). Paul souligne que l&apos;Évangile de Jésus-Christ est pour tout le monde en disant qu&apos;« <span>Il n’y a ici ni Grec ni Juif, ni circoncis ni incirconcis, ni barbare ni Scythe, ni esclave ni libre</span> <span>; mais Christ est tout et en tous</span> » (<a href=\"https://ref.ly/Col3:11\">Col 3.11</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01022023",
-          "start_ref_usfm": "GEN 22:23",
-          "end_ref": "01022023",
-          "end_ref_usfm": "GEN 22:23"
+          "start_ref": "45001014",
+          "start_ref_usfm": "ROM 1:14",
+          "end_ref": "45001014",
+          "end_ref_usfm": "ROM 1:14"
         },
         {
-          "start_ref": "01024015",
-          "start_ref_usfm": "GEN 24:15",
-          "end_ref": "01024015",
-          "end_ref_usfm": "GEN 24:15"
+          "start_ref": "46014011",
+          "start_ref_usfm": "1CO 14:11",
+          "end_ref": "46014011",
+          "end_ref_usfm": "1CO 14:11"
         },
         {
-          "start_ref": "01024024",
-          "start_ref_usfm": "GEN 24:24",
-          "end_ref": "01024024",
-          "end_ref_usfm": "GEN 24:24"
+          "start_ref": "51003011",
+          "start_ref_usfm": "COL 3:11",
+          "end_ref": "51003011",
+          "end_ref_usfm": "COL 3:11"
         },
         {
-          "start_ref": "01025020",
-          "start_ref_usfm": "GEN 25:20",
-          "end_ref": "01025020",
-          "end_ref_usfm": "GEN 25:20"
-        },
-        {
-          "start_ref": "01028005",
-          "start_ref_usfm": "GEN 28:5",
-          "end_ref": "01028005",
-          "end_ref_usfm": "GEN 28:5"
+          "start_ref": "44028002",
+          "start_ref_usfm": "ACT 28:2",
+          "end_ref": "44028004",
+          "end_ref_usfm": "ACT 28:4"
         }
       ],
       "resource": []

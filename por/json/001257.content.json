@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 658681,
-    "reference_id": 6189,
-    "title": "Meujael",
+    "content_id": 828601,
+    "reference_id": 4088,
+    "title": "Mar Oriental",
     "media_type": "Text",
-    "index_reference": "meujael",
+    "index_reference": "mar oriental",
     "language": "por",
-    "content": "<h1>MEUJAEL</h1><p>Um filho de Irade e o pai de Metusael, na linha familiar de Caim (<a href=\"https://ref.ly/Gen4:18\">Gn 4.18</a>).</p>",
+    "content": "<h1>MAR ORIENTAL*</h1><p>Mar Oriental é um nome alternativo para o Mar Morto usado em algumas Bíblias em português em <a href=\"https://ref.ly/Ezek47:18\">Ezequiel 47.18</a>. </p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3947\" data-resourceType=\"TyndaleBibleDictionary\">Mar Morto</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01004018",
-          "start_ref_usfm": "GEN 4:18",
-          "end_ref": "01004018",
-          "end_ref_usfm": "GEN 4:18"
+          "start_ref": "26047018",
+          "start_ref_usfm": "EZK 47:18",
+          "end_ref": "26047018",
+          "end_ref_usfm": "EZK 47:18"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3947,
+          "content_id": 682902,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Mar Morto",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

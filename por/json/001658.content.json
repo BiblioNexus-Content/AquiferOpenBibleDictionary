@@ -1,51 +1,39 @@
 [
   {
-    "content_id": 759682,
-    "reference_id": 3516,
-    "title": "Riacho do Arabá",
+    "content_id": 683009,
+    "reference_id": 5769,
+    "title": "Quiriate-Arba",
     "media_type": "Text",
-    "index_reference": "riacho do arabá",
+    "index_reference": "quiriate-arba",
     "language": "por",
-    "content": "<h1>RIACHO DO ARABÁ</h1><p>Um riacho (corrente de água) que deságua no Arabá (<a href=\"https://ref.ly/Amos6:14\">Am 6.14</a>). A localização exata deste riacho não é conhecida.</p><p>O Arabá é um extenso vale de terra desértica que se estende do Mar da Galileia até o Leste da África. Há um wadi (leito de rio seco que se enche de água durante as chuvas) chamado Arabá ao sul do Mar Morto.</p><p>Na Bíblia, a palavra Arabá significa &quot;deserto&quot; ou &quot;selvagem&quot;. Pode se referir a partes do vale do Jordão (<a href=\"https://ref.ly/Deut4:48-Deut4:49\">Dt 4.48–49</a>; <a href=\"https://ref.ly/Josh8:14\">Js 8.14</a>; <a href=\"https://ref.ly/2Kgs25:4\">2Rs 25.4</a>). Também pode se referir a partes do mar Morto (<a href=\"https://ref.ly/Deut3:17\">Dt 3.17</a>).</p><p>No leito do Arabá, a água flui para o mar Morto a partir de várias nascentes e ribeiros que se formam durante as chuvas.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2855\" data-resourceType=\"TyndaleBibleDictionary\">Arabá</span>.</p>",
+    "content": "<h1>QUIRIATE-ARBA</h1><p>Um antigo nome de Hebrom. Estava perto da caverna de Macpela, o local de sepultamento dos patriarcas (<a href=\"https://ref.ly/Gen23:2\">Gn 23.2</a>; <a href=\"https://ref.ly/Josh14:15\">Js 14.15</a>; <a href=\"https://ref.ly/Judg1:10\">Jz 1.10</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4930\" data-resourceType=\"TyndaleBibleDictionary\">Hebrom (Lugar) #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05003017",
-          "start_ref_usfm": "DEU 3:17",
-          "end_ref": "05003017",
-          "end_ref_usfm": "DEU 3:17"
+          "start_ref": "01023002",
+          "start_ref_usfm": "GEN 23:2",
+          "end_ref": "01023002",
+          "end_ref_usfm": "GEN 23:2"
         },
         {
-          "start_ref": "06008014",
-          "start_ref_usfm": "JOS 8:14",
-          "end_ref": "06008014",
-          "end_ref_usfm": "JOS 8:14"
+          "start_ref": "06014015",
+          "start_ref_usfm": "JOS 14:15",
+          "end_ref": "06014015",
+          "end_ref_usfm": "JOS 14:15"
         },
         {
-          "start_ref": "12025004",
-          "start_ref_usfm": "2KI 25:4",
-          "end_ref": "12025004",
-          "end_ref_usfm": "2KI 25:4"
-        },
-        {
-          "start_ref": "30006014",
-          "start_ref_usfm": "AMO 6:14",
-          "end_ref": "30006014",
-          "end_ref_usfm": "AMO 6:14"
-        },
-        {
-          "start_ref": "05004048",
-          "start_ref_usfm": "DEU 4:48",
-          "end_ref": "05004049",
-          "end_ref_usfm": "DEU 4:49"
+          "start_ref": "07001010",
+          "start_ref_usfm": "JDG 1:10",
+          "end_ref": "07001010",
+          "end_ref_usfm": "JDG 1:10"
         }
       ],
       "resource": [
         {
-          "reference_id": 2855,
-          "content_id": 682856,
+          "reference_id": 4930,
+          "content_id": 682959,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Arabá",
+          "label": "Hebrom (lugar)",
           "language": "por"
         }
       ]

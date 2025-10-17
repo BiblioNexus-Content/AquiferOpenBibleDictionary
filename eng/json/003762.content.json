@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7022,
-    "reference_id": 6190,
-    "title": "Mehuman",
+    "content_id": 7021,
+    "reference_id": 6189,
+    "title": "Mehujael",
     "media_type": "Text",
-    "index_reference": "mehuman",
+    "index_reference": "mehujael",
     "language": "eng",
-    "content": "<h1>MEHUMAN</h1><p>One of the seven officials King Ahasuerus sent to bring Queen Vashti to the royal banquet (<a href=\"https://ref.ly/Esth1:10\">Esther 1:10</a>).</p>",
+    "content": "<h1>MEHUJAEL</h1><p>A son of Irad and the father of Methushael, in the family line of Cain (<a href=\"https://ref.ly/Gen4:18\">Genesis 4:18</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "17001010",
-          "start_ref_usfm": "EST 1:10",
-          "end_ref": "17001010",
-          "end_ref_usfm": "EST 1:10"
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004018",
+          "end_ref_usfm": "GEN 4:18"
         }
       ],
       "resource": []

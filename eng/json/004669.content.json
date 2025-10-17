@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 7929,
-    "reference_id": 7097,
-    "title": "Rameses (Person)",
+    "content_id": 7926,
+    "reference_id": 7094,
+    "title": "Ramath-Mizpeh",
     "media_type": "Text",
-    "index_reference": "rameses (person)",
+    "index_reference": "ramath-mizpeh",
     "language": "eng",
-    "content": "<h1>RAMESES (Person)</h1><p>Alternate form of the Egyptian Ramses of the 19th and 20th dynasties. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7105\" data-resourceType=\"TyndaleBibleDictionary\">Ramses (Person)</span>.</p>",
+    "content": "<h1>RAMATH-MIZPEH</h1><p>Alternate name for Mizpah, a town in Gad’s territory, in <a href=\"https://ref.ly/Josh13:26\">Joshua 13:26</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6345\" data-resourceType=\"TyndaleBibleDictionary\">Mizpah #4</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "06013026",
+          "start_ref_usfm": "JOS 13:26",
+          "end_ref": "06013026",
+          "end_ref_usfm": "JOS 13:26"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 7105,
-          "content_id": 7937,
+          "reference_id": 6345,
+          "content_id": 7177,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ramses (Person)",
+          "label": "Mizpah",
           "language": "eng"
         }
       ]

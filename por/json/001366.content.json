@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 759918,
-    "reference_id": 6593,
-    "title": "Nofa",
+    "content_id": 759904,
+    "reference_id": 6430,
+    "title": "Naamanita",
     "media_type": "Text",
-    "index_reference": "nofa",
+    "index_reference": "naamanita",
     "language": "por",
-    "content": "<h1>NOFA</h1><p>Algumas versões da Bíblia usam a grafia &quot;Nofá&quot;. Um local que marca as fronteiras entre Israel e os moabitas e amoritas (<a href=\"https://ref.ly/Num21:30\">Nm 21.30</a>). Alguns estudiosos acreditam que Nofa é o mesmo que Noba de <a href=\"https://ref.ly/Judg8:11\">Juízes 8.11</a>.</p>",
+    "content": "<h1>NAAMANITA</h1><p>Qualquer descendente de Naamã, filho de Bela, da tribo de Benjamim (<a href=\"https://ref.ly/Num26:40\">Nm 26.40</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6428\" data-resourceType=\"TyndaleBibleDictionary\">Naamã #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04021030",
-          "start_ref_usfm": "NUM 21:30",
-          "end_ref": "04021030",
-          "end_ref_usfm": "NUM 21:30"
-        },
-        {
-          "start_ref": "07008011",
-          "start_ref_usfm": "JDG 8:11",
-          "end_ref": "07008011",
-          "end_ref_usfm": "JDG 8:11"
+          "start_ref": "04026040",
+          "start_ref_usfm": "NUM 26:40",
+          "end_ref": "04026040",
+          "end_ref_usfm": "NUM 26:40"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6428,
+          "content_id": 717188,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Naamã",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

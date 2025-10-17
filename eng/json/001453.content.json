@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4704,
-    "reference_id": 3872,
-    "title": "Cub",
+    "content_id": 4702,
+    "reference_id": 3870,
+    "title": "Crystal",
     "media_type": "Text",
-    "index_reference": "cub",
+    "index_reference": "crystal",
     "language": "eng",
-    "content": "<h1>CUB*</h1><p>Name of a place, identified as Libya (rsv mg), in <a href=\"https://ref.ly/Ezek30:5\">Ezekiel 30:5</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5909\" data-resourceType=\"TyndaleBibleDictionary\">Libya, Libyans</span>.</p>",
+    "content": "<h1>CRYSTAL</h1><p>Variety of quartz, usually clear or nearly so. Two Hebrew words and two Greek words are translated “crystal.” <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7796\" data-resourceType=\"TyndaleBibleDictionary\">Stones, Precious</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "26030005",
-          "start_ref_usfm": "EZK 30:5",
-          "end_ref": "26030005",
-          "end_ref_usfm": "EZK 30:5"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5909,
-          "content_id": 6741,
+          "reference_id": 6313,
+          "content_id": 7145,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Libya, Libyans",
+          "label": "Minerals and Metals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 7796,
+          "content_id": 8628,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Stones, Precious",
           "language": "eng"
         }
       ]

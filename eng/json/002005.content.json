@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 5261,
-    "reference_id": 4429,
-    "title": "Fire, Pillar of",
+    "content_id": 5260,
+    "reference_id": 4428,
+    "title": "Fire, Lake of",
     "media_type": "Text",
-    "index_reference": "fire, pillar of",
+    "index_reference": "fire, lake of",
     "language": "eng",
-    "content": "<h1>FIRE, Pillar of</h1><p>Supernatural phenomenon of God’s presence that guided the Israelites in the wilderness. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6905\" data-resourceType=\"TyndaleBibleDictionary\">Pillar of Fire and Cloud</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
+    "content": "<h1>FIRE, Lake of</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5836\" data-resourceType=\"TyndaleBibleDictionary\">Lake of Fire</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 6905,
-          "content_id": 7737,
+          "reference_id": 5836,
+          "content_id": 6668,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Pillar of Fire and Cloud",
-          "language": "eng"
-        },
-        {
-          "reference_id": 8231,
-          "content_id": 9063,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Wilderness Wanderings",
+          "label": "Lake of Fire",
           "language": "eng"
         }
       ]

@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 7234,
-    "reference_id": 6402,
-    "title": "Mount of the Congregation",
+    "content_id": 7233,
+    "reference_id": 6401,
+    "title": "Mount of the Beatitudes",
     "media_type": "Text",
-    "index_reference": "mount of the congregation",
+    "index_reference": "mount of the beatitudes",
     "language": "eng",
-    "content": "<h1>MOUNT OF THE CONGREGATION*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3799\" data-resourceType=\"TyndaleBibleDictionary\">Congregation, Mount of the</span>.</p>",
+    "content": "<h1>MOUNT OF THE BEATITUDES*</h1><p>Place where Jesus delivered the Sermon on the Mount. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3218\" data-resourceType=\"TyndaleBibleDictionary\">Beatitudes, The</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3799,
-          "content_id": 4631,
+          "reference_id": 3218,
+          "content_id": 4050,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Congregation, Mount of the",
+          "label": "Beatitudes, the",
           "language": "eng"
         }
       ]

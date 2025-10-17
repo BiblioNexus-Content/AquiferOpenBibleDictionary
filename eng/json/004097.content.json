@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 7357,
-    "reference_id": 6525,
-    "title": "Nephishesim, Nephisim",
+    "content_id": 7358,
+    "reference_id": 6526,
+    "title": "Nephish",
     "media_type": "Text",
-    "index_reference": "nephishesim, nephisim",
+    "index_reference": "nephish",
     "language": "eng",
-    "content": "<h1>NEPHISHESIM*, NEPHISIM*</h1><p>A group of people who returned to Jerusalem with Zerubbabel after the exile, counted among the temple servants (<a href=\"https://ref.ly/Ezra2:50\">Ezr 2:50</a>; <a href=\"https://ref.ly/Neh7:52\">Neh 7:52</a>).</p>",
+    "content": "<h1>NEPHISH*</h1><p>KJV spelling of Naphish, Ishmael’s son (<a href=\"https://ref.ly/1Chr5:19\">1&nbsp;Chr 5:19</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6470\" data-resourceType=\"TyndaleBibleDictionary\">Naphish</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002050",
-          "start_ref_usfm": "EZR 2:50",
-          "end_ref": "15002050",
-          "end_ref_usfm": "EZR 2:50"
-        },
-        {
-          "start_ref": "16007052",
-          "start_ref_usfm": "NEH 7:52",
-          "end_ref": "16007052",
-          "end_ref_usfm": "NEH 7:52"
+          "start_ref": "13005019",
+          "start_ref_usfm": "1CH 5:19",
+          "end_ref": "13005019",
+          "end_ref_usfm": "1CH 5:19"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6470,
+          "content_id": 7302,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Naphish",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

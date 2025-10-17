@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 756923,
-    "reference_id": 2584,
-    "title": "Agaguite",
+    "content_id": 788692,
+    "reference_id": 2568,
+    "title": "Adria",
     "media_type": "Text",
-    "index_reference": "agaguite",
+    "index_reference": "adria",
     "language": "fra",
-    "content": "<h1>AGAGUITE</h1><p>Terme utilisé pour décrire Haman, « ennemi de tous les Juifs », à la cour perse du roi Assuérus (<a href=\"https://ref.ly/Esth3:1\">Est 3.1</a> ; <a href=\"https://ref.ly/Esth9:24\">9.24</a>). Agag était un roi amalécite et l&apos;ennemi de Saül.</p>",
+    "content": "<h1>ADRIA</h1><p>La mer Adriatique est un bras de la mer Méditerranée situé entre l&apos;Italie, la Grèce, l&apos;Albanie, le Monténégro et la Croatie à l&apos;est. L&apos;apôtre Paul a connu une violente tempête sur la mer Adriatique pendant quatorze jours (<a href=\"https://ref.ly/Acts27:27\">Ac 27.27</a>). D&apos;autres textes anciens mentionnent également la violence de la mer Adriatique. L&apos;historien juif Josèphe a également fait naufrage dans la mer Adriatique en 64 apr. J.‑C., et le poète grec Homère évoque ces violentes tempêtes dans ses écrits.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "17003001",
-          "start_ref_usfm": "EST 3:1",
-          "end_ref": "17003001",
-          "end_ref_usfm": "EST 3:1"
-        },
-        {
-          "start_ref": "17009024",
-          "start_ref_usfm": "EST 9:24",
-          "end_ref": "17009024",
-          "end_ref_usfm": "EST 9:24"
+          "start_ref": "44027027",
+          "start_ref_usfm": "ACT 27:27",
+          "end_ref": "44027027",
+          "end_ref_usfm": "ACT 27:27"
         }
       ],
       "resource": []

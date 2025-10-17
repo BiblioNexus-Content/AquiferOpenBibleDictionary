@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 5618,
-    "reference_id": 4786,
-    "title": "Hammath (Person)",
+    "content_id": 5616,
+    "reference_id": 4784,
+    "title": "Hamath-Zobah",
     "media_type": "Text",
-    "index_reference": "hammath (person)",
+    "index_reference": "hamath-zobah",
     "language": "eng",
-    "content": "<h1>HAMMATH (Person)</h1><p>Ancestor of the house of Rechab (<a href=\"https://ref.ly/1Chr2:55\">1&nbsp;Chr 2:55</a>), about whom nothing else is known.</p>",
+    "content": "<h1>HAMATH-ZOBAH</h1><p>City captured by King Solomon of Israel (<a href=\"https://ref.ly/2Chr8:3-2Chr8:4\">2&nbsp;Chr 8:3–4</a>). Its identity is uncertain. It occurs only once in the Bible and is not mentioned in any of the cuneiform inscriptions from that period. Some scholars have suggested that there were two Hamaths and that “Zobah” was added to distinguish it from the better-known city (cf. <a href=\"https://ref.ly/Ezek47:17\">Ez 47:17</a>). The city is mentioned with Hamath and Tadmor and was perhaps located in northeastern Syria.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13002055",
-          "start_ref_usfm": "1CH 2:55",
-          "end_ref": "13002055",
-          "end_ref_usfm": "1CH 2:55"
+          "start_ref": "26047017",
+          "start_ref_usfm": "EZK 47:17",
+          "end_ref": "26047017",
+          "end_ref_usfm": "EZK 47:17"
+        },
+        {
+          "start_ref": "14008003",
+          "start_ref_usfm": "2CH 8:3",
+          "end_ref": "14008004",
+          "end_ref_usfm": "2CH 8:4"
         }
       ],
       "resource": []

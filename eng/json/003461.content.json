@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 6720,
-    "reference_id": 5888,
-    "title": "Leopard",
+    "content_id": 6719,
+    "reference_id": 5887,
+    "title": "Lentil",
     "media_type": "Text",
-    "index_reference": "leopard",
+    "index_reference": "lentil",
     "language": "eng",
-    "content": "<h1>LEOPARD</h1><p>A leopard (<em>Panthera pardus tulliana) </em>is a large, spotted wild cat that lives in both rocky and forested areas, known for its hunting skills. It is the most common of all the large wildcats. In rocky areas, it lives in caves. In forested regions, it lives in thick vegetation. In Old Testament times, many lived in the vicinity of Mount Hermon (<a href=\"https://ref.ly/Song4:8\">Song of Solomon 4:8</a>).</p><p>Leopards are smaller than tigers. A leapoard can grow up up to 1.5 meters (five feet) long with a tail of about 0.8 meters (30 inches). Its body is more proportionate than the tiger&apos;s. Leopards ambush their prey silently. They often hide near villages or watering holes, waiting for long periods. The leopard is a quick runner (<a href=\"https://ref.ly/Hab1:8\">Habakkuk 1:8</a>), climber, and is very graceful in general. Its color is yellowish speckled with black spots (<a href=\"https://ref.ly/Jer13:23\">Jeremiah 13:23</a>). Daniel and John saw visions in which leopards were symbols of world powers (<a href=\"https://ref.ly/Dan7:6\">Daniel0 7:6</a>; <a href=\"https://ref.ly/Rev13:2\">Revelation 13:2</a>).</p><p>The leopard is a cautious and clever animal. It is powerful and fierce (<a href=\"https://ref.ly/Jer5:6\">Jeremiah 5:6</a>; <a href=\"https://ref.ly/Hos13:7\">Hosea 13:7</a>; compare <a href=\"https://ref.ly/Isa11:6\">Isaiah 11:6</a>). The leopard is dangerous to both pets and people. Its spotted coat helps it blend into its surroundings. This makes it almost impossible to see in the changing light and shadows of forests. The Israelites feared leopards because they attacked their sheep and goats. Place names like Nimrah, Beth-nimrah, and Nimrim suggest that leopards lived nearby. These places, along with a region northeast of the Dead Sea, reflect this connection. Remarkably, leopards have survived in Israel and Palestine into the 20th century. A few still roam near Mount Tabor and Mount Carmel.</p>",
+    "content": "<h1>LENTIL</h1><p>The lentil plant mentioned in <a href=\"https://ref.ly/Gen25:29-Gen25:34\">Genesis 25:29–34</a>, <a href=\"https://ref.ly/2Sam17:27-2Sam17:29\">2&nbsp;Samuel 17:27–29</a>, <a href=\"https://ref.ly/2Sam23:11\">23:11</a>, and <a href=\"https://ref.ly/Ezek4:9\">Ezekiel 4:9</a> is a small, upright annual plant that looks similar to vetch (a climbing plant with purple, pink, or white flowers that belongs to the pea family). It has thin stems and leaves with tendrils (small, curling parts that help the plant climb or hold onto things).</p><p>The plant produces small white flowers with violet stripes. Its seeds grow in flat pods that look similar to pea pods. These seeds are the lentils that people eat.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Food and Food Preparation</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 2782,
-          "content_id": 3614,
+          "reference_id": 4454,
+          "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Food and Food Preparation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6929,
+          "content_id": 7761,
           "resource_code": "Unknown",
-          "label": "Animals",
+          "label": "Plants",
           "language": "eng"
         }
       ]

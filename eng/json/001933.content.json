@@ -1,100 +1,51 @@
 [
   {
-    "content_id": 5194,
-    "reference_id": 4362,
-    "title": "Eve",
+    "content_id": 5190,
+    "reference_id": 4358,
+    "title": "Evangelist",
     "media_type": "Text",
-    "index_reference": "eve",
+    "index_reference": "evangelist",
     "language": "eng",
-    "content": "<h1>EVE</h1><p>The first woman, who was called the “the mother of all living” (<a href=\"https://ref.ly/Gen3:20\">Genesis 3:20</a>). The book of Genesis tells us that after God created Adam, he saw that Adam should not be alone. God decided to create “a suitable helper” for Adam (<a href=\"https://ref.ly/Gen2:18\">2:18</a>). The Hebrew word for helper is <em>ezer</em>, which is also used in other parts of the Old Testament to describe how God helps Israel. God made Adam fall into a deep sleep. Then God took one of Adam&apos;s ribs and used it to create Eve (verses <a href=\"https://ref.ly/Gen2:21-Gen2:25\">21–25</a>).</p><h2>Her Name</h2><p>Adam gave his wife Eve two names. First, he called her “woman.&quot; This name showed her connection to man (<a href=\"https://ref.ly/Gen2:23\">Genesis 2:23</a>). Later, after they disobeyed God, he named her Eve, which means &quot;life.&quot; It refers to her role as the first mother of the human race (<a href=\"https://ref.ly/Gen3:20\">3:20</a>).</p><h2>Her Story</h2><p>Adam and Eve first lived in the garden of Eden. They obeyed God by serving him and caring for one another. Then evil entered the world. The serpent tempted Eve to disobey what God commanded. God had told them not to eat fruit from the tree of the knowledge of good and evil (<a href=\"https://ref.ly/Gen2:17\">Genesis 2:17</a>; <a href=\"https://ref.ly/Gen3:3\">3:3</a>). The serpent tricked Eve with clever words, and she ate the fruit. She then gave some fruit to Adam, who also ate it even though he was not tricked like Eve was. After eating the fruit, they realized they were naked and made clothes from fig leaves.</p><p>When God came to talk with them, they hid from him. When God asked what happened, Adam blamed Eve, and Eve blamed the serpent. God told Eve that because of their disobedience, giving birth would be painful. He also said that her husband would rule over her (<a href=\"https://ref.ly/Gen3:16\">Genesis 3:16</a>). Later, Eve became the mother of Cain, Abel, Seth, and other children (<a href=\"https://ref.ly/Gen4:1-Gen4:2,Gen4:25\">4:1–2, 25</a>; <a href=\"https://ref.ly/Gen5:4\">5:4</a>).</p><h2>Her Future</h2><p>The New Testament mentions Eve twice. The apostle Paul refers to Eve when discussing whether women should teach in the church. He writes, &quot;I do not permit a woman to teach or to exercise authority over a man&quot; (<a href=\"https://ref.ly/1Tim2:12\">1 Timothy 2:12</a>). The Greek word for &quot;man&quot; is the same word for &quot;husband,&quot; so some scholars argue that Paul may be referring specifically to a woman’s relationship with her husband rather than to all men in general. Paul’s reasoning is that man was created first, and the woman was deceived and became the first to sin (<a href=\"https://ref.ly/1Tim2:12-1Tim2:15\">1&nbsp;Timothy 2:12–15;</a> <a href=\"https://ref.ly/2Cor11:3\">2&nbsp;Corinthians 11:3</a>). </p><p>Some interpret this as Paul emphasizing the creation order and the fall (when Adam and Eve first sinned) as reasons for limiting women&apos;s authority in the church. Others argue that Paul’s instructions were specific to the church in Ephesus at that time, where false teaching was a problem. They understand Paul&apos;s words as addressing a particular situation rather than establishing a universal rule that forbids all women in all churches from teaching.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2531\" data-resourceType=\"TyndaleBibleDictionary\">Adam (Person)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4534\" data-resourceType=\"TyndaleBibleDictionary\">Garden of Eden</span>.</p>",
+    "content": "<h1>EVANGELIST</h1><p>An evangelist is a person who announces and shares the good news about Jesus Christ. This term appears three times in the New Testament. </p><p>The apostle Paul urged the Ephesian church to &quot;<span>walk in a manner worthy of the calling you have received&quot;</span> (<a href=\"https://ref.ly/Eph4:1-Eph4:12\">Ephesians 4:1–12</a>). His urging emphasized the gifts given to each person &quot;to preserve the unity of the Spirit&quot; (verse <a href=\"https://ref.ly/Eph4:3\">3</a>). Paul explained that after Jesus went up to heaven, he “gave <span>some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers</span>” (verse <a href=\"https://ref.ly/Eph4:11\">11</a>). This means Jesus chooses people for these different roles and gives them to the church as gifts.</p><p>The evangelist is one of the gifts Jesus gives to the church. The meaning of the term indicates that the task of the evangelist is to tell people outside the church about Jesus. Their role is similar to an apostle&apos;s, but with one key difference. An apostle had to know Jesus personally during his time on earth (<a href=\"https://ref.ly/Acts1:21-Acts1:22\">Acts 1:21–22</a>). The evangelist is different than the pastor or teacher. While evangelists first introduce people to Jesus, pastors and teachers help believers grow in their faith afterward. The reference to &quot;Philip the evangelist&quot; (<a href=\"https://ref.ly/Acts21:8\">21:8</a>) supports the idea of evangelist as a title. It is a gifted ministry to which Jesus calls some in the church.</p><p>A person can have more than one role in the church. For example, Paul told Timothy, who was a pastor and teacher, to “do the work of an evangelist” (<a href=\"https://ref.ly/2Tim4:5\">2&nbsp;Timothy 4:5</a>). This shows that “evangelist” can mean both a main role that someone is called to do and a task that other church leaders might do as part of their work.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7776\" data-resourceType=\"TyndaleBibleDictionary\">Spiritual Gifts</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01002017",
-          "start_ref_usfm": "GEN 2:17",
-          "end_ref": "01002017",
-          "end_ref_usfm": "GEN 2:17"
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
         },
         {
-          "start_ref": "01002018",
-          "start_ref_usfm": "GEN 2:18",
-          "end_ref": "01002018",
-          "end_ref_usfm": "GEN 2:18"
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004011",
+          "end_ref_usfm": "EPH 4:11"
         },
         {
-          "start_ref": "01002023",
-          "start_ref_usfm": "GEN 2:23",
-          "end_ref": "01002023",
-          "end_ref_usfm": "GEN 2:23"
+          "start_ref": "55004005",
+          "start_ref_usfm": "2TI 4:5",
+          "end_ref": "55004005",
+          "end_ref_usfm": "2TI 4:5"
         },
         {
-          "start_ref": "01003003",
-          "start_ref_usfm": "GEN 3:3",
-          "end_ref": "01003003",
-          "end_ref_usfm": "GEN 3:3"
+          "start_ref": "44001021",
+          "start_ref_usfm": "ACT 1:21",
+          "end_ref": "44001022",
+          "end_ref_usfm": "ACT 1:22"
         },
         {
-          "start_ref": "01003016",
-          "start_ref_usfm": "GEN 3:16",
-          "end_ref": "01003016",
-          "end_ref_usfm": "GEN 3:16"
-        },
-        {
-          "start_ref": "01003020",
-          "start_ref_usfm": "GEN 3:20",
-          "end_ref": "01003020",
-          "end_ref_usfm": "GEN 3:20"
-        },
-        {
-          "start_ref": "01004025",
-          "start_ref_usfm": "GEN 4:25",
-          "end_ref": "01004025",
-          "end_ref_usfm": "GEN 4:25"
-        },
-        {
-          "start_ref": "01005004",
-          "start_ref_usfm": "GEN 5:4",
-          "end_ref": "01005004",
-          "end_ref_usfm": "GEN 5:4"
-        },
-        {
-          "start_ref": "47011003",
-          "start_ref_usfm": "2CO 11:3",
-          "end_ref": "47011003",
-          "end_ref_usfm": "2CO 11:3"
-        },
-        {
-          "start_ref": "01002021",
-          "start_ref_usfm": "GEN 2:21",
-          "end_ref": "01002025",
-          "end_ref_usfm": "GEN 2:25"
-        },
-        {
-          "start_ref": "01004001",
-          "start_ref_usfm": "GEN 4:1",
-          "end_ref": "01004002",
-          "end_ref_usfm": "GEN 4:2"
-        },
-        {
-          "start_ref": "54002012",
-          "start_ref_usfm": "1TI 2:12",
-          "end_ref": "54002015",
-          "end_ref_usfm": "1TI 2:15"
+          "start_ref": "49004001",
+          "start_ref_usfm": "EPH 4:1",
+          "end_ref": "49004012",
+          "end_ref_usfm": "EPH 4:12"
         }
       ],
       "resource": [
         {
-          "reference_id": 2531,
-          "content_id": 3363,
+          "reference_id": 7776,
+          "content_id": 8608,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Adam (Person)",
-          "language": "eng"
-        },
-        {
-          "reference_id": 4534,
-          "content_id": 5366,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Garden of Eden",
+          "label": "Spiritual Gifts",
           "language": "eng"
         }
       ]

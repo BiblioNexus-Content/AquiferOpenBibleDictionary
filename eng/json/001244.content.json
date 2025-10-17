@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 4499,
-    "reference_id": 3667,
-    "title": "Chelub",
+    "content_id": 4497,
+    "reference_id": 3665,
+    "title": "Chelous",
     "media_type": "Text",
-    "index_reference": "chelub",
+    "index_reference": "chelous",
     "language": "eng",
-    "content": "<h1>CHELUB</h1><ol><li><p>The brother of Shuhah and the father of Mehir from the tribe of Judah (<a href=\"https://ref.ly/1Chr4:11\">1&nbsp;Chronicles 4:11</a>).</p></li><li><p>The father of Ezri. Ezri was in charge of the workers who farmed King David&apos;s fields (<a href=\"https://ref.ly/1Chr27:26\">1&nbsp;Chronicles 27:26</a>).</p></li></ol>",
+    "content": "<h1>CHELOUS</h1><p>Chelous was one of the cities that received messengers from King Nebuchadnezzar asking for help in his war against Arphaxad (<a href=\"https://ref.ly/Jdt1:9\">Judith 1:9</a>). Most scholars think Chelous is the same as the ancient city Elusa. Today, that place is called Khalasa. It is south of Beersheba, near the southern edge of the Dead Sea.</p><p>Khalasa was close to an important crossroads in the region.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13004011",
-          "start_ref_usfm": "1CH 4:11",
-          "end_ref": "13004011",
-          "end_ref_usfm": "1CH 4:11"
-        },
-        {
-          "start_ref": "13027026",
-          "start_ref_usfm": "1CH 27:26",
-          "end_ref": "13027026",
-          "end_ref_usfm": "1CH 27:26"
+          "start_ref": "69001009",
+          "start_ref_usfm": "JDT 1:9",
+          "end_ref": "69001009",
+          "end_ref_usfm": "JDT 1:9"
         }
       ],
       "resource": []

@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 6726,
-    "reference_id": 5894,
-    "title": "Letushim, Letushites",
+    "content_id": 718560,
+    "reference_id": 209541,
+    "title": "Lettuce",
     "media_type": "Text",
-    "index_reference": "letushim, letushites",
+    "index_reference": "lettuce",
     "language": "eng",
-    "content": "<h1>LETUSHIM*, LETUSHITES</h1><p>Tribe founded by the second of Dedan’s three sons, a descendant of Abraham and Keturah through Jokshan’s line (<a href=\"https://ref.ly/Gen25:3\">Gn 25:3</a>). Some suggest that the tribe eventually settled in northern Arabia.</p>",
+    "content": "<h1>Lettuce</h1><p>A leafy green vegetable that people commonly eat in salads. While not specifically named in the Bible, many scholars believe that lettuce (<em>Lactuca sativa</em>) may have been one of the &quot;bitter herbs&quot; mentioned in <a href=\"https://ref.ly/Exod12:8\">Exodus 12:8</a> and <a href=\"https://ref.ly/Num9:11\">Numbers 9:11</a>. These bitter herbs were to be eaten with the Passover meal as a reminder of the Israelites’ suffering in Egypt.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3428\" data-resourceType=\"TyndaleBibleDictionary\">Bitter Herbs</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "01025003",
-          "start_ref_usfm": "GEN 25:3",
-          "end_ref": "01025003",
-          "end_ref_usfm": "GEN 25:3"
+          "reference_id": 3428,
+          "content_id": 4260,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Bitter Herbs",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

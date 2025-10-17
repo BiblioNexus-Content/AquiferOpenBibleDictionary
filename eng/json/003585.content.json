@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 6843,
-    "reference_id": 6011,
-    "title": "Madmannah (Place)",
+    "content_id": 6842,
+    "reference_id": 6010,
+    "title": "Madmannah (Person)",
     "media_type": "Text",
-    "index_reference": "madmannah (place)",
+    "index_reference": "madmannah (person)",
     "language": "eng",
-    "content": "<h1>MADMANNAH (Place)</h1><p>Alternate name for Beth-marcaboth, a city in southern Judah, in <a href=\"https://ref.ly/Josh15:31\">Joshua 15:31</a>. <em>See</em>&nbsp;<span data-bnType=\"resourceReference\" data-resourceId=\"3357\" data-resourceType=\"TyndaleBibleDictionary\">Beth-marcaboth</span>.</p>",
+    "content": "<h1>MADMANNAH (Person)</h1><p>Shaaph’s son and a grandson of Caleb (<a href=\"https://ref.ly/1Chr2:49\">1&nbsp;Chr 2:49</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015031",
-          "start_ref_usfm": "JOS 15:31",
-          "end_ref": "06015031",
-          "end_ref_usfm": "JOS 15:31"
+          "start_ref": "13002049",
+          "start_ref_usfm": "1CH 2:49",
+          "end_ref": "13002049",
+          "end_ref_usfm": "1CH 2:49"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3357,
-          "content_id": 4189,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Beth-Marcaboth",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 4585,
-    "reference_id": 3753,
-    "title": "Clay Tablet",
+    "content_id": 4586,
+    "reference_id": 3754,
+    "title": "Clay",
     "media_type": "Text",
-    "index_reference": "clay tablet",
+    "index_reference": "clay",
     "language": "eng",
-    "content": "<h1>CLAY TABLET*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8265\" data-resourceType=\"TyndaleBibleDictionary\">Writing</span>.</p>",
+    "content": "<h1>CLAY</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6963\" data-resourceType=\"TyndaleBibleDictionary\">Pottery</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 8265,
-          "content_id": 9097,
+          "reference_id": 6313,
+          "content_id": 7145,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Writing",
+          "label": "Minerals and Metals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6963,
+          "content_id": 7795,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Pottery",
           "language": "eng"
         }
       ]

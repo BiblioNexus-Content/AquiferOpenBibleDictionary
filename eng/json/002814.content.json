@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 6066,
-    "reference_id": 5234,
-    "title": "Ishbosheth",
+    "content_id": 6065,
+    "reference_id": 5233,
+    "title": "Ishbi-benob",
     "media_type": "Text",
-    "index_reference": "ishbosheth",
+    "index_reference": "ishbi-benob",
     "language": "eng",
-    "content": "<h1>ISHBOSHETH</h1><p>Another name for Eshbaal, son of King Saul. He became king after his father died (<a href=\"https://ref.ly/2Sam2:1-2Sam4:12\">2&nbsp;Samuel 2–4</a>). Ishbosheth ruled for a short time before his death.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4314\" data-resourceType=\"TyndaleBibleDictionary\">Eshbaal</span>.</p>",
+    "content": "<h1>ISHBI-BENOB</h1><p>A giant who almost killed David. During one of his many battles with the Philistines, David grew faint and Ishbi-benob almost killed him. Abishai killed the giant and saved David (<a href=\"https://ref.ly/2Sam21:16\">2&nbsp;Samuel 21:16</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "10002001",
-          "start_ref_usfm": "2SA 2:1",
-          "end_ref": "10004012",
-          "end_ref_usfm": "2SA 4:12"
+          "start_ref": "10021016",
+          "start_ref_usfm": "2SA 21:16",
+          "end_ref": "10021016",
+          "end_ref_usfm": "2SA 21:16"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4314,
-          "content_id": 5146,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Eshbaal",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

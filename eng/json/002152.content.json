@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 5408,
-    "reference_id": 4576,
-    "title": "Gemalli",
+    "content_id": 5407,
+    "reference_id": 4575,
+    "title": "Geliloth",
     "media_type": "Text",
-    "index_reference": "gemalli",
+    "index_reference": "geliloth",
     "language": "eng",
-    "content": "<h1>GEMALLI</h1><p>The father of Ammiel. Ammiel was one of the 12 spies sent by Moses to explore the land of Canaan (<a href=\"https://ref.ly/Num13:12\">Numbers 13:12</a>).</p>",
+    "content": "<h1>GELILOTH</h1><p>Place mentioned in the boundary line of Benjamin (<a href=\"https://ref.ly/Josh18:17\">Jos 18:17</a>), usually identified with Gilgal. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4637\" data-resourceType=\"TyndaleBibleDictionary\">Gilgal #4</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04013012",
-          "start_ref_usfm": "NUM 13:12",
-          "end_ref": "04013012",
-          "end_ref_usfm": "NUM 13:12"
+          "start_ref": "06018017",
+          "start_ref_usfm": "JOS 18:17",
+          "end_ref": "06018017",
+          "end_ref_usfm": "JOS 18:17"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4637,
+          "content_id": 5469,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Gilgal",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

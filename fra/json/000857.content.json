@@ -1,42 +1,46 @@
 [
   {
-    "content_id": 806116,
-    "reference_id": 7186,
-    "title": "Réhu",
+    "content_id": 800721,
+    "reference_id": 6426,
+    "title": "Naama (Personne)",
     "media_type": "Text",
-    "index_reference": "réhu",
+    "index_reference": "naama (personne)",
     "language": "fra",
-    "content": "<h1>RÉHU</h1><p>Fils de Péleg et père de Serug, descendant de Sem (<a href=\"https://ref.ly/Gen11:18-Gen11:21\">Gn 11.18–21</a> ; <a href=\"https://ref.ly/1Chr1:25\">1Ch 1.25</a>). Il est mentionné comme l&apos;un des ancêtres de Jésus dans <a href=\"https://ref.ly/Luke3:35\">Luc 3.35</a>.</p><p><em>Consultez</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4580\" data-resourceType=\"TyndaleBibleDictionary\">Généalogie de Jésus-Christ</span>.</p>",
+    "content": "<h1>NAAMA (Personne)</h1><ol><li><p>Fille de Tsilla et Lémec dans la liste des descendants de Caïn (<a href=\"https://ref.ly/Gen4:22\">Gn 4.22</a>).</p></li><li><p>Une des épouses du roi Salomon. Elle était d&apos;Ammon (<a href=\"https://ref.ly/1Kgs14:21,1Kgs14:31\">1R 14.21, 31</a> ; <a href=\"https://ref.ly/2Chr12:13\">2Ch 12.13</a>). Il est certain qu&apos;elle avait une responsabilité partielle dans l&apos;idolâtrie de Salomon. Son fils Roboam a régné sur Juda après la mort de Salomon (<a href=\"https://ref.ly/1Kgs14:21-1Kgs14:24\">1R 14.21–24</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13001025",
-          "start_ref_usfm": "1CH 1:25",
-          "end_ref": "13001025",
-          "end_ref_usfm": "1CH 1:25"
+          "start_ref": "01004022",
+          "start_ref_usfm": "GEN 4:22",
+          "end_ref": "01004022",
+          "end_ref_usfm": "GEN 4:22"
         },
         {
-          "start_ref": "42003035",
-          "start_ref_usfm": "LUK 3:35",
-          "end_ref": "42003035",
-          "end_ref_usfm": "LUK 3:35"
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014021",
+          "end_ref_usfm": "1KI 14:21"
         },
         {
-          "start_ref": "01011018",
-          "start_ref_usfm": "GEN 11:18",
-          "end_ref": "01011021",
-          "end_ref_usfm": "GEN 11:21"
+          "start_ref": "11014031",
+          "start_ref_usfm": "1KI 14:31",
+          "end_ref": "11014031",
+          "end_ref_usfm": "1KI 14:31"
+        },
+        {
+          "start_ref": "14012013",
+          "start_ref_usfm": "2CH 12:13",
+          "end_ref": "14012013",
+          "end_ref_usfm": "2CH 12:13"
+        },
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014024",
+          "end_ref_usfm": "1KI 14:24"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4580,
-          "content_id": 806021,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Généalogie de Jésus-Christ",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,43 +1,55 @@
 [
   {
-    "content_id": 6155,
-    "reference_id": 5323,
-    "title": "Jachin and Boaz",
+    "content_id": 6157,
+    "reference_id": 5325,
+    "title": "Jachin",
     "media_type": "Text",
-    "index_reference": "jachin and boaz",
+    "index_reference": "jachin",
     "language": "eng",
-    "content": "<h1>JACHIN AND BOAZ*</h1><p>Names of two pillars Solomon set up before the temple vestibule. He named the south pillar Jachin and the north pillar Boaz (<a href=\"https://ref.ly/1Kgs7:21\">1&nbsp;Kgs 7:21</a>; <a href=\"https://ref.ly/2Chr3:17\">2&nbsp;Chr 3:17</a>). These hollow pillars were cast of bronze and measured about 27 feet (8.2 meters) in height and about 18 feet (5.5 meters) in circumference (nearly 6 feet, or 1.8 meters, in diameter). They were crowned with a capital (ornate cap or top) about 7½ feet (2.3 meters) high that consisted of cast lily work, chains, and 200 pomegranates each (<a href=\"https://ref.ly/1Kgs7:15-1Kgs7:20\">1&nbsp;Kgs 7:15–20</a>; <a href=\"https://ref.ly/2Chr3:15-2Chr3:16\">2&nbsp;Chr 3:15–16</a>; <a href=\"https://ref.ly/2Chr4:13\">4:13</a>).</p>",
+    "content": "<h1>JACHIN</h1><ol><li><p>The son of Simeon and leader of the Jachinites, who moved to Egypt with his grandfather Jacob (<a href=\"https://ref.ly/Gen46:10\">Genesis 46:10</a>; <a href=\"https://ref.ly/Exod6:15\">Exodus 6:15</a>; <a href=\"https://ref.ly/Num26:12\">Numbers 26:12</a>). He is called Jarib in <a href=\"https://ref.ly/1Chr4:24\">1&nbsp;Chronicles 4:24</a>.</p></li><li><p>A priest who lived in Jerusalem after the exile to Babylon (<a href=\"https://ref.ly/1Chr9:10\">1&nbsp;Chronicles 9:10</a>; <a href=\"https://ref.ly/Neh11:10\">Nehemiah 11:10</a>). The name Jachin may possibly refer to a family of priests that Jachin led.</p></li><li><p>A descendant of Aaron who led the twenty-first division of priests who served in the temple during King David&apos;s time (<a href=\"https://ref.ly/1Chr24:17\">1&nbsp;Chronicles 24:17</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11007021",
-          "start_ref_usfm": "1KI 7:21",
-          "end_ref": "11007021",
-          "end_ref_usfm": "1KI 7:21"
+          "start_ref": "01046010",
+          "start_ref_usfm": "GEN 46:10",
+          "end_ref": "01046010",
+          "end_ref_usfm": "GEN 46:10"
         },
         {
-          "start_ref": "14003017",
-          "start_ref_usfm": "2CH 3:17",
-          "end_ref": "14003017",
-          "end_ref_usfm": "2CH 3:17"
+          "start_ref": "02006015",
+          "start_ref_usfm": "EXO 6:15",
+          "end_ref": "02006015",
+          "end_ref_usfm": "EXO 6:15"
         },
         {
-          "start_ref": "14004013",
-          "start_ref_usfm": "2CH 4:13",
-          "end_ref": "14004013",
-          "end_ref_usfm": "2CH 4:13"
+          "start_ref": "04026012",
+          "start_ref_usfm": "NUM 26:12",
+          "end_ref": "04026012",
+          "end_ref_usfm": "NUM 26:12"
         },
         {
-          "start_ref": "11007015",
-          "start_ref_usfm": "1KI 7:15",
-          "end_ref": "11007020",
-          "end_ref_usfm": "1KI 7:20"
+          "start_ref": "13004024",
+          "start_ref_usfm": "1CH 4:24",
+          "end_ref": "13004024",
+          "end_ref_usfm": "1CH 4:24"
         },
         {
-          "start_ref": "14003015",
-          "start_ref_usfm": "2CH 3:15",
-          "end_ref": "14003016",
-          "end_ref_usfm": "2CH 3:16"
+          "start_ref": "13009010",
+          "start_ref_usfm": "1CH 9:10",
+          "end_ref": "13009010",
+          "end_ref_usfm": "1CH 9:10"
+        },
+        {
+          "start_ref": "13024017",
+          "start_ref_usfm": "1CH 24:17",
+          "end_ref": "13024017",
+          "end_ref_usfm": "1CH 24:17"
+        },
+        {
+          "start_ref": "16011010",
+          "start_ref_usfm": "NEH 11:10",
+          "end_ref": "16011010",
+          "end_ref_usfm": "NEH 11:10"
         }
       ],
       "resource": []

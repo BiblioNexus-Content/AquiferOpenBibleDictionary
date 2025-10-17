@@ -1,85 +1,49 @@
 [
   {
-    "content_id": 756938,
-    "reference_id": 3639,
-    "title": "Chambellan",
+    "content_id": 822885,
+    "reference_id": 3410,
+    "title": "Bilha (Personne)",
     "media_type": "Text",
-    "index_reference": "chambellan",
+    "index_reference": "bilha (personne)",
     "language": "fra",
-    "content": "<h1>CHAMBELLAN</h1><p>Fonctionnaire royal responsable des appartements privés du roi. Ils avaient parfois des tâches importantes et exerçaient une influence sur ceux au pouvoir (<a href=\"https://ref.ly/Acts12:20\">Ac 12.20</a>). Le chambellan Éraste était en réalité le trésorier de la ville (<a href=\"https://ref.ly/Rom16:23\">Rm 16.23</a>). Nethan-Mélec, le chambellan, était un fonctionnaire de la cour à l&apos;époque de Josias (<a href=\"https://ref.ly/2Kgs23:11\">2R 23.11</a>). Les rois perses utilisaient des eunuques (des hommes physiquement incapables d&apos;avoir des enfants) comme chambellans (<a href=\"https://ref.ly/Esth1:10,Esth1:12,Esth1:15\">Est 1.10, 12, 15 </a>; <a href=\"https://ref.ly/Esth2:3,Esth2:14-Esth2:15\">2.3, 14–15 </a>; <a href=\"https://ref.ly/Esth4:4-Esth4:5\">4.4–5 </a>; <a href=\"https://ref.ly/Esth6:2,Esth6:14\">6.2, 14 </a>; <a href=\"https://ref.ly/Esth7:9\">7.9</a>).</p>",
+    "content": "<h1>BILHA (Personne)</h1><p>Servante donnée par Laban à sa fille Rachel lorsqu&apos;elle a épousé Jacob (<a href=\"https://ref.ly/Gen29:29\">Gn 29.29</a>). Constatant sa propre stérilité, Rachel donnera Bilha à son mari comme concubine et acceptera leurs deux fils comme les siens, les nommant Dan et Nephthali (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">30.3–8</a> ; <a href=\"https://ref.ly/Gen35:25\">35.25</a> ; <a href=\"https://ref.ly/Gen46:25\">46.25</a>). Les recherches archéologiques confirmeront la coutume pour une épouse stérile de fournir une concubine afin de garantir des enfants à son mari. Un tel arrangement est mentionné dans des documents de contrat de mariage découverts à Nuzi et datant d&apos;environ la même époque que les événements de <a href=\"https://ref.ly/Gen29:1-Gen29:35\">Genèse 29</a>. Le fils de Jacob, Ruben, sera plus tard coupable d&apos;inceste avec Bilha (<a href=\"https://ref.ly/Gen35:22\">35.22</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12023011",
-          "start_ref_usfm": "2KI 23:11",
-          "end_ref": "12023011",
-          "end_ref_usfm": "2KI 23:11"
+          "start_ref": "01029029",
+          "start_ref_usfm": "GEN 29:29",
+          "end_ref": "01029029",
+          "end_ref_usfm": "GEN 29:29"
         },
         {
-          "start_ref": "17001010",
-          "start_ref_usfm": "EST 1:10",
-          "end_ref": "17001010",
-          "end_ref_usfm": "EST 1:10"
+          "start_ref": "01035022",
+          "start_ref_usfm": "GEN 35:22",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
         },
         {
-          "start_ref": "17001012",
-          "start_ref_usfm": "EST 1:12",
-          "end_ref": "17001012",
-          "end_ref_usfm": "EST 1:12"
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
         },
         {
-          "start_ref": "17001015",
-          "start_ref_usfm": "EST 1:15",
-          "end_ref": "17001015",
-          "end_ref_usfm": "EST 1:15"
+          "start_ref": "01046025",
+          "start_ref_usfm": "GEN 46:25",
+          "end_ref": "01046025",
+          "end_ref_usfm": "GEN 46:25"
         },
         {
-          "start_ref": "17002003",
-          "start_ref_usfm": "EST 2:3",
-          "end_ref": "17002003",
-          "end_ref_usfm": "EST 2:3"
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
         },
         {
-          "start_ref": "17006002",
-          "start_ref_usfm": "EST 6:2",
-          "end_ref": "17006002",
-          "end_ref_usfm": "EST 6:2"
-        },
-        {
-          "start_ref": "17006014",
-          "start_ref_usfm": "EST 6:14",
-          "end_ref": "17006014",
-          "end_ref_usfm": "EST 6:14"
-        },
-        {
-          "start_ref": "17007009",
-          "start_ref_usfm": "EST 7:9",
-          "end_ref": "17007009",
-          "end_ref_usfm": "EST 7:9"
-        },
-        {
-          "start_ref": "44012020",
-          "start_ref_usfm": "ACT 12:20",
-          "end_ref": "44012020",
-          "end_ref_usfm": "ACT 12:20"
-        },
-        {
-          "start_ref": "45016023",
-          "start_ref_usfm": "ROM 16:23",
-          "end_ref": "45016023",
-          "end_ref_usfm": "ROM 16:23"
-        },
-        {
-          "start_ref": "17002014",
-          "start_ref_usfm": "EST 2:14",
-          "end_ref": "17002015",
-          "end_ref_usfm": "EST 2:15"
-        },
-        {
-          "start_ref": "17004004",
-          "start_ref_usfm": "EST 4:4",
-          "end_ref": "17004005",
-          "end_ref_usfm": "EST 4:5"
+          "start_ref": "01029001",
+          "start_ref_usfm": "GEN 29:1",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
         }
       ],
       "resource": []

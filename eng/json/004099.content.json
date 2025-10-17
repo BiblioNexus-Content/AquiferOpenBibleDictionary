@@ -1,28 +1,36 @@
 [
   {
-    "content_id": 7360,
-    "reference_id": 6528,
-    "title": "Nephtoah, Waters of",
+    "content_id": 7359,
+    "reference_id": 6527,
+    "title": "Nephthalim",
     "media_type": "Text",
-    "index_reference": "nephtoah, waters of",
+    "index_reference": "nephthalim",
     "language": "eng",
-    "content": "<h1>NEPHTOAH, Waters of</h1><p>Geographical landmark situated between Mt Ephron to the west and the valley of Hinnom to the east, defining part of the boundary separating the tribes of Judah and Benjamin (<a href=\"https://ref.ly/Josh15:9\">Jos 15:9</a>; <a href=\"https://ref.ly/Josh18:15\">18:15</a>). Its site is generally identified with Ain Lifta, three miles (4.8 kilometers) northwest of Jerusalem.</p>",
+    "content": "<h1>NEPHTHALIM</h1><p>The King James Version spelling of the tribe of Naphtali in <a href=\"https://ref.ly/Matt4:13,Matt4:15\">Matthew 4:13, 15</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6474\" data-resourceType=\"TyndaleBibleDictionary\">Naphtali, Tribe of</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015009",
-          "start_ref_usfm": "JOS 15:9",
-          "end_ref": "06015009",
-          "end_ref_usfm": "JOS 15:9"
+          "start_ref": "40004013",
+          "start_ref_usfm": "MAT 4:13",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
         },
         {
-          "start_ref": "06018015",
-          "start_ref_usfm": "JOS 18:15",
-          "end_ref": "06018015",
-          "end_ref_usfm": "JOS 18:15"
+          "start_ref": "40004015",
+          "start_ref_usfm": "MAT 4:15",
+          "end_ref": "40004015",
+          "end_ref_usfm": "MAT 4:15"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6474,
+          "content_id": 7306,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Naphtali, Tribe of",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

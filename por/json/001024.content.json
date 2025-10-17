@@ -1,58 +1,50 @@
 [
   {
-    "content_id": 759846,
-    "reference_id": 5475,
-    "title": "Jefoné",
+    "content_id": 682975,
+    "reference_id": 5261,
+    "title": "Israelita",
     "media_type": "Text",
-    "index_reference": "jefoné",
+    "index_reference": "israelita",
     "language": "por",
-    "content": "<h1>JEFONÉ</h1><ol><li><p>O pai de Calebe. Calebe foi um dos 12 espiões enviados por Moisés para explorar a terra de Canaã (<a href=\"https://ref.ly/Num13:6\">Nm 13.6</a>; <a href=\"https://ref.ly/Num14:6\">14.6</a>; <a href=\"https://ref.ly/Num26:65\">26.65</a>; <a href=\"https://ref.ly/1Chr4:15\">1Cr 4.15</a>; <a href=\"https://ref.ly/1Chr6:56\">6.56</a>). A Bíblia se refere a Jefoné como um judaíta e um quenezeu (<a href=\"https://ref.ly/Josh14:6\">Js 14.6</a>).</p></li><li><p>Um filho de Jéter da tribo de Aser (<a href=\"https://ref.ly/1Chr7:38\">1Cr 7.38</a>).</p></li></ol>",
+    "content": "<h1>ISRAELITA</h1><p>Um descendente dos doze filhos de Israel.</p><p>&quot;Israel&quot; é o nome que Deus deu a Jacó (<a href=\"https://ref.ly/Gen32:28\">Gn 32.28</a>). Os israelitas eram diferentes de dois outros grupos familiares que vieram de Abraão. Um grupo era o dos ismaelitas, que vieram da serva de Abraão, Agar, e de seu filho Ismael. O outro grupo era o dos edomitas, que vieram do irmão de Jacó, Esaú. Os israelitas viveram no Egito desde a época de José até o Êxodo. Então Deus os conduziu a Canaã para cumprir sua promessa a Abraão (<a href=\"https://ref.ly/Gen17:8\">17.8</a>).</p><p>Deus guiou os israelitas para fora do Egito através do deserto. Depois, Ele os levou para a terra de Canaã, como havia prometido. Juízes, reis e conquistadores de outros países os governaram. Em 722 a.C., a Assíria conquistou o reino do norte, e Israel tornou-se parte desse império.</p><p>Após esse período, &quot;Israel&quot; refere-se aos membros das tribos do sul, Judá e Benjamim. Um &quot;israelita&quot; era aquele que pertencia ao remanescente da nação da aliança de Israel. Isso era verdade tanto no sentido religioso quanto no político.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5260\" data-resourceType=\"TyndaleBibleDictionary\">Israel, História de</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5535\" data-resourceType=\"TyndaleBibleDictionary\">Judeu</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5646\" data-resourceType=\"TyndaleBibleDictionary\">Judaísmo</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04013006",
-          "start_ref_usfm": "NUM 13:6",
-          "end_ref": "04013006",
-          "end_ref_usfm": "NUM 13:6"
+          "start_ref": "01017008",
+          "start_ref_usfm": "GEN 17:8",
+          "end_ref": "01017008",
+          "end_ref_usfm": "GEN 17:8"
         },
         {
-          "start_ref": "04014006",
-          "start_ref_usfm": "NUM 14:6",
-          "end_ref": "04014006",
-          "end_ref_usfm": "NUM 14:6"
-        },
-        {
-          "start_ref": "04026065",
-          "start_ref_usfm": "NUM 26:65",
-          "end_ref": "04026065",
-          "end_ref_usfm": "NUM 26:65"
-        },
-        {
-          "start_ref": "06014006",
-          "start_ref_usfm": "JOS 14:6",
-          "end_ref": "06014006",
-          "end_ref_usfm": "JOS 14:6"
-        },
-        {
-          "start_ref": "13004015",
-          "start_ref_usfm": "1CH 4:15",
-          "end_ref": "13004015",
-          "end_ref_usfm": "1CH 4:15"
-        },
-        {
-          "start_ref": "13006056",
-          "start_ref_usfm": "1CH 6:56",
-          "end_ref": "13006056",
-          "end_ref_usfm": "1CH 6:56"
-        },
-        {
-          "start_ref": "13007038",
-          "start_ref_usfm": "1CH 7:38",
-          "end_ref": "13007038",
-          "end_ref_usfm": "1CH 7:38"
+          "start_ref": "01032028",
+          "start_ref_usfm": "GEN 32:28",
+          "end_ref": "01032028",
+          "end_ref_usfm": "GEN 32:28"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5260,
+          "content_id": 682974,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Israel, História de",
+          "language": "por"
+        },
+        {
+          "reference_id": 5535,
+          "content_id": 161833,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Judeu",
+          "language": "por"
+        },
+        {
+          "reference_id": 5646,
+          "content_id": 125285,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Judaísmo",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

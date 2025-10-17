@@ -1,69 +1,63 @@
 [
   {
-    "content_id": 682911,
-    "reference_id": 4136,
-    "title": "Elate",
+    "content_id": 717004,
+    "reference_id": 4115,
+    "title": "Edute",
     "media_type": "Text",
-    "index_reference": "elate",
+    "index_reference": "edute",
     "language": "por",
-    "content": "<h1>ELATE</h1><p>Cidade edomita na cabeceira do Golfo de Ácaba (<a href=\"https://ref.ly/Deut2:8\">Dt 2.8</a>; <a href=\"https://ref.ly/1Kgs9:26\">1Rs 9.26</a>), na fronteira oriental do deserto de Parã (<a href=\"https://ref.ly/Gen14:6\">Gn 14.6</a>, onde é alternadamente chamada de El-Parã). Provavelmente deveu seu nome (que significa &quot;bosque de árvores&quot;) às muitas palmeiras na área e pode ter sido localizada em um bosque de árvores sagradas. Elate estava estrategicamente localizada ao longo de uma rota comercial primária que ia do sul da Arábia e Egito até a Fenícia, tornando-a uma cidade valiosa para se possuir.</p><p>Elate foi tomada por Quedorlaomer dos horeus (<a href=\"https://ref.ly/Gen14:5-Gen14:6\">Gn 14.5–6</a>). Mais tarde, foi considerada o limite sul do território de Edom (<a href=\"https://ref.ly/Deut2:8\">Dt 2.8</a>). Davi provavelmente a capturou quando conquistou Edom (<a href=\"https://ref.ly/2Sam8:14\">2Sm 8.14</a>). Durante o reinado de Jorão, filho de Josafá, uma revolta a devolveu aos edomitas (<a href=\"https://ref.ly/2Kgs8:20-2Kgs8:22\">2Rs 8.20–22</a>). Alguns anos depois, foi recapturada e reconstruída pelo rei Uzias de Judá (<a href=\"https://ref.ly/2Kgs14:22\">2Rs 14.22</a>). Permaneceu sob o domínio de Judá até a época de Acaz, quando foi tomada por Rezim da Síria e ocupada pelos sírios (<a href=\"https://ref.ly/2Kgs16:6\">2Rs 16.6</a>). A partir de cerca de 753 a.C., permaneceu como uma cidade edomita até ser abandonada em algum momento entre os séculos VI e IV a.C. Então, os nabateus, que controlavam a área, construíram uma cidade um pouco mais a leste do local original e a renomearam Aila.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4219\" data-resourceType=\"TyndaleBibleDictionary\">El-Parã</span>.</p>",
+    "content": "<h1>EDUTE</h1><p>Uma palavra hebraica geralmente traduzida como &quot;testemunho&quot;, &quot;testemunha&quot; ou &quot;mandamento&quot;.</p><p>Pode se referir a:</p><ul><li><p>O tabernáculo (<a href=\"https://ref.ly/Num17:7-Num17:8\">Nm 17.7,8</a>; <a href=\"https://ref.ly/Num18:2\">18.2</a>; <a href=\"https://ref.ly/2Chr24:6\">2Cr 24.6</a>);</p></li><li><p>A arca (<a href=\"https://ref.ly/Exod25:16\">Êx 25.16</a>);</p></li><li><p>Os dez mandamentos (<a href=\"https://ref.ly/Exod31:18\">Êx 31.18</a>);</p></li><li><p>A lei de Deus em geral (<a href=\"https://ref.ly/Ps19:8\">Sl 19.8</a>).</p></li></ul><p>O título de <a href=\"https://ref.ly/Ps60:1-Ps60:12\">Salmo 60</a> em hebraico é <em>Shushan Eduth</em>, que significa &quot;Lírio da aliança&quot;.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Música</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014006",
-          "start_ref_usfm": "GEN 14:6",
-          "end_ref": "01014006",
-          "end_ref_usfm": "GEN 14:6"
+          "start_ref": "02025016",
+          "start_ref_usfm": "EXO 25:16",
+          "end_ref": "02025016",
+          "end_ref_usfm": "EXO 25:16"
         },
         {
-          "start_ref": "05002008",
-          "start_ref_usfm": "DEU 2:8",
-          "end_ref": "05002008",
-          "end_ref_usfm": "DEU 2:8"
+          "start_ref": "02031018",
+          "start_ref_usfm": "EXO 31:18",
+          "end_ref": "02031018",
+          "end_ref_usfm": "EXO 31:18"
         },
         {
-          "start_ref": "10008014",
-          "start_ref_usfm": "2SA 8:14",
-          "end_ref": "10008014",
-          "end_ref_usfm": "2SA 8:14"
+          "start_ref": "04018002",
+          "start_ref_usfm": "NUM 18:2",
+          "end_ref": "04018002",
+          "end_ref_usfm": "NUM 18:2"
         },
         {
-          "start_ref": "11009026",
-          "start_ref_usfm": "1KI 9:26",
-          "end_ref": "11009026",
-          "end_ref_usfm": "1KI 9:26"
+          "start_ref": "14024006",
+          "start_ref_usfm": "2CH 24:6",
+          "end_ref": "14024006",
+          "end_ref_usfm": "2CH 24:6"
         },
         {
-          "start_ref": "12014022",
-          "start_ref_usfm": "2KI 14:22",
-          "end_ref": "12014022",
-          "end_ref_usfm": "2KI 14:22"
+          "start_ref": "19019008",
+          "start_ref_usfm": "PSA 19:8",
+          "end_ref": "19019008",
+          "end_ref_usfm": "PSA 19:8"
         },
         {
-          "start_ref": "12016006",
-          "start_ref_usfm": "2KI 16:6",
-          "end_ref": "12016006",
-          "end_ref_usfm": "2KI 16:6"
+          "start_ref": "19060001",
+          "start_ref_usfm": "PSA 60:1",
+          "end_ref": "19060012",
+          "end_ref_usfm": "PSA 60:12"
         },
         {
-          "start_ref": "12008020",
-          "start_ref_usfm": "2KI 8:20",
-          "end_ref": "12008022",
-          "end_ref_usfm": "2KI 8:22"
-        },
-        {
-          "start_ref": "01014005",
-          "start_ref_usfm": "GEN 14:5",
-          "end_ref": "01014006",
-          "end_ref_usfm": "GEN 14:6"
+          "start_ref": "04017007",
+          "start_ref_usfm": "NUM 17:7",
+          "end_ref": "04017008",
+          "end_ref_usfm": "NUM 17:8"
         }
       ],
       "resource": [
         {
-          "reference_id": 4219,
-          "content_id": 682918,
+          "reference_id": 6416,
+          "content_id": 658691,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "El-Parã",
+          "label": "Música",
           "language": "por"
         }
       ]

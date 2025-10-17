@@ -1,34 +1,45 @@
 [
   {
-    "content_id": 7244,
-    "reference_id": 6412,
-    "title": "Murder, Murderer",
+    "content_id": 7243,
+    "reference_id": 6411,
+    "title": "Muppim",
     "media_type": "Text",
-    "index_reference": "murder, murderer",
+    "index_reference": "muppim",
     "language": "eng",
-    "content": "<h1>MURDER, MURDERER</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3747\" data-resourceType=\"TyndaleBibleDictionary\">Civil Law and Justice</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3861\" data-resourceType=\"TyndaleBibleDictionary\">Criminal Law and Punishment</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3786\" data-resourceType=\"TyndaleBibleDictionary\">Commandments, The Ten</span>.</p>",
+    "content": "<h1>MUPPIM</h1><p>One of the ten sons of Benjamin (<a href=\"https://ref.ly/Gen46:21\">Genesis 46:21</a>). He is&nbsp;elsewhere called Shephupham (<a href=\"https://ref.ly/Num26:39\">Numbers 26:39</a>) and Shuppim (<a href=\"https://ref.ly/1Chr7:12\">1&nbsp;Chronicles 7:12</a>). He may be the same person as Shephuphan (<a href=\"https://ref.ly/1Chr8:5\">1&nbsp;Chronicles 8:5</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7538\" data-resourceType=\"TyndaleBibleDictionary\">Shephupham</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "01046021",
+          "start_ref_usfm": "GEN 46:21",
+          "end_ref": "01046021",
+          "end_ref_usfm": "GEN 46:21"
+        },
+        {
+          "start_ref": "04026039",
+          "start_ref_usfm": "NUM 26:39",
+          "end_ref": "04026039",
+          "end_ref_usfm": "NUM 26:39"
+        },
+        {
+          "start_ref": "13007012",
+          "start_ref_usfm": "1CH 7:12",
+          "end_ref": "13007012",
+          "end_ref_usfm": "1CH 7:12"
+        },
+        {
+          "start_ref": "13008005",
+          "start_ref_usfm": "1CH 8:5",
+          "end_ref": "13008005",
+          "end_ref_usfm": "1CH 8:5"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 3747,
-          "content_id": 4579,
+          "reference_id": 7538,
+          "content_id": 8370,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Civil Law and Justice",
-          "language": "eng"
-        },
-        {
-          "reference_id": 3786,
-          "content_id": 4618,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Commandments, the Ten",
-          "language": "eng"
-        },
-        {
-          "reference_id": 3861,
-          "content_id": 4693,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Criminal Law and Punishment",
+          "label": "Shephupham",
           "language": "eng"
         }
       ]

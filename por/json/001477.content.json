@@ -1,52 +1,39 @@
 [
   {
-    "content_id": 716954,
-    "reference_id": 3501,
-    "title": "Peitoral, Couraça",
+    "content_id": 683053,
+    "reference_id": 6715,
+    "title": "Padã, Padã-Arã",
     "media_type": "Text",
-    "index_reference": "peitoral, couraça",
+    "index_reference": "padã, padã-arã",
     "language": "por",
-    "content": "<h1>PEITORAL, COURAÇA</h1><ol><li><p>Uma parte das vestes cerimoniais do sumo sacerdote (<a href=\"https://ref.ly/Exod25:7\">Êx 25.7</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6984\" data-resourceType=\"TyndaleBibleDictionary\">Sacerdotes e levitas</span>.</p></li><li><p>Uma peça de armadura usada para proteger o peito. A palavra é usada simbolicamente em várias passagens. <a href=\"https://ref.ly/Isa59:17\">Isaías 59.17</a> diz que Deus vestiu a justiça como armadura. Ele fez isso para se vingar de seus inimigos. O apóstolo Paulo exortou os cristãos a usarem uma couraça de justiça para resistir ao diabo (<a href=\"https://ref.ly/Eph6:14\">Ef 6.14</a>). Ele também os exortou a usarem uma couraça de fé e amor enquanto aguardam o retorno de Cristo (<a href=\"https://ref.ly/1Thess5:8\">1 Ts 5.8</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2918\" data-resourceType=\"TyndaleBibleDictionary\">Armadura e armas</span>.</p></li></ol>",
+    "content": "<h1>PADÃ, PADÃ-ARÃ</h1><p>Distrito do noroeste da Mesopotâmia cujo nome significa &quot;Campo de Arã&quot;, distinguindo esta planície das regiões montanhosas ao norte e leste. Padã-Arã é alternadamente chamado de <em>Padã</em> (ARC) em <a href=\"https://ref.ly/Gen48:7\">Gênesis 48.7</a>; <em>campo da Síria</em> (ARC) em <a href=\"https://ref.ly/Hos12:12\">Oséias 12.12</a>, embora o termo no original em hebraico signifique a &quot;terra de Arã&quot;; e <em>Mesopotâmia</em> em <a href=\"https://ref.ly/Gen24:10\">Gênesis 24.10</a>, embora o termo no original em hebraico seja Arã-naaraim, significando &quot;Arã dos dois rios&quot;. Os dois rios provavelmente referem-se aos rios Eufrates e Balikh, entre os quais esta faixa de terra estava situada.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2866\" data-resourceType=\"TyndaleBibleDictionary\">Arã-naaraim</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02025007",
-          "start_ref_usfm": "EXO 25:7",
-          "end_ref": "02025007",
-          "end_ref_usfm": "EXO 25:7"
+          "start_ref": "01024010",
+          "start_ref_usfm": "GEN 24:10",
+          "end_ref": "01024010",
+          "end_ref_usfm": "GEN 24:10"
         },
         {
-          "start_ref": "23059017",
-          "start_ref_usfm": "ISA 59:17",
-          "end_ref": "23059017",
-          "end_ref_usfm": "ISA 59:17"
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
         },
         {
-          "start_ref": "49006014",
-          "start_ref_usfm": "EPH 6:14",
-          "end_ref": "49006014",
-          "end_ref_usfm": "EPH 6:14"
-        },
-        {
-          "start_ref": "52005008",
-          "start_ref_usfm": "1TH 5:8",
-          "end_ref": "52005008",
-          "end_ref_usfm": "1TH 5:8"
+          "start_ref": "28012012",
+          "start_ref_usfm": "HOS 12:12",
+          "end_ref": "28012012",
+          "end_ref_usfm": "HOS 12:12"
         }
       ],
       "resource": [
         {
-          "reference_id": 2918,
-          "content_id": 759625,
+          "reference_id": 2866,
+          "content_id": 682857,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Armadura e armas",
-          "language": "por"
-        },
-        {
-          "reference_id": 6984,
-          "content_id": 125319,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Sacerdotes E Levitas",
+          "label": "Aram-Naaraim",
           "language": "por"
         }
       ]

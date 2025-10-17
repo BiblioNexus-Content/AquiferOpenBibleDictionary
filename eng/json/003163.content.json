@@ -1,49 +1,22 @@
 [
   {
-    "content_id": 6422,
-    "reference_id": 5590,
-    "title": "Jokmeam",
+    "content_id": 6421,
+    "reference_id": 5589,
+    "title": "Jokim",
     "media_type": "Text",
-    "index_reference": "jokmeam",
+    "index_reference": "jokim",
     "language": "eng",
-    "content": "<h1>JOKMEAM</h1><p>1. City mentioned in <a href=\"https://ref.ly/1Kgs4:12\">1&nbsp;Kings 4:12</a> (kjv “Jokneam”); seemingly close in proximity and perhaps the same as Jokneam. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5591\" data-resourceType=\"TyndaleBibleDictionary\">Jokneam</span>.</p><p>2. City given to the Kohathite Levites out of Ephraim’s inheritance (<a href=\"https://ref.ly/1Chr6:68\">1&nbsp;Chr 6:68</a>). A parallel passage in <a href=\"https://ref.ly/Josh21:22\">Joshua 21:22</a> lists the city as Kibzaim. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5742\" data-resourceType=\"TyndaleBibleDictionary\">Kibzaim</span>.</p>",
+    "content": "<h1>JOKIM</h1><p>Descendant of Judah through Shelah’s line (<a href=\"https://ref.ly/1Chr4:22\">1&nbsp;Chr 4:22</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06021022",
-          "start_ref_usfm": "JOS 21:22",
-          "end_ref": "06021022",
-          "end_ref_usfm": "JOS 21:22"
-        },
-        {
-          "start_ref": "11004012",
-          "start_ref_usfm": "1KI 4:12",
-          "end_ref": "11004012",
-          "end_ref_usfm": "1KI 4:12"
-        },
-        {
-          "start_ref": "13006068",
-          "start_ref_usfm": "1CH 6:68",
-          "end_ref": "13006068",
-          "end_ref_usfm": "1CH 6:68"
+          "start_ref": "13004022",
+          "start_ref_usfm": "1CH 4:22",
+          "end_ref": "13004022",
+          "end_ref_usfm": "1CH 4:22"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5591,
-          "content_id": 6423,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Jokneam",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5742,
-          "content_id": 6574,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Kibzaim",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,25 +1,43 @@
 [
   {
-    "content_id": 5047,
-    "reference_id": 4215,
-    "title": "Elon (Place)",
+    "content_id": 5046,
+    "reference_id": 4214,
+    "title": "Elon (Person)",
     "media_type": "Text",
-    "index_reference": "elon (place)",
+    "index_reference": "elon (person)",
     "language": "eng",
-    "content": "<h1>ELON (Place)</h1><p>Village near Timnah, the home of Samson’s first wife. Elon was included in the inheritance allotted to Dan’s tribe in Joshua’s distribution of the Promised Land (<a href=\"https://ref.ly/Josh19:43\">Jos 19:43</a>; cf. <a href=\"https://ref.ly/Josh14:1-Josh14:2\">14:1–2</a>). It is generally identified with Khirbet Wadi ’Alinm near ’Ain Shems.</p>",
+    "content": "<h1>ELON (Person)</h1><p>1. Hittite who was the father of Basemath (perhaps also called Adah, <a href=\"https://ref.ly/Gen36:2\">Gn 36:2</a>), one of Esau’s wives (<a href=\"https://ref.ly/Gen26:34\">26:34</a>).</p><p>2. Second of Zebulun’s three sons (<a href=\"https://ref.ly/Gen46:14\">Gn 46:14</a>) and the founder of the Elonite family (<a href=\"https://ref.ly/Num26:26\">Nm 26:26</a>).</p><p>3. Judge from Zebulun who judged Israel for 10 years. He was buried in Aijalon (<a href=\"https://ref.ly/Judg12:11-Judg12:12\">Jgs 12:11–12</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06019043",
-          "start_ref_usfm": "JOS 19:43",
-          "end_ref": "06019043",
-          "end_ref_usfm": "JOS 19:43"
+          "start_ref": "01026034",
+          "start_ref_usfm": "GEN 26:34",
+          "end_ref": "01026034",
+          "end_ref_usfm": "GEN 26:34"
         },
         {
-          "start_ref": "06014001",
-          "start_ref_usfm": "JOS 14:1",
-          "end_ref": "06014002",
-          "end_ref_usfm": "JOS 14:2"
+          "start_ref": "01036002",
+          "start_ref_usfm": "GEN 36:2",
+          "end_ref": "01036002",
+          "end_ref_usfm": "GEN 36:2"
+        },
+        {
+          "start_ref": "01046014",
+          "start_ref_usfm": "GEN 46:14",
+          "end_ref": "01046014",
+          "end_ref_usfm": "GEN 46:14"
+        },
+        {
+          "start_ref": "04026026",
+          "start_ref_usfm": "NUM 26:26",
+          "end_ref": "04026026",
+          "end_ref_usfm": "NUM 26:26"
+        },
+        {
+          "start_ref": "07012011",
+          "start_ref_usfm": "JDG 12:11",
+          "end_ref": "07012012",
+          "end_ref_usfm": "JDG 12:12"
         }
       ],
       "resource": []

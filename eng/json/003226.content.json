@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6484,
-    "reference_id": 5652,
-    "title": "Judas Maccabeus",
+    "content_id": 6483,
+    "reference_id": 5651,
+    "title": "Judas Iscariot",
     "media_type": "Text",
-    "index_reference": "judas maccabeus",
+    "index_reference": "judas iscariot",
     "language": "eng",
-    "content": "<h1>JUDAS MACCABEUS</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5997\" data-resourceType=\"TyndaleBibleDictionary\">Maccabeus, Judas</span>.</p>",
+    "content": "<h1>JUDAS ISCARIOT</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5654\" data-resourceType=\"TyndaleBibleDictionary\">Judas #1</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5997,
-          "content_id": 6829,
+          "reference_id": 5654,
+          "content_id": 6486,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Judas Maccabeus",
+          "label": "Judas",
           "language": "eng"
         }
       ]

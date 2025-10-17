@@ -1,40 +1,37 @@
 [
   {
-    "content_id": 717110,
-    "reference_id": 5365,
-    "title": "Jalã",
+    "content_id": 815972,
+    "reference_id": 4524,
+    "title": "Inscrição de Gálio",
     "media_type": "Text",
-    "index_reference": "jalã",
+    "index_reference": "inscrição de gálio",
     "language": "por",
-    "content": "<h1>Jalã</h1><p>Filho de Esaú e chefe de um clã edomita (<a href=\"https://ref.ly/Gen36:5,Gen36:14,Gen36:18\">Gn 36.5,14,18</a>; <a href=\"https://ref.ly/1Chr1:35\">1Cr 1.35</a>).</p>",
+    "content": "<h1>INSCRIÇÃO DE GÁLIO</h1><p>Uma inscrição grega datada encontrada em Delfos, Grécia, identifica Gálio como procônsul (governador) e estabelece a época da primeira visita de Paulo a Corinto (cp. <a href=\"https://ref.ly/Acts18:12-Acts18:17\">At 18.12–17</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3719\" data-resourceType=\"TyndaleBibleDictionary\">Cronologia da Bíblia (Novo Testamento)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5196\" data-resourceType=\"TyndaleBibleDictionary\">Inscrições</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036005",
-          "start_ref_usfm": "GEN 36:5",
-          "end_ref": "01036005",
-          "end_ref_usfm": "GEN 36:5"
-        },
-        {
-          "start_ref": "01036014",
-          "start_ref_usfm": "GEN 36:14",
-          "end_ref": "01036014",
-          "end_ref_usfm": "GEN 36:14"
-        },
-        {
-          "start_ref": "01036018",
-          "start_ref_usfm": "GEN 36:18",
-          "end_ref": "01036018",
-          "end_ref_usfm": "GEN 36:18"
-        },
-        {
-          "start_ref": "13001035",
-          "start_ref_usfm": "1CH 1:35",
-          "end_ref": "13001035",
-          "end_ref_usfm": "1CH 1:35"
+          "start_ref": "44018012",
+          "start_ref_usfm": "ACT 18:12",
+          "end_ref": "44018017",
+          "end_ref_usfm": "ACT 18:17"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3719,
+          "content_id": 716969,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Cronologia da Bíblia (Novo Testamento)",
+          "language": "por"
+        },
+        {
+          "reference_id": 5196,
+          "content_id": 717092,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Inscrições",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

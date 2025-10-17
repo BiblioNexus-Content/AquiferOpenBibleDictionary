@@ -1,37 +1,61 @@
 [
   {
-    "content_id": 756939,
-    "reference_id": 3761,
-    "title": "Cléopâtre",
+    "content_id": 822893,
+    "reference_id": 3600,
+    "title": "Carmi",
     "media_type": "Text",
-    "index_reference": "cléopâtre",
+    "index_reference": "carmi",
     "language": "fra",
-    "content": "<h1>CLÉOPÂTRE</h1><p>Cléopâtre était le nom d&apos;une reine d&apos;Égypte et de sa fille, mentionnées dans les Apocryphes et dans les écrits de l&apos;historien juif Flavius Josèphe.</p><ol><li><p>Cléopâtre, épouse de Ptolémée VI Philométor : Cette Cléopâtre était probablement l&apos;épouse de Ptolémée VI Philométor, qui a régné sur l&apos;Égypte de 181 à 146 av. J.‑C. Au cours de la quatrième année du règne de Ptolémée, Dositheus, prétendant être un prêtre lévite et le fils de Ptolémée, a apporté la Lettre de Pourim en Égypte (<a href=\"https://ref.ly/EsthGr11:1\">Additions à Esther 11.1</a>). Cette « lettre » fait probablement référence non seulement à la lettre de Mardochée (<a href=\"https://ref.ly/Esth9:20-Esth9:22\">Est 9.20–22</a>), mais aussi à la traduction grecque du livre d&apos;Esther par Lysimachus.</p></li><li><p>Cléopâtre, fille de Ptolémée VI Philométor : Cette Cléopâtre, probablement la fille de la reine mentionnée précédemment, sera mariée à Alexandre Épiphanes après sa conquête de la Syrie. Il régnera sur la Syrie de 150 à 145 av. J.‑C. (<a href=\"https://ref.ly/1Macc10:57-1Macc10:58\">1 M 10.57–58</a>).</p><p>Plus tard, le père de Cléopâtre, Ptolémée VI, la retirera à Alexandre en signe de colère et la donnera à Démétrius Nicator lors de son invasion de la Syrie (<a href=\"https://ref.ly/1Macc11:8-1Macc11:12\">1 M 11.8–12</a>). Alexandre a ensuite été tué au combat contre les forces combinées de Ptolémée et de Démétrius. Après que Démétrius a été capturé et détenu en Parthie, Cléopâtre épousera son frère, Antiochus VII (Sidetes), qui deviendra souverain de la Syrie en 137 av. J.‑C.</p></li></ol>",
+    "content": "<h1>CARMI</h1><ol><li><p>Un des fils de Ruben ; il rejoindra son grand-père Jacob pour déménager en Égypte (<a href=\"https://ref.ly/Gen46:9\">Gn 46.9</a> ; <a href=\"https://ref.ly/Exod6:14\">Ex 6.14</a> ; <a href=\"https://ref.ly/1Chr5:3\">1Ch 5.3</a>). Il fondera la famille des Carmites (<a href=\"https://ref.ly/Num26:5-Num26:7\">Nb 26.5–7</a>).</p></li><li><p>Père d&apos;Acan et membre de la tribu de Juda (<a href=\"https://ref.ly/Josh7:1,Josh7:18\">Jos 7.1, 18</a> ; <a href=\"https://ref.ly/1Chr2:7\">1Ch 2.7</a> ; <a href=\"https://ref.ly/1Chr4:1\">4.1</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "70011001",
-          "start_ref_usfm": "ESG 11:1",
-          "end_ref": "70011001",
-          "end_ref_usfm": "ESG 11:1"
+          "start_ref": "01046009",
+          "start_ref_usfm": "GEN 46:9",
+          "end_ref": "01046009",
+          "end_ref_usfm": "GEN 46:9"
         },
         {
-          "start_ref": "17009020",
-          "start_ref_usfm": "EST 9:20",
-          "end_ref": "17009022",
-          "end_ref_usfm": "EST 9:22"
+          "start_ref": "02006014",
+          "start_ref_usfm": "EXO 6:14",
+          "end_ref": "02006014",
+          "end_ref_usfm": "EXO 6:14"
         },
         {
-          "start_ref": "78010057",
-          "start_ref_usfm": "1MA 10:57",
-          "end_ref": "78010058",
-          "end_ref_usfm": "1MA 10:58"
+          "start_ref": "06007001",
+          "start_ref_usfm": "JOS 7:1",
+          "end_ref": "06007001",
+          "end_ref_usfm": "JOS 7:1"
         },
         {
-          "start_ref": "78011008",
-          "start_ref_usfm": "1MA 11:8",
-          "end_ref": "78011012",
-          "end_ref_usfm": "1MA 11:12"
+          "start_ref": "06007018",
+          "start_ref_usfm": "JOS 7:18",
+          "end_ref": "06007018",
+          "end_ref_usfm": "JOS 7:18"
+        },
+        {
+          "start_ref": "13002007",
+          "start_ref_usfm": "1CH 2:7",
+          "end_ref": "13002007",
+          "end_ref_usfm": "1CH 2:7"
+        },
+        {
+          "start_ref": "13004001",
+          "start_ref_usfm": "1CH 4:1",
+          "end_ref": "13004001",
+          "end_ref_usfm": "1CH 4:1"
+        },
+        {
+          "start_ref": "13005003",
+          "start_ref_usfm": "1CH 5:3",
+          "end_ref": "13005003",
+          "end_ref_usfm": "1CH 5:3"
+        },
+        {
+          "start_ref": "04026005",
+          "start_ref_usfm": "NUM 26:5",
+          "end_ref": "04026007",
+          "end_ref_usfm": "NUM 26:7"
         }
       ],
       "resource": []

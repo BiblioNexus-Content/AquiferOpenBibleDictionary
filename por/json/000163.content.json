@@ -1,40 +1,42 @@
 [
   {
-    "content_id": 716911,
-    "reference_id": 2892,
-    "title": "Arde, Ardita",
+    "content_id": 658717,
+    "reference_id": 7081,
+    "title": "Arco-íris",
     "media_type": "Text",
-    "index_reference": "arde, ardita",
+    "index_reference": "arco-íris",
     "language": "por",
-    "content": "<h1>ARDE, ARDITA</h1><p>O primogênito de Benjamim, Belá, teve nove filhos (<a href=\"https://ref.ly/1Chr8:1\">1Cr 8.1</a>; <a href=\"https://ref.ly/Num26:40\">Nm 26.40</a>). Arde, um dos nove filhos, é chamado de filho de Benjamim no sentido hebraico, significando descendente (<a href=\"https://ref.ly/Gen46:21\">Gn 46.21</a>). Ele foi o fundador da família Ardita, um grupo menor dentro da tribo maior de Benjamim. No livro de 1 Crônicas (<a href=\"https://ref.ly/1Chr8:3\">8.3</a>), Arde é chamado de Adar. Essa diferença na grafia é provavelmente devido a um erro cometido ao copiar o texto há muito tempo.</p>",
+    "content": "<h1>ARCO-ÍRIS</h1><p>Sinal da aliança de Deus com Noé após o dilúvio (<a href=\"https://ref.ly/Gen9:8-Gen9:17\">Gn 9.8–17</a>). A palavra hebraica comum para &quot;arco de guerra&quot; é usada. A tradição judaica interpretou isso como um símbolo de que a ira de Deus havia cessado, já que o arco-íris apontava para baixo, assim como um antagonista abaixa seu arco para declarar paz. No NT, o arco-íris faz parte da visão celestial (<a href=\"https://ref.ly/Rev4:3\">Ap 4.3</a>; <a href=\"https://ref.ly/Rev10:1\">10.1</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4448\" data-resourceType=\"TyndaleBibleDictionary\">Dilúvio, O</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01046021",
-          "start_ref_usfm": "GEN 46:21",
-          "end_ref": "01046021",
-          "end_ref_usfm": "GEN 46:21"
+          "start_ref": "66004003",
+          "start_ref_usfm": "REV 4:3",
+          "end_ref": "66004003",
+          "end_ref_usfm": "REV 4:3"
         },
         {
-          "start_ref": "04026040",
-          "start_ref_usfm": "NUM 26:40",
-          "end_ref": "04026040",
-          "end_ref_usfm": "NUM 26:40"
+          "start_ref": "66010001",
+          "start_ref_usfm": "REV 10:1",
+          "end_ref": "66010001",
+          "end_ref_usfm": "REV 10:1"
         },
         {
-          "start_ref": "13008001",
-          "start_ref_usfm": "1CH 8:1",
-          "end_ref": "13008001",
-          "end_ref_usfm": "1CH 8:1"
-        },
-        {
-          "start_ref": "13008003",
-          "start_ref_usfm": "1CH 8:3",
-          "end_ref": "13008003",
-          "end_ref_usfm": "1CH 8:3"
+          "start_ref": "01009008",
+          "start_ref_usfm": "GEN 9:8",
+          "end_ref": "01009017",
+          "end_ref_usfm": "GEN 9:17"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4448,
+          "content_id": 481538,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Dilúvio, O",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

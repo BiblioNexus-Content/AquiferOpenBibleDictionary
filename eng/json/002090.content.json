@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 5346,
-    "reference_id": 4514,
-    "title": "Gahar",
+    "content_id": 5345,
+    "reference_id": 4513,
+    "title": "Gaham",
     "media_type": "Text",
-    "index_reference": "gahar",
+    "index_reference": "gaham",
     "language": "eng",
-    "content": "<h1>GAHAR</h1><p>Ancestor of a group of temple assistants that returned to Jerusalem with Zerubbabel after the exile (<a href=\"https://ref.ly/Ezra2:47\">Ezr 2:47</a>; <a href=\"https://ref.ly/Neh7:49\">Neh 7:49</a>).</p>",
+    "content": "<h1>GAHAM</h1><p>Son of Nahor, Abraham’s brother, and his concubine Reumah (<a href=\"https://ref.ly/Gen22:24\">Gn 22:24</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002047",
-          "start_ref_usfm": "EZR 2:47",
-          "end_ref": "15002047",
-          "end_ref_usfm": "EZR 2:47"
-        },
-        {
-          "start_ref": "16007049",
-          "start_ref_usfm": "NEH 7:49",
-          "end_ref": "16007049",
-          "end_ref_usfm": "NEH 7:49"
+          "start_ref": "01022024",
+          "start_ref_usfm": "GEN 22:24",
+          "end_ref": "01022024",
+          "end_ref_usfm": "GEN 22:24"
         }
       ],
       "resource": []

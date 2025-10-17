@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 7751,
-    "reference_id": 6919,
-    "title": "Pitcher",
+    "content_id": 7752,
+    "reference_id": 6920,
+    "title": "Pitch",
     "media_type": "Text",
-    "index_reference": "pitcher",
+    "index_reference": "pitch",
     "language": "eng",
-    "content": "<h1>PITCHER</h1><p>A pitcher is another word for a jar or jug used to carry and pour liquids, such as water or wine. Pitchers were often made of clay, but they could also be made of metal. People carried them on their shoulders or heads. In Bible times, women often went to the well with pitchers to collect water (<a href=\"https://ref.ly/Gen24:14-Gen24:20\">Genesis 24:14–20</a>; <a href=\"https://ref.ly/Mark14:13\">Mark 14:13</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6963\" data-resourceType=\"TyndaleBibleDictionary\">Pottery</span>.</p>",
+    "content": "<h1>PITCH</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2996\" data-resourceType=\"TyndaleBibleDictionary\">Asphalt</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3431\" data-resourceType=\"TyndaleBibleDictionary\">Bitumen</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "41014013",
-          "start_ref_usfm": "MRK 14:13",
-          "end_ref": "41014013",
-          "end_ref_usfm": "MRK 14:13"
-        },
-        {
-          "start_ref": "01024014",
-          "start_ref_usfm": "GEN 24:14",
-          "end_ref": "01024020",
-          "end_ref_usfm": "GEN 24:20"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 6963,
-          "content_id": 7795,
+          "reference_id": 2996,
+          "content_id": 3828,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Pottery",
+          "label": "Asphalt",
+          "language": "eng"
+        },
+        {
+          "reference_id": 3431,
+          "content_id": 4263,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Bitumen",
           "language": "eng"
         }
       ]

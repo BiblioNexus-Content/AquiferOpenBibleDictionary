@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 4608,
-    "reference_id": 3776,
-    "title": "Codex",
+    "content_id": 4606,
+    "reference_id": 3774,
+    "title": "Cockle",
     "media_type": "Text",
-    "index_reference": "codex",
+    "index_reference": "cockle",
     "language": "eng",
-    "content": "<h1>CODEX*</h1><p>Earliest form of the book, consisting of sheets of papyrus or vellum folded and bound together and enclosed between two wooden leaves or tablets. <em>See</em>&nbsp;<span data-bnType=\"resourceReference\" data-resourceId=\"8265\" data-resourceType=\"TyndaleBibleDictionary\">Writing</span>.</p>",
+    "content": "<h1>COCKLE*</h1><p>KJV term for “foul weeds” in <a href=\"https://ref.ly/Job31:40\">Job 31:40</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plants (Thistle, Thorn)</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "18031040",
+          "start_ref_usfm": "JOB 31:40",
+          "end_ref": "18031040",
+          "end_ref_usfm": "JOB 31:40"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 8265,
-          "content_id": 9097,
+          "reference_id": 6929,
+          "content_id": 7761,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Writing",
+          "label": "Plants",
           "language": "eng"
         }
       ]

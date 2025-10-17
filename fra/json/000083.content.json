@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 756925,
-    "reference_id": 2901,
-    "title": "Aridaï",
+    "content_id": 822859,
+    "reference_id": 2871,
+    "title": "Aran",
     "media_type": "Text",
-    "index_reference": "aridaï",
+    "index_reference": "aran",
     "language": "fra",
-    "content": "<h1>ARIDAÏ</h1><p>Un des dix fils d&apos;Haman, qui a été tué avec son père lorsqu&apos;Esther a exposé le complot d&apos;Haman pour détruire les Juifs (<a href=\"https://ref.ly/Esth9:7-Esth9:10\">Est 9.7–10</a>).</p>",
+    "content": "<h1>ARAN</h1><p>Fils de Dischan, petit-fils de Séir le Horien, et descendant d&apos;Ésaü (<a href=\"https://ref.ly/Gen36:28\">Gn 36.28</a> ; <a href=\"https://ref.ly/1Chr1:42\">1Ch 1.42</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "17009007",
-          "start_ref_usfm": "EST 9:7",
-          "end_ref": "17009010",
-          "end_ref_usfm": "EST 9:10"
+          "start_ref": "01036028",
+          "start_ref_usfm": "GEN 36:28",
+          "end_ref": "01036028",
+          "end_ref_usfm": "GEN 36:28"
+        },
+        {
+          "start_ref": "13001042",
+          "start_ref_usfm": "1CH 1:42",
+          "end_ref": "13001042",
+          "end_ref_usfm": "1CH 1:42"
         }
       ],
       "resource": []

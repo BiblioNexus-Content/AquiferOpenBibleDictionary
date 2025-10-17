@@ -1,23 +1,22 @@
 [
   {
-    "content_id": 5942,
-    "reference_id": 5110,
-    "title": "Hunchback",
+    "content_id": 5941,
+    "reference_id": 5109,
+    "title": "Humtah",
     "media_type": "Text",
-    "index_reference": "hunchback",
+    "index_reference": "humtah",
     "language": "eng",
-    "content": "<h1>HUNCHBACK</h1><p>A hunchback is a physical condition where a person has an abnormally curved spine that creates a rounded or humped shape on their back.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3966\" data-resourceType=\"TyndaleBibleDictionary\">Deformity</span>.</p>",
+    "content": "<h1>HUMTAH</h1><p>Settlement in the Judean uplands near Hebron, according to <a href=\"https://ref.ly/Josh15:54\">Joshua 15:54</a>.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 3966,
-          "content_id": 4798,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Deformity",
-          "language": "eng"
+          "start_ref": "06015054",
+          "start_ref_usfm": "JOS 15:54",
+          "end_ref": "06015054",
+          "end_ref_usfm": "JOS 15:54"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5765,
-    "reference_id": 4933,
-    "title": "Hegemonides",
+    "content_id": 5764,
+    "reference_id": 4932,
+    "title": "Hegai, Hege",
     "media_type": "Text",
-    "index_reference": "hegemonides",
+    "index_reference": "hegai, hege",
     "language": "eng",
-    "content": "<h1>HEGEMONIDES</h1><p>Principal Syrian officer appointed by Antiochus, king of Syria, to govern the territory from Ptolemais to Gerar (<a href=\"https://ref.ly/2Macc13:24\">2&nbsp;Macc 13:24</a>).</p>",
+    "content": "<h1>HEGAI, HEGE</h1><p>A manager of Ahasuerus&apos;s household and keeper of his harem when Esther was chosen as queen (<a href=\"https://ref.ly/Esth2:3\">Esther 2:3</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "79013024",
-          "start_ref_usfm": "2MA 13:24",
-          "end_ref": "79013024",
-          "end_ref_usfm": "2MA 13:24"
+          "start_ref": "17002003",
+          "start_ref_usfm": "EST 2:3",
+          "end_ref": "17002003",
+          "end_ref_usfm": "EST 2:3"
         }
       ],
       "resource": []

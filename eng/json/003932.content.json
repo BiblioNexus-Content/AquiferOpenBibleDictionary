@@ -1,48 +1,27 @@
 [
   {
-    "content_id": 7192,
-    "reference_id": 6360,
-    "title": "Molten Sea",
+    "content_id": 7191,
+    "reference_id": 6359,
+    "title": "Moloch",
     "media_type": "Text",
-    "index_reference": "molten sea",
+    "index_reference": "moloch",
     "language": "eng",
-    "content": "<h1>MOLTEN SEA*</h1><p>Alternate name for the laver in King Solomon’s temple in <a href=\"https://ref.ly/1Kgs7:23\">1&nbsp;Kings 7:23</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3511\" data-resourceType=\"TyndaleBibleDictionary\">Bronze Sea</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5863\" data-resourceType=\"TyndaleBibleDictionary\">Laver</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7864\" data-resourceType=\"TyndaleBibleDictionary\">Tabernacle</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7950\" data-resourceType=\"TyndaleBibleDictionary\">Temple</span>.</p>",
+    "content": "<h1>MOLOCH</h1><p>Another spelling of Molech, an Ammonite god (<a href=\"https://ref.ly/Acts7:43\">Acts 7:43</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6302\" data-resourceType=\"TyndaleBibleDictionary\">Milcom</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11007023",
-          "start_ref_usfm": "1KI 7:23",
-          "end_ref": "11007023",
-          "end_ref_usfm": "1KI 7:23"
+          "start_ref": "44007043",
+          "start_ref_usfm": "ACT 7:43",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
         }
       ],
       "resource": [
         {
-          "reference_id": 3511,
-          "content_id": 4343,
+          "reference_id": 6302,
+          "content_id": 7134,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bronze Sea",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5863,
-          "content_id": 6695,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Laver",
-          "language": "eng"
-        },
-        {
-          "reference_id": 7864,
-          "content_id": 8696,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Tabernacle",
-          "language": "eng"
-        },
-        {
-          "reference_id": 7950,
-          "content_id": 8782,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Temple",
+          "label": "Milcom",
           "language": "eng"
         }
       ]

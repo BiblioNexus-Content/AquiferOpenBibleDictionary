@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 816040,
-    "reference_id": 6595,
-    "title": "Euroaquilão",
+    "content_id": 717297,
+    "reference_id": 7764,
+    "title": "Espelta",
     "media_type": "Text",
-    "index_reference": "euroaquilão",
+    "index_reference": "espelta",
     "language": "por",
-    "content": "<h1>EUROAQUILÃO</h1><p>Um nome dado ao vento tempestuoso de <a href=\"https://ref.ly/Acts27:14\">Atos 27.14</a>. O nome Euroaquilão significa &quot;o vento sudoeste que levanta ondas&quot;. Por causa disso, algumas versões em português usam o nome Euroaquilão em sua tradução. Outras Bíblias traduzem como &quot;nordeste&quot;, seguindo uma definição que vem do inglês. Paulo se deparou com esta tempestade em sua jornada para Roma. Contra o conselho de Paulo, o navio deixou um porto perto de Laséia. Eles navegaram perto da costa de Creta enquanto uma brisa suave os empurrava. Provavelmente, quando estavam a menos de 14 quilômetros da costa, uma tempestade violenta e repentina ameaçou seu pequeno barco.</p><p>Na versão NTLH é chamado de &quot;vento muito forte&quot;. </p>",
+    "content": "<h1>ESPELTA</h1><p>Espécies de trigo de grão duro que crescem melhor em vários tipos de solos. Era um grão popular entre os antigos (<a href=\"https://ref.ly/Exod9:32\">Êx 9.32</a>; <a href=\"https://ref.ly/Ezek4:9\">Ez 4.9</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44027014",
-          "start_ref_usfm": "ACT 27:14",
-          "end_ref": "44027014",
-          "end_ref_usfm": "ACT 27:14"
+          "start_ref": "02009032",
+          "start_ref_usfm": "EXO 9:32",
+          "end_ref": "02009032",
+          "end_ref_usfm": "EXO 9:32"
+        },
+        {
+          "start_ref": "26004009",
+          "start_ref_usfm": "EZK 4:9",
+          "end_ref": "26004009",
+          "end_ref_usfm": "EZK 4:9"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6929,
+          "content_id": 125318,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Plantas",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

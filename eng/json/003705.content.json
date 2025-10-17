@@ -1,27 +1,33 @@
 [
   {
-    "content_id": 6964,
-    "reference_id": 6132,
-    "title": "Mashal",
+    "content_id": 6965,
+    "reference_id": 6133,
+    "title": "Mash",
     "media_type": "Text",
-    "index_reference": "mashal",
+    "index_reference": "mash",
     "language": "eng",
-    "content": "<h1>MASHAL</h1><p>Alternate spelling of Mishal, a Levitical town in Asher, in <a href=\"https://ref.ly/1Chr6:74\">1&nbsp;Chronicles 6:74</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6328\" data-resourceType=\"TyndaleBibleDictionary\">Mishal</span>.</p>",
+    "content": "<h1>MASH</h1><p>Aram’s fourth son (<a href=\"https://ref.ly/Gen10:23\">Gn 10:23</a>), a descendant of Shem. He is called Meshech in <a href=\"https://ref.ly/1Chr1:17\">1&nbsp;Chronicles 1:17</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6248\" data-resourceType=\"TyndaleBibleDictionary\">Meshech #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13006074",
-          "start_ref_usfm": "1CH 6:74",
-          "end_ref": "13006074",
-          "end_ref_usfm": "1CH 6:74"
+          "start_ref": "01010023",
+          "start_ref_usfm": "GEN 10:23",
+          "end_ref": "01010023",
+          "end_ref_usfm": "GEN 10:23"
+        },
+        {
+          "start_ref": "13001017",
+          "start_ref_usfm": "1CH 1:17",
+          "end_ref": "13001017",
+          "end_ref_usfm": "1CH 1:17"
         }
       ],
       "resource": [
         {
-          "reference_id": 6328,
-          "content_id": 7160,
+          "reference_id": 6248,
+          "content_id": 7080,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Mishal",
+          "label": "Meshech",
           "language": "eng"
         }
       ]

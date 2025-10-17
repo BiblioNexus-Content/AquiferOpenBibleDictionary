@@ -1,31 +1,37 @@
 [
   {
-    "content_id": 806110,
-    "reference_id": 7057,
-    "title": "Raema",
+    "content_id": 823014,
+    "reference_id": 6411,
+    "title": "Muppim",
     "media_type": "Text",
-    "index_reference": "raema",
+    "index_reference": "muppim",
     "language": "fra",
-    "content": "<h1>RAEMA*</h1><p>Un des cinq fils de Cusch et descendant de la lignée de Cham. Il était le père de Sheba et Dedan (<a href=\"https://ref.ly/Gen10:7\">Gn 10.7</a> ; <a href=\"https://ref.ly/1Chr1:9\">1Ch 1.9</a>). <a href=\"https://ref.ly/Ezek27:22\">Ézéchiel 27.22</a> mentionne les gens de Sheba et Raema échangeant des épices et des pierres précieuses avec les marchands de Tyr. Le nom de Raema sera plus tard donné à une ville qui peut peut-être être identifiée avec Ma’in dans le sud-ouest de l&apos;Arabie.</p>",
+    "content": "<h1>MUPPIM</h1><p>Un des dix fils de Benjamin (<a href=\"https://ref.ly/Gen46:21\">Gn 46.21</a>). Il est ailleurs appelé <span>Schupham</span> (<a href=\"https://ref.ly/Num26:39\">Nb 26.39</a>) et <span>Schuppim</span> (<a href=\"https://ref.ly/1Chr7:12\">1Ch 7.12</a>). Il se peut qu&apos;il s&apos;agisse de la même personne que <span>Schephuphan</span> (<a href=\"https://ref.ly/1Chr8:5\">1Ch 8.5</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7538\" data-resourceType=\"TyndaleBibleDictionary\">Schephuphan</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010007",
-          "start_ref_usfm": "GEN 10:7",
-          "end_ref": "01010007",
-          "end_ref_usfm": "GEN 10:7"
+          "start_ref": "01046021",
+          "start_ref_usfm": "GEN 46:21",
+          "end_ref": "01046021",
+          "end_ref_usfm": "GEN 46:21"
         },
         {
-          "start_ref": "13001009",
-          "start_ref_usfm": "1CH 1:9",
-          "end_ref": "13001009",
-          "end_ref_usfm": "1CH 1:9"
+          "start_ref": "04026039",
+          "start_ref_usfm": "NUM 26:39",
+          "end_ref": "04026039",
+          "end_ref_usfm": "NUM 26:39"
         },
         {
-          "start_ref": "26027022",
-          "start_ref_usfm": "EZK 27:22",
-          "end_ref": "26027022",
-          "end_ref_usfm": "EZK 27:22"
+          "start_ref": "13007012",
+          "start_ref_usfm": "1CH 7:12",
+          "end_ref": "13007012",
+          "end_ref_usfm": "1CH 7:12"
+        },
+        {
+          "start_ref": "13008005",
+          "start_ref_usfm": "1CH 8:5",
+          "end_ref": "13008005",
+          "end_ref_usfm": "1CH 8:5"
         }
       ],
       "resource": []

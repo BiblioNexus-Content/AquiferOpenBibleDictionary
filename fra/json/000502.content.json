@@ -1,70 +1,34 @@
 [
   {
-    "content_id": 800696,
-    "reference_id": 4534,
-    "title": "Jardin d'Éden",
+    "content_id": 788725,
+    "reference_id": 4682,
+    "title": "Gortyne",
     "media_type": "Text",
-    "index_reference": "jardin d'éden",
+    "index_reference": "gortyne",
     "language": "fra",
-    "content": "<h1>JARDIN D&apos;ÉDEN</h1><p>Emplacement à l&apos;est d&apos;Éden (<a href=\"https://ref.ly/Gen2:8\">Gn 2.8</a>) dans la région Hiddékel-Euphrate de la Mésopotamie, mentionné quatorze fois dans l&apos;Ancien Testament. Les informations dans <a href=\"https://ref.ly/Gen2:8-Gen2:10\">Genèse 2.8–10</a> indiquent qu&apos;il se trouvait dans la plaine de Schinear, et que quatre « têtes » ou branches étaient formées à partir du seul fleuve traversant Éden pour arroser le Jardin. Les têtes étaient le fleuve Hiddékel (ou Tigre) et l&apos;Euphrate (tous deux étant des fleuves modernes bien connus) et deux rivières qui ont disparu : le Pishon et le Guihon. Ces dernières étaient très probablement des canaux d&apos;eau naturels, plus tard utilisés comme canaux d&apos;irrigation, car en cunéiforme il n&apos;y a pas de mot distinct pour « fleuve » et « canal d&apos;irrigation ». Si le Pishon et le Guihon étaient en fait des canaux d&apos;irrigation, alors la Genèse place l&apos;homme adamique dans un cadre géographique réel et élimine donc l&apos;idée qu&apos;Éden était un mythe. Si l&apos;identification ci-dessus est correcte, Cusch se référait à la terre des anciens Kassites, tandis que Havila pouvait indiquer l&apos;Arabie.</p><p>Éden était le terrain d&apos;essai de la fidélité de l&apos;homme aux commandements de Dieu, et par la désobéissance, le Jardin a été perdu. Il sera retrouvé sous la forme du nouveau paradis (<a href=\"https://ref.ly/Rev22:14\">Ap 22.14</a>).</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2531\" data-resourceType=\"TyndaleBibleDictionary\">Adam (Personne)</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"4362\" data-resourceType=\"TyndaleBibleDictionary\">Ève</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"4399\" data-resourceType=\"TyndaleBibleDictionary\">Chute de l&apos;Homme</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"8085\" data-resourceType=\"TyndaleBibleDictionary\">Arbre de la Connaissance du Bien et du Mal</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"8086\" data-resourceType=\"TyndaleBibleDictionary\">Arbre de Vie</span>.</p>",
+    "content": "<h1>GORTYNE</h1><p>Ville sur l&apos;île de Crète qui figure parmi la liste des lieux où les Romains ont envoyé des lettres (<a href=\"https://ref.ly/1Macc15:23\">1 Maccabées 15.23</a>). Ces lettres demandaient aux rois et aux pays de ne pas nuire au peuple juif (<a href=\"https://ref.ly/1Macc15:19\">15.19</a>).</p><p>Au début de l&apos;histoire grecque, Gortyne s&apos;alliera à une autre ville appelée Knossos pour contrôler la Crète. Cependant, ces deux villes commenceront rapidement à se battre l&apos;une contre l&apos;autre. Lorsque les Romains prennent le contrôle de la région, ils feront de Gortyne la capitale de la Crète.</p><p>En 1884, des chercheurs ont fait une découverte importante à Gortyne&nbsp;: un ensemble de lois anciennes du 5e siècle av. J.‑C., appelé le code juridique de Gortyne.</p><p>Gortyne se trouvait près d&apos;un endroit appelé Beaux Ports. Ainsi, l&apos;apôtre Paul y a peut-être prêché la Bonne Nouvelle de Jésus à ses résidents juifs lors de son voyage vers Rome (<a href=\"https://ref.ly/Acts27:8-Acts27:9\">Ac 27.8–9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01002008",
-          "start_ref_usfm": "GEN 2:8",
-          "end_ref": "01002008",
-          "end_ref_usfm": "GEN 2:8"
+          "start_ref": "78015019",
+          "start_ref_usfm": "1MA 15:19",
+          "end_ref": "78015019",
+          "end_ref_usfm": "1MA 15:19"
         },
         {
-          "start_ref": "66022014",
-          "start_ref_usfm": "REV 22:14",
-          "end_ref": "66022014",
-          "end_ref_usfm": "REV 22:14"
+          "start_ref": "78015023",
+          "start_ref_usfm": "1MA 15:23",
+          "end_ref": "78015023",
+          "end_ref_usfm": "1MA 15:23"
         },
         {
-          "start_ref": "01002008",
-          "start_ref_usfm": "GEN 2:8",
-          "end_ref": "01002010",
-          "end_ref_usfm": "GEN 2:10"
+          "start_ref": "44027008",
+          "start_ref_usfm": "ACT 27:8",
+          "end_ref": "44027009",
+          "end_ref_usfm": "ACT 27:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 2531,
-          "content_id": 695282,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Adam (Personne)",
-          "language": "fra"
-        },
-        {
-          "reference_id": 4362,
-          "content_id": 800694,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Ève",
-          "language": "fra"
-        },
-        {
-          "reference_id": 4399,
-          "content_id": 788767,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Chute de l'humanité",
-          "language": "fra"
-        },
-        {
-          "reference_id": 8085,
-          "content_id": 800744,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Arbre de la Connaissance du Bien et du Mal",
-          "language": "fra"
-        },
-        {
-          "reference_id": 8086,
-          "content_id": 800745,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Arbre de Vie",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

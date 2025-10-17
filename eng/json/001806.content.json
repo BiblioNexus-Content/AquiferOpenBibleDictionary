@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 5060,
-    "reference_id": 4228,
-    "title": "Elymas",
+    "content_id": 5059,
+    "reference_id": 4227,
+    "title": "Elymais",
     "media_type": "Text",
-    "index_reference": "elymas",
+    "index_reference": "elymais",
     "language": "eng",
-    "content": "<h1>ELYMAS</h1><p>Another name for Bar-Jesus. He was a Jewish magician and false prophet mentioned in <a href=\"https://ref.ly/Acts13:8\">Acts 13:8</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3174\" data-resourceType=\"TyndaleBibleDictionary\">Bar-Jesus</span>.</p>",
+    "content": "<h1>ELYMAIS</h1><p>Formerly thought to be a city in Persia, greatly renowned for riches, silver, and gold (<a href=\"https://ref.ly/1Macc6:1\">1&nbsp;Macc 6:1</a>), but now generally regarded as a district of Persia. Josephus (<em>Antiquities</em> 12.9.1), following 1&nbsp;Maccabees, alludes to it as a city, but it is otherwise unknown.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44013008",
-          "start_ref_usfm": "ACT 13:8",
-          "end_ref": "44013008",
-          "end_ref_usfm": "ACT 13:8"
+          "start_ref": "78006001",
+          "start_ref_usfm": "1MA 6:1",
+          "end_ref": "78006001",
+          "end_ref_usfm": "1MA 6:1"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3174,
-          "content_id": 4006,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Bar-Jesus",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

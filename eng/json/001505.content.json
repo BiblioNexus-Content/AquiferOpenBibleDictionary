@@ -1,31 +1,19 @@
 [
   {
-    "content_id": 4755,
-    "reference_id": 3923,
-    "title": "Dara, Darda",
+    "content_id": 4754,
+    "reference_id": 3922,
+    "title": "Daphne",
     "media_type": "Text",
-    "index_reference": "dara, darda",
+    "index_reference": "daphne",
     "language": "eng",
-    "content": "<h1>DARA*, DARDA</h1><p>Mahol’s son (<a href=\"https://ref.ly/1Kgs4:31\">1&nbsp;Kgs 4:31</a>), a Judahite of the family of Zerah (<a href=\"https://ref.ly/1Chr2:6\">1&nbsp;Chr 2:6</a>). With Ethan the Ezrahite and Heman and Calcol, also sons of Mahol, Darda is mentioned as the proverbial example of wisdom, though he is surpassed by Solomon (<a href=\"https://ref.ly/1Kgs4:31-1Kgs4:32\">1&nbsp;Kgs 4:31–32</a>). <a href=\"https://ref.ly/1Chr2:6\">First Chronicles 2:6</a> sometimes gives the name as Dara, probably the error of a copyist, and includes a fifth man, Zimri. That there are two different fathers (Mahol and Zerah) mentioned in the two passages may be explained by making Mahol the natural father and Zerah the Ezrahite an earlier ancestor.</p>",
+    "content": "<h1>DAPHNE</h1><p>A beautiful grove and sanctuary to Apollo located near Antioch in Syria. The Greek ruler Seleucus I lived here and built a huge statue of Apollo in addition to a temple. Here, criminals and political refugees could take asylum, as it was illegal to arrest anyone within Daphne. In <a href=\"https://ref.ly/2Macc4:33\">2&nbsp;Maccabees 4:33</a> the high priest Onias, who had been true to Yahweh in boldly scolding King Menelaus, hid here. He was, however, brought out by trickery and murdered.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11004031",
-          "start_ref_usfm": "1KI 4:31",
-          "end_ref": "11004031",
-          "end_ref_usfm": "1KI 4:31"
-        },
-        {
-          "start_ref": "13002006",
-          "start_ref_usfm": "1CH 2:6",
-          "end_ref": "13002006",
-          "end_ref_usfm": "1CH 2:6"
-        },
-        {
-          "start_ref": "11004031",
-          "start_ref_usfm": "1KI 4:31",
-          "end_ref": "11004032",
-          "end_ref_usfm": "1KI 4:32"
+          "start_ref": "79004033",
+          "start_ref_usfm": "2MA 4:33",
+          "end_ref": "79004033",
+          "end_ref_usfm": "2MA 4:33"
         }
       ],
       "resource": []

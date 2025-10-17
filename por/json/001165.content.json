@@ -1,34 +1,30 @@
 [
   {
-    "content_id": 683022,
-    "reference_id": 6034,
-    "title": "Maalate (Pessoa)",
+    "content_id": 815967,
+    "reference_id": 4473,
+    "title": "Libertos",
     "media_type": "Text",
-    "index_reference": "maalate (pessoa)",
+    "index_reference": "libertos",
     "language": "por",
-    "content": "<h1>MAALATE (Pessoa)</h1><p>1. Filha de Ismael, irmã de Nebaiote, terceira esposa de Esaú e mãe de Reuel (<a href=\"https://ref.ly/Gen28:9\">Gn 28.9</a>); também chamada de Basemate em <a href=\"https://ref.ly/Gen36:3-Gen36:17\">Gênesis 36.3–17</a>.</p><p>2. Filha de Jerimote e primeira esposa do rei Roboão (<a href=\"https://ref.ly/2Chr11:18\">2Cr 11.18</a>).</p>",
+    "content": "<h1>LIBERTOS</h1><p>Os libertos eram membros de uma sinagoga judaica em Jerusalém (<a href=\"https://ref.ly/Acts6:9\">At 6.9</a>), que foram capturados e levados para Roma pelo general Pompeu, que viveu de 106–48 a.C. Esses judeus foram posteriormente libertados da escravidão.</p><p>Pompeu descobriu que os judeus seguiam seus costumes religiosos e nacionais de forma tão rigorosa que não eram úteis como escravos. Por isso, foram libertados.</p><p>Nem todos os libertos retornaram a Jerusalém. Alguns permaneceram em Roma. O escritor romano Plínio descreveu o liberto como um “plebeu sem importância”.</p><p>O nome &quot;libertos&quot; (ou &quot;homens livres&quot; na Nova Tradução na Linguagem de Hoje) vem de uma palavra latina que designa uma pessoa que foi libertada da escravidão, ou o filho de alguém que já foi escravo.</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5904\" data-resourceType=\"TyndaleBibleDictionary\">Libertinos</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01028009",
-          "start_ref_usfm": "GEN 28:9",
-          "end_ref": "01028009",
-          "end_ref_usfm": "GEN 28:9"
-        },
-        {
-          "start_ref": "14011018",
-          "start_ref_usfm": "2CH 11:18",
-          "end_ref": "14011018",
-          "end_ref_usfm": "2CH 11:18"
-        },
-        {
-          "start_ref": "01036003",
-          "start_ref_usfm": "GEN 36:3",
-          "end_ref": "01036017",
-          "end_ref_usfm": "GEN 36:17"
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5904,
+          "content_id": 816003,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Libertinos",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

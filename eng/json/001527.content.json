@@ -1,45 +1,51 @@
 [
   {
-    "content_id": 4774,
-    "reference_id": 3942,
-    "title": "Dayspring, Day Star",
+    "content_id": 4773,
+    "reference_id": 3941,
+    "title": "Day’s Journey",
     "media_type": "Text",
-    "index_reference": "dayspring, day star",
+    "index_reference": "day’s journey",
     "language": "eng",
-    "content": "<h1>DAYSPRING, DAY STAR</h1><p>&quot;Dayspring&quot; and &quot;day star&quot; are words used in the King James Version to refer to Venus, the planet that is visible just before sunrise, or to the first light of dawn itself.</p><ul><li><p>Both <a href=\"https://ref.ly/Job38:12\">Job 38:12</a> and <a href=\"https://ref.ly/Luke1:78\">Luke 1:78 </a>in the King James Version use the word &quot;dayspring&quot; while the Berean Standard Bible uses the word “dawn.” </p></li><li><p><a href=\"https://ref.ly/2Pet1:19\">2&nbsp;Peter 1:19</a> in the King James Version uses the word “day star” while the Berean Standard Bible uses the word &quot;morning star.&quot; </p></li></ul><p>In <a href=\"https://ref.ly/Isa14:12\">Isaiah 14:12</a>, “day star” refers to the proud king of Babylon. The King James Version calls him “Lucifer.”  This king tried to rise too high and hurt Israel. The verse suggests God will bring him down, just as the morning star fades when the sun rises.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6376\" data-resourceType=\"TyndaleBibleDictionary\">Morning Star</span>.</p>",
+    "content": "<h1>DAY’S JOURNEY</h1><p>A way of estimating distances in Bible times. A day’s journey was about 32.2&nbsp;kilometers (20 miles) but depended on such things as the mode of travel, the terrain, and the weather. <a href=\"https://ref.ly/Exod3:18\">Exodus 3:18</a>, <a href=\"https://ref.ly/Num11:31\">Numbers 11:31</a>, <a href=\"https://ref.ly/1Kgs19:4\">1&nbsp;Kings 19:4</a>, and <a href=\"https://ref.ly/Luke2:44\">Luke 2:44 </a>all mention a day&apos;s journey.<a href=\"https://ref.ly/Luke2:44\"> </a></p><p>Scripture also refers to a Sabbath day’s journey (<a href=\"https://ref.ly/Acts1:12\">Acts 1:12</a>). A Sabbath day’s journey was probably about one kilometer (3500 feet). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7248\" data-resourceType=\"TyndaleBibleDictionary\">Sabbath Day’s Journey</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "18038012",
-          "start_ref_usfm": "JOB 38:12",
-          "end_ref": "18038012",
-          "end_ref_usfm": "JOB 38:12"
+          "start_ref": "02003018",
+          "start_ref_usfm": "EXO 3:18",
+          "end_ref": "02003018",
+          "end_ref_usfm": "EXO 3:18"
         },
         {
-          "start_ref": "23014012",
-          "start_ref_usfm": "ISA 14:12",
-          "end_ref": "23014012",
-          "end_ref_usfm": "ISA 14:12"
+          "start_ref": "04011031",
+          "start_ref_usfm": "NUM 11:31",
+          "end_ref": "04011031",
+          "end_ref_usfm": "NUM 11:31"
         },
         {
-          "start_ref": "42001078",
-          "start_ref_usfm": "LUK 1:78",
-          "end_ref": "42001078",
-          "end_ref_usfm": "LUK 1:78"
+          "start_ref": "11019004",
+          "start_ref_usfm": "1KI 19:4",
+          "end_ref": "11019004",
+          "end_ref_usfm": "1KI 19:4"
         },
         {
-          "start_ref": "61001019",
-          "start_ref_usfm": "2PE 1:19",
-          "end_ref": "61001019",
-          "end_ref_usfm": "2PE 1:19"
+          "start_ref": "42002044",
+          "start_ref_usfm": "LUK 2:44",
+          "end_ref": "42002044",
+          "end_ref_usfm": "LUK 2:44"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001012",
+          "end_ref_usfm": "ACT 1:12"
         }
       ],
       "resource": [
         {
-          "reference_id": 6376,
-          "content_id": 7208,
+          "reference_id": 7248,
+          "content_id": 8080,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Morning Star",
+          "label": "Sabbath Day’s Journey",
           "language": "eng"
         }
       ]

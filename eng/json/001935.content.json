@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 5191,
-    "reference_id": 4359,
-    "title": "Evening Sacrifice",
+    "content_id": 5192,
+    "reference_id": 4360,
+    "title": "Evening",
     "media_type": "Text",
-    "index_reference": "evening sacrifice",
+    "index_reference": "evening",
     "language": "eng",
-    "content": "<h1>EVENING SACRIFICE</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6630\" data-resourceType=\"TyndaleBibleDictionary\">Offerings and Sacrifices</span>.</p>",
+    "content": "<h1>EVENING</h1><p>The time at the end of the day when the sun sets and darkness begins. In biblical timekeeping, evening marked the transition to a new day, as days were counted from sunset to sunset.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3943\" data-resourceType=\"TyndaleBibleDictionary\">Day</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 6630,
-          "content_id": 7462,
+          "reference_id": 3943,
+          "content_id": 4775,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Offerings and Sacrifices",
+          "label": "Day",
           "language": "eng"
         }
       ]

@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4402,
-    "reference_id": 3570,
-    "title": "Camon",
+    "content_id": 4400,
+    "reference_id": 3568,
+    "title": "Camel’s Thorn",
     "media_type": "Text",
-    "index_reference": "camon",
+    "index_reference": "camel’s thorn",
     "language": "eng",
-    "content": "<h1>CAMON*</h1><p>KJV form of Kamon, the burial place of the Israelite judge Jair, in <a href=\"https://ref.ly/Judg10:5\">Judges 10:5</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5685\" data-resourceType=\"TyndaleBibleDictionary\">Kamon</span>.</p>",
+    "content": "<h1>CAMEL’S THORN</h1><p>Camel’s thorn is a low, thorny shrub (a small, bushy plant with sharp points). It grows in dry places. People used the root of the camel’s thorn to make a sweet-smelling oil or ointment. (<a href=\"https://ref.ly/Sir24:15\">Sirach 24:15</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7988\" data-resourceType=\"TyndaleBibleDictionary\">Thistle, Thorn</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "07010005",
-          "start_ref_usfm": "JDG 10:5",
-          "end_ref": "07010005",
-          "end_ref_usfm": "JDG 10:5"
+          "start_ref": "72024015",
+          "start_ref_usfm": "SIR 24:15",
+          "end_ref": "72024015",
+          "end_ref_usfm": "SIR 24:15"
         }
       ],
       "resource": [
         {
-          "reference_id": 5685,
-          "content_id": 6517,
+          "reference_id": 7988,
+          "content_id": 8820,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Kamon",
+          "label": "Thistle, Thorn",
           "language": "eng"
         }
       ]

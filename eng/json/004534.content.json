@@ -1,23 +1,34 @@
 [
   {
-    "content_id": 7796,
-    "reference_id": 6964,
-    "title": "Potter",
+    "content_id": 7793,
+    "reference_id": 6961,
+    "title": "Pottage",
     "media_type": "Text",
-    "index_reference": "potter",
+    "index_reference": "pottage",
     "language": "eng",
-    "content": "<h1>POTTER</h1><p>A potter is a person who makes pots or other items from clay.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6963\" data-resourceType=\"TyndaleBibleDictionary\">Pottery</span>.</p>",
+    "content": "<h1>POTTAGE*</h1><p>Red-colored vegetable stew commonly served in the OT (<a href=\"https://ref.ly/Hag2:12\">Hg 2:12</a>). Pottage was made of lentils, herbs, onions, and sometimes meat. Its aroma proved strong enough to shift a birthright from Esau to Jacob (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">Gn 25:29–34</a>). Elisha’s disciples relished its nourishment (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:41\">2&nbsp;Kgs 4:38–41</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 6963,
-          "content_id": 7795,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Pottery",
-          "language": "eng"
+          "start_ref": "37002012",
+          "start_ref_usfm": "HAG 2:12",
+          "end_ref": "37002012",
+          "end_ref_usfm": "HAG 2:12"
+        },
+        {
+          "start_ref": "12004038",
+          "start_ref_usfm": "2KI 4:38",
+          "end_ref": "12004041",
+          "end_ref_usfm": "2KI 4:41"
+        },
+        {
+          "start_ref": "01025029",
+          "start_ref_usfm": "GEN 25:29",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 4332,
-    "reference_id": 3500,
-    "title": "Breaking of Bread",
+    "content_id": 4331,
+    "reference_id": 3499,
+    "title": "Breakfast",
     "media_type": "Text",
-    "index_reference": "breaking of bread",
+    "index_reference": "breakfast",
     "language": "eng",
-    "content": "<h1>BREAKING OF BREAD</h1><p>The phrase <em>breaking of bread</em> appears in the New Testament.</p><p>It often refers to the Lord’s Supper, a special meal where followers of Jesus remember his death and resurrection.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5947\" data-resourceType=\"TyndaleBibleDictionary\">Lord’s Supper, The</span>.</p>",
+    "content": "<h1>BREAKFAST</h1><p>Breakfast is the first meal of the day.</p><p>The word means “breaking the fast,” because it ends the hours without eating during the night.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4403\" data-resourceType=\"TyndaleBibleDictionary\">Family Life and Relations</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Food and Food Preparation</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5947,
-          "content_id": 6779,
+          "reference_id": 4403,
+          "content_id": 5235,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Lord’s Supper, the",
+          "label": "Family Life and Relations",
+          "language": "eng"
+        },
+        {
+          "reference_id": 4454,
+          "content_id": 5286,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Food and Food Preparation",
           "language": "eng"
         }
       ]

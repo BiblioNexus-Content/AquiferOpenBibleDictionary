@@ -1,36 +1,28 @@
 [
   {
-    "content_id": 717297,
-    "reference_id": 7764,
-    "title": "Espelta",
+    "content_id": 759744,
+    "reference_id": 4300,
+    "title": "Erã",
     "media_type": "Text",
-    "index_reference": "espelta",
+    "index_reference": "erã",
     "language": "por",
-    "content": "<h1>ESPELTA</h1><p>Espécies de trigo de grão duro que crescem melhor em vários tipos de solos. Era um grão popular entre os antigos (<a href=\"https://ref.ly/Exod9:32\">Êx 9.32</a>; <a href=\"https://ref.ly/Ezek4:9\">Ez 4.9</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas</span>.</p>",
+    "content": "<h1>ERÃ</h1><p>Erã era neto de Efraim e o filho mais velho de Sutela (<a href=\"https://ref.ly/Num26:36\">Nm 26.36</a>). A família eranita veio de Erã. Em <a href=\"https://ref.ly/1Chr7:20\">1 Crônicas 7.20</a>, o nome Erã não aparece. Em vez disso, o nome Eleada é usado em uma lista familiar semelhante. Essa diferença pode ser devido a um erro de cópia ao registrar esses documentos.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02009032",
-          "start_ref_usfm": "EXO 9:32",
-          "end_ref": "02009032",
-          "end_ref_usfm": "EXO 9:32"
+          "start_ref": "04026036",
+          "start_ref_usfm": "NUM 26:36",
+          "end_ref": "04026036",
+          "end_ref_usfm": "NUM 26:36"
         },
         {
-          "start_ref": "26004009",
-          "start_ref_usfm": "EZK 4:9",
-          "end_ref": "26004009",
-          "end_ref_usfm": "EZK 4:9"
+          "start_ref": "13007020",
+          "start_ref_usfm": "1CH 7:20",
+          "end_ref": "13007020",
+          "end_ref_usfm": "1CH 7:20"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 125318,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Plantas",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]
