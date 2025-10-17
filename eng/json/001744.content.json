@@ -1,28 +1,36 @@
 [
   {
-    "content_id": 4994,
-    "reference_id": 4162,
-    "title": "Eliahba",
+    "content_id": 4995,
+    "reference_id": 4163,
+    "title": "Eliah",
     "media_type": "Text",
-    "index_reference": "eliahba",
+    "index_reference": "eliah",
     "language": "eng",
-    "content": "<h1>ELIAHBA</h1><p>A warrior among the mighty men of David known as “the Thirty” (<a href=\"https://ref.ly/2Sam23:32\">2&nbsp;Samuel 23:32</a>; <a href=\"https://ref.ly/1Chr11:33\">1&nbsp;Chronicles 11:33</a>).</p>",
+    "content": "<h1>ELIAH*</h1><p>KJV form of the name Elijah in <a href=\"https://ref.ly/1Chr8:27\">1&nbsp;Chronicles 8:27</a> and <a href=\"https://ref.ly/Ezra10:26\">Ezra 10:26</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4179\" data-resourceType=\"TyndaleBibleDictionary\">Elijah #2, #4</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "10023032",
-          "start_ref_usfm": "2SA 23:32",
-          "end_ref": "10023032",
-          "end_ref_usfm": "2SA 23:32"
+          "start_ref": "13008027",
+          "start_ref_usfm": "1CH 8:27",
+          "end_ref": "13008027",
+          "end_ref_usfm": "1CH 8:27"
         },
         {
-          "start_ref": "13011033",
-          "start_ref_usfm": "1CH 11:33",
-          "end_ref": "13011033",
-          "end_ref_usfm": "1CH 11:33"
+          "start_ref": "15010026",
+          "start_ref_usfm": "EZR 10:26",
+          "end_ref": "15010026",
+          "end_ref_usfm": "EZR 10:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4179,
+          "content_id": 5011,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Elijah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

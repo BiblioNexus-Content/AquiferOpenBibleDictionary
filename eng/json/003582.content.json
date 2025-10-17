@@ -1,28 +1,23 @@
 [
   {
-    "content_id": 6840,
-    "reference_id": 6008,
-    "title": "Madai",
+    "content_id": 6839,
+    "reference_id": 6007,
+    "title": "Macnadebai",
     "media_type": "Text",
-    "index_reference": "madai",
+    "index_reference": "macnadebai",
     "language": "eng",
-    "content": "<h1>MADAI</h1><p>Third of Japheth’s seven sons (<a href=\"https://ref.ly/Gen10:2\">Gn 10:2</a>; <a href=\"https://ref.ly/1Chr1:5\">1&nbsp;Chr 1:5</a>).</p>",
+    "content": "<h1>MACNADEBAI</h1><p>Another spelling of Mahnadebai, son of Bani (<a href=\"https://ref.ly/Ezra10:40\">Ezra 10:40</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6005\" data-resourceType=\"TyndaleBibleDictionary\">Machnadebai</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "01010002",
-          "start_ref_usfm": "GEN 10:2",
-          "end_ref": "01010002",
-          "end_ref_usfm": "GEN 10:2"
-        },
-        {
-          "start_ref": "13001005",
-          "start_ref_usfm": "1CH 1:5",
-          "end_ref": "13001005",
-          "end_ref_usfm": "1CH 1:5"
+          "reference_id": 6005,
+          "content_id": 6837,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Machnadebai",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5455,
-    "reference_id": 4623,
-    "title": "Giddalti",
+    "content_id": 5454,
+    "reference_id": 4622,
+    "title": "Giblite",
     "media_type": "Text",
-    "index_reference": "giddalti",
+    "index_reference": "giblite",
     "language": "eng",
-    "content": "<h1>GIDDALTI</h1><p>A son of Heman who served as a temple singer. King David appointed Giddalti to serve under the direction of his father (<a href=\"https://ref.ly/1Chr25:4\">1&nbsp;Chronicles 25:4</a>). Giddalti was in charge of the 22nd of the 24 divisions of temple service (<a href=\"https://ref.ly/1Chr25:29\">1&nbsp;Chronicles 25:29</a>).</p>",
+    "content": "<h1>GIBLITE*</h1><p>KJV rendering of Gebalite, an inhabitant of Gebal, in <a href=\"https://ref.ly/Josh13:5\">Joshua 13:5</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4558\" data-resourceType=\"TyndaleBibleDictionary\">Gebal #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13025004",
-          "start_ref_usfm": "1CH 25:4",
-          "end_ref": "13025004",
-          "end_ref_usfm": "1CH 25:4"
-        },
-        {
-          "start_ref": "13025029",
-          "start_ref_usfm": "1CH 25:29",
-          "end_ref": "13025029",
-          "end_ref_usfm": "1CH 25:29"
+          "start_ref": "06013005",
+          "start_ref_usfm": "JOS 13:5",
+          "end_ref": "06013005",
+          "end_ref_usfm": "JOS 13:5"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4558,
+          "content_id": 5390,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Gebal",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

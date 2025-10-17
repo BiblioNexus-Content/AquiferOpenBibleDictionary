@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 7716,
-    "reference_id": 6884,
-    "title": "Philometor",
+    "content_id": 7715,
+    "reference_id": 6883,
+    "title": "Philologus",
     "media_type": "Text",
-    "index_reference": "philometor",
+    "index_reference": "philologus",
     "language": "eng",
-    "content": "<h1>PHILOMETOR</h1><p>Name of Ptolemy VI, ruler in Egypt (<a href=\"https://ref.ly/2Macc4:21\">2&nbsp;Macc 4:21</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7013\" data-resourceType=\"TyndaleBibleDictionary\">Ptolemaic Empire</span>.</p>",
+    "content": "<h1>PHILOLOGUS</h1><p>Early Christian acquaintance or friend of the apostle Paul to whom he sent greetings (<a href=\"https://ref.ly/Rom16:15\">Rom 16:15</a>). In the series of greetings, he seems to be paired with a woman named Julia.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "79004021",
-          "start_ref_usfm": "2MA 4:21",
-          "end_ref": "79004021",
-          "end_ref_usfm": "2MA 4:21"
+          "start_ref": "45016015",
+          "start_ref_usfm": "ROM 16:15",
+          "end_ref": "45016015",
+          "end_ref_usfm": "ROM 16:15"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 7013,
-          "content_id": 7845,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Ptolemaic Empire",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

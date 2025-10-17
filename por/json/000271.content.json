@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 716930,
-    "reference_id": 3226,
-    "title": "Bedade",
+    "content_id": 716931,
+    "reference_id": 3249,
+    "title": "Beca",
     "media_type": "Text",
-    "index_reference": "bedade",
+    "index_reference": "beca",
     "language": "por",
-    "content": "<h1>BEDADE</h1><p>O pai de Hadade, um dos reis de Edom antes de Israel ter reis (<a href=\"https://ref.ly/Gen36:35\">Gn 36.35</a>; <a href=\"https://ref.ly/1Chr1:46\">1Cr 1.46</a>).</p>",
+    "content": "<h1>BECA</h1><p>Um peso de seis gramas que era chamado de &quot;meio siclo, conforme o siclo do santuário&quot; (<a href=\"https://ref.ly/Exod38:26\">Êx 38.26</a>).</p><p><em>Veja </em><span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Pesos e Medidas</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036035",
-          "start_ref_usfm": "GEN 36:35",
-          "end_ref": "01036035",
-          "end_ref_usfm": "GEN 36:35"
-        },
-        {
-          "start_ref": "13001046",
-          "start_ref_usfm": "1CH 1:46",
-          "end_ref": "13001046",
-          "end_ref_usfm": "1CH 1:46"
+          "start_ref": "02038026",
+          "start_ref_usfm": "EXO 38:26",
+          "end_ref": "02038026",
+          "end_ref_usfm": "EXO 38:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8219,
+          "content_id": 125350,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Pesos E Medidas",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

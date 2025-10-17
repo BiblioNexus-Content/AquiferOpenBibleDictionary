@@ -1,19 +1,31 @@
 [
   {
-    "content_id": 683108,
-    "reference_id": 8004,
-    "title": "Tidal",
+    "content_id": 717285,
+    "reference_id": 7587,
+    "title": "Sinrom (Pessoa)",
     "media_type": "Text",
-    "index_reference": "tidal",
+    "index_reference": "sinrom (pessoa)",
     "language": "por",
-    "content": "<h1>TIDAL</h1><p>Rei de Goim que lutou com a confederação de Quedorlaomer contra Sodoma (<a href=\"https://ref.ly/Gen14:1-Gen14:9\">Gn 14.1–9</a>).</p>",
+    "content": "<h1>SINROM (Pessoa)</h1><p>Quarto filho de Issacar (<a href=\"https://ref.ly/Gen46:13\">Gn 46.13</a>; <a href=\"https://ref.ly/1Chr7:1\">1Cr 7.1</a>) e fundador da família dos Simronitas (<a href=\"https://ref.ly/Num26:24\">Nm 26.24</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014001",
-          "start_ref_usfm": "GEN 14:1",
-          "end_ref": "01014009",
-          "end_ref_usfm": "GEN 14:9"
+          "start_ref": "01046013",
+          "start_ref_usfm": "GEN 46:13",
+          "end_ref": "01046013",
+          "end_ref_usfm": "GEN 46:13"
+        },
+        {
+          "start_ref": "04026024",
+          "start_ref_usfm": "NUM 26:24",
+          "end_ref": "04026024",
+          "end_ref_usfm": "NUM 26:24"
+        },
+        {
+          "start_ref": "13007001",
+          "start_ref_usfm": "1CH 7:1",
+          "end_ref": "13007001",
+          "end_ref_usfm": "1CH 7:1"
         }
       ],
       "resource": []

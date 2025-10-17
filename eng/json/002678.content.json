@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5927,
-    "reference_id": 5095,
-    "title": "Hothir",
+    "content_id": 5926,
+    "reference_id": 5094,
+    "title": "Hothan",
     "media_type": "Text",
-    "index_reference": "hothir",
+    "index_reference": "hothan",
     "language": "eng",
-    "content": "<h1>HOTHIR</h1><p>Levite and the head of the 21st of 24 divisions of priests for sanctuary service, formed during David’s reign (<a href=\"https://ref.ly/1Chr25:4,1Chr25:28\">1&nbsp;Chr 25:4, 28</a>).</p>",
+    "content": "<h1>HOTHAN</h1><p>The King James Version&apos;s spelling of Hotham in <a href=\"https://ref.ly/1Chr11:44\">1&nbsp;Chronicles 11:44</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5093\" data-resourceType=\"TyndaleBibleDictionary\">Hotham #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13025004",
-          "start_ref_usfm": "1CH 25:4",
-          "end_ref": "13025004",
-          "end_ref_usfm": "1CH 25:4"
-        },
-        {
-          "start_ref": "13025028",
-          "start_ref_usfm": "1CH 25:28",
-          "end_ref": "13025028",
-          "end_ref_usfm": "1CH 25:28"
+          "start_ref": "13011044",
+          "start_ref_usfm": "1CH 11:44",
+          "end_ref": "13011044",
+          "end_ref_usfm": "1CH 11:44"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5093,
+          "content_id": 5925,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Hotham",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

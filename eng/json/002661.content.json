@@ -1,31 +1,31 @@
 [
   {
-    "content_id": 5910,
-    "reference_id": 5078,
-    "title": "Horonite",
+    "content_id": 5909,
+    "reference_id": 5077,
+    "title": "Horonaim",
     "media_type": "Text",
-    "index_reference": "horonite",
+    "index_reference": "horonaim",
     "language": "eng",
-    "content": "<h1>HORONITE</h1><p>Reference to either the residence or birthplace of Sanballat, who opposed Nehemiah’s restoration program (<a href=\"https://ref.ly/Neh2:10,Neh2:19\">Neh 2:10, 19</a>; <a href=\"https://ref.ly/Neh13:28\">13:28</a>). The name probably derives from the two cities of Upper and Lower Beth-horon.</p>",
+    "content": "<h1>HORONAIM</h1><p>Moabite settlement of uncertain location, listed in prophetic oracles against Moab (<a href=\"https://ref.ly/Isa15:5\">Is 15:5</a>; <a href=\"https://ref.ly/Jer48:3-Jer48:5,Jer48:34\">Jer 48:3–5, 34</a>). It fell to Alexander Janneus, but the Hasmonean rule was subsequently returned to King Aretas by John Hyrcanus (Josephus’s <em>Antiquities</em> 13.15.4; 14.1.4).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16002010",
-          "start_ref_usfm": "NEH 2:10",
-          "end_ref": "16002010",
-          "end_ref_usfm": "NEH 2:10"
+          "start_ref": "23015005",
+          "start_ref_usfm": "ISA 15:5",
+          "end_ref": "23015005",
+          "end_ref_usfm": "ISA 15:5"
         },
         {
-          "start_ref": "16002019",
-          "start_ref_usfm": "NEH 2:19",
-          "end_ref": "16002019",
-          "end_ref_usfm": "NEH 2:19"
+          "start_ref": "24048034",
+          "start_ref_usfm": "JER 48:34",
+          "end_ref": "24048034",
+          "end_ref_usfm": "JER 48:34"
         },
         {
-          "start_ref": "16013028",
-          "start_ref_usfm": "NEH 13:28",
-          "end_ref": "16013028",
-          "end_ref_usfm": "NEH 13:28"
+          "start_ref": "24048003",
+          "start_ref_usfm": "JER 48:3",
+          "end_ref": "24048005",
+          "end_ref_usfm": "JER 48:5"
         }
       ],
       "resource": []

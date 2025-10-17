@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 6055,
-    "reference_id": 5223,
-    "title": "Ir-Shemesh",
+    "content_id": 6054,
+    "reference_id": 5222,
+    "title": "Irrigation",
     "media_type": "Text",
-    "index_reference": "ir-shemesh",
+    "index_reference": "irrigation",
     "language": "eng",
-    "content": "<h1>IR-SHEMESH</h1><p>City allotted to Dan’s tribe for an inheritance (<a href=\"https://ref.ly/Josh19:41\">Jos 19:41</a>), probably identical with Beth-shemesh.</p>",
+    "content": "<h1>IRRIGATION</h1><p>The practice of bringing water to farmland through human-made systems like channels and ditches.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2592\" data-resourceType=\"TyndaleBibleDictionary\">Agriculture</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "06019041",
-          "start_ref_usfm": "JOS 19:41",
-          "end_ref": "06019041",
-          "end_ref_usfm": "JOS 19:41"
+          "reference_id": 2592,
+          "content_id": 3424,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Agriculture",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

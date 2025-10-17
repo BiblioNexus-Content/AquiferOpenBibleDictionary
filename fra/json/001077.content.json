@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 756992,
-    "reference_id": 8364,
-    "title": "Zéresch",
+    "content_id": 806130,
+    "reference_id": 7470,
+    "title": "Schavé-Kirjathaïm",
     "media_type": "Text",
-    "index_reference": "zéresch",
+    "index_reference": "schavé-kirjathaïm",
     "language": "fra",
-    "content": "<h1>ZÉRESCH</h1><p>Épouse d&apos;Haman l&apos;Agagite qui lui a conseillé de construire la potence (une haute structure en bois) pour pendre Mardochée (<a href=\"https://ref.ly/Esth5:10,Esth5:14\">Est 5.10, 14</a>).</p>",
+    "content": "<h1>SCHAVÉ-KIRJATAÏM*</h1><p>Plaine à l&apos;est de la mer Morte près de la ville de Kirjathaïm occupée par le peuple des Émim. Les Émim à <span>Schavé-Kirjathaïm</span> sont répertoriés avec plusieurs autres tribus et nations que le roi Kedorlaomer et ses alliés ont vaincues (<a href=\"https://ref.ly/Gen14:5\">Gn 14.5</a>). Cette plaine sera ensuite héritée par les fils de Ruben.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "17005010",
-          "start_ref_usfm": "EST 5:10",
-          "end_ref": "17005010",
-          "end_ref_usfm": "EST 5:10"
-        },
-        {
-          "start_ref": "17005014",
-          "start_ref_usfm": "EST 5:14",
-          "end_ref": "17005014",
-          "end_ref_usfm": "EST 5:14"
+          "start_ref": "01014005",
+          "start_ref_usfm": "GEN 14:5",
+          "end_ref": "01014005",
+          "end_ref_usfm": "GEN 14:5"
         }
       ],
       "resource": []

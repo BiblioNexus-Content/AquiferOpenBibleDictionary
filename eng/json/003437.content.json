@@ -1,48 +1,93 @@
 [
   {
-    "content_id": 7212,
-    "reference_id": 6380,
-    "title": "Law of Moses",
+    "content_id": 6695,
+    "reference_id": 5863,
+    "title": "Laver",
     "media_type": "Text",
-    "index_reference": "law of moses",
+    "index_reference": "laver",
     "language": "eng",
-    "content": "<h1>LAW OF MOSES</h1><p>The Law of Moses refers to the religious, moral, and social rules that God gave to the Israelite people through Moses. These laws can be found in several books of the Old Testament: Exodus, Leviticus, Numbers, and Deuteronomy.</p><p>The Law of Moses covered many aspects of life for the ancient Israelites. It included:</p><ol><li><p>The Ten Commandments, a list of ten instructions for living and worshiping God (<a href=\"https://ref.ly/Exod20:1-Exod20:17\">Exodus 20:1–17</a>).</p></li><li><p>Instructions about religious ceremonies and sacrifices, including how to worship God and seek forgiveness for sins (<a href=\"https://ref.ly/Lev1:1-Lev7:38\">Leviticus 1–7</a>).</p></li><li><p>Rules for daily life, including guidelines about food, cleanliness, relationships, and business dealings (<a href=\"https://ref.ly/Lev11:1-Lev15:33\">Leviticus 11–15</a>; <a href=\"https://ref.ly/Lev19:1-Lev19:37\">19</a>).</p></li><li><p>Moral guidelines about how to treat others and live honestly (<a href=\"https://ref.ly/Lev19:1-Lev19:37\">Leviticus 19</a>).</p></li><li><p>Laws for community leaders, including instructions for priests, judges, and other leaders (<a href=\"https://ref.ly/Deut16:1-Deut18:22\">Deuteronomy 16–18</a>).</p></li></ol><p>The Law helped the Israelites understand how to live as God&apos;s people. It showed them what was right and wrong, and how to make things right when they failed. Jesus later said he came not to end the Law but to fulfill it (<a href=\"https://ref.ly/Matt5:17\">Matthew 5:17</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3842\" data-resourceType=\"TyndaleBibleDictionary\">Covenant</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3992\" data-resourceType=\"TyndaleBibleDictionary\">Deuteronomy, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4374\" data-resourceType=\"TyndaleBibleDictionary\">Exodus, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5901\" data-resourceType=\"TyndaleBibleDictionary\">Leviticus, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6383\" data-resourceType=\"TyndaleBibleDictionary\">Moses</span>.</p>",
+    "content": "<h1>LAVER</h1><p>A laver is a large basin filled with water that the priests used to wash their hands and feet before entering the Holy Place and before serving at the altar (<a href=\"https://ref.ly/Exod30:17-Exod30:21\">Exodus 30:17–21</a>).  In Solomon&apos;s temple, a large laver called the &quot;molten sea&quot; was between the altar of burnt offerings in the courtyard and the inner temple&apos;s entrance (<a href=\"https://ref.ly/1Kgs7:23\">1&nbsp;Kings 7:23</a>). The laver was the large basin and the pedestal it sat on (<a href=\"https://ref.ly/Exod30:18\">Exodus 30:18</a>). It was made of bronze or brass, melted and shaped from mirrors of highly polished metal given by Israelite women (<a href=\"https://ref.ly/Exod38:8\">Exodus 38:8</a>).</p><p>In Solomon’s temple, in addition to the molten sea, there were ten smaller lavers, five on each the&nbsp;north and south sides of the sanctuary (<a href=\"https://ref.ly/1Kgs7:38-1Kgs7:39\">1&nbsp;Kings 7:38–39</a>). Each held 40 baths (1,211.2–1,665.4 liters, or 320–440 gallons), one-fiftieth the capacity of the large laver. The priests used the molten sea for their ritual washing. The ten lavers were for the sacrifices (<a href=\"https://ref.ly/2Chr4:6\">2&nbsp;Chronicles 4:6</a>).  Later, King Ahaz, for religious or financial reasons, severed the lavers and the sea from their bases. He placed them on a stone pediment (<a href=\"https://ref.ly/2Kgs16:17\">2&nbsp;Kings 16:17</a>). The prophet Jeremiah, during King Jehoiakim’s reign, predicted that the molten sea and the bases would be carried into Babylon (<a href=\"https://ref.ly/Jer27:19-Jer27:22\">Jeremiah 27:19–22</a>). This indeed happened, as recorded in <a href=\"https://ref.ly/Jer52:17\">Jeremiah 52:17</a>. The text does not mention what happened to the ten small lavers. They were perhaps already melted down and sold.</p><p>In Ezekiel’s description of the future temple, there is no mention of a laver or molten sea (<a href=\"https://ref.ly/Ezek40:1-Ezek42:20\">Ezekiel 40–42</a>). However, the apostle John in <a href=\"https://ref.ly/Rev4:6\">Revelation 4:6</a> and <a href=\"https://ref.ly/Rev15:2\">15:2</a> mentions a &quot;sea of glass.&quot; This &quot;sea of glass&quot; might be similar to or bring to mind Solomon&apos;s molten sea.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3511\" data-resourceType=\"TyndaleBibleDictionary\">Bronze Sea</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "02030018",
+          "start_ref_usfm": "EXO 30:18",
+          "end_ref": "02030018",
+          "end_ref_usfm": "EXO 30:18"
+        },
+        {
+          "start_ref": "02038008",
+          "start_ref_usfm": "EXO 38:8",
+          "end_ref": "02038008",
+          "end_ref_usfm": "EXO 38:8"
+        },
+        {
+          "start_ref": "11007023",
+          "start_ref_usfm": "1KI 7:23",
+          "end_ref": "11007023",
+          "end_ref_usfm": "1KI 7:23"
+        },
+        {
+          "start_ref": "12016017",
+          "start_ref_usfm": "2KI 16:17",
+          "end_ref": "12016017",
+          "end_ref_usfm": "2KI 16:17"
+        },
+        {
+          "start_ref": "14004006",
+          "start_ref_usfm": "2CH 4:6",
+          "end_ref": "14004006",
+          "end_ref_usfm": "2CH 4:6"
+        },
+        {
+          "start_ref": "24052017",
+          "start_ref_usfm": "JER 52:17",
+          "end_ref": "24052017",
+          "end_ref_usfm": "JER 52:17"
+        },
+        {
+          "start_ref": "66004006",
+          "start_ref_usfm": "REV 4:6",
+          "end_ref": "66004006",
+          "end_ref_usfm": "REV 4:6"
+        },
+        {
+          "start_ref": "66015002",
+          "start_ref_usfm": "REV 15:2",
+          "end_ref": "66015002",
+          "end_ref_usfm": "REV 15:2"
+        },
+        {
+          "start_ref": "02030017",
+          "start_ref_usfm": "EXO 30:17",
+          "end_ref": "02030021",
+          "end_ref_usfm": "EXO 30:21"
+        },
+        {
+          "start_ref": "11007038",
+          "start_ref_usfm": "1KI 7:38",
+          "end_ref": "11007039",
+          "end_ref_usfm": "1KI 7:39"
+        },
+        {
+          "start_ref": "24027019",
+          "start_ref_usfm": "JER 27:19",
+          "end_ref": "24027022",
+          "end_ref_usfm": "JER 27:22"
+        },
+        {
+          "start_ref": "26040001",
+          "start_ref_usfm": "EZK 40:1",
+          "end_ref": "26042020",
+          "end_ref_usfm": "EZK 42:20"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 3842,
-          "content_id": 4674,
+          "reference_id": 3511,
+          "content_id": 4343,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Covenant",
-          "language": "eng"
-        },
-        {
-          "reference_id": 3992,
-          "content_id": 4824,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Deuteronomy, Book of",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5901,
-          "content_id": 6733,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Leviticus, Book of",
-          "language": "eng"
-        },
-        {
-          "reference_id": 4374,
-          "content_id": 5206,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Book of Exodus",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6383,
-          "content_id": 7215,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Moses",
+          "label": "Bronze Sea",
           "language": "eng"
         }
       ]

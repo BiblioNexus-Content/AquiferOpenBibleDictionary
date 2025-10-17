@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 5874,
-    "reference_id": 5042,
-    "title": "Hod",
+    "content_id": 5868,
+    "reference_id": 5036,
+    "title": "Hobaiah",
     "media_type": "Text",
-    "index_reference": "hod",
+    "index_reference": "hobaiah",
     "language": "eng",
-    "content": "<h1>HOD</h1><p>Zophah’s son from Asher’s tribe (<a href=\"https://ref.ly/1Chr7:37\">1&nbsp;Chr 7:37</a>).</p>",
+    "content": "<h1>HOBAIAH</h1><p>Head of a priestly family who returned to Palestine with Zerubbabel after the exile. He was unable to prove his priestly genealogy and so was not allowed to do priestly service (<a href=\"https://ref.ly/Ezra2:61\">Ezr 2:61</a>; <a href=\"https://ref.ly/Neh7:63\">Neh 7:63</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13007037",
-          "start_ref_usfm": "1CH 7:37",
-          "end_ref": "13007037",
-          "end_ref_usfm": "1CH 7:37"
+          "start_ref": "15002061",
+          "start_ref_usfm": "EZR 2:61",
+          "end_ref": "15002061",
+          "end_ref_usfm": "EZR 2:61"
+        },
+        {
+          "start_ref": "16007063",
+          "start_ref_usfm": "NEH 7:63",
+          "end_ref": "16007063",
+          "end_ref_usfm": "NEH 7:63"
         }
       ],
       "resource": []

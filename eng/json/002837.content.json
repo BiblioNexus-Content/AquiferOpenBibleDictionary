@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 6089,
-    "reference_id": 5257,
-    "title": "Ismaiah",
+    "content_id": 6088,
+    "reference_id": 5256,
+    "title": "Isis",
     "media_type": "Text",
-    "index_reference": "ismaiah",
+    "index_reference": "isis",
     "language": "eng",
-    "content": "<h1>ISMAIAH*</h1><p>KJV spelling of Ishmaiah, a warrior from Benjamin’s tribe who joined David at Ziklag in <a href=\"https://ref.ly/1Chr12:4\">1&nbsp;Chronicles 12:4</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5241\" data-resourceType=\"TyndaleBibleDictionary\">Ishmaiah #1</span>.</p>",
+    "content": "<h1>ISIS</h1><p>An important goddess in ancient Egyptian religion and the wife of Osiris (the god of the dead and the afterlife).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4122\" data-resourceType=\"TyndaleBibleDictionary\">Egypt, Egyptian (Religion)</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "13012004",
-          "start_ref_usfm": "1CH 12:4",
-          "end_ref": "13012004",
-          "end_ref_usfm": "1CH 12:4"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5241,
-          "content_id": 6073,
+          "reference_id": 4122,
+          "content_id": 4954,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ishmaiah",
+          "label": "Egypt, Egyptian",
           "language": "eng"
         }
       ]

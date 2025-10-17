@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7869,
-    "reference_id": 7037,
-    "title": "Putiel",
+    "content_id": 7868,
+    "reference_id": 7036,
+    "title": "Puthite",
     "media_type": "Text",
-    "index_reference": "putiel",
+    "index_reference": "puthite",
     "language": "eng",
-    "content": "<h1>PUTIEL</h1><p>The father of Eleazer’s wife and the grandfather of Phinehas (<a href=\"https://ref.ly/Exod6:25\">Exodus 6:25</a>).</p>",
+    "content": "<h1>PUTHITE</h1><p>Family of Judah’s tribe from Kiriath-jearim mentioned only in <a href=\"https://ref.ly/1Chr2:53\">1&nbsp;Chronicles 2:53</a>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02006025",
-          "start_ref_usfm": "EXO 6:25",
-          "end_ref": "02006025",
-          "end_ref_usfm": "EXO 6:25"
+          "start_ref": "13002053",
+          "start_ref_usfm": "1CH 2:53",
+          "end_ref": "13002053",
+          "end_ref_usfm": "1CH 2:53"
         }
       ],
       "resource": []

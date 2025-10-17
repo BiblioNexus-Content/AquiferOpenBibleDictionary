@@ -1,61 +1,109 @@
 [
   {
-    "content_id": 759838,
-    "reference_id": 5344,
-    "title": "Jaza",
+    "content_id": 717104,
+    "reference_id": 5292,
+    "title": "Isar",
     "media_type": "Text",
-    "index_reference": "jaza",
+    "index_reference": "isar",
     "language": "por",
-    "content": "<h1>JAZA</h1><p>Cidade a leste do Mar Morto (na Jordânia moderna) onde os israelitas derrotaram Seom, rei dos amorreus, quando ele se recusou a permitir que passassem por sua terra (<a href=\"https://ref.ly/Num21:23\">Nm 21.23</a>; <a href=\"https://ref.ly/Deut2:32\">Dt 2.32</a>; <a href=\"https://ref.ly/Judg11:20\">Jz 11.20</a>). De acordo com <a href=\"https://ref.ly/Josh13:18\">Josué 13.18</a>, Moisés deu a cidade à tribo de Rúben como parte de sua herança. A cidade com suas pastagens circundantes foi dada aos levitas meraritas (<a href=\"https://ref.ly/Josh21:36\">Js 21.36</a>; <a href=\"https://ref.ly/1Chr6:78\">1Cr 6.78</a>).</p><p>Em tempos posteriores, em oráculos proféticos tanto por Isaías (<a href=\"https://ref.ly/Isa15:4\">Is 15.4</a>) quanto por Jeremias (<a href=\"https://ref.ly/Jer48:21\">Jr 48.21</a>), ela é mencionada como uma cidade na terra de Moabe. Isso pode indicar que foi tomada de Israel por Moabe (a quem aparentemente pertencia antes que Seom a conquistasse). A cidade é mencionada na Pedra Moabita (conhecida como Estela de Dibom e datada de c. 845 a.C.) como o lugar onde Messa, rei de Moabe, havia vivido enquanto estava em guerra com Israel. Segundo Messa, ele tomou Jaza de Israel e a adicionou ao seu próprio território.</p>",
+    "content": "<h1>ISAR</h1><ol><li><p>Um dos filhos de Coate da tribo de Levi (<a href=\"https://ref.ly/Exod6:18,Exod6:21\">Êx 6.18,21</a>; <a href=\"https://ref.ly/Num3:19\">Nm 3.19</a>; <a href=\"https://ref.ly/Num16:1\">16.1</a>; <a href=\"https://ref.ly/1Chr6:2,1Chr6:18,1Chr6:38\">1Cr 6.2,18,38</a>; <a href=\"https://ref.ly/1Chr23:12,1Chr23:18\">23.12,18</a>). Ele foi o pai da família Isarita (<a href=\"https://ref.ly/Num3:27\">Nm 3.27</a>; <a href=\"https://ref.ly/1Chr24:22\">1Cr 24.22</a>; <a href=\"https://ref.ly/1Chr26:23,1Chr26:29\">26.23,29</a>). Ele também é chamado de Aminadabe em <a href=\"https://ref.ly/1Chr6:22\">1Cr 6.22</a>. Um dos filhos de Isar foi Corá, que liderou a rebelião contra Moisés e Arão (<a href=\"https://ref.ly/Num16:1-Num16:11\">Nm 16.1–11</a>).</p></li><li><p>Filho de Helá da tribo de Judá (<a href=\"https://ref.ly/1Chr4:7\">1Cr 4.7</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04021023",
-          "start_ref_usfm": "NUM 21:23",
-          "end_ref": "04021023",
-          "end_ref_usfm": "NUM 21:23"
+          "start_ref": "02006018",
+          "start_ref_usfm": "EXO 6:18",
+          "end_ref": "02006018",
+          "end_ref_usfm": "EXO 6:18"
         },
         {
-          "start_ref": "05002032",
-          "start_ref_usfm": "DEU 2:32",
-          "end_ref": "05002032",
-          "end_ref_usfm": "DEU 2:32"
+          "start_ref": "02006021",
+          "start_ref_usfm": "EXO 6:21",
+          "end_ref": "02006021",
+          "end_ref_usfm": "EXO 6:21"
         },
         {
-          "start_ref": "06013018",
-          "start_ref_usfm": "JOS 13:18",
-          "end_ref": "06013018",
-          "end_ref_usfm": "JOS 13:18"
+          "start_ref": "04003019",
+          "start_ref_usfm": "NUM 3:19",
+          "end_ref": "04003019",
+          "end_ref_usfm": "NUM 3:19"
         },
         {
-          "start_ref": "06021036",
-          "start_ref_usfm": "JOS 21:36",
-          "end_ref": "06021036",
-          "end_ref_usfm": "JOS 21:36"
+          "start_ref": "04003027",
+          "start_ref_usfm": "NUM 3:27",
+          "end_ref": "04003027",
+          "end_ref_usfm": "NUM 3:27"
         },
         {
-          "start_ref": "07011020",
-          "start_ref_usfm": "JDG 11:20",
-          "end_ref": "07011020",
-          "end_ref_usfm": "JDG 11:20"
+          "start_ref": "04016001",
+          "start_ref_usfm": "NUM 16:1",
+          "end_ref": "04016001",
+          "end_ref_usfm": "NUM 16:1"
         },
         {
-          "start_ref": "13006078",
-          "start_ref_usfm": "1CH 6:78",
-          "end_ref": "13006078",
-          "end_ref_usfm": "1CH 6:78"
+          "start_ref": "13004007",
+          "start_ref_usfm": "1CH 4:7",
+          "end_ref": "13004007",
+          "end_ref_usfm": "1CH 4:7"
         },
         {
-          "start_ref": "23015004",
-          "start_ref_usfm": "ISA 15:4",
-          "end_ref": "23015004",
-          "end_ref_usfm": "ISA 15:4"
+          "start_ref": "13006002",
+          "start_ref_usfm": "1CH 6:2",
+          "end_ref": "13006002",
+          "end_ref_usfm": "1CH 6:2"
         },
         {
-          "start_ref": "24048021",
-          "start_ref_usfm": "JER 48:21",
-          "end_ref": "24048021",
-          "end_ref_usfm": "JER 48:21"
+          "start_ref": "13006018",
+          "start_ref_usfm": "1CH 6:18",
+          "end_ref": "13006018",
+          "end_ref_usfm": "1CH 6:18"
+        },
+        {
+          "start_ref": "13006022",
+          "start_ref_usfm": "1CH 6:22",
+          "end_ref": "13006022",
+          "end_ref_usfm": "1CH 6:22"
+        },
+        {
+          "start_ref": "13006038",
+          "start_ref_usfm": "1CH 6:38",
+          "end_ref": "13006038",
+          "end_ref_usfm": "1CH 6:38"
+        },
+        {
+          "start_ref": "13023012",
+          "start_ref_usfm": "1CH 23:12",
+          "end_ref": "13023012",
+          "end_ref_usfm": "1CH 23:12"
+        },
+        {
+          "start_ref": "13023018",
+          "start_ref_usfm": "1CH 23:18",
+          "end_ref": "13023018",
+          "end_ref_usfm": "1CH 23:18"
+        },
+        {
+          "start_ref": "13024022",
+          "start_ref_usfm": "1CH 24:22",
+          "end_ref": "13024022",
+          "end_ref_usfm": "1CH 24:22"
+        },
+        {
+          "start_ref": "13026023",
+          "start_ref_usfm": "1CH 26:23",
+          "end_ref": "13026023",
+          "end_ref_usfm": "1CH 26:23"
+        },
+        {
+          "start_ref": "13026029",
+          "start_ref_usfm": "1CH 26:29",
+          "end_ref": "13026029",
+          "end_ref_usfm": "1CH 26:29"
+        },
+        {
+          "start_ref": "04016001",
+          "start_ref_usfm": "NUM 16:1",
+          "end_ref": "04016011",
+          "end_ref_usfm": "NUM 16:11"
         }
       ],
       "resource": []

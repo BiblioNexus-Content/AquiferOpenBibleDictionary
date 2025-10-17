@@ -1,28 +1,49 @@
 [
   {
-    "content_id": 682998,
-    "reference_id": 5700,
-    "title": "Quedorlaomer",
+    "content_id": 717238,
+    "reference_id": 6958,
+    "title": "Potífera",
     "media_type": "Text",
-    "index_reference": "quedorlaomer",
+    "index_reference": "potífera",
     "language": "por",
-    "content": "<h1>QUEDORLAOMER</h1><p>Rei de Elão que participou com outros três reis em uma campanha contra cinco cidades perto do extremo sul da planície do Mar Morto (<a href=\"https://ref.ly/Gen14:1-Gen14:24\">Gn 14</a>). Embora Quedorlaomer seja inicialmente o terceiro na lista (v. <a href=\"https://ref.ly/Gen14:1\">1</a>), ele era evidentemente o líder dos quatro reis. Em outras partes do capítulo, seu nome vem primeiro ou aparece sozinho.</p><p>Por 12 anos, as cinco cidades da planície foram vassalas de Quedorlaomer. No 13º ano, as cidades se rebelaram, e no ano seguinte Quedorlaomer recrutou aliados para reafirmar seu domínio. Os reis vitoriosos saquearam as cidades e fizeram prisioneiros. Como Ló, sobrinho do patriarca Abrão, estava entre os cativos, Abrão reuniu seus servos e aliados e perseguiu Quedorlaomer até Damasco. Quedorlaomer foi derrotado, e o saque e os prisioneiros capturados foram resgatados.</p><p>A primeira metade do nome Quedorlaomer é uma palavra comum em elamita que significa &quot;servo&quot;. A segunda metade é provavelmente o nome de uma divindade elamita. Embora ambos os elementos do nome sejam conhecidos fora da Bíblia, a combinação não é. No entanto, ela se alinha com uma data do início do segundo milênio a.C. para o evento, coincidindo com o relato bíblico.</p>",
+    "content": "<h1>POTÍFERA</h1><p>Sacerdote de Om, cuja filha, Asenate, foi dada a José como esposa pelo Faraó (<a href=\"https://ref.ly/Gen41:45,Gen41:50\">Gn 41.45,50</a>; <a href=\"https://ref.ly/Gen46:20\">46.20</a>). Om (ou Heliópolis) era o centro do culto ao deus-sol, e Potífera provavelmente era um sacerdote de alto escalão nesse culto. Seu nome, que significa &quot;aquele a quem Rá [o deus-sol] deu&quot;, não aparece nos registros egípcios até o décimo século a.C., um fato utilizado por aqueles que preferem uma data tardia para o livro de Gênesis. No entanto, o nome é conhecido desde o século 15 (a época de Moisés), e sua forma completa pode ser uma modernização de um nome comum na era de José (século 20 a.C.).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4122\" data-resourceType=\"TyndaleBibleDictionary\">Egito, Egípcio</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5617\" data-resourceType=\"TyndaleBibleDictionary\">José #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014001",
-          "start_ref_usfm": "GEN 14:1",
-          "end_ref": "01014001",
-          "end_ref_usfm": "GEN 14:1"
+          "start_ref": "01041045",
+          "start_ref_usfm": "GEN 41:45",
+          "end_ref": "01041045",
+          "end_ref_usfm": "GEN 41:45"
         },
         {
-          "start_ref": "01014001",
-          "start_ref_usfm": "GEN 14:1",
-          "end_ref": "01014024",
-          "end_ref_usfm": "GEN 14:24"
+          "start_ref": "01041050",
+          "start_ref_usfm": "GEN 41:50",
+          "end_ref": "01041050",
+          "end_ref_usfm": "GEN 41:50"
+        },
+        {
+          "start_ref": "01046020",
+          "start_ref_usfm": "GEN 46:20",
+          "end_ref": "01046020",
+          "end_ref_usfm": "GEN 46:20"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4122,
+          "content_id": 717005,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Egito, egípcio",
+          "language": "por"
+        },
+        {
+          "reference_id": 5617,
+          "content_id": 125284,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "José",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

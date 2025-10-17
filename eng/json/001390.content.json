@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 4639,
-    "reference_id": 3807,
-    "title": "Consul",
+    "content_id": 4638,
+    "reference_id": 3806,
+    "title": "Constellation",
     "media_type": "Text",
-    "index_reference": "consul",
+    "index_reference": "constellation",
     "language": "eng",
-    "content": "<h1>CONSUL*</h1><p>Title of the two highest civil and military magistrates of Rome in the time of the Republic. The consuls functioned as the heads of state, commanding the army and governing with the Senate. They also had certain judicial functions. Ordinarily a consul was appointed to a one-year term. A letter from the consul Lucius Calpurnius Piso (consul, 140–139 BC) to Ptolemy VII Physcon (reigned 145–116 BC) of Egypt is&nbsp;mentioned in <a href=\"https://ref.ly/1Macc15:16\">1&nbsp;Maccabees 15:16</a>.</p>",
+    "content": "<h1>CONSTELLATION</h1><p>Certain number of stars in the sky, arbitrarily chosen as a group and named for an object, animal, or person that the outline of the group is said to resemble. A number of constellations are mentioned in the Bible.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3014\" data-resourceType=\"TyndaleBibleDictionary\">Astronomy</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "78015016",
-          "start_ref_usfm": "1MA 15:16",
-          "end_ref": "78015016",
-          "end_ref_usfm": "1MA 15:16"
+          "reference_id": 3014,
+          "content_id": 3846,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Astronomy",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

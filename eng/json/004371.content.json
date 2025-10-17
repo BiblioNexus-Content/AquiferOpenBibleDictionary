@@ -1,19 +1,31 @@
 [
   {
-    "content_id": 7630,
-    "reference_id": 6798,
-    "title": "Pelaliah",
+    "content_id": 7629,
+    "reference_id": 6797,
+    "title": "Pelaiah",
     "media_type": "Text",
-    "index_reference": "pelaliah",
+    "index_reference": "pelaiah",
     "language": "eng",
-    "content": "<h1>PELALIAH</h1><p>Forefather of Adaiah, a priest living in Jerusalem during Ezra’s day (<a href=\"https://ref.ly/Neh11:12\">Neh 11:12</a>).</p>",
+    "content": "<h1>PELAIAH</h1><p>1. Elioenai’s son and a remote descendant of David (<a href=\"https://ref.ly/1Chr3:24\">1&nbsp;Chr 3:24</a>).</p><p>2. Levite who helped Ezra explain (or translate) the Law to the people after it was read to them (<a href=\"https://ref.ly/Neh8:7\">Neh 8:7</a>; <a href=\"https://ref.ly/Neh10:10\">10:10</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16011012",
-          "start_ref_usfm": "NEH 11:12",
-          "end_ref": "16011012",
-          "end_ref_usfm": "NEH 11:12"
+          "start_ref": "13003024",
+          "start_ref_usfm": "1CH 3:24",
+          "end_ref": "13003024",
+          "end_ref_usfm": "1CH 3:24"
+        },
+        {
+          "start_ref": "16008007",
+          "start_ref_usfm": "NEH 8:7",
+          "end_ref": "16008007",
+          "end_ref_usfm": "NEH 8:7"
+        },
+        {
+          "start_ref": "16010010",
+          "start_ref_usfm": "NEH 10:10",
+          "end_ref": "16010010",
+          "end_ref_usfm": "NEH 10:10"
         }
       ],
       "resource": []

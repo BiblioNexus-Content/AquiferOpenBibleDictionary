@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 6077,
-    "reference_id": 5245,
-    "title": "Ishod",
+    "content_id": 6076,
+    "reference_id": 5244,
+    "title": "Ishmerai",
     "media_type": "Text",
-    "index_reference": "ishod",
+    "index_reference": "ishmerai",
     "language": "eng",
-    "content": "<h1>ISHOD*</h1><p>KJV spelling of Ishhod, Hammoleketh’s son (<a href=\"https://ref.ly/1Chr7:18\">1&nbsp;Chr 7:18</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5235\" data-resourceType=\"TyndaleBibleDictionary\">Ishhod</span>.</p>",
+    "content": "<h1>ISHMERAI</h1><p>Elpaal’s son and a chief in Benjamin’s tribe (<a href=\"https://ref.ly/1Chr8:18\">1&nbsp;Chr 8:18</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13007018",
-          "start_ref_usfm": "1CH 7:18",
-          "end_ref": "13007018",
-          "end_ref_usfm": "1CH 7:18"
+          "start_ref": "13008018",
+          "start_ref_usfm": "1CH 8:18",
+          "end_ref": "13008018",
+          "end_ref_usfm": "1CH 8:18"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5235,
-          "content_id": 6067,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Ishhod",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

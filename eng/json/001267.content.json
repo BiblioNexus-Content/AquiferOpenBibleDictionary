@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4520,
-    "reference_id": 3688,
-    "title": "Chief Priest",
+    "content_id": 4519,
+    "reference_id": 3687,
+    "title": "Chidon",
     "media_type": "Text",
-    "index_reference": "chief priest",
+    "index_reference": "chidon",
     "language": "eng",
-    "content": "<h1>CHIEF PRIEST</h1><p>The chief priest was the highest leader among the priests and Levites in ancient Israel.</p><p>Only the chief priest could enter the most holy place in the temple. He did this once a year to make atonement (a special sacrifice to cover sins) for the whole nation of Israel. This happened on the Day of Atonement.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6984\" data-resourceType=\"TyndaleBibleDictionary\">Priests and Levites</span>.</p>",
+    "content": "<h1>CHIDON</h1><p>The threshing floor where God struck down Huzzah as he attempted to steady the ark of the covenant (<a href=\"https://ref.ly/1Chr13:9\">1&nbsp;Chronicles 13:9</a>). The parallel passage in <a href=\"https://ref.ly/2Sam6:6\">2&nbsp;Samuel 6:6</a> refers to this place as “the threshing floor of Nacon.” Following the death of Uzzah, King David renamed the place, &quot;Perez-uzzah.&quot; This means either “the breach of Uzzah” or “the outbreak against Uzzah” (<a href=\"https://ref.ly/2Sam6:8\">2&nbsp;Samuel 6:8</a>; <a href=\"https://ref.ly/1Chr13:11\">1&nbsp;Chronicles 13:11</a>).</p><p></p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 6984,
-          "content_id": 7816,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Priests and Levites",
+          "reference_id": 5744,
+          "content_id": 6576,
+          "resource_code": "Unknown",
+          "label": "Kidon",
           "language": "eng"
         }
       ]

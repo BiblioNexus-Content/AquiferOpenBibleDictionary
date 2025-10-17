@@ -1,28 +1,49 @@
 [
   {
-    "content_id": 4903,
-    "reference_id": 4071,
-    "title": "Dumah (Person)",
+    "content_id": 4902,
+    "reference_id": 4070,
+    "title": "Dulcimer",
     "media_type": "Text",
-    "index_reference": "dumah (person)",
+    "index_reference": "dulcimer",
     "language": "eng",
-    "content": "<h1>DUMAH (Person)</h1><p>Ishmael’s son, who founded an Arab tribe (<a href=\"https://ref.ly/Gen25:14\">Gn 25:14</a>; <a href=\"https://ref.ly/1Chr1:30\">1&nbsp;Chr 1:30</a>).</p>",
+    "content": "<h1>DULCIMER</h1><p>Dulcimer is the King James Version translation of &quot;pipe&quot; in <a href=\"https://ref.ly/Dan3:5,Dan3:10,Dan3:15\">Daniel 3:5, 10, 15</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6414\" data-resourceType=\"TyndaleBibleDictionary\">Musical Instruments (Psantrin)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Music</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01025014",
-          "start_ref_usfm": "GEN 25:14",
-          "end_ref": "01025014",
-          "end_ref_usfm": "GEN 25:14"
+          "start_ref": "27003005",
+          "start_ref_usfm": "DAN 3:5",
+          "end_ref": "27003005",
+          "end_ref_usfm": "DAN 3:5"
         },
         {
-          "start_ref": "13001030",
-          "start_ref_usfm": "1CH 1:30",
-          "end_ref": "13001030",
-          "end_ref_usfm": "1CH 1:30"
+          "start_ref": "27003010",
+          "start_ref_usfm": "DAN 3:10",
+          "end_ref": "27003010",
+          "end_ref_usfm": "DAN 3:10"
+        },
+        {
+          "start_ref": "27003015",
+          "start_ref_usfm": "DAN 3:15",
+          "end_ref": "27003015",
+          "end_ref_usfm": "DAN 3:15"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6414,
+          "content_id": 7246,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Musical Instruments",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6416,
+          "content_id": 7248,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Music",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

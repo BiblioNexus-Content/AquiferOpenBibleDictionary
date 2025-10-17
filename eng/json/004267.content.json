@@ -1,34 +1,20 @@
 [
   {
-    "content_id": 7525,
-    "reference_id": 6693,
-    "title": "Osnapper",
+    "content_id": 7524,
+    "reference_id": 6692,
+    "title": "Osiris",
     "media_type": "Text",
-    "index_reference": "osnapper",
+    "index_reference": "osiris",
     "language": "eng",
-    "content": "<h1>OSNAPPER*</h1><p>Aramaic name for the Assyrian king Ashurbanipal (<a href=\"https://ref.ly/Ezra4:10\">Ezr 4:10</a>, nlt mg). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2980\" data-resourceType=\"TyndaleBibleDictionary\">Ashurbanipal</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3009\" data-resourceType=\"TyndaleBibleDictionary\">Assyria, Assyrians</span>.</p>",
+    "content": "<h1>OSIRIS*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4122\" data-resourceType=\"TyndaleBibleDictionary\">Egypt, Egyptian</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "15004010",
-          "start_ref_usfm": "EZR 4:10",
-          "end_ref": "15004010",
-          "end_ref_usfm": "EZR 4:10"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 2980,
-          "content_id": 3812,
+          "reference_id": 4122,
+          "content_id": 4954,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ashurbanipal",
-          "language": "eng"
-        },
-        {
-          "reference_id": 3009,
-          "content_id": 3841,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Assyria, Assyrians",
+          "label": "Egypt, Egyptian",
           "language": "eng"
         }
       ]

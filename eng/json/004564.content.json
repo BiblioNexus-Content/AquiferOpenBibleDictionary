@@ -1,53 +1,47 @@
 [
   {
-    "content_id": 7828,
-    "reference_id": 6996,
-    "title": "Procurator",
+    "content_id": 7827,
+    "reference_id": 6995,
+    "title": "Proconsul",
     "media_type": "Text",
-    "index_reference": "procurator",
+    "index_reference": "proconsul",
     "language": "eng",
-    "content": "<h1>PROCURATOR</h1><p>A procurator was a financial officer of Rome. Many modern translations use the term &quot;governor.&quot; was usually from the equestrian rank (upper middle class of Roman society). The procurator&apos;s job included overseeing and collecting imperial taxes in an assigned province. In Judea and other smaller provinces of the Roman Empire, the procurator sometimes acted as the governor of that region.</p><p>A procurator not only managed finances but also had judicial and military authority. His main responsibility was keeping peace in his jurisdiction. The New Testament&nbsp;mentions three Roman procurators:</p><ul><li><p>Pontius Pilate was procurator from AD 26–36 (see <a href=\"https://ref.ly/Matt27:1-Matt27:66\">Matthew&nbsp;27</a>; <a href=\"https://ref.ly/John18:1-John19:42\">John 18–19</a>).</p></li><li><p>Antonius Felix was procurator from AD 52–59 (see <a href=\"https://ref.ly/Acts23:24-Acts25:14\">Acts 23:24–25:14</a>). </p></li><li><p>Porcius Festus was procurator from AD 59–62 (see <a href=\"https://ref.ly/Acts24:27-Acts26:32\">Acts 24:27–26:32</a>) .</p></li></ul><p>These administrators were accountable and subordinate to the governor of Syria.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4417\" data-resourceType=\"TyndaleBibleDictionary\">Felix, Antonius</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4422\" data-resourceType=\"TyndaleBibleDictionary\">Festus, Porcius</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6902\" data-resourceType=\"TyndaleBibleDictionary\">Pilate, Pontius</span>.</p>",
+    "content": "<h1>PROCONSUL</h1><p>A proconsul was a governor chosen by the senate of Rome to rule a province. Starting from the time of Emperor Augustus, the Roman senate chose governors to manage certain Roman senatorial provinces. These were provinces considered safe enough that they did not need an army stationed there.</p><p>Proconsuls served for one year. They served between the time when they were a <em>praetor</em> (a lower government official) and when they became a consul of Rome (a higher position). Proconsuls were different from procurators, who were chosen by the emperor to rule imperial provinces for no set time period. </p><p>We meet two proconsuls in the book of Acts: </p><ul><li><p>Sergius Paulus of Cyprus (<a href=\"https://ref.ly/Acts13:7-Acts13:12\">Acts 13:7–12</a>), and </p></li><li><p>Gallio of Achaia (<a href=\"https://ref.ly/Acts18:12-Acts18:17\">18:12–17</a>).</p></li></ul><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4525\" data-resourceType=\"TyndaleBibleDictionary\">Gallio</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4524\" data-resourceType=\"TyndaleBibleDictionary\">Gallio Inscription</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7405\" data-resourceType=\"TyndaleBibleDictionary\">Sergius Paulus</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "43018001",
-          "start_ref_usfm": "JHN 18:1",
-          "end_ref": "43019042",
-          "end_ref_usfm": "JHN 19:42"
+          "start_ref": "44018012",
+          "start_ref_usfm": "ACT 18:12",
+          "end_ref": "44018017",
+          "end_ref_usfm": "ACT 18:17"
         },
         {
-          "start_ref": "44023024",
-          "start_ref_usfm": "ACT 23:24",
-          "end_ref": "44025014",
-          "end_ref_usfm": "ACT 25:14"
-        },
-        {
-          "start_ref": "44024027",
-          "start_ref_usfm": "ACT 24:27",
-          "end_ref": "44026032",
-          "end_ref_usfm": "ACT 26:32"
+          "start_ref": "44013007",
+          "start_ref_usfm": "ACT 13:7",
+          "end_ref": "44013012",
+          "end_ref_usfm": "ACT 13:12"
         }
       ],
       "resource": [
         {
-          "reference_id": 4417,
-          "content_id": 5249,
+          "reference_id": 4524,
+          "content_id": 5356,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Felix, Antonius",
+          "label": "Gallio Inscription",
           "language": "eng"
         },
         {
-          "reference_id": 4422,
-          "content_id": 5254,
+          "reference_id": 4525,
+          "content_id": 5357,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Festus, Porcius",
+          "label": "Gallio",
           "language": "eng"
         },
         {
-          "reference_id": 6902,
-          "content_id": 7734,
+          "reference_id": 7405,
+          "content_id": 8237,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Pilate, Pontius",
+          "label": "Sergius Paulus",
           "language": "eng"
         }
       ]

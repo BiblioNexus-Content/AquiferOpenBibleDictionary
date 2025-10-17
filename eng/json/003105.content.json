@@ -1,34 +1,48 @@
 [
   {
-    "content_id": 6362,
-    "reference_id": 5530,
-    "title": "Jeuel",
+    "content_id": 6361,
+    "reference_id": 5529,
+    "title": "Jetur, Jeturites",
     "media_type": "Text",
-    "index_reference": "jeuel",
+    "index_reference": "jetur, jeturites",
     "language": "eng",
-    "content": "<h1>JEUEL</h1><p>1. Descendant of Judah residing in postexilic Jerusalem (<a href=\"https://ref.ly/1Chr9:6\">1&nbsp;Chr 9:6</a>).</p><p>2. Levite who took part in Hezekiah’s reforms (<a href=\"https://ref.ly/2Chr29:13\">2&nbsp;Chr 29:13</a>).</p><p>3. Head of a family who returned to Jerusalem with Ezra after the exile (<a href=\"https://ref.ly/Ezra8:13\">Ezr 8:13</a>).</p>",
+    "content": "<h1>JETUR, JETURITES</h1><p>Son of Ishmael and his descendants (<a href=\"https://ref.ly/Gen25:15\">Genesis 25:15</a>; <a href=\"https://ref.ly/1Chr1:31\">1&nbsp;Chronicles 1:31</a>). </p><p>The Israelite tribes who settled east of the Jordan had to fight them (<a href=\"https://ref.ly/1Chr5:19\">1&nbsp;Chronicles 5:19</a>). They are also called Itureans. The Jeturites continued to live into the New Testament times. The region of Iturea was named after them. It was an area northeast of Galilee (<a href=\"https://ref.ly/Luke3:1\">Luke 3:1</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5285\" data-resourceType=\"TyndaleBibleDictionary\">Ituraea, Iturea, Itureans</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13009006",
-          "start_ref_usfm": "1CH 9:6",
-          "end_ref": "13009006",
-          "end_ref_usfm": "1CH 9:6"
+          "start_ref": "01025015",
+          "start_ref_usfm": "GEN 25:15",
+          "end_ref": "01025015",
+          "end_ref_usfm": "GEN 25:15"
         },
         {
-          "start_ref": "14029013",
-          "start_ref_usfm": "2CH 29:13",
-          "end_ref": "14029013",
-          "end_ref_usfm": "2CH 29:13"
+          "start_ref": "13001031",
+          "start_ref_usfm": "1CH 1:31",
+          "end_ref": "13001031",
+          "end_ref_usfm": "1CH 1:31"
         },
         {
-          "start_ref": "15008013",
-          "start_ref_usfm": "EZR 8:13",
-          "end_ref": "15008013",
-          "end_ref_usfm": "EZR 8:13"
+          "start_ref": "13005019",
+          "start_ref_usfm": "1CH 5:19",
+          "end_ref": "13005019",
+          "end_ref_usfm": "1CH 5:19"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5285,
+          "content_id": 6117,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Ituraea, Iturea, Itureans",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

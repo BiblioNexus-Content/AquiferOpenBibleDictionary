@@ -1,35 +1,28 @@
 [
   {
-    "content_id": 717047,
-    "reference_id": 4633,
-    "title": "GILEADE, Bálsamo de",
+    "content_id": 717041,
+    "reference_id": 4519,
+    "title": "Gálbano",
     "media_type": "Text",
-    "index_reference": "gileade, bálsamo de",
+    "index_reference": "gálbano",
     "language": "por",
-    "content": "<h1>Gileade*, Bálsamo de</h1><p>Substância de identificação incerta e uma das várias resinas usadas no Oriente Próximo para fins medicinais. Não crescia em Gileade, mas pode ter recebido seu nome por ser exportada para o Egito e Fenícia a partir de Gileade (<a href=\"https://ref.ly/Gen37:25\">Gn 37.25</a>; <a href=\"https://ref.ly/Ezek27:17\">Ez 27.17</a>). A substância supostamente possuía qualidades adstringentes, antissépticas e outras terapêuticas.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6179\" data-resourceType=\"TyndaleBibleDictionary\">Medicina e prática médica</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas (bálsamo)</span>.</p>",
+    "content": "<h1>Gálbano</h1><p>O gálbano é um material que vem de uma planta da mesma família que a cenoura e a salsa. Foi um dos ingredientes usados para fazer um perfume especial para o tabernáculo (<a href=\"https://ref.ly/Exod30:34\">Êx 30.34</a>).</p><p>A planta galbano é alta e cresce naturalmente na Síria e na Pérsia (atual Irã). Ela possui pequenas flores esbranquiçadas esverdeadas e frutos que crescem em cachos no topo do caule. Suas folhas são divididas em muitas pequenas partes, semelhantes às folhas de salsa ou cenoura.</p><p>Para coletar o gálbano, as pessoas cortam o caule próximo ao solo. Isso faz com que a planta libere um líquido leitoso que endurece em uma substância cerosa e marrom. Atualmente, o gálbano é utilizado para fazer verniz, um revestimento transparente que protege madeira e outros materiais.</p><p>O gálbano também é mencionado no livro de Eclesiástico. <a href=\"https://ref.ly/Sir24:15\">Eclesiastes 24.15</a> descreve o gálbano como tendo um cheiro agradável. Embora o gálbano sozinho não tenha um cheiro muito bom, quando misturado com outros ingredientes, ajudava a criar um óleo de aroma doce.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01037025",
-          "start_ref_usfm": "GEN 37:25",
-          "end_ref": "01037025",
-          "end_ref_usfm": "GEN 37:25"
+          "start_ref": "02030034",
+          "start_ref_usfm": "EXO 30:34",
+          "end_ref": "02030034",
+          "end_ref_usfm": "EXO 30:34"
         },
         {
-          "start_ref": "26027017",
-          "start_ref_usfm": "EZK 27:17",
-          "end_ref": "26027017",
-          "end_ref_usfm": "EZK 27:17"
+          "start_ref": "72024015",
+          "start_ref_usfm": "SIR 24:15",
+          "end_ref": "72024015",
+          "end_ref_usfm": "SIR 24:15"
         }
       ],
       "resource": [
-        {
-          "reference_id": 6179,
-          "content_id": 161846,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Medicina E Prática Médica",
-          "language": "por"
-        },
         {
           "reference_id": 6929,
           "content_id": 125318,

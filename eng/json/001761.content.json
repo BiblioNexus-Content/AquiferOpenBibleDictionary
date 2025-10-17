@@ -1,31 +1,25 @@
 [
   {
-    "content_id": 5014,
-    "reference_id": 4182,
-    "title": "Elim",
+    "content_id": 5012,
+    "reference_id": 4180,
+    "title": "Elika",
     "media_type": "Text",
-    "index_reference": "elim",
+    "index_reference": "elika",
     "language": "eng",
-    "content": "<h1>ELIM</h1><p>A place where the Israelites camped after they passed through the Red Sea (<a href=\"https://ref.ly/Exod15:27\">Exodus 15:27</a>; <a href=\"https://ref.ly/Exod16:1\">16:1</a>). Elim was between Marah and the desert of Sin. It had 12 springs of water and 70 palm trees (<a href=\"https://ref.ly/Num33:9-Num33:10\">Numbers 33:9–10</a>).</p><p>Most scholars identify Elim with Wadi Gharandel, which is 101.4 kilometers (63 miles) from Suez. At this wadi, the vegetation consists of palm trees, tamarisks, and acacias. But if Mount Sinai is located in Arabia, Elim would be much closer to the Gulf of Aqaba.</p>",
+    "content": "<h1>ELIKA</h1><p>A Harodite, who was one of the mighty men of King David (<a href=\"https://ref.ly/2Sam23:25\">2&nbsp;Samuel 23:25</a>). Elika&apos;s name does not appear in a similar list found in <a href=\"https://ref.ly/1Chr11:27\">1&nbsp;Chronicles 11:27</a>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02015027",
-          "start_ref_usfm": "EXO 15:27",
-          "end_ref": "02015027",
-          "end_ref_usfm": "EXO 15:27"
+          "start_ref": "10023025",
+          "start_ref_usfm": "2SA 23:25",
+          "end_ref": "10023025",
+          "end_ref_usfm": "2SA 23:25"
         },
         {
-          "start_ref": "02016001",
-          "start_ref_usfm": "EXO 16:1",
-          "end_ref": "02016001",
-          "end_ref_usfm": "EXO 16:1"
-        },
-        {
-          "start_ref": "04033009",
-          "start_ref_usfm": "NUM 33:9",
-          "end_ref": "04033010",
-          "end_ref_usfm": "NUM 33:10"
+          "start_ref": "13011027",
+          "start_ref_usfm": "1CH 11:27",
+          "end_ref": "13011027",
+          "end_ref_usfm": "1CH 11:27"
         }
       ],
       "resource": []

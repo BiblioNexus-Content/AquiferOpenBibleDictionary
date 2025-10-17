@@ -1,58 +1,49 @@
 [
   {
-    "content_id": 6762,
-    "reference_id": 5930,
-    "title": "Liver",
+    "content_id": 787494,
+    "reference_id": 212864,
+    "title": "Little Owl",
     "media_type": "Text",
-    "index_reference": "liver",
+    "index_reference": "little owl",
     "language": "eng",
-    "content": "<h1>LIVER</h1><p>A large organ in the abdomen that performs many functions necessary for life. The writer of Proverbs knew how important the liver was for life when he wrote that an arrow wound to the liver would cause death (<a href=\"https://ref.ly/Prov7:23\">Proverbs 7:23</a>). In the Bible, the liver is most often mentioned when describing animal sacrifices (<a href=\"https://ref.ly/Exod29:13,Exod29:22\">Exodus 29:13, 22</a>; <a href=\"https://ref.ly/Lev3:4,Lev3:10,Lev3:15\">Leviticus 3:4, 10, 15</a>).</p><p>In ancient Babylon, sheep liver was sometimes used for fortune-telling. Each tiny detail of the liver was examined for omens. Archaeologists have recovered bronze and baked-clay models of sheep livers. They date to the 16th century BC. Evidently this is the use of the liver made by the king of Babylon in <a href=\"https://ref.ly/Ezek21:21\">Ezekiel 21:21</a>. This use of the sheep liver was popular until the Greeks. It rivaled astrology for many centuries.</p>",
+    "content": "<h1>LITTLE OWL</h1><p>The little owl (<em>Athene noctua glaux</em>) is the smallest owl that hunts at night. It mostly eats insects but sometimes catches small birds. It is the most common owl in the Holy Land.</p><p>The little owl often lives in quiet places like ruins, rocks, thickets (bushy areas), and around tombs. Some people think it might be the owl mentioned in <a href=\"https://ref.ly/Ps102:6\">Psalm 102:6</a>.</p><p>Its call sounds like a person moaning or crying in pain. People in the past saw the little owl as wise, especially because it often sits still and stares into the distance. The ancient Greeks linked this owl with the goddess Athena.</p><p>Some Bible translations mention the little owl by name in the lists of unclean birds (<a href=\"https://ref.ly/Lev11:17\">Leviticus 11:17</a>; <a href=\"https://ref.ly/Deut14:16\">Deuteronomy 14:16</a>).</p><p><em>See also </em><span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Birds</span>;<em> </em><span data-bnType=\"resourceReference\" data-resourceId=\"6706\" data-resourceType=\"TyndaleBibleDictionary\">Owl</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02029013",
-          "start_ref_usfm": "EXO 29:13",
-          "end_ref": "02029013",
-          "end_ref_usfm": "EXO 29:13"
+          "start_ref": "03011017",
+          "start_ref_usfm": "LEV 11:17",
+          "end_ref": "03011017",
+          "end_ref_usfm": "LEV 11:17"
         },
         {
-          "start_ref": "02029022",
-          "start_ref_usfm": "EXO 29:22",
-          "end_ref": "02029022",
-          "end_ref_usfm": "EXO 29:22"
+          "start_ref": "05014016",
+          "start_ref_usfm": "DEU 14:16",
+          "end_ref": "05014016",
+          "end_ref_usfm": "DEU 14:16"
         },
         {
-          "start_ref": "03003004",
-          "start_ref_usfm": "LEV 3:4",
-          "end_ref": "03003004",
-          "end_ref_usfm": "LEV 3:4"
-        },
-        {
-          "start_ref": "03003010",
-          "start_ref_usfm": "LEV 3:10",
-          "end_ref": "03003010",
-          "end_ref_usfm": "LEV 3:10"
-        },
-        {
-          "start_ref": "03003015",
-          "start_ref_usfm": "LEV 3:15",
-          "end_ref": "03003015",
-          "end_ref_usfm": "LEV 3:15"
-        },
-        {
-          "start_ref": "20007023",
-          "start_ref_usfm": "PRO 7:23",
-          "end_ref": "20007023",
-          "end_ref_usfm": "PRO 7:23"
-        },
-        {
-          "start_ref": "26021021",
-          "start_ref_usfm": "EZK 21:21",
-          "end_ref": "26021021",
-          "end_ref_usfm": "EZK 21:21"
+          "start_ref": "19102006",
+          "start_ref_usfm": "PSA 102:6",
+          "end_ref": "19102006",
+          "end_ref_usfm": "PSA 102:6"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3418,
+          "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Birds",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6706,
+          "content_id": 7538,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Owl",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

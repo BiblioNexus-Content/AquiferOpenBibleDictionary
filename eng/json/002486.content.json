@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5743,
-    "reference_id": 4911,
-    "title": "Hazo",
+    "content_id": 5740,
+    "reference_id": 4908,
+    "title": "Haziel",
     "media_type": "Text",
-    "index_reference": "hazo",
+    "index_reference": "haziel",
     "language": "eng",
-    "content": "<h1>HAZO</h1><p>Nahor’s fifth son (<a href=\"https://ref.ly/Gen22:22\">Gn 22:22</a>); probably used as the name for a Nahorite clan. It has been identified with the name Hazu, which designated a mountainous region in northern Arabia mentioned in an inscription telling of Esarhaddon’s Arabian campaign.</p>",
+    "content": "<h1>HAZIEL</h1><p>Levite and son of Shimei during David’s time (<a href=\"https://ref.ly/1Chr23:9\">1&nbsp;Chr 23:9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01022022",
-          "start_ref_usfm": "GEN 22:22",
-          "end_ref": "01022022",
-          "end_ref_usfm": "GEN 22:22"
+          "start_ref": "13023009",
+          "start_ref_usfm": "1CH 23:9",
+          "end_ref": "13023009",
+          "end_ref_usfm": "1CH 23:9"
         }
       ],
       "resource": []

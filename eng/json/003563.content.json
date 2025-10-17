@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 6820,
-    "reference_id": 5988,
-    "title": "Maath",
+    "content_id": 6819,
+    "reference_id": 5987,
+    "title": "Maasiai",
     "media_type": "Text",
-    "index_reference": "maath",
+    "index_reference": "maasiai",
     "language": "eng",
-    "content": "<h1>MAATH</h1><p>An ancestor of Jesus mentioned in <a href=\"https://ref.ly/Luke3:26\">Luke 3:26</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4580\" data-resourceType=\"TyndaleBibleDictionary\">Ancestry of Jesus Christ</span>.</p>",
+    "content": "<h1>MAASIAI*</h1><p>KJV spelling of Maasai, a postexilic priest, in <a href=\"https://ref.ly/1Chr9:12\">1&nbsp;Chronicles 9:12</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5985\" data-resourceType=\"TyndaleBibleDictionary\">Maasai</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "42003026",
-          "start_ref_usfm": "LUK 3:26",
-          "end_ref": "42003026",
-          "end_ref_usfm": "LUK 3:26"
+          "start_ref": "13009012",
+          "start_ref_usfm": "1CH 9:12",
+          "end_ref": "13009012",
+          "end_ref_usfm": "1CH 9:12"
         }
       ],
       "resource": [
         {
-          "reference_id": 4580,
-          "content_id": 5412,
+          "reference_id": 5985,
+          "content_id": 6817,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Genealogy of Jesus Christ",
+          "label": "Maasai",
           "language": "eng"
         }
       ]

@@ -1,30 +1,34 @@
 [
   {
-    "content_id": 785226,
-    "reference_id": 6126,
-    "title": "Champ de Mars",
+    "content_id": 822886,
+    "reference_id": 3412,
+    "title": "Bilhan",
     "media_type": "Text",
-    "index_reference": "champ de mars",
+    "index_reference": "bilhan",
     "language": "fra",
-    "content": "<h1>CHAMP DE MARS</h1><p>Nom alternatif pour désigner l&apos;Aréopage. C&apos;était le nom d&apos;une petite colline située au nord-ouest de l&apos;Acropole à Athènes, en Grèce. C&apos;était aussi le nom du conseil qui s&apos;y réunissait. Le champ de Mars était le site où Paul a prononcé son célèbre discours aux philosophes athéniens (<a href=\"https://ref.ly/Acts17:16-Acts17:34\">Ac 17.16–34</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2896\" data-resourceType=\"TyndaleBibleDictionary\">Aréopage</span>.</p>",
+    "content": "<h1>BILHAN</h1><p>1. Fils aîné d&apos;<span>Étser</span> et descendant de Séir (<a href=\"https://ref.ly/Gen36:27\">Gn 36.27</a> ; <a href=\"https://ref.ly/1Chr1:42\">1Ch 1.42</a>).</p><p>2. Fils de <span>Jediaël</span> de la tribu de Benjamin (<a href=\"https://ref.ly/1Chr7:10\">1Ch 7.10</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44017016",
-          "start_ref_usfm": "ACT 17:16",
-          "end_ref": "44017034",
-          "end_ref_usfm": "ACT 17:34"
+          "start_ref": "01036027",
+          "start_ref_usfm": "GEN 36:27",
+          "end_ref": "01036027",
+          "end_ref_usfm": "GEN 36:27"
+        },
+        {
+          "start_ref": "13001042",
+          "start_ref_usfm": "1CH 1:42",
+          "end_ref": "13001042",
+          "end_ref_usfm": "1CH 1:42"
+        },
+        {
+          "start_ref": "13007010",
+          "start_ref_usfm": "1CH 7:10",
+          "end_ref": "13007010",
+          "end_ref_usfm": "1CH 7:10"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 2896,
-          "content_id": 785155,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Aréopage",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

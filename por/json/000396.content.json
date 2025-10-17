@@ -1,48 +1,70 @@
 [
   {
-    "content_id": 682963,
-    "reference_id": 5097,
-    "title": "Casa",
+    "content_id": 161790,
+    "reference_id": 3604,
+    "title": "Carpinteiro",
     "media_type": "Text",
-    "index_reference": "casa",
+    "index_reference": "carpinteiro",
     "language": "por",
-    "content": "<h1>CASA</h1><p>Pessoas que vivem no mesmo lugar e formam uma família ou família estendida. Nos tempos bíblicos, uma casa incluía pai, mãe(s), filhos, avós, escravos, concubinas e peregrinos. A casa de Jacó, por exemplo, incluía 66 pessoas, sem contar as esposas de seus filhos (<a href=\"https://ref.ly/Gen46:26\">Gn 46.26</a>). Os integrantes da casa eram vistos como responsáveis coletivamente pela honra da família (<a href=\"https://ref.ly/2Sam3:27\">2Sm 3.27</a> dá um exemplo de vingança por um membro da família). Os membros masculinos de toda a casa eram circuncidados como sinal da aliança (<a href=\"https://ref.ly/Gen17:23\">Gn 17.23</a>). Na era do NT, algumas famílias inteiras foram batizadas (<a href=\"https://ref.ly/Acts11:14\">At 11.14</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4403\" data-resourceType=\"TyndaleBibleDictionary\">Vida familiar e relações</span>.</p>",
+    "content": "<h1>CARPINTEIRO</h1><p>Aquele que trabalhava com madeira, construindo a estrutura das casas, os telhados, janelas e portas. Muitas vezes pequenas estruturas como casas eram construídas pelo proprietário. A construção de templos e palácios exigia trabalhadores qualificados. Para essas estruturas maiores, os carpinteiros trabalhavam ao lado de pedreiros, trabalhadores qualificados que sabiam como cortar e preparar pedras para construir (<a href=\"https://ref.ly/2Kgs12:11\">2Rs 12.11</a>; <a href=\"https://ref.ly/2Kgs22:6\">22.6</a>; <a href=\"https://ref.ly/1Chr14:1\">1Cr 14.1</a>; <a href=\"https://ref.ly/1Chr22:15\">22.15</a>; <a href=\"https://ref.ly/2Chr24:12\">2Cr 24.12</a>; <a href=\"https://ref.ly/2Chr34:11\">34.11</a>; <a href=\"https://ref.ly/Ezra3:7\">Ed 3.7</a>). A carpintaria é raramente mencionada no Novo Testamento, embora fosse a profissão de Jesus e seu pai José (<a href=\"https://ref.ly/Matt13:55\">Mt 13.55</a>; <a href=\"https://ref.ly/Mark6:3\">Mc 6.3</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01017023",
-          "start_ref_usfm": "GEN 17:23",
-          "end_ref": "01017023",
-          "end_ref_usfm": "GEN 17:23"
+          "start_ref": "12012011",
+          "start_ref_usfm": "2KI 12:11",
+          "end_ref": "12012011",
+          "end_ref_usfm": "2KI 12:11"
         },
         {
-          "start_ref": "01046026",
-          "start_ref_usfm": "GEN 46:26",
-          "end_ref": "01046026",
-          "end_ref_usfm": "GEN 46:26"
+          "start_ref": "12022006",
+          "start_ref_usfm": "2KI 22:6",
+          "end_ref": "12022006",
+          "end_ref_usfm": "2KI 22:6"
         },
         {
-          "start_ref": "10003027",
-          "start_ref_usfm": "2SA 3:27",
-          "end_ref": "10003027",
-          "end_ref_usfm": "2SA 3:27"
+          "start_ref": "13014001",
+          "start_ref_usfm": "1CH 14:1",
+          "end_ref": "13014001",
+          "end_ref_usfm": "1CH 14:1"
         },
         {
-          "start_ref": "44011014",
-          "start_ref_usfm": "ACT 11:14",
-          "end_ref": "44011014",
-          "end_ref_usfm": "ACT 11:14"
+          "start_ref": "13022015",
+          "start_ref_usfm": "1CH 22:15",
+          "end_ref": "13022015",
+          "end_ref_usfm": "1CH 22:15"
+        },
+        {
+          "start_ref": "14024012",
+          "start_ref_usfm": "2CH 24:12",
+          "end_ref": "14024012",
+          "end_ref_usfm": "2CH 24:12"
+        },
+        {
+          "start_ref": "14034011",
+          "start_ref_usfm": "2CH 34:11",
+          "end_ref": "14034011",
+          "end_ref_usfm": "2CH 34:11"
+        },
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "40013055",
+          "start_ref_usfm": "MAT 13:55",
+          "end_ref": "40013055",
+          "end_ref_usfm": "MAT 13:55"
+        },
+        {
+          "start_ref": "41006003",
+          "start_ref_usfm": "MRK 6:3",
+          "end_ref": "41006003",
+          "end_ref_usfm": "MRK 6:3"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4403,
-          "content_id": 124383,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Vida Familiar E Relações",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

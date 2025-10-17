@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 4876,
-    "reference_id": 4044,
-    "title": "Dodavah, Dodavahu",
+    "content_id": 4875,
+    "reference_id": 4043,
+    "title": "Dodanim",
     "media_type": "Text",
-    "index_reference": "dodavah, dodavahu",
+    "index_reference": "dodanim",
     "language": "eng",
-    "content": "<h1>DODAVAH*, DODAVAHU</h1><p>Inhabitant of Mareshah and father of Eliezer the prophet. Eliezer spoke against King Jehoshaphat of Judah because of his alliance with King Ahaziah of Israel (<a href=\"https://ref.ly/2Chr20:37\">2&nbsp;Chr 20:37</a>, kjv “Dodavah”).</p>",
+    "content": "<h1>DODANIM*</h1><p>Descendants of Noah’s son Japheth (<a href=\"https://ref.ly/Gen10:4\">Gn 10:4</a>). The name is emended to Rodanim in <a href=\"https://ref.ly/1Chr1:7\">1&nbsp;Chronicles 1:7</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7223\" data-resourceType=\"TyndaleBibleDictionary\">Rodanim</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "14020037",
-          "start_ref_usfm": "2CH 20:37",
-          "end_ref": "14020037",
-          "end_ref_usfm": "2CH 20:37"
+          "start_ref": "01010004",
+          "start_ref_usfm": "GEN 10:4",
+          "end_ref": "01010004",
+          "end_ref_usfm": "GEN 10:4"
+        },
+        {
+          "start_ref": "13001007",
+          "start_ref_usfm": "1CH 1:7",
+          "end_ref": "13001007",
+          "end_ref_usfm": "1CH 1:7"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 7223,
+          "content_id": 8055,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Rodanim",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

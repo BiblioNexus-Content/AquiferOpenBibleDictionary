@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 7167,
-    "reference_id": 6335,
-    "title": "Mispar, Mispereth",
+    "content_id": 7166,
+    "reference_id": 6334,
+    "title": "Mishraite",
     "media_type": "Text",
-    "index_reference": "mispar, mispereth",
+    "index_reference": "mishraite",
     "language": "eng",
-    "content": "<h1>MISPAR, MISPERETH*</h1><p>One of the men who returned with Zerubbabel to Palestine following the Babylonian captivity (<a href=\"https://ref.ly/Ezra2:2\">Ezr 2:2</a>); alternately called Mispereth in <a href=\"https://ref.ly/Neh7:7\">Nehemiah 7:7</a>.</p>",
+    "content": "<h1>MISHRAITE</h1><p>Descendant of Caleb and a member of Kiriath-jearim’s family from Judah’s tribe (<a href=\"https://ref.ly/1Chr2:53\">1&nbsp;Chr 2:53</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002002",
-          "start_ref_usfm": "EZR 2:2",
-          "end_ref": "15002002",
-          "end_ref_usfm": "EZR 2:2"
-        },
-        {
-          "start_ref": "16007007",
-          "start_ref_usfm": "NEH 7:7",
-          "end_ref": "16007007",
-          "end_ref_usfm": "NEH 7:7"
+          "start_ref": "13002053",
+          "start_ref_usfm": "1CH 2:53",
+          "end_ref": "13002053",
+          "end_ref_usfm": "1CH 2:53"
         }
       ],
       "resource": []

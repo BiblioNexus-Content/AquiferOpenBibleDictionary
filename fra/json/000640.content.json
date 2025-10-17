@@ -1,52 +1,36 @@
 [
   {
-    "content_id": 806080,
-    "reference_id": 6080,
-    "title": "Mamré (Lieu)",
+    "content_id": 822979,
+    "reference_id": 5550,
+    "title": "Jimna, Jimnah, Jimnite",
     "media_type": "Text",
-    "index_reference": "mamré (lieu)",
+    "index_reference": "jimna, jimnah, jimnite",
     "language": "fra",
-    "content": "<h1>MAMRÉ (Lieu)</h1><p>Important bosquet de chênes près duquel vivait Abraham, nommé d&apos;après un Amoréen qui l&apos;a aidé à vaincre Kedorlaomer et à sauver Lot (<a href=\"https://ref.ly/Gen14:13,Gen14:24\">Gn 14.13, 24</a>). Abraham a érigé un autel sous le chêne de Mamré (<a href=\"https://ref.ly/Gen13:18\">13.18</a>). Abraham était assis près de l&apos;arbre sacré lorsqu&apos;il a accueilli trois invités mystérieux (chap. <a href=\"https://ref.ly/Gen18:1-Gen18:33\">18</a>). Mamré est également un site possible pour la scène des cérémonies de l&apos;alliance abrahamique (chap. <a href=\"https://ref.ly/Gen15:1-Gen15:21\">15</a>). Isaac et Jacob y ont également vécu (<a href=\"https://ref.ly/Gen35:27\">35.27</a>).</p>",
+    "content": "<h1>JIMNA, JIMNAH, JIMNITE</h1><p>Les versions du roi Jacques utilisent les formes « Jimna » et « Imnite ». Les noms se réfèrent au fils d&apos;Aser et à sa famille (<a href=\"https://ref.ly/Gen46:17\">Gn 46.17</a> et <a href=\"https://ref.ly/Num26:44\">Nom 26.44</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5175\" data-resourceType=\"TyndaleBibleDictionary\">Jimna n° 1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01013018",
-          "start_ref_usfm": "GEN 13:18",
-          "end_ref": "01013018",
-          "end_ref_usfm": "GEN 13:18"
+          "start_ref": "01046017",
+          "start_ref_usfm": "GEN 46:17",
+          "end_ref": "01046017",
+          "end_ref_usfm": "GEN 46:17"
         },
         {
-          "start_ref": "01014013",
-          "start_ref_usfm": "GEN 14:13",
-          "end_ref": "01014013",
-          "end_ref_usfm": "GEN 14:13"
-        },
-        {
-          "start_ref": "01014024",
-          "start_ref_usfm": "GEN 14:24",
-          "end_ref": "01014024",
-          "end_ref_usfm": "GEN 14:24"
-        },
-        {
-          "start_ref": "01035027",
-          "start_ref_usfm": "GEN 35:27",
-          "end_ref": "01035027",
-          "end_ref_usfm": "GEN 35:27"
-        },
-        {
-          "start_ref": "01015001",
-          "start_ref_usfm": "GEN 15:1",
-          "end_ref": "01015021",
-          "end_ref_usfm": "GEN 15:21"
-        },
-        {
-          "start_ref": "01018001",
-          "start_ref_usfm": "GEN 18:1",
-          "end_ref": "01018033",
-          "end_ref_usfm": "GEN 18:33"
+          "start_ref": "04026044",
+          "start_ref_usfm": "NUM 26:44",
+          "end_ref": "04026044",
+          "end_ref_usfm": "NUM 26:44"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5175,
+          "content_id": 822955,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jimna",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

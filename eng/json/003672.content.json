@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 6930,
-    "reference_id": 6098,
-    "title": "Manual of Discipline",
+    "content_id": 6926,
+    "reference_id": 6094,
+    "title": "Manoah",
     "media_type": "Text",
-    "index_reference": "manual of discipline",
+    "index_reference": "manoah",
     "language": "eng",
-    "content": "<h1>MANUAL OF DISCIPLINE</h1><p>A book of community rules of conduct belonging to the Essenes who lived at Qumran. The Essenes were a special group of Jews who lived apart from others and followed strict rules. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3946\" data-resourceType=\"TyndaleBibleDictionary\">Dead Sea Scrolls</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4328\" data-resourceType=\"TyndaleBibleDictionary\">Essenes</span>.</p>",
+    "content": "<h1>MANOAH</h1><p>Danite from Zorah whose wife was barren. Through encounters with the Angel of the Lord, the couple learned that God was about to give them a son who would judge the Philistines and deliver Israel from its oppression. Manoah later fathered Samson, who fulfilled these promises (<a href=\"https://ref.ly/Judg13:1-Judg13:25\">Jgs 13</a>; <a href=\"https://ref.ly/Judg16:31\">16:31</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 3946,
-          "content_id": 4778,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Dead Sea Scrolls",
-          "language": "eng"
+          "start_ref": "07016031",
+          "start_ref_usfm": "JDG 16:31",
+          "end_ref": "07016031",
+          "end_ref_usfm": "JDG 16:31"
         },
         {
-          "reference_id": 4328,
-          "content_id": 5160,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Essenes",
-          "language": "eng"
+          "start_ref": "07013001",
+          "start_ref_usfm": "JDG 13:1",
+          "end_ref": "07013025",
+          "end_ref_usfm": "JDG 13:25"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

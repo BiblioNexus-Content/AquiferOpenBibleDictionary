@@ -1,27 +1,45 @@
 [
   {
-    "content_id": 5519,
-    "reference_id": 4687,
-    "title": "Gourd",
+    "content_id": 5518,
+    "reference_id": 4686,
+    "title": "Gouging",
     "media_type": "Text",
-    "index_reference": "gourd",
+    "index_reference": "gouging",
     "language": "eng",
-    "content": "<h1>GOURD</h1><p>A trailing or climbing plant. These plants grow along the ground or climb up surfaces like walls or trees. Gourds belong to the same plant family as cucumbers, melons, and squash.</p><p>The Bible mentions gourds in two key passages:</p><ol><li><p>In <a href=\"https://ref.ly/Jonah4:6-Jonah4:10\">Jonah 4:6–10</a>, God made a plant grow quickly to provide shade for Jonah. Some translations call it a &quot;gourd,&quot; but the original Hebrew word may refer to a castor oil plant (<em>Ricinus communis</em>) rather than a true gourd. The plant withered when God sent a worm to damage it, leaving Jonah exposed to the sun.</p></li><li><p>In <a href=\"https://ref.ly/2Kgs4:38-2Kgs4:41\">2 Kings 4:38–41</a>, during a famine, one of Elisha&apos;s followers gathered wild gourds to add to a stew. These were likely <em>Citrullus colocynthis</em>, a cucumber-like vine with a bitter, poisonous fruit. When they tasted the bitter stew, the people cried out, &quot;There is death in the pot!&quot; Elisha then performed a miracle, adding flour to the stew to make it safe to eat.</p></li></ol><p>Gourds have been cultivated for thousands of years. Some types are edible, while others are used to make containers, bowls, ladles, and water jugs when dried.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"209533\" data-resourceType=\"TyndaleBibleDictionary\">Castor Oil Plant</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"209539\" data-resourceType=\"TyndaleBibleDictionary\">Wild Gourd</span>.</p>",
+    "content": "<h1>GOUGING</h1><p>Gouging was the painful practice of forcibly removing a person&apos;s eyes. This was commonly done by the Philistines, Amorites, Babylonians, and other nations that surrounded Israel (<a href=\"https://ref.ly/Judg16:21\">Judges 16:21</a>; <a href=\"https://ref.ly/2Kgs25:7\">2&nbsp;Kings 25:7</a>). People would gouge out eyes not only to disable their enemies or prisoners but also to bring extreme shame and disgrace upon them (<a href=\"https://ref.ly/1Sam11:2\">1&nbsp;Samuel 11:2</a>). </p><p>The Israelites seem to have known about gouging from their time in Egypt (<a href=\"https://ref.ly/Num16:14\">Numbers 16:14</a>). But there is no evidence that it was a common practice in Israel.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3861\" data-resourceType=\"TyndaleBibleDictionary\">Criminal Law and Punishment</span>.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 209533,
-          "content_id": 716003,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Castor Oil Plant",
-          "language": "eng"
+          "start_ref": "04016014",
+          "start_ref_usfm": "NUM 16:14",
+          "end_ref": "04016014",
+          "end_ref_usfm": "NUM 16:14"
         },
         {
-          "reference_id": 209539,
-          "content_id": 718558,
+          "start_ref": "07016021",
+          "start_ref_usfm": "JDG 16:21",
+          "end_ref": "07016021",
+          "end_ref_usfm": "JDG 16:21"
+        },
+        {
+          "start_ref": "09011002",
+          "start_ref_usfm": "1SA 11:2",
+          "end_ref": "09011002",
+          "end_ref_usfm": "1SA 11:2"
+        },
+        {
+          "start_ref": "12025007",
+          "start_ref_usfm": "2KI 25:7",
+          "end_ref": "12025007",
+          "end_ref_usfm": "2KI 25:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 3861,
+          "content_id": 4693,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Wild Gourd",
+          "label": "Criminal Law and Punishment",
           "language": "eng"
         }
       ]

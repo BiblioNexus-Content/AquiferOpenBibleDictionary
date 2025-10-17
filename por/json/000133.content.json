@@ -1,58 +1,36 @@
 [
   {
-    "content_id": 815864,
-    "reference_id": 2804,
-    "title": "Antioquia da Pisídia",
+    "content_id": 759620,
+    "reference_id": 2795,
+    "title": "Antílope",
     "media_type": "Text",
-    "index_reference": "antioquia da pisídia",
+    "index_reference": "antílope",
     "language": "por",
-    "content": "<h1>ANTIOQUIA DA PISÍDIA</h1><p>Uma cidade na Ásia Menor entre os distritos de Frígia e Pisídia. O apóstolo Paulo viajou até lá para introduzir o evangelho. Paulo foi convidado pelos anciãos da sinagoga em Antioquia. Eles o convidaram a trazer qualquer mensagem de encorajamento que tivesse na reunião de sábado (<a href=\"https://ref.ly/Acts13:14-Acts13:15\">At 13.14–15</a>).</p><p>De acordo com o registro em Atos, muitos imploraram para ouvir mais (<a href=\"https://ref.ly/Acts13:42\">13.42</a>). Alguns dos líderes judeus estavam com ciúmes de Paulo por causa de sua popularidade. Eles começaram a dizer coisas prejudiciais sobre ele (<a href=\"https://ref.ly/Acts13:45\">13.45</a>). Paulo então se voltou para os ouvintes gentios (<a href=\"https://ref.ly/Acts13:46-Acts13:48\">13.46–48</a>). Algumas das autoridades judaicas o forçaram a deixar a cidade (<a href=\"https://ref.ly/Acts13:50\">13.50</a>). Os mesmos judeus de Antioquia continuaram a atacar Paulo enquanto ele viajava para Listra (<a href=\"https://ref.ly/Acts14:19\">At 14.19</a>). Paulo viajou por Antioquia uma segunda vez enquanto estava a caminho de Perge e Atália (<a href=\"https://ref.ly/Acts14:21\">14.21</a>).</p><p>A cidade de Antioquia foi construída por volta de 300 a.C. por Seleuco Nicator, que a nomeou em homenagem a seu filho, Antíoco I. Como resultado da conquista romana em 188 a.C., a área foi declarada livre do domínio dos reis selêucidas. Os romanos começaram imediatamente a torná-la mais parecida com suas cidades. Por volta de 36 a.C., Antônio fez de Antioquia parte do território do rei da Galácia, Amintas. Com a morte de Amintas, 11 anos depois, a cidade recebeu o status de colônia e tornou-se Cesareia Antioquena. Essa foi a capital da Galácia meridional.</p>",
+    "content": "<h1>ANTÍLOPE</h1><p>Um animal que corre rapidamente e se assemelha a um cervo.</p><p>Várias criaturas semelhantes a antílopes são mencionadas nas Escrituras. Uma delas parece ser o órix branco <em>(Oryx leucoryx),</em> referido como &quot;antílope&quot; em <a href=\"https://ref.ly/Deut14:5\">Deuteronômio 14.5</a> e <a href=\"https://ref.ly/Isa51:20\">Isaías 51.20</a>. O órix provavelmente era o antílope. Seus longos chifres facilitavam a captura, tornando-o uma fonte comum de alimento.</p><p>Outro antílope mencionado na Bíblia é o adax <em>(Addax nasomaculatus).</em> Provavelmente é o “antílope” de <a href=\"https://ref.ly/Deut14:5\">Deuteronômio 14.5</a> (&quot;corços&quot;, NTLH; &quot;corça&quot;, ARC; &quot;pygarg&quot;, LXX). Ele vive no Norte da África. Possui partes traseiras acinzentadas, uma mancha branca na testa e chifres torcidos e anelados. A palavra “pygarg” vem de uma palavra grega que significa “garupa branca”. O adax tem aproximadamente o tamanho de um burro. Seu corpo é coberto de pelos curtos. Possui uma crina curta na parte inferior do pescoço que faz a cabeça parecer um pouco com a de uma cabra. As patas são largas e achatadas, e a cauda se assemelha à de um burro. É comum na África e na Arábia, onde os árabes o caçam com falcões e cães.</p><p>Os antílopes são muito graciosos e correm com a cabeça erguida. Ambos os sexos possuem chifres longos, permanentes e ocos. Os chifres do órix vão diretamente para trás, enquanto os chifres do adax se torcem em anéis. Os antílopes são alertas, ariscos e perceptivos. Eles geralmente são encontrados em rebanhos de dois a uma dúzia. Se ferido ou encurralado, um antílope ataca com a cabeça baixa, com seus chifres afiados apontando para a frente. Os antílopes se alimentam de gramíneas e arbustos, bebendo de riachos e poços de água. Quando há pouca água, eles comem melões e bulbos suculentos. Tanto o adax quanto o órix eram considerados puros na lei judaica.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44013042",
-          "start_ref_usfm": "ACT 13:42",
-          "end_ref": "44013042",
-          "end_ref_usfm": "ACT 13:42"
+          "start_ref": "05014005",
+          "start_ref_usfm": "DEU 14:5",
+          "end_ref": "05014005",
+          "end_ref_usfm": "DEU 14:5"
         },
         {
-          "start_ref": "44013045",
-          "start_ref_usfm": "ACT 13:45",
-          "end_ref": "44013045",
-          "end_ref_usfm": "ACT 13:45"
-        },
-        {
-          "start_ref": "44013050",
-          "start_ref_usfm": "ACT 13:50",
-          "end_ref": "44013050",
-          "end_ref_usfm": "ACT 13:50"
-        },
-        {
-          "start_ref": "44014019",
-          "start_ref_usfm": "ACT 14:19",
-          "end_ref": "44014019",
-          "end_ref_usfm": "ACT 14:19"
-        },
-        {
-          "start_ref": "44014021",
-          "start_ref_usfm": "ACT 14:21",
-          "end_ref": "44014021",
-          "end_ref_usfm": "ACT 14:21"
-        },
-        {
-          "start_ref": "44013014",
-          "start_ref_usfm": "ACT 13:14",
-          "end_ref": "44013015",
-          "end_ref_usfm": "ACT 13:15"
-        },
-        {
-          "start_ref": "44013046",
-          "start_ref_usfm": "ACT 13:46",
-          "end_ref": "44013048",
-          "end_ref_usfm": "ACT 13:48"
+          "start_ref": "23051020",
+          "start_ref_usfm": "ISA 51:20",
+          "end_ref": "23051020",
+          "end_ref_usfm": "ISA 51:20"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2782,
+          "content_id": 125233,
+          "resource_code": "Unknown",
+          "label": "Animais",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

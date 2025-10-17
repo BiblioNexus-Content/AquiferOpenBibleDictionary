@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 759981,
-    "reference_id": 7372,
-    "title": "Segunda revolta judaica",
+    "content_id": 759962,
+    "reference_id": 7180,
+    "title": "Rubenita",
     "media_type": "Text",
-    "index_reference": "segunda revolta judaica",
+    "index_reference": "rubenita",
     "language": "por",
-    "content": "<h1>SEGUNDA REVOLTA JUDAICA</h1><p>Uma rebelião judaica nomeada em homenagem ao seu líder, Simão Barcoquebas. Durou de 131 a 135 d.C. Houve duas razões para a revolta:</p><ol><li><p>O Imperador Adriano transformou a circuncisão em um crime punível com a morte;</p></li><li><p>Ele decidiu reconstruir Jerusalém e erguer um santuário a Zeus nas ruínas do local do templo, o que enfureceu o povo judeu.</p></li></ol><p>O nome de Simão Barcoquebas significa &quot;filho de uma estrela&quot;. Acreditava-se que ele era a “estrela [que] surgirá de Jacó” (<a href=\"https://ref.ly/Num24:17\">Nm 24.17</a>). Muitos judeus proclamaram Simão Barcoquebas como o Messias (um salvador ou líder escolhido que muitos judeus estavam esperando). Simão Barcoquebas usou ataques surpresa para lutar contra os romanos. Esse tipo de luta levou a grandes perdas tanto para os judeus quanto para os romanos. Um general romano chamado Júlio Severo finalmente derrotou a resistência judaica.</p><p>Adriano reconstruiu Jerusalém e a renomeou para Colonia Aelia Capitolina. Ele a repovoou com gentios e proibiu os judeus de entrarem, sob pena de morte.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3176\" data-resourceType=\"TyndaleBibleDictionary\">Bar-Kochba, Bar-Kokba</span>.</p>",
+    "content": "<h1>RUBENITA</h1><p>Qualquer descendente de Rúben, filho do patriarca Jacó (<a href=\"https://ref.ly/Num26:7\">Nm 26.7</a>; <a href=\"https://ref.ly/Josh1:12\">Js 1.12</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7183\" data-resourceType=\"TyndaleBibleDictionary\">Rúben, Tribo de</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04024017",
-          "start_ref_usfm": "NUM 24:17",
-          "end_ref": "04024017",
-          "end_ref_usfm": "NUM 24:17"
+          "start_ref": "04026007",
+          "start_ref_usfm": "NUM 26:7",
+          "end_ref": "04026007",
+          "end_ref_usfm": "NUM 26:7"
+        },
+        {
+          "start_ref": "06001012",
+          "start_ref_usfm": "JOS 1:12",
+          "end_ref": "06001012",
+          "end_ref_usfm": "JOS 1:12"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 7183,
+          "content_id": 683071,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Rúben, Tribo de",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

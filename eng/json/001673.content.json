@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 4924,
-    "reference_id": 4092,
-    "title": "Ebed-Melech",
+    "content_id": 4925,
+    "reference_id": 4093,
+    "title": "Ebed",
     "media_type": "Text",
-    "index_reference": "ebed-melech",
+    "index_reference": "ebed",
     "language": "eng",
-    "content": "<h1>EBED-MELECH</h1><p>Ethiopian eunuch in King Zedekiah’s court. He secured the king’s permission to rescue the prophet Jeremiah out of a cistern where he had been thrown to die (<a href=\"https://ref.ly/Jer38:6-Jer38:13\">Jer 38:6–13</a>). For this righteous act, Ebed-melech was promised God’s safety at the fall of Jerusalem (<a href=\"https://ref.ly/Jer39:16\">39:16</a>).</p>",
+    "content": "<h1>EBED</h1><p>1. Gaal’s father (<a href=\"https://ref.ly/Judg9:26-Judg9:35\">Jgs 9:26–35</a>). Gaal led the men of Shechem in an unsuccessful revolt against Abimelech, judge of Israel.</p><p>2. Adin’s descendant and son of Jonathan. Ebed was the head of a family that returned to Judah with Ezra after the exile (<a href=\"https://ref.ly/Ezra8:6\">Ezr 8:6</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "24039016",
-          "start_ref_usfm": "JER 39:16",
-          "end_ref": "24039016",
-          "end_ref_usfm": "JER 39:16"
+          "start_ref": "15008006",
+          "start_ref_usfm": "EZR 8:6",
+          "end_ref": "15008006",
+          "end_ref_usfm": "EZR 8:6"
         },
         {
-          "start_ref": "24038006",
-          "start_ref_usfm": "JER 38:6",
-          "end_ref": "24038013",
-          "end_ref_usfm": "JER 38:13"
+          "start_ref": "07009026",
+          "start_ref_usfm": "JDG 9:26",
+          "end_ref": "07009035",
+          "end_ref_usfm": "JDG 9:35"
         }
       ],
       "resource": []

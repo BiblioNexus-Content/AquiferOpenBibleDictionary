@@ -1,25 +1,43 @@
 [
   {
-    "content_id": 5404,
-    "reference_id": 4572,
-    "title": "Ge-Harashim",
+    "content_id": 5403,
+    "reference_id": 4571,
+    "title": "Gedor (Place)",
     "media_type": "Text",
-    "index_reference": "ge-harashim",
+    "index_reference": "gedor (place)",
     "language": "eng",
-    "content": "<h1>GE-HARASHIM*</h1><p>Name for a richly wooded valley near Lod and Ono, settled by Joab from Judah’s tribe, whose posterity called the valley Ge-harashim, meaning “valley of craftsmen,” after their own trade (<a href=\"https://ref.ly/1Chr4:14\">1&nbsp;Chr 4:14</a>, nlt mg). In the fifth century BC the area was resettled by people from Benjamin’s tribe (<a href=\"https://ref.ly/Neh11:35\">Neh 11:35</a>, “valley of craftsmen“).</p>",
+    "content": "<h1>GEDOR (Place)</h1><p>1. City in the Shephelah (hill country) allotted to Judah’s tribe (<a href=\"https://ref.ly/Josh15:58\">Jos 15:58</a>) named with Halhul, Beth-zur, Maarath, Beth-anoth, and Eltekon. It has been identified with Khirbet Gedur north of Hebron near Bethlehem.</p><p>2. Place founded by Penuel, one of the families of Judah (<a href=\"https://ref.ly/1Chr4:4\">1&nbsp;Chr 4:4</a>).</p><p>3. Settlement established by Jered of Judah (<a href=\"https://ref.ly/1Chr4:18\">1&nbsp;Chr 4:18</a>).</p><p>4. City and its valley settled by the Simeonites (<a href=\"https://ref.ly/1Chr4:39\">1&nbsp;Chr 4:39</a>).</p><p>5. Town in the territory of Benjamin and the home of Joelah and Zebadiah, the sons of Jeroham (<a href=\"https://ref.ly/1Chr12:7\">1&nbsp;Chr 12:7</a>); perhaps the same as #1 above.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13004014",
-          "start_ref_usfm": "1CH 4:14",
-          "end_ref": "13004014",
-          "end_ref_usfm": "1CH 4:14"
+          "start_ref": "06015058",
+          "start_ref_usfm": "JOS 15:58",
+          "end_ref": "06015058",
+          "end_ref_usfm": "JOS 15:58"
         },
         {
-          "start_ref": "16011035",
-          "start_ref_usfm": "NEH 11:35",
-          "end_ref": "16011035",
-          "end_ref_usfm": "NEH 11:35"
+          "start_ref": "13004004",
+          "start_ref_usfm": "1CH 4:4",
+          "end_ref": "13004004",
+          "end_ref_usfm": "1CH 4:4"
+        },
+        {
+          "start_ref": "13004018",
+          "start_ref_usfm": "1CH 4:18",
+          "end_ref": "13004018",
+          "end_ref_usfm": "1CH 4:18"
+        },
+        {
+          "start_ref": "13004039",
+          "start_ref_usfm": "1CH 4:39",
+          "end_ref": "13004039",
+          "end_ref_usfm": "1CH 4:39"
+        },
+        {
+          "start_ref": "13012007",
+          "start_ref_usfm": "1CH 12:7",
+          "end_ref": "13012007",
+          "end_ref_usfm": "1CH 12:7"
         }
       ],
       "resource": []

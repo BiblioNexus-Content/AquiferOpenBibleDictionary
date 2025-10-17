@@ -1,49 +1,55 @@
 [
   {
-    "content_id": 815926,
-    "reference_id": 3782,
-    "title": "Colossos, Colossas",
+    "content_id": 815924,
+    "reference_id": 3764,
+    "title": "Clopas",
     "media_type": "Text",
-    "index_reference": "colossos, colossas",
+    "index_reference": "clopas",
     "language": "por",
-    "content": "<h1>COLOSSOS*, COLOSSAS</h1><p>Cidade antiga na Ásia Menor, localizada na parte sudoeste da atual Turquia, lembrada principalmente pela carta do apóstolo Paulo à igreja local (<a href=\"https://ref.ly/Col1:2\">Cl 1.2</a>). Colossos estava perto do rio Lico, um afluente do Meandro. A cidade prosperou durante o século VI a.C.. Segundo Heródoto, um antigo historiador grego, quando o rei persa Xerxes chegou a Colossos, era uma cidade de grande tamanho. Outro historiador grego, Xenofonte, relatou que Ciro, o Grande, fundador do Império Persa, havia passado por Colossos ainda antes em seu caminho para a Grécia.</p><p>Colossos estava situada na região conhecida como Frígia e era um centro comercial em um cruzamento na estrada principal de Éfeso para o Leste. Nos tempos romanos, a relocação da estrada que levava ao norte para Pérgamo provocou tanto o crescimento de Laodiceia, uma cidade a 16 quilômetros de distância, quanto o declínio gradual de Colossos. Colossos e Laodiceia compartilhavam o comércio de lã. Assim, o nome Colossos foi derivado de um nome latino <em>collossinus,</em> que significa &quot;lã púrpura&quot;.</p><p>Na época do apóstolo Paulo, Colossos era uma pequena cidade com uma população mista de frígios, gregos e judeus. Durante sua estadia prolongada em Éfeso, Paulo pode ter ensinado judeus e gregos que viviam em Colossos (<a href=\"https://ref.ly/Acts19:10\">At 19.10</a>). Epafras, um colossense, visitou Paulo em Roma e informou-o sobre a condição da igreja em Colossos (<a href=\"https://ref.ly/Col1:7\">Cl 1.7</a>; <a href=\"https://ref.ly/Col4:12\">4.12</a>), e depois foi preso com Paulo (<a href=\"https://ref.ly/Phlm1:23\">Fm 1.23</a>). Outros membros da igreja colossense incluíam Filemom, Áfia, Arquipo e Onésimo, um escravo que se tornou cristão (<a href=\"https://ref.ly/Phlm1:16\">Fm 1.16</a>). A história subsequente é silenciosa sobre a igreja em Colossos. A cidade foi enfraquecida sob o domínio islâmico e acabou sendo destruída no século XII.</p>",
+    "content": "<h1>CLOPAS</h1><p>O marido de Maria, uma das mulheres que estava lá quando Jesus foi crucificado (<a href=\"https://ref.ly/John19:25\">Jo 19.25</a>). No texto grego, não está claro se Maria, esposa de Clopas, também era irmã da mãe de Jesus ou se era uma pessoa diferente. Existem três ideias diferentes sobre quem Clopas poderia ter sido:</p><ol><li><p>Alguns dizem que Clopas era irmão de José.</p></li><li><p>Alguns o conectam a Cleopas, que aparece em <a href=\"https://ref.ly/Luke24:18\">Lucas 24.18.</a> No entanto, o nome &quot;Clopas&quot; vem do hebraico, enquanto &quot;Cleopas&quot; vem do grego.</p></li><li><p>Alguns acreditam que ele pode ser a mesma pessoa que Alfeu. Isso só seria possível se Tiago, filho de Alfeu (<a href=\"https://ref.ly/Matt10:3\">Mt 10.3</a>; <a href=\"https://ref.ly/Luke6:15\">Lc 6.15</a>; <a href=\"https://ref.ly/Acts1:13\">At 1.13</a>) for o mesmo que Tiago, filho de Maria (<a href=\"https://ref.ly/Matt27:56\">Mt 27.56</a>; <a href=\"https://ref.ly/Mark15:40\">Mc 15.40</a>). Maria também precisa ser a mesma pessoa mencionada em <a href=\"https://ref.ly/John19:25\">João 19.25</a>.</p></li></ol><p>Essas são todas ideias possíveis, mas não podemos ter certeza. Clopas, Cleopas e Alfeu podem ser pessoas diferentes.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44019010",
-          "start_ref_usfm": "ACT 19:10",
-          "end_ref": "44019010",
-          "end_ref_usfm": "ACT 19:10"
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
         },
         {
-          "start_ref": "51001002",
-          "start_ref_usfm": "COL 1:2",
-          "end_ref": "51001002",
-          "end_ref_usfm": "COL 1:2"
+          "start_ref": "40027056",
+          "start_ref_usfm": "MAT 27:56",
+          "end_ref": "40027056",
+          "end_ref_usfm": "MAT 27:56"
         },
         {
-          "start_ref": "51001007",
-          "start_ref_usfm": "COL 1:7",
-          "end_ref": "51001007",
-          "end_ref_usfm": "COL 1:7"
+          "start_ref": "41015040",
+          "start_ref_usfm": "MRK 15:40",
+          "end_ref": "41015040",
+          "end_ref_usfm": "MRK 15:40"
         },
         {
-          "start_ref": "51004012",
-          "start_ref_usfm": "COL 4:12",
-          "end_ref": "51004012",
-          "end_ref_usfm": "COL 4:12"
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
         },
         {
-          "start_ref": "57001016",
-          "start_ref_usfm": "PHM 1:16",
-          "end_ref": "57001016",
-          "end_ref_usfm": "PHM 1:16"
+          "start_ref": "42024018",
+          "start_ref_usfm": "LUK 24:18",
+          "end_ref": "42024018",
+          "end_ref_usfm": "LUK 24:18"
         },
         {
-          "start_ref": "57001023",
-          "start_ref_usfm": "PHM 1:23",
-          "end_ref": "57001023",
-          "end_ref_usfm": "PHM 1:23"
+          "start_ref": "43019025",
+          "start_ref_usfm": "JHN 19:25",
+          "end_ref": "43019025",
+          "end_ref_usfm": "JHN 19:25"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
         }
       ],
       "resource": []

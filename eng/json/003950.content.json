@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 7210,
-    "reference_id": 6378,
-    "title": "Moserah, Moseroth",
+    "content_id": 7209,
+    "reference_id": 6377,
+    "title": "Mortar, the",
     "media_type": "Text",
-    "index_reference": "moserah, moseroth",
+    "index_reference": "mortar, the",
     "language": "eng",
-    "content": "<h1>MOSERAH, MOSEROTH</h1><p>Temporary camping place of the Israelites during their wilderness wanderings. It was positioned between Hashmonah and Bene-jaakan (<a href=\"https://ref.ly/Num33:30-Num33:31\">Nm 33:30–31</a>). Later, Aaron died and was buried there (<a href=\"https://ref.ly/Deut10:6\">Dt 10:6</a>). Moseroth is the plural form of Moserah.</p>",
+    "content": "<h1>MORTAR*, The</h1><p>Name given by Zephaniah to a hollow place or depression resembling a mortar in Jerusalem. The “mortar” (Hebrew, Maktesh) was a place of business whose merchants were soon to grieve for their loss of trade (<a href=\"https://ref.ly/Zeph1:11\">Zep 1:11</a>). Its location is variously identified with the Phoenician quarter, the Kidron Valley, or the Tyropoeon Valley.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5501\" data-resourceType=\"TyndaleBibleDictionary\">Jerusalem</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05010006",
-          "start_ref_usfm": "DEU 10:6",
-          "end_ref": "05010006",
-          "end_ref_usfm": "DEU 10:6"
-        },
-        {
-          "start_ref": "04033030",
-          "start_ref_usfm": "NUM 33:30",
-          "end_ref": "04033031",
-          "end_ref_usfm": "NUM 33:31"
+          "start_ref": "36001011",
+          "start_ref_usfm": "ZEP 1:11",
+          "end_ref": "36001011",
+          "end_ref_usfm": "ZEP 1:11"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5501,
+          "content_id": 6333,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jerusalem",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

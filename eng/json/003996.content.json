@@ -1,23 +1,22 @@
 [
   {
-    "content_id": 7253,
-    "reference_id": 6421,
-    "title": "Myrrh",
+    "content_id": 7252,
+    "reference_id": 6420,
+    "title": "Myra",
     "media_type": "Text",
-    "index_reference": "myrrh",
+    "index_reference": "myra",
     "language": "eng",
-    "content": "<h1>MYRRH</h1><p>A fragrant gum resin obtained from various shrubs or small trees. It is used in perfume and incense.</p><p>Most Bible references to myrrh likely refer to <em>Commiphora myrrha</em>. But the Bible might also refer to <em>Commiphora kataf </em>might since it grows in the same region and is similar. Both trees are native to Arabia, Ethiopia, and the east African coast of Somalia. These trees produce a gummy substance that makes up most of the myrrh sold commercially.</p><p>Both species are low, scrubby shrubs or small trees with thick, stiff branches and thorns. They grow in rocky areas, especially on limestone hills.</p><p>In eastern cultures, myrrh is highly valued as a fragrant substance, perfume, and medicine. The ancient Egyptians burned it in their temples and used it to preserve their dead bodies. The Jews also used myrrh for preparing bodies for burial (<a href=\"https://ref.ly/John19:39\">John 19:39</a>). The Hebrew people valued myrrh highly as a perfume (<a href=\"https://ref.ly/Ps45:8\">Psalm 45:8</a>).</p>",
+    "content": "<h1>MYRA</h1><p>A port city on the southern coast of Asia Minor in the province of Lycia, identified with the modern Demre in Turkey. According to <a href=\"https://ref.ly/Acts27:5-Acts27:6\">Acts 27:5–6</a>, Paul and his military escort stopped here for a short time. They changed ships on their journey to Rome, where Paul was going to trial before Caesar.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
-          "language": "eng"
+          "start_ref": "44027005",
+          "start_ref_usfm": "ACT 27:5",
+          "end_ref": "44027006",
+          "end_ref_usfm": "ACT 27:6"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

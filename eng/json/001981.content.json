@@ -1,12 +1,12 @@
 [
   {
-    "content_id": 5242,
-    "reference_id": 4410,
-    "title": "Father-in-Law",
+    "content_id": 5241,
+    "reference_id": 4409,
+    "title": "Father (Human)",
     "media_type": "Text",
-    "index_reference": "father-in-law",
+    "index_reference": "father (human)",
     "language": "eng",
-    "content": "<h1>FATHER-IN-LAW</h1><p>A father-in-law is the father of a person&apos;s husband or wife. For example, if a woman marries a man, her father-in-law is her husband&apos;s father. Similarly, a man’s father-in-law is the father of his wife.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4403\" data-resourceType=\"TyndaleBibleDictionary\">Family Life and Relations</span>.</p>",
+    "content": "<h1>FATHER (Human)</h1><p>A father is a man who is the parent of a child. In the Bible, the word &quot;father&quot; can also refer to ancestors or forefathers, meaning earlier generations or patriarchs.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4403\" data-resourceType=\"TyndaleBibleDictionary\">Family Life and Relations</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [

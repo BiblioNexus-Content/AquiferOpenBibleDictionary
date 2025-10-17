@@ -1,27 +1,34 @@
 [
   {
-    "content_id": 815873,
-    "reference_id": 2847,
-    "title": "Praça de Ápio",
+    "content_id": 759713,
+    "reference_id": 3874,
+    "title": "Pepino",
     "media_type": "Text",
-    "index_reference": "praça de ápio",
+    "index_reference": "pepino",
     "language": "por",
-    "content": "<h1>PRAÇA DE ÁPIO</h1><p>O mercado em <a href=\"https://ref.ly/Acts28:15\">Atos 28.15.</a> Este foi o lugar onde os cristãos encontraram o apóstolo Paulo quando ele veio se apresentar diante de César. Foi aparentemente nomeado em homenagem a Ápio Cláudio, o construtor da Via Ápia. A Via Ápia era uma importante estrada no sudeste da Itália que seguia para o noroeste até Roma.</p><p>Ao redor da praça, havia uma região de pântano e terrenos alagadiços. Era notória no mundo antigo por sua água de má qualidade, mosquitos, tavernas caras para viajantes, tráfego noturno barulhento de cargas e passageiros em barcaças puxadas por mulas ao longo de um canal que cortava a área. A Via Ápia passa pela Praça de Ápio, cerca de 64 quilômetros ao sul de Roma.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2846\" data-resourceType=\"TyndaleBibleDictionary\">Via Ápia</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4467\" data-resourceType=\"TyndaleBibleDictionary\">Praça</span>.</p>",
+    "content": "<h1>PEPINO</h1><p>Um vegetal de jardim da família das cucurbitáceas. <a href=\"https://ref.ly/Num11:5\">Números 11.5 </a>menciona-o como um dos alimentos desejados pelos israelitas errantes quando se lembraram dos alimentos que comiam no Egito.</p><p>O pepino é uma videira anual que cresce verticalmente ou se espalha. Ninguém sabe ao certo a origem exata dos pepinos. As pessoas cultivam pepinos em todos os países quentes da Europa, Ásia e África desde tempos pré-históricos.</p><p>Os pepinos geralmente são consumidos crus. Um pepino e um bolo de cevada ou algum outro tipo de pão costumam compor uma refeição simples. A referência a &quot;uma cabana numa plantação de pepinos&quot; (<a href=\"https://ref.ly/Isa1:8\">Is 1.8</a>) refere-se à pequena casa ou abrigo rudimentar frequentemente montado em campos de pepinos e vinhedos palestinos. Esses abrigos protegiam os agricultores ou vigias que guardavam as colheitas.</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Alimentos e preparação de alimentos</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44028015",
-          "start_ref_usfm": "ACT 28:15",
-          "end_ref": "44028015",
-          "end_ref_usfm": "ACT 28:15"
+          "start_ref": "04011005",
+          "start_ref_usfm": "NUM 11:5",
+          "end_ref": "04011005",
+          "end_ref_usfm": "NUM 11:5"
         }
       ],
       "resource": [
         {
-          "reference_id": 2846,
-          "content_id": 815872,
+          "reference_id": 4454,
+          "content_id": 125261,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Via Ápia",
+          "label": "Comida E Preparação De Alimentos",
+          "language": "por"
+        },
+        {
+          "reference_id": 6929,
+          "content_id": 125318,
+          "resource_code": "Unknown",
+          "label": "Plantas",
           "language": "por"
         }
       ]

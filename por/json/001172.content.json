@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 658647,
-    "reference_id": 4680,
-    "title": "Madeira de Gofer",
+    "content_id": 816012,
+    "reference_id": 5967,
+    "title": "Lida",
     "media_type": "Text",
-    "index_reference": "madeira de gofer",
+    "index_reference": "lida",
     "language": "por",
-    "content": "<h1>MADEIRA DE GOFER*</h1><p>Apenas a Bíblia ARC usa a expressão &quot;madeira de gofer&quot;, a maioria das Bíblias se referem como &quot;madeira de cipreste&quot; ou &quot;táboa de cipreste&quot;. Material que Noé usou para construir a arca (<a href=\"https://ref.ly/Gen6:14\">Gn 6.14</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas (Cipreste)</span>.</p>",
+    "content": "<h1>LIDA</h1><p>Um nome do Novo Testamento para Lode, uma cidade localizada a sudoeste de Jerusalém na Sefelá (<a href=\"https://ref.ly/Acts9:32-Acts9:38\">At 9.32–38</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5936\" data-resourceType=\"TyndaleBibleDictionary\">Lode</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01006014",
-          "start_ref_usfm": "GEN 6:14",
-          "end_ref": "01006014",
-          "end_ref_usfm": "GEN 6:14"
+          "start_ref": "44009032",
+          "start_ref_usfm": "ACT 9:32",
+          "end_ref": "44009038",
+          "end_ref_usfm": "ACT 9:38"
         }
       ],
       "resource": [
         {
-          "reference_id": 6929,
-          "content_id": 125318,
+          "reference_id": 5936,
+          "content_id": 816005,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Plantas",
+          "label": "Lode",
           "language": "por"
         }
       ]

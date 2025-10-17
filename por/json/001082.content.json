@@ -1,52 +1,48 @@
 [
   {
-    "content_id": 815993,
-    "reference_id": 5661,
-    "title": "Julgamento, Palácio de",
+    "content_id": 682984,
+    "reference_id": 5529,
+    "title": "Jetur, Jeturitas",
     "media_type": "Text",
-    "index_reference": "julgamento, palácio de",
+    "index_reference": "jetur, jeturitas",
     "language": "por",
-    "content": "<h1>JULGAMENTO, Palácio de</h1><p>Palácio é a tradução da NTLH do Novo Testamento para a palavra <em>praitorion</em> em <a href=\"https://ref.ly/John18:28,John18:33\">João 18.28,33</a>; <a href=\"https://ref.ly/John19:9\">19.9</a>; <a href=\"https://ref.ly/Acts23:35\">Atos 23.35</a>. Algumas versões da Bíblia traduzem essa palavra como “pretório“. Outras traduzem como “salão comum“.</p><p>A palavra foi usada pela primeira vez para designar o local onde ficava a tenda do general romano em um acampamento militar, referindo-se ao escritório principal do acampamento. Posteriormente, passou a significar o conselho militar que se reunia na tenda do general. Mais tarde, foi utilizada para o palácio onde o governador romano ou procurador residia enquanto governava uma região. Também identificava o escritório principal do exército e o acampamento que abrigava o exército em conexão com o local de residência do governador.</p><p>Em Jerusalém, havia o palácio que Herodes, o Grande, havia construído para si mesmo. Quando o governador romano vinha de sua residência habitual em Cesareia para Jerusalém, ele morava no palácio de Herodes. Ele realizava seus negócios oficiais lá. Foi lá que Pilatos interrogou Jesus (<a href=\"https://ref.ly/John18:28\">Jo 18.28</a>; <a href=\"https://ref.ly/John19:9\">19.9</a>). Foi em outro lugar chamado &quot;Calçada de Pedra&quot; que Pilatos se sentou para julgar e entregou Jesus aos judeus.</p>",
+    "content": "<h1>JETUR, JETURITAS</h1><p>Filho de Ismael e seus descendentes (<a href=\"https://ref.ly/Gen25:15\">Gn 25.15</a>; <a href=\"https://ref.ly/1Chr1:31\">1Cr 1.31</a>).</p><p>As tribos israelitas que se estabeleceram a leste do Jordão tiveram que lutar contra eles (<a href=\"https://ref.ly/1Chr5:19\">1Cr 5.19</a>). Eles também são chamados de itureus. Os jeturitas continuaram a viver até os tempos do Novo Testamento. A região de Itureia foi nomeada em homenagem a eles. Era uma área a nordeste da Galileia (<a href=\"https://ref.ly/Luke3:1\">Lc 3.1</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5285\" data-resourceType=\"TyndaleBibleDictionary\">Itureia, Itureus</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40027027",
-          "start_ref_usfm": "MAT 27:27",
-          "end_ref": "40027027",
-          "end_ref_usfm": "MAT 27:27"
+          "start_ref": "01025015",
+          "start_ref_usfm": "GEN 25:15",
+          "end_ref": "01025015",
+          "end_ref_usfm": "GEN 25:15"
         },
         {
-          "start_ref": "41015016",
-          "start_ref_usfm": "MRK 15:16",
-          "end_ref": "41015016",
-          "end_ref_usfm": "MRK 15:16"
+          "start_ref": "13001031",
+          "start_ref_usfm": "1CH 1:31",
+          "end_ref": "13001031",
+          "end_ref_usfm": "1CH 1:31"
         },
         {
-          "start_ref": "43018028",
-          "start_ref_usfm": "JHN 18:28",
-          "end_ref": "43018028",
-          "end_ref_usfm": "JHN 18:28"
+          "start_ref": "13005019",
+          "start_ref_usfm": "1CH 5:19",
+          "end_ref": "13005019",
+          "end_ref_usfm": "1CH 5:19"
         },
         {
-          "start_ref": "43018033",
-          "start_ref_usfm": "JHN 18:33",
-          "end_ref": "43018033",
-          "end_ref_usfm": "JHN 18:33"
-        },
-        {
-          "start_ref": "43019009",
-          "start_ref_usfm": "JHN 19:9",
-          "end_ref": "43019009",
-          "end_ref_usfm": "JHN 19:9"
-        },
-        {
-          "start_ref": "44023035",
-          "start_ref_usfm": "ACT 23:35",
-          "end_ref": "44023035",
-          "end_ref_usfm": "ACT 23:35"
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5285,
+          "content_id": 682977,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Itureia, Itureus",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

@@ -1,94 +1,84 @@
 [
   {
-    "content_id": 6973,
-    "reference_id": 6141,
-    "title": "Master",
+    "content_id": 6971,
+    "reference_id": 6139,
+    "title": "Massah and Meribah",
     "media_type": "Text",
-    "index_reference": "master",
+    "index_reference": "massah and meribah",
     "language": "eng",
-    "content": "<h1>MASTER, MISTRESS</h1><p>Someone who has control, authority, or ownership over something or someone. The term &quot;master&quot; is used to indicate someone of high rank. &quot;Mistress&quot; is the female equivalent of &quot;master.&quot; A master can be:</p><ul><li><p>someone who owns an animal or property (<a href=\"https://ref.ly/Isa1:3\">Isaiah 1:3</a>)</p></li><li><p>someone in charge of a household (<a href=\"https://ref.ly/Mark13:35\">Mark 13:35</a>)</p></li><li><p>someone who owns servants or slaves (<a href=\"https://ref.ly/Gen16:9\">Genesis 16:9</a>;<a href=\"https://ref.ly/Gen39:3\"> 39:3</a>; <a href=\"https://ref.ly/Eph6:5\">Ephesians 6:5</a>)</p></li><li><p>an employer (<a href=\"https://ref.ly/Luke16:3\">Luke 16:3</a>)</p></li><li><p>a teacher (<a href=\"https://ref.ly/Luke9:49\">Luke 9:49</a>; compare <a href=\"https://ref.ly/Mark9:38\">Mark 9:38</a>, which uses &quot;teacher&quot; instead of &quot;master&quot;)</p></li><li><p>the Lord God (<a href=\"https://ref.ly/Eph6:9\">Ephesians 6:9</a>)</p></li></ul><p>The word &quot;master&quot; is often used to describe Jesus. When the Greek word <em>kurios</em> (usually translated as &quot;Lord&quot;) refers to Jesus, it emphasizes both the authority God gave him and his role in the lives of believers.</p>",
+    "content": "<h1>MASSAH AND MERIBAH</h1><p>Massah and Meribah were two places where the Israelites complained about not having water during their journey through the desert. In Hebrew, <em>massah</em> means “to put to the test” and <em>meribah </em>means “to find fault, quarrel” (<a href=\"https://ref.ly/Exod17:7\">Exodus 17:7</a>). At Rephidim, the Israelites had no water to drink. God told Moses to strike a rock, and water came out of it. Moses gave this place two names (Massah and Meribah) because the people tested God by doubting he would provide for them</p><p>The Bible mentions Massah four times when talking about how the Israelites rebelled against God (<a href=\"https://ref.ly/Deut6:16\">Deuteronomy 6:16</a>; <a href=\"https://ref.ly/Deut9:22\">9:22</a>; <a href=\"https://ref.ly/Deut33:8\">33:8</a>; <a href=\"https://ref.ly/Ps95:8\">Psalm 95:8</a>). </p><p>In contrast, <a href=\"https://ref.ly/Num20:13,Num20:24\">Numbers 20:13, 24</a>; <a href=\"https://ref.ly/Num27:14\">27:14</a>; and <a href=\"https://ref.ly/Deut32:51\">Deuteronomy 32:51</a> place Meribah near Kadesh in the Zin wilderness. There, Moses struck the rock twice to produce water. <a href=\"https://ref.ly/Ps81:7\">Psalm 81:7</a> and <a href=\"https://ref.ly/Deut33:8\">Deuteronomy 33:8</a> suggest that God was testing the Israelites during these events.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6237\" data-resourceType=\"TyndaleBibleDictionary\">Meribah</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01045008",
-          "start_ref_usfm": "GEN 45:8",
-          "end_ref": "01045008",
-          "end_ref_usfm": "GEN 45:8"
+          "start_ref": "02017007",
+          "start_ref_usfm": "EXO 17:7",
+          "end_ref": "02017007",
+          "end_ref_usfm": "EXO 17:7"
         },
         {
-          "start_ref": "07019011",
-          "start_ref_usfm": "JDG 19:11",
-          "end_ref": "07019011",
-          "end_ref_usfm": "JDG 19:11"
+          "start_ref": "04020013",
+          "start_ref_usfm": "NUM 20:13",
+          "end_ref": "04020013",
+          "end_ref_usfm": "NUM 20:13"
         },
         {
-          "start_ref": "23001003",
-          "start_ref_usfm": "ISA 1:3",
-          "end_ref": "23001003",
-          "end_ref_usfm": "ISA 1:3"
+          "start_ref": "04020024",
+          "start_ref_usfm": "NUM 20:24",
+          "end_ref": "04020024",
+          "end_ref_usfm": "NUM 20:24"
         },
         {
-          "start_ref": "27001003",
-          "start_ref_usfm": "DAN 1:3",
-          "end_ref": "27001003",
-          "end_ref_usfm": "DAN 1:3"
+          "start_ref": "04027014",
+          "start_ref_usfm": "NUM 27:14",
+          "end_ref": "04027014",
+          "end_ref_usfm": "NUM 27:14"
         },
         {
-          "start_ref": "40006024",
-          "start_ref_usfm": "MAT 6:24",
-          "end_ref": "40006024",
-          "end_ref_usfm": "MAT 6:24"
+          "start_ref": "05006016",
+          "start_ref_usfm": "DEU 6:16",
+          "end_ref": "05006016",
+          "end_ref_usfm": "DEU 6:16"
         },
         {
-          "start_ref": "41009005",
-          "start_ref_usfm": "MRK 9:5",
-          "end_ref": "41009005",
-          "end_ref_usfm": "MRK 9:5"
+          "start_ref": "05009022",
+          "start_ref_usfm": "DEU 9:22",
+          "end_ref": "05009022",
+          "end_ref_usfm": "DEU 9:22"
         },
         {
-          "start_ref": "42005005",
-          "start_ref_usfm": "LUK 5:5",
-          "end_ref": "42005005",
-          "end_ref_usfm": "LUK 5:5"
+          "start_ref": "05032051",
+          "start_ref_usfm": "DEU 32:51",
+          "end_ref": "05032051",
+          "end_ref_usfm": "DEU 32:51"
         },
         {
-          "start_ref": "42009049",
-          "start_ref_usfm": "LUK 9:49",
-          "end_ref": "42009049",
-          "end_ref_usfm": "LUK 9:49"
+          "start_ref": "05033008",
+          "start_ref_usfm": "DEU 33:8",
+          "end_ref": "05033008",
+          "end_ref_usfm": "DEU 33:8"
         },
         {
-          "start_ref": "42014021",
-          "start_ref_usfm": "LUK 14:21",
-          "end_ref": "42014021",
-          "end_ref_usfm": "LUK 14:21"
+          "start_ref": "19081007",
+          "start_ref_usfm": "PSA 81:7",
+          "end_ref": "19081007",
+          "end_ref_usfm": "PSA 81:7"
         },
         {
-          "start_ref": "44025026",
-          "start_ref_usfm": "ACT 25:26",
-          "end_ref": "44025026",
-          "end_ref_usfm": "ACT 25:26"
-        },
-        {
-          "start_ref": "44027011",
-          "start_ref_usfm": "ACT 27:11",
-          "end_ref": "44027011",
-          "end_ref_usfm": "ACT 27:11"
-        },
-        {
-          "start_ref": "49006009",
-          "start_ref_usfm": "EPH 6:9",
-          "end_ref": "49006009",
-          "end_ref_usfm": "EPH 6:9"
-        },
-        {
-          "start_ref": "60002018",
-          "start_ref_usfm": "1PE 2:18",
-          "end_ref": "60002018",
-          "end_ref_usfm": "1PE 2:18"
+          "start_ref": "19095008",
+          "start_ref_usfm": "PSA 95:8",
+          "end_ref": "19095008",
+          "end_ref_usfm": "PSA 95:8"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6237,
+          "content_id": 7069,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Meribah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

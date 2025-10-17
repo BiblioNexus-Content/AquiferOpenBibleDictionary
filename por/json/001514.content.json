@@ -1,22 +1,37 @@
 [
   {
-    "content_id": 481569,
-    "reference_id": 6914,
-    "title": "Pisom",
+    "content_id": 759936,
+    "reference_id": 6779,
+    "title": "Patrimônio",
     "media_type": "Text",
-    "index_reference": "pisom",
+    "index_reference": "patrimônio",
     "language": "por",
-    "content": "<h1>PISOM</h1><p>Primeira das quatro divisões do rio que fluía do Jardim do Éden (<a href=\"https://ref.ly/Gen2:11\">Gn 2.11</a>). As sugestões para sua identidade incluem o Rion, o Indo, o Ganges, um canal conectando o Tigre e o Eufrates e um símbolo da Via Láctea. Não há consenso sobre a identidade de Pison.</p>",
+    "content": "<h1>PATRIMÔNIO</h1><p>Uma herança de um pai ou antepassado (<a href=\"https://ref.ly/Deut18:8\">Dt 18.8</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4936\" data-resourceType=\"TyndaleBibleDictionary\">Herdeiro</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5190\" data-resourceType=\"TyndaleBibleDictionary\">Herança</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01002011",
-          "start_ref_usfm": "GEN 2:11",
-          "end_ref": "01002011",
-          "end_ref_usfm": "GEN 2:11"
+          "start_ref": "05018008",
+          "start_ref_usfm": "DEU 18:8",
+          "end_ref": "05018008",
+          "end_ref_usfm": "DEU 18:8"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4936,
+          "content_id": 124389,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Herdeiro",
+          "language": "por"
+        },
+        {
+          "reference_id": 5190,
+          "content_id": 124391,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Herança",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

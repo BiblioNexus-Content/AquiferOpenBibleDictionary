@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5607,
-    "reference_id": 4775,
-    "title": "Halhul",
+    "content_id": 5606,
+    "reference_id": 4774,
+    "title": "Half-Shekel Tax",
     "media_type": "Text",
-    "index_reference": "halhul",
+    "index_reference": "half-shekel tax",
     "language": "eng",
-    "content": "<h1>HALHUL</h1><p>City assigned to Judah’s tribe for an inheritance after the initial conquest of Canaan. It was located between Beth-zur and Beth-anoth, four miles (6.4 kilometers) north of Hebron (<a href=\"https://ref.ly/Josh15:58\">Jos 15:58</a>).</p>",
+    "content": "<h1>HALF-SHEKEL TAX</h1><p>The tax on all adult Jews throughout the world. It began during the time between Testaments to support the temple. It was continued by Vespasian for the Roman replacement; the temple tax of <a href=\"https://ref.ly/Matt17:24-Matt17:25\">Matthew 17:24</a><a href=\"https://ref.ly/Matt17:24-Matt17:25\">–</a><a href=\"https://ref.ly/Matt17:24-Matt17:25\">25</a>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015058",
-          "start_ref_usfm": "JOS 15:58",
-          "end_ref": "06015058",
-          "end_ref_usfm": "JOS 15:58"
+          "start_ref": "40017024",
+          "start_ref_usfm": "MAT 17:24",
+          "end_ref": "40017025",
+          "end_ref_usfm": "MAT 17:25"
         }
       ],
       "resource": []

@@ -1,28 +1,23 @@
 [
   {
-    "content_id": 8005,
-    "reference_id": 7173,
-    "title": "Rephan",
+    "content_id": 8004,
+    "reference_id": 7172,
+    "title": "Rephaites",
     "media_type": "Text",
-    "index_reference": "rephan",
+    "index_reference": "rephaites",
     "language": "eng",
-    "content": "<h1>REPHAN</h1><p>A pagan deity mentioned by Stephen in <a href=\"https://ref.ly/Acts7:43\">Acts 7:43 </a>(King James Version &quot;Remphan&quot;; New American Standard Bible &quot;Rompha&quot;). Stephen quoted from the text of <a href=\"https://ref.ly/Amos5:26\">Amos 5:26</a> to show how the Israelites worshiped false gods during their time in the wilderness. </p><p>Stephen was quoting from the Septuagint (the Greek translation of the Old Testament). The Septuagint translators understood the Hebrew word <em>kaiwan</em> to refer to the Assyrian god of Saturn, or possibly to the Egyptian Saturn god Repa.</p><p>Some scholars argue that <a href=\"https://ref.ly/Amos5:26\">Amos 5:26</a> does not name specific ancient gods at all, but is simply making a general reference to the false worship practiced by the Israelites in the wilderness.</p>",
+    "content": "<h1>REPHAITES</h1><p>Alternate translation for Rephaim. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7171\" data-resourceType=\"TyndaleBibleDictionary\">Rephaim #2</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "30005026",
-          "start_ref_usfm": "AMO 5:26",
-          "end_ref": "30005026",
-          "end_ref_usfm": "AMO 5:26"
-        },
-        {
-          "start_ref": "44007043",
-          "start_ref_usfm": "ACT 7:43",
-          "end_ref": "44007043",
-          "end_ref_usfm": "ACT 7:43"
+          "reference_id": 7171,
+          "content_id": 8003,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Rephaim",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

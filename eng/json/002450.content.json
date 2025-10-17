@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 5705,
-    "reference_id": 4873,
-    "title": "Hassenaah",
+    "content_id": 5704,
+    "reference_id": 4872,
+    "title": "Hasrah",
     "media_type": "Text",
-    "index_reference": "hassenaah",
+    "index_reference": "hasrah",
     "language": "eng",
-    "content": "<h1>HASSENAAH</h1><p>Alternate name for Senaah in <a href=\"https://ref.ly/Neh3:3\">Nehemiah 3:3</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7389\" data-resourceType=\"TyndaleBibleDictionary\">Senaah</span>.</p>",
+    "content": "<h1>HASRAH*</h1><p>Variant spelling of Harhas, Shallum’s grandfather, in <a href=\"https://ref.ly/2Chr34:22\">2&nbsp;Chronicles 34:22</a> (nlt mg). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4836\" data-resourceType=\"TyndaleBibleDictionary\">Harhas</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16003003",
-          "start_ref_usfm": "NEH 3:3",
-          "end_ref": "16003003",
-          "end_ref_usfm": "NEH 3:3"
+          "start_ref": "14034022",
+          "start_ref_usfm": "2CH 34:22",
+          "end_ref": "14034022",
+          "end_ref_usfm": "2CH 34:22"
         }
       ],
       "resource": [
         {
-          "reference_id": 7389,
-          "content_id": 8221,
+          "reference_id": 4836,
+          "content_id": 5668,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Senaah",
+          "label": "Harhas",
           "language": "eng"
         }
       ]

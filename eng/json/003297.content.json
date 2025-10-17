@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 6555,
-    "reference_id": 5723,
-    "title": "Keren-Happuch",
+    "content_id": 6554,
+    "reference_id": 5722,
+    "title": "Keran",
     "media_type": "Text",
-    "index_reference": "keren-happuch",
+    "index_reference": "keran",
     "language": "eng",
-    "content": "<h1>KEREN-HAPPUCH</h1><p>Job’s third daughter and the sister of Jemimah and Keziah. She was listed as a member of Job’s family at the time of his restoration (<a href=\"https://ref.ly/Job42:14\">Jb 42:14</a>).</p>",
+    "content": "<h1>KERAN</h1><p>Another spelling for Cheran, son of Dishon (<a href=\"https://ref.ly/Gen36:26\">Genesis 36:26</a>; <a href=\"https://ref.ly/1Chr1:41\">1&nbsp;Chronicles 1:41</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3675\" data-resourceType=\"TyndaleBibleDictionary\">Cheran</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "18042014",
-          "start_ref_usfm": "JOB 42:14",
-          "end_ref": "18042014",
-          "end_ref_usfm": "JOB 42:14"
+          "start_ref": "01036026",
+          "start_ref_usfm": "GEN 36:26",
+          "end_ref": "01036026",
+          "end_ref_usfm": "GEN 36:26"
+        },
+        {
+          "start_ref": "13001041",
+          "start_ref_usfm": "1CH 1:41",
+          "end_ref": "13001041",
+          "end_ref_usfm": "1CH 1:41"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3675,
+          "content_id": 4507,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Cheran",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

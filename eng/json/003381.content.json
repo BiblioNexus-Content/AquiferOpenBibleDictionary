@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6639,
-    "reference_id": 5807,
-    "title": "Koine Greek",
+    "content_id": 6638,
+    "reference_id": 5806,
+    "title": "Koheleth",
     "media_type": "Text",
-    "index_reference": "koine greek",
+    "index_reference": "koheleth",
     "language": "eng",
-    "content": "<h1>KOINE GREEK</h1><p>A form of the Greek language that was widely used throughout the Near East and Mediterranean regions during the time of the Roman Empire. The word <em>koine</em> means &quot;common&quot; in Greek. This was the form of Greek used to write the New Testament and translate the Septuagint (a Greek translation of the Old Testament).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3399\" data-resourceType=\"TyndaleBibleDictionary\">Bible</span>. </p>",
+    "content": "<h1>KOHELETH</h1><p>Another spelling for Qoheleth. This is an alternative way to write the Hebrew title of the book of Ecclesiastes. The spelling difference comes from different ways of translating Hebrew letters into English. Both Koheleth and Qoheleth refer to the same person who wrote Ecclesiastes and called himself &quot;the Teacher&quot; or &quot;the Preacher.&quot;</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7046\" data-resourceType=\"TyndaleBibleDictionary\">Qoheleth</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3399,
-          "content_id": 4231,
+          "reference_id": 7046,
+          "content_id": 7878,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bible",
+          "label": "Qoheleth",
           "language": "eng"
         }
       ]

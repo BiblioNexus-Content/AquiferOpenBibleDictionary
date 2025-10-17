@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4680,
-    "reference_id": 3848,
-    "title": "Coz",
+    "content_id": 4677,
+    "reference_id": 3845,
+    "title": "Cow",
     "media_type": "Text",
-    "index_reference": "coz",
+    "index_reference": "cow",
     "language": "eng",
-    "content": "<h1>COZ*</h1><p>KJV spelling of Koz in <a href=\"https://ref.ly/1Chr4:8\">1&nbsp;Chronicles 4:8</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5817\" data-resourceType=\"TyndaleBibleDictionary\">Koz #1</span>.</p>",
+    "content": "<h1>COW</h1><p>A cow is an adult female bovine (a large, four-footed farm animal). In the Bible, cows are part of the broader group called <strong>cattle</strong>, which includes males (bulls, oxen, steers) and females.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3616\" data-resourceType=\"TyndaleBibleDictionary\">Cattle</span>; <em>see also </em><span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "13004008",
-          "start_ref_usfm": "1CH 4:8",
-          "end_ref": "13004008",
-          "end_ref_usfm": "1CH 4:8"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5817,
-          "content_id": 6649,
+          "reference_id": 2782,
+          "content_id": 3614,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Koz",
+          "label": "Animals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 3616,
+          "content_id": 4448,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Cattle",
           "language": "eng"
         }
       ]

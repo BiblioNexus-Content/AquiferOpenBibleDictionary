@@ -1,56 +1,70 @@
 [
   {
-    "content_id": 7294,
-    "reference_id": 6462,
-    "title": "Nahum (Person)",
+    "content_id": 7292,
+    "reference_id": 6460,
+    "title": "Nahshon",
     "media_type": "Text",
-    "index_reference": "nahum (person)",
+    "index_reference": "nahshon",
     "language": "eng",
-    "content": "<h1>NAHUM (Person)</h1><ol><li><p>A prophet of Judah whose name means “consolation” or “consoler.” This name fits his message. He wrote to encourage the people of Judah while the Assyrians oppressed them (<a href=\"https://ref.ly/Nah1:1\">Nahum 1:1</a>). Nothing is known of Nahum, the prophet who wrote the book of Nahum, except that he came from the village of Elkosh. Its exact location is unknown, but four suggestions have been made:</p><ul><li><p><strong>Alqush: </strong>Elkosh may be the town of Alqush, near Mosul on the Tigris River just north of Nineveh. A&nbsp;tradition says this is the site of Nahum’s tomb, but it is first mentioned by Masius in the 16th century. There is no historical physical evidence of the tomb or its location. Many people think this tomb is probably not real. </p></li><li><p><strong>Helcesaei: </strong>Jerome recounts a Jewish tradition that identifies Elkosh with &quot;a village in Galilee called &apos;Helcesaei&apos;&quot; (<em>Helcesei</em> or <em>Elcesi</em>). He writes, &quot;A very small one, indeed, and containing in its ruins hardly any traces of ancient buildings, but one which is well known to the Jews and was also pointed out to me by my guide.&quot; This village is located about 24.1&nbsp;kilometers (15 miles) northwest of the Sea of Galilee. </p></li><li><p><strong>Capernaum: </strong>On the northern edge of the Sea of Galilee rests the ruins of <strong>Capernaum</strong>, meaning “village of Nahum.” But there is no proof that this name goes back to the prophet. </p></li><li><p><strong>Elcesi: </strong>Some believe Elkosh should be identified with <strong>Elcesi</strong>, near Bet-gabre. It is about halfway between Gaza and Jerusalem in Judah. <a href=\"https://ref.ly/Nah1:15\">Nahum 1:15 </a>supports this position.</p></li></ul><p>Nahum may have been a northern tribesman. He could have moved to Judah after the conquest of 722 BC and ministered there.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6461\" data-resourceType=\"TyndaleBibleDictionary\">Nahum, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6999\" data-resourceType=\"TyndaleBibleDictionary\">Prophet, Prophetess</span>.</p></li><li><p>An ancestor of Jesus, according to <a href=\"https://ref.ly/Luke3:25\">Luke 3:25</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4580\" data-resourceType=\"TyndaleBibleDictionary\">Ancestry of Jesus Christ</span>.</p></li></ol>",
+    "content": "<h1>NAHSHON</h1><p>Amminadab’s son and brother of Elisheba and Salmon’s father (<a href=\"https://ref.ly/Exod6:23\">Exodus 6:23</a>; <a href=\"https://ref.ly/1Chr2:10-1Chr2:11\">1&nbsp;Chronicles 2:10</a><a href=\"https://ref.ly/1Chr2:10-1Chr2:11\">–</a><a href=\"https://ref.ly/1Chr2:10-1Chr2:11\">11</a>). </p><p>Nahshon, the prince of Judah’s tribe at the start of Israel’s wandering in the wilderness wanderings (<a href=\"https://ref.ly/Num1:7\">Numbers 1:7</a>; <a href=\"https://ref.ly/Num2:3\">2:3</a>; <a href=\"https://ref.ly/Num10:14\">10:14</a>), represented his tribe at the dedication of the altar (<a href=\"https://ref.ly/Num7:12\">Numbers 7:12</a>).</p><p>In <a href=\"https://ref.ly/Ruth4:20\">Ruth 4:20,</a> he is listed as David’s ancestor and a descendant of Judah through the line of Perez. In Matthew and Luke’s family lists, he is listed as an ancestor of Jesus Christ (<a href=\"https://ref.ly/Matt1:4\">Matthew 1:4</a>; <a href=\"https://ref.ly/Luke3:32\">Luke 3:32</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "34001001",
-          "start_ref_usfm": "NAM 1:1",
-          "end_ref": "34001001",
-          "end_ref_usfm": "NAM 1:1"
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006023",
+          "end_ref_usfm": "EXO 6:23"
         },
         {
-          "start_ref": "34001015",
-          "start_ref_usfm": "NAM 1:15",
-          "end_ref": "34001015",
-          "end_ref_usfm": "NAM 1:15"
+          "start_ref": "04001007",
+          "start_ref_usfm": "NUM 1:7",
+          "end_ref": "04001007",
+          "end_ref_usfm": "NUM 1:7"
         },
         {
-          "start_ref": "42003025",
-          "start_ref_usfm": "LUK 3:25",
-          "end_ref": "42003025",
-          "end_ref_usfm": "LUK 3:25"
+          "start_ref": "04002003",
+          "start_ref_usfm": "NUM 2:3",
+          "end_ref": "04002003",
+          "end_ref_usfm": "NUM 2:3"
+        },
+        {
+          "start_ref": "04007012",
+          "start_ref_usfm": "NUM 7:12",
+          "end_ref": "04007012",
+          "end_ref_usfm": "NUM 7:12"
+        },
+        {
+          "start_ref": "04010014",
+          "start_ref_usfm": "NUM 10:14",
+          "end_ref": "04010014",
+          "end_ref_usfm": "NUM 10:14"
+        },
+        {
+          "start_ref": "08004020",
+          "start_ref_usfm": "RUT 4:20",
+          "end_ref": "08004020",
+          "end_ref_usfm": "RUT 4:20"
+        },
+        {
+          "start_ref": "40001004",
+          "start_ref_usfm": "MAT 1:4",
+          "end_ref": "40001004",
+          "end_ref_usfm": "MAT 1:4"
+        },
+        {
+          "start_ref": "42003032",
+          "start_ref_usfm": "LUK 3:32",
+          "end_ref": "42003032",
+          "end_ref_usfm": "LUK 3:32"
+        },
+        {
+          "start_ref": "13002010",
+          "start_ref_usfm": "1CH 2:10",
+          "end_ref": "13002011",
+          "end_ref_usfm": "1CH 2:11"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4580,
-          "content_id": 5412,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Genealogy of Jesus Christ",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6461,
-          "content_id": 7293,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Nahum, Book of",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6999,
-          "content_id": 7831,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Prophet, Prophetess",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

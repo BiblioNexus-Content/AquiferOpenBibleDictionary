@@ -1,40 +1,60 @@
 [
   {
-    "content_id": 602063,
-    "reference_id": 5999,
-    "title": "Machaerus",
+    "content_id": 822973,
+    "reference_id": 5426,
+    "title": "Jediaël",
     "media_type": "Text",
-    "index_reference": "machaerus",
+    "index_reference": "jediaël",
     "language": "fra",
-    "content": "<h1>MACHAÉRUS, <strong>MACHÉRONTE</strong></h1><p>Nom d&apos;une forteresse imposante où Jean le Baptiste a été emprisonné. Selon l&apos;historien juif Flavius Josèphe, c&apos;est là qu&apos;Hérode Antipas a ordonné l&apos;exécution de Jean (<em>Antiquités</em> 18.5.2).</p><p>Bien que le nom Machaérus ne soit pas mentionné dans la Bible et dans les textes religieux juifs écrits entre l&apos;AT et le NT, c&apos;était l&apos;une des forteresses les plus puissantes de l&apos;ancienne Palestine. Elle a été construite par Alexandre Jannée, le roi hasmonéen (Josèphe, <em>Guerre</em> 7.6.1–4). Pendant les guerres de Pompée, le général romain Gabinius l&apos;a détruite (<em>Guerre</em> 1.8.5). Plus tard, elle est reconstruite et agrandie par Hérode le Grand, qui ajoute un grand palais à l&apos;intérieur de ses murs.</p><p>La forteresse se dressait sur une haute falaise surplombant la mer Morte. Elle était située à l&apos;est de la mer Morte, dans la partie sud de la Pérée. Aujourd&apos;hui, cet endroit est appelé Mukawir.</p><p>Cette forteresse a aussi été le site d&apos;un événement politique important. Hérode Antipas allait divorcer de sa première épouse, originaire d&apos;Arabie, pour pouvoir épouser Hérodiade. Sa première épouse s&apos;est alors enfuie de Machaérus vers son père, le roi Arétas IV d&apos;Arabie. Selon Josèphe, cet incident a déclenché une guerre entre Hérode et le roi Arétas (<em>Antiquités</em> 18.5.1 de Josèphe). Hérode a perdu cette guerre.</p><p>Pendant que Jean est en prison à Machaérus, il est autorisé à recevoir des visiteurs. C&apos;est ainsi qu&apos;il envoie de ses disciples à Jésus pour lui demander s&apos;il est bien le Christ attendu (<a href=\"https://ref.ly/Matt11:2-Matt11:3\">Mt 11.2–3</a> ; <a href=\"https://ref.ly/Luke7:18-Luke7:20\">Lc 7.18–20</a>).</p><p><a href=\"https://ref.ly/Matt14:1-Matt14:12\">Matthieu 14.1–12</a> et <a href=\"https://ref.ly/Mark6:17-Mark6:29\">Marc 6.17–29</a> racontent comment Hérode réagit en entendant parler de Jésus et de ses miracles, pensant que Jésus devait être Jean-Baptiste revenu à la vie.</p>",
+    "content": "<h1>JEDIAËL</h1><p>1. Fils de Benjamin (<a href=\"https://ref.ly/1Chr7:6,1Chr7:10-1Chr7:11\">1Ch 7.6, 10–11</a>), dont les descendants étaient des guerriers, au nombre de 17 200 à l&apos;époque de David. Certains suggèrent qu&apos;il est identifiable à Aschbel, également fils de Benjamin (<a href=\"https://ref.ly/Gen46:21\">Gn 46.21</a>).</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2961\" data-resourceType=\"TyndaleBibleDictionary\">Aschbel, Ashbelite</span>.</p><p>2. Fils de Schimri, mentionné parmi les vaillants de David (<a href=\"https://ref.ly/1Chr11:45\">1Ch 11.45</a>).</p><p>3. Celui qui a déserté Saül pour rejoindre David à Tsiklag (<a href=\"https://ref.ly/1Chr12:20\">1Ch 12.20</a>). Il se peut qu&apos;il s&apos;agisse de la même personne que n°2 ci-dessus.</p><p>4. Membre de la famille lévitique de Koré, nommé portier du temple pendant le règne de David (<a href=\"https://ref.ly/1Chr26:2\">1Ch 26.2</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40014001",
-          "start_ref_usfm": "MAT 14:1",
-          "end_ref": "40014012",
-          "end_ref_usfm": "MAT 14:12"
+          "start_ref": "01046021",
+          "start_ref_usfm": "GEN 46:21",
+          "end_ref": "01046021",
+          "end_ref_usfm": "GEN 46:21"
         },
         {
-          "start_ref": "41006017",
-          "start_ref_usfm": "MRK 6:17",
-          "end_ref": "41006029",
-          "end_ref_usfm": "MRK 6:29"
+          "start_ref": "13007006",
+          "start_ref_usfm": "1CH 7:6",
+          "end_ref": "13007006",
+          "end_ref_usfm": "1CH 7:6"
         },
         {
-          "start_ref": "40011002",
-          "start_ref_usfm": "MAT 11:2",
-          "end_ref": "40011003",
-          "end_ref_usfm": "MAT 11:3"
+          "start_ref": "13011045",
+          "start_ref_usfm": "1CH 11:45",
+          "end_ref": "13011045",
+          "end_ref_usfm": "1CH 11:45"
         },
         {
-          "start_ref": "42007018",
-          "start_ref_usfm": "LUK 7:18",
-          "end_ref": "42007020",
-          "end_ref_usfm": "LUK 7:20"
+          "start_ref": "13012020",
+          "start_ref_usfm": "1CH 12:20",
+          "end_ref": "13012020",
+          "end_ref_usfm": "1CH 12:20"
+        },
+        {
+          "start_ref": "13026002",
+          "start_ref_usfm": "1CH 26:2",
+          "end_ref": "13026002",
+          "end_ref_usfm": "1CH 26:2"
+        },
+        {
+          "start_ref": "13007010",
+          "start_ref_usfm": "1CH 7:10",
+          "end_ref": "13007011",
+          "end_ref_usfm": "1CH 7:11"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2961,
+          "content_id": 822865,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Aschbel, Aschbélite",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

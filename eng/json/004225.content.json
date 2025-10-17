@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7484,
-    "reference_id": 6652,
-    "title": "Olympian Zeus, Temple of",
+    "content_id": 7483,
+    "reference_id": 6651,
+    "title": "Olympas",
     "media_type": "Text",
-    "index_reference": "olympian zeus, temple of",
+    "index_reference": "olympas",
     "language": "eng",
-    "content": "<h1>OLYMPIAN ZEUS, Temple of</h1><p>Name given to the temple of Jerusalem by Antiochus Epiphanes in 168 BC when he turned the holy place into a shrine for the chief of the pagan gods of Greece (<a href=\"https://ref.ly/2Macc6:2\">2&nbsp;Macc 6:2</a>). Jews were forced to abandon ancestral customs and could no longer observe God’s law. The desecration included temple prostitution, forced cannibalism, and humiliation for the&nbsp;Jews.</p>",
+    "content": "<h1>OLYMPAS</h1><p>Member of the church in Rome to whom Paul sent personal greetings (<a href=\"https://ref.ly/Rom16:15\">Rom 16:15</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "79006002",
-          "start_ref_usfm": "2MA 6:2",
-          "end_ref": "79006002",
-          "end_ref_usfm": "2MA 6:2"
+          "start_ref": "45016015",
+          "start_ref_usfm": "ROM 16:15",
+          "end_ref": "45016015",
+          "end_ref_usfm": "ROM 16:15"
         }
       ],
       "resource": []

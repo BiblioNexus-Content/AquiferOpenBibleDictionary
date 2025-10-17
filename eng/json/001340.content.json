@@ -1,23 +1,22 @@
 [
   {
-    "content_id": 4590,
-    "reference_id": 3758,
-    "title": "Clement of Rome",
+    "content_id": 4591,
+    "reference_id": 3759,
+    "title": "Clement",
     "media_type": "Text",
-    "index_reference": "clement of rome",
+    "index_reference": "clement",
     "language": "eng",
-    "content": "<h1>CLEMENT OF ROME</h1><p>A presbyter and bishop in&nbsp;Rome who wrote a letter to the church at Corinth. The letter was written around AD&nbsp;96. This letter is probably the earliest Christian writing outside the New Testament. Dionysius of Corinth, who was bishop around AD 170, was the first to identify Clement as the author of that letter. Origen, a theologian who lived in Alexandria, and Eusebius, the first church historian, identified the writer as the Clement listed in the <em>Shepherd of Hermas. </em>The <em>Shepherd of Hermas</em> is a Christian writing from the mid-second century.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3757\" data-resourceType=\"TyndaleBibleDictionary\">Clement, Epistle of</span>.</p>",
+    "content": "<h1>CLEMENT</h1><p>Coworker with Paul at Philippi who worked side by side with him in the furtherance of the gospel there (<a href=\"https://ref.ly/Phil4:3\">Phil 4:3</a>). Paul includes him in the group of those whose names are written in the Book of Life. Even though some early church fathers identified this Clement with the third bishop of Rome, there is no evidence to substantiate their claims.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 3757,
-          "content_id": 4589,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Clement, Epistle of",
-          "language": "eng"
+          "start_ref": "50004003",
+          "start_ref_usfm": "PHP 4:3",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

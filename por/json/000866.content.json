@@ -1,28 +1,37 @@
 [
   {
-    "content_id": 759789,
-    "reference_id": 4818,
-    "title": "Haniel",
+    "content_id": 682943,
+    "reference_id": 4678,
+    "title": "Gomorra",
     "media_type": "Text",
-    "index_reference": "haniel",
+    "index_reference": "gomorra",
     "language": "por",
-    "content": "<h1>Haniel</h1><ol><li><p>Um filho de Éfode e líder da tribo de Manassés. Ele representou sua tribo quando Moisés distribuiu a terra a Israel (<a href=\"https://ref.ly/Num34:23\">Nm 34.23</a>).</p></li><li><p>Um filho de Ula e guerreiro na tribo de Aser (<a href=\"https://ref.ly/1Chr7:39\">1Cr 7.39</a>).</p></li></ol>",
+    "content": "<h1>GOMORRA</h1><p>Uma das &quot;cidades do vale&quot; destruída por Deus devido à sua maldade (<a href=\"https://ref.ly/Gen19:1-Gen19:38\">Gn 19</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3739\" data-resourceType=\"TyndaleBibleDictionary\">Cidades da Planície</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7725\" data-resourceType=\"TyndaleBibleDictionary\">Sodoma e Gomorra</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04034023",
-          "start_ref_usfm": "NUM 34:23",
-          "end_ref": "04034023",
-          "end_ref_usfm": "NUM 34:23"
-        },
-        {
-          "start_ref": "13007039",
-          "start_ref_usfm": "1CH 7:39",
-          "end_ref": "13007039",
-          "end_ref_usfm": "1CH 7:39"
+          "start_ref": "01019001",
+          "start_ref_usfm": "GEN 19:1",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3739,
+          "content_id": 682897,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Cidades da Planície",
+          "language": "por"
+        },
+        {
+          "reference_id": 7725,
+          "content_id": 683101,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Sodoma e Gomorra",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

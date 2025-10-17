@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 6850,
-    "reference_id": 6018,
-    "title": "Magdalene, Mary",
+    "content_id": 6849,
+    "reference_id": 6017,
+    "title": "Magdala",
     "media_type": "Text",
-    "index_reference": "magdalene, mary",
+    "index_reference": "magdala",
     "language": "eng",
-    "content": "<h1>MAGDALENE, Mary</h1><p>Name of one of several Marys who followed Jesus. This Mary was the first to see the risen Christ (<a href=\"https://ref.ly/John20:11-John20:18\">Jn 20:11–18</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6129\" data-resourceType=\"TyndaleBibleDictionary\">Mary #3</span>.</p>",
+    "content": "<h1>MAGDALA</h1><p>A King James Version name used in <a href=\"https://ref.ly/Matt15:39\">Matthew 15:39</a>. Recent versions and translations use the name Magadan. Sources dating from New Testament times locate the town of Magdala a short distance north of the city of Tiberias on the western shore of the Sea of Galilee.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6015\" data-resourceType=\"TyndaleBibleDictionary\">Magadan</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "43020011",
-          "start_ref_usfm": "JHN 20:11",
-          "end_ref": "43020018",
-          "end_ref_usfm": "JHN 20:18"
+          "start_ref": "40015039",
+          "start_ref_usfm": "MAT 15:39",
+          "end_ref": "40015039",
+          "end_ref_usfm": "MAT 15:39"
         }
       ],
       "resource": [
         {
-          "reference_id": 6129,
-          "content_id": 6961,
+          "reference_id": 6015,
+          "content_id": 6847,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Mary",
+          "label": "Magadan",
           "language": "eng"
         }
       ]

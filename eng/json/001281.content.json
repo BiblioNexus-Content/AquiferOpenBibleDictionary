@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 4534,
-    "reference_id": 3702,
-    "title": "Chisloth-tabor",
+    "content_id": 4533,
+    "reference_id": 3701,
+    "title": "Chislon",
     "media_type": "Text",
-    "index_reference": "chisloth-tabor",
+    "index_reference": "chislon",
     "language": "eng",
-    "content": "<h1>CHISLOTH-TABOR</h1><p>A city mentioned in <a href=\"https://ref.ly/Josh19:12\">Joshua 19:12</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3684\" data-resourceType=\"TyndaleBibleDictionary\">Chesulloth</span>. <em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7871\" data-resourceType=\"TyndaleBibleDictionary\">Tabor (Place)</span>.</p><p></p>",
+    "content": "<h1>CHISLON</h1><p>The father of Elidad, a leader of the tribe of Benjamin during the wilderness wanderings of Israel. Elidad was one of those chosen by Moses to divide the land of Canaan among the tribes (<a href=\"https://ref.ly/Num34:21\">Numbers 34:21</a>).</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3684,
-          "content_id": 4516,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Chesulloth",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5793,
-          "content_id": 6625,
+          "reference_id": 5792,
+          "content_id": 6624,
           "resource_code": "Unknown",
-          "label": "Kisloth-Tabor",
+          "label": "Kislon",
           "language": "eng"
         }
       ]

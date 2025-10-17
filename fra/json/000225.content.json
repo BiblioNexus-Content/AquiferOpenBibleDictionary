@@ -1,43 +1,37 @@
 [
   {
-    "content_id": 788710,
-    "reference_id": 3751,
-    "title": "Claude Lysias",
+    "content_id": 822892,
+    "reference_id": 3591,
+    "title": "Caravane",
     "media_type": "Text",
-    "index_reference": "claude lysias",
+    "index_reference": "caravane",
     "language": "fra",
-    "content": "<h1>CLAUDE LYSIAS</h1><p>Commandant de la garnison romaine à Jérusalem, il a écrit une lettre au procurateur romain Félix concernant l&apos;apôtre Paul (<a href=\"https://ref.ly/Acts23:26\">Ac 23.26</a>). Son titre en grec <em>(</em>chiliarque<em>)</em> l&apos;identifie comme un commandant de mille soldats. Bien que Claude Lysias soit inconnu en dehors du Nouveau Testament, certaines informations à son sujet sont fournies par le livre des Actes. Son nom de famille, Lysias, est grec. Le nom romain Claude a semble-t-il été pris au moment où il aurait acheté sa citoyenneté romaine (<a href=\"https://ref.ly/Acts22:28\">22.28</a>).</p><p>Stationné dans la forteresse Antonia surplombant le secteur nord de la zone du temple à Jérusalem, il sauvera Paul d&apos;une foule juive qui était sur le point de le tuer. Il a permis à Paul de parler aux Juifs depuis l&apos;un des deux escaliers qui menaient du parvis des Gentils dans le temple jusqu&apos;à l&apos;Antonia (<a href=\"https://ref.ly/Acts21:40\">Ac 21.40</a>) et a empêché Paul d&apos;être flagellé lorsqu&apos;il a appris la citoyenneté romaine de Paul (<a href=\"https://ref.ly/Acts22:22-Acts22:29\">22.22–29</a>). Claude Lysias enverra Paul secrètement à Césarée sous forte garde lorsque le neveu de Paul informe le tribun d&apos;un complot juif visant à assassiner l&apos;apôtre à Jérusalem (<a href=\"https://ref.ly/Acts23:16-Acts23:35\">23.16–35</a>).</p><p>On ne sait pas comment Luc, l&apos;auteur des Actes, a obtenu une copie de la lettre officielle concernant Paul écrite par Claude à Félix, le gouverneur, mais le document fournit une justification importante du caractère et de la conduite de Paul face aux accusations de ses adversaires.</p>",
+    "content": "<h1>CARAVANE</h1><p>Groupe itinérant de marchands, pèlerins ou autres à l&apos;époque biblique qui se réunissaient par souci de protection mutuelle. Habituellement, les voyageurs utilisaient des animaux de bât pour transporter leurs marchandises ou effets personnels. Pour transporter des biens d&apos;un district à un autre, les ânes étaient principalement utilisés jusqu&apos;en l&apos;an 1100 av. J.‑C. environ, à la date duquel l&apos;utilisation des chameaux est devenue plus courante. La Palestine antique, située entre la mer Méditerranée et l&apos;Égypte d&apos;une part et la Syrie, la Mésopotamie, l&apos;Arabie et les terres plus à l&apos;orient de l&apos;autre, était traversée par des routes commerciales. La nation d&apos;Israël était donc intimement familière avec les caravanes, un grand nombre desquels venaient de Transjordanie et d&apos;Arabie à l&apos;époque de l&apos;Ancien Testament. Les caravanes arabes transportaient souvent des épices et de l&apos;encens (des produits particulièrement lucratifs). Les dirigeants de Séba étaient impliqués dans cette industrie (<a href=\"https://ref.ly/1Kgs10:2\">1R 10.2</a>). La taille d&apos;une caravane dépendait de la quantité de trafic, de la précarité de la route et de la disponibilité des chameaux. Il est possible que jusqu&apos;à quarante chameaux pouvaient être reliés par des cordes attachées de la selle d&apos;un chameau à l&apos;anneau nasal du chameau suivant. Les caravanes pouvaient voyager en file indienne ou avec trois à quatre chameaux de front. Par temps chaud ou lors d&apos;un long voyage, un chameau pouvait transporter environ 16 kg ; lors de trajets courts et frais, il pouvait en transporter beaucoup plus. Joseph sera vendu en esclavage à une caravane d&apos;épices se rendant en Égypte (<a href=\"https://ref.ly/Gen37:25-Gen37:28\">Gn 37.25–28</a>). Des expéditions de raids formaient également des caravanes à certains moments (<a href=\"https://ref.ly/Judg6:3-Judg6:5\">Jg 6.3–5</a> ; <a href=\"https://ref.ly/1Sam30:1-1Sam30:20\">1S 30.1–20</a>).</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8083\" data-resourceType=\"TyndaleBibleDictionary\">Voyage</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44021040",
-          "start_ref_usfm": "ACT 21:40",
-          "end_ref": "44021040",
-          "end_ref_usfm": "ACT 21:40"
+          "start_ref": "11010002",
+          "start_ref_usfm": "1KI 10:2",
+          "end_ref": "11010002",
+          "end_ref_usfm": "1KI 10:2"
         },
         {
-          "start_ref": "44022028",
-          "start_ref_usfm": "ACT 22:28",
-          "end_ref": "44022028",
-          "end_ref_usfm": "ACT 22:28"
+          "start_ref": "09030001",
+          "start_ref_usfm": "1SA 30:1",
+          "end_ref": "09030020",
+          "end_ref_usfm": "1SA 30:20"
         },
         {
-          "start_ref": "44023026",
-          "start_ref_usfm": "ACT 23:26",
-          "end_ref": "44023026",
-          "end_ref_usfm": "ACT 23:26"
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037028",
+          "end_ref_usfm": "GEN 37:28"
         },
         {
-          "start_ref": "44022022",
-          "start_ref_usfm": "ACT 22:22",
-          "end_ref": "44022029",
-          "end_ref_usfm": "ACT 22:29"
-        },
-        {
-          "start_ref": "44023016",
-          "start_ref_usfm": "ACT 23:16",
-          "end_ref": "44023035",
-          "end_ref_usfm": "ACT 23:35"
+          "start_ref": "07006003",
+          "start_ref_usfm": "JDG 6:3",
+          "end_ref": "07006005",
+          "end_ref_usfm": "JDG 6:5"
         }
       ],
       "resource": []

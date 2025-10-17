@@ -1,73 +1,31 @@
 [
   {
-    "content_id": 806025,
-    "reference_id": 4644,
-    "title": "Girgasiens",
+    "content_id": 785195,
+    "reference_id": 4301,
+    "title": "Éraste",
     "media_type": "Text",
-    "index_reference": "girgasiens",
+    "index_reference": "éraste",
     "language": "fra",
-    "content": "<h1>GIRGASIENS</h1><p>Tribu cananéenne (<a href=\"https://ref.ly/Gen10:16\">Gn 10.16</a> ; <a href=\"https://ref.ly/1Chr1:14\">1Ch 1.14</a>) dont la terre a été promise à Abraham (<a href=\"https://ref.ly/Gen15:21\">Gn 15.21</a> ; <a href=\"https://ref.ly/Deut7:1\">Dt 7.1</a> ; <a href=\"https://ref.ly/Josh3:10\">Jos 3.10</a>). La terre sera finalement acquise (<a href=\"https://ref.ly/Josh24:11\">Jos 24.11</a> ; <a href=\"https://ref.ly/Neh9:8\">Né 9.8</a>). La localisation de la tribu est inconnue. Ils ont peut-être vécu à Karkisha, une ville mentionnée dans les textes hittites, ou à Kirkishati, une région à l&apos;est du Tigre. Le nom <em>Gresh</em> apparaît dans des textes ougaritiques du 13e siècle av. J.‑C. et pourrait indiquer une tribu. Dans <a href=\"https://ref.ly/Matt8:28\">Matthieu 8.28</a> ; <a href=\"https://ref.ly/Mark5:1\">Marc 5.1</a> ; et <a href=\"https://ref.ly/Luke8:26\">Luc 8.26</a>, un nom traduit de diverses manières comme « Géraséniens » et « Gadaréniens » pourrait préserver la tradition selon laquelle les Girgashites ont autrefois vécu en Palestine.</p>",
+    "content": "<h1>ÉRASTE</h1><p>Nom mentionné à trois reprises dans le Nouveau Testament. Il est incertain s&apos;il se réfère à une seule personne. Cependant, dans chaque cas, Éraste est un assistant de l&apos;apôtre Paul. Les trois mentions d&apos;Éraste dans le Nouveau Testament sont :</p><ol><li><p>Un assistant de Paul envoyé avec l&apos;apôtre Timothée en Macédoine (<a href=\"https://ref.ly/Acts19:22\">Ac 19.22</a>).</p></li><li><p>Le trésorier de la ville de Corinthe, un fonctionnaire chargé de gérer les finances. Il se peut qu&apos;il ait été un esclave ou un esclave affranchi devenu riche, et un homme important dans la communauté corinthienne. Il envoie ses salutations avec Paul à l&apos;Église de Rome (<a href=\"https://ref.ly/Rom16:23\">Rm 16.23</a>).</p></li><li><p>Un ami de Paul qui est resté à Corinthe (<a href=\"https://ref.ly/2Tim4:20\">2Tm 4.20</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010016",
-          "start_ref_usfm": "GEN 10:16",
-          "end_ref": "01010016",
-          "end_ref_usfm": "GEN 10:16"
+          "start_ref": "44019022",
+          "start_ref_usfm": "ACT 19:22",
+          "end_ref": "44019022",
+          "end_ref_usfm": "ACT 19:22"
         },
         {
-          "start_ref": "01015021",
-          "start_ref_usfm": "GEN 15:21",
-          "end_ref": "01015021",
-          "end_ref_usfm": "GEN 15:21"
+          "start_ref": "45016023",
+          "start_ref_usfm": "ROM 16:23",
+          "end_ref": "45016023",
+          "end_ref_usfm": "ROM 16:23"
         },
         {
-          "start_ref": "05007001",
-          "start_ref_usfm": "DEU 7:1",
-          "end_ref": "05007001",
-          "end_ref_usfm": "DEU 7:1"
-        },
-        {
-          "start_ref": "06003010",
-          "start_ref_usfm": "JOS 3:10",
-          "end_ref": "06003010",
-          "end_ref_usfm": "JOS 3:10"
-        },
-        {
-          "start_ref": "06024011",
-          "start_ref_usfm": "JOS 24:11",
-          "end_ref": "06024011",
-          "end_ref_usfm": "JOS 24:11"
-        },
-        {
-          "start_ref": "13001014",
-          "start_ref_usfm": "1CH 1:14",
-          "end_ref": "13001014",
-          "end_ref_usfm": "1CH 1:14"
-        },
-        {
-          "start_ref": "16009008",
-          "start_ref_usfm": "NEH 9:8",
-          "end_ref": "16009008",
-          "end_ref_usfm": "NEH 9:8"
-        },
-        {
-          "start_ref": "40008028",
-          "start_ref_usfm": "MAT 8:28",
-          "end_ref": "40008028",
-          "end_ref_usfm": "MAT 8:28"
-        },
-        {
-          "start_ref": "41005001",
-          "start_ref_usfm": "MRK 5:1",
-          "end_ref": "41005001",
-          "end_ref_usfm": "MRK 5:1"
-        },
-        {
-          "start_ref": "42008026",
-          "start_ref_usfm": "LUK 8:26",
-          "end_ref": "42008026",
-          "end_ref_usfm": "LUK 8:26"
+          "start_ref": "55004020",
+          "start_ref_usfm": "2TI 4:20",
+          "end_ref": "55004020",
+          "end_ref_usfm": "2TI 4:20"
         }
       ],
       "resource": []

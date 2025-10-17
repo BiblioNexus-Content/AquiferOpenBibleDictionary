@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4328,
-    "reference_id": 3496,
-    "title": "Brazen Serpent",
+    "content_id": 4327,
+    "reference_id": 3495,
+    "title": "Brass",
     "media_type": "Text",
-    "index_reference": "brazen serpent",
+    "index_reference": "brass",
     "language": "eng",
-    "content": "<h1>BRAZEN SERPENT</h1><p>A bronze snake Moses made on God&apos;s command to heal Israelites bitten by snakes in the desert.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3512\" data-resourceType=\"TyndaleBibleDictionary\">Bronze Serpent, Bronze Snake</span>.</p>",
+    "content": "<h1>BRASS</h1><p>A yellowish metal made from copper and zinc, often used in biblical times for making tools, weapons, and decorative items.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3512,
-          "content_id": 4344,
+          "reference_id": 6313,
+          "content_id": 7145,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bronze Snake, Bronze Serpent",
+          "label": "Minerals and Metals",
           "language": "eng"
         }
       ]

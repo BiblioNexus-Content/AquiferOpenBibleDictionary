@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 805958,
-    "reference_id": 2687,
-    "title": "Almodad",
+    "content_id": 822848,
+    "reference_id": 2639,
+    "title": "Ahuzath",
     "media_type": "Text",
-    "index_reference": "almodad",
+    "index_reference": "ahuzath",
     "language": "fra",
-    "content": "<h1>ALMODAD</h1><p>Fils ou descendant de Jokthan. Il est membre de la famille de Noé par l&apos;intermédiaire du fils de Noé, Sem (<a href=\"https://ref.ly/Gen10:26\">Gn 10.26</a> ; <a href=\"https://ref.ly/1Chr1:20\">1Ch 1.20</a>).</p>",
+    "content": "<h1>AHUZATH</h1><p>Conseiller royal d&apos;Abimélec de Guérar. Ahuzath est allé avec Abimélec à Beer-Schéba pour conclure un accord avec Isaac (<a href=\"https://ref.ly/Gen26:26\">Gn 26.26</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010026",
-          "start_ref_usfm": "GEN 10:26",
-          "end_ref": "01010026",
-          "end_ref_usfm": "GEN 10:26"
-        },
-        {
-          "start_ref": "13001020",
-          "start_ref_usfm": "1CH 1:20",
-          "end_ref": "13001020",
-          "end_ref_usfm": "1CH 1:20"
+          "start_ref": "01026026",
+          "start_ref_usfm": "GEN 26:26",
+          "end_ref": "01026026",
+          "end_ref_usfm": "GEN 26:26"
         }
       ],
       "resource": []

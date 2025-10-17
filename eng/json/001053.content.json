@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4309,
-    "reference_id": 3477,
-    "title": "Born Again",
+    "content_id": 4308,
+    "reference_id": 3476,
+    "title": "Bor-Ashan",
     "media_type": "Text",
-    "index_reference": "born again",
+    "index_reference": "bor-ashan",
     "language": "eng",
-    "content": "<h1>BORN AGAIN</h1><p>&quot;Born again&quot; is a phrase Jesus used to explain to Nicodemus how a person enters the kingdom of God (<a href=\"https://ref.ly/John3:3-John3:7\">John 3:3–7</a>). Jesus said that to enter the kingdom of God, a person must be born again. This means they need a new kind of life from God. It is not a physical birth. It is a spiritual change that comes from God’s Spirit.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7147\" data-resourceType=\"TyndaleBibleDictionary\">Regeneration</span>.</p>",
+    "content": "<h1>BOR-ASHAN</h1><p>Alternate name for Ashan, a town originally assigned to Judah’s tribe, in <a href=\"https://ref.ly/1Sam30:30\">1&nbsp;Samuel 30:30</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2958\" data-resourceType=\"TyndaleBibleDictionary\">Ashan</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "43003003",
-          "start_ref_usfm": "JHN 3:3",
-          "end_ref": "43003007",
-          "end_ref_usfm": "JHN 3:7"
+          "start_ref": "09030030",
+          "start_ref_usfm": "1SA 30:30",
+          "end_ref": "09030030",
+          "end_ref_usfm": "1SA 30:30"
         }
       ],
       "resource": [
         {
-          "reference_id": 7147,
-          "content_id": 7979,
+          "reference_id": 2958,
+          "content_id": 3790,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Regeneration",
+          "label": "Ashan",
           "language": "eng"
         }
       ]

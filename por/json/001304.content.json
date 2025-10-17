@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 683038,
-    "reference_id": 6371,
-    "title": "Moré, Carvalho de",
+    "content_id": 658687,
+    "reference_id": 6264,
+    "title": "Metushael",
     "media_type": "Text",
-    "index_reference": "moré, carvalho de",
+    "index_reference": "metushael",
     "language": "por",
-    "content": "<h1>MORÉ, Carvalho de</h1><p>O primeiro local registrado onde Abraão parou ao entrar na Palestina após deixar a Mesopotâmia. Aqui ele construiu um altar para Deus (<a href=\"https://ref.ly/Gen12:6\">Gn 12.6</a>). Mais tarde, Moisés mencionou este lugar como um marco geográfico para identificar a localização do Monte Gerizim e do Monte Ebal (<a href=\"https://ref.ly/Deut11:30\">Dt 11.30</a>). A versão NTLH lê &quot;árvore sagrada&quot; de Moré. O carvalho de Moré estava localizado perto de Siquém.</p>",
+    "content": "<h1>METUSHAEL</h1><p>Filho de Meujael e pai de Lameque na linhagem de Caim (<a href=\"https://ref.ly/Gen4:18\">Gn 4.18</a>). A forma de escrita tradicional nas Bíblias em português é &quot;Metusael&quot;. Metushael é uma variação do nome usado em algumas versões de Bíblia em outros idiomas.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01012006",
-          "start_ref_usfm": "GEN 12:6",
-          "end_ref": "01012006",
-          "end_ref_usfm": "GEN 12:6"
-        },
-        {
-          "start_ref": "05011030",
-          "start_ref_usfm": "DEU 11:30",
-          "end_ref": "05011030",
-          "end_ref_usfm": "DEU 11:30"
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004018",
+          "end_ref_usfm": "GEN 4:18"
         }
       ],
       "resource": []

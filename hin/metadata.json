@@ -28,7 +28,7 @@
     },
     "adaptation_notice": "",
     "resource_code": "TyndaleBibleDictionary",
-    "date_created": "2025-10-16",
+    "date_created": "2025-10-17",
     "language": "hin",
     "localizations": [
       "eng",
@@ -54,7 +54,7 @@
       "version": "1.0.0",
       "category": "source",
       "defaultLocale": "en",
-      "dateCreated": "2025-10-16T16:06:44.215936"
+      "dateCreated": "2025-10-17T16:03:36.235005"
     },
     "idAuthorities": {
       "aquifer": {
@@ -68,7 +68,7 @@
       "primary": {
         "aquifer": {
           "TyndaleBibleDictionary": {
-            "timestamp": "2025-10-16T16:06:44.215936"
+            "timestamp": "2025-10-17T16:03:36.235005"
           }
         }
       },

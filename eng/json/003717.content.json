@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 6977,
-    "reference_id": 6145,
-    "title": "Matri, Matrites",
+    "content_id": 6976,
+    "reference_id": 6144,
+    "title": "Matred",
     "media_type": "Text",
-    "index_reference": "matri, matrites",
+    "index_reference": "matred",
     "language": "eng",
-    "content": "<h1>MATRI*, MATRITES</h1><p>Family of Benjamin’s tribe. Saul, the first king of Israel, came from this family (<a href=\"https://ref.ly/1Sam10:21\">1&nbsp;Sm 10:21</a>).</p>",
+    "content": "<h1>MATRED</h1><p>Mother of Mehetabel, the wife of King Hadad (Hadar) of Edom (<a href=\"https://ref.ly/Gen36:39\">Gn 36:39</a>; <a href=\"https://ref.ly/1Chr1:50\">1&nbsp;Chr 1:50</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09010021",
-          "start_ref_usfm": "1SA 10:21",
-          "end_ref": "09010021",
-          "end_ref_usfm": "1SA 10:21"
+          "start_ref": "01036039",
+          "start_ref_usfm": "GEN 36:39",
+          "end_ref": "01036039",
+          "end_ref_usfm": "GEN 36:39"
+        },
+        {
+          "start_ref": "13001050",
+          "start_ref_usfm": "1CH 1:50",
+          "end_ref": "13001050",
+          "end_ref_usfm": "1CH 1:50"
         }
       ],
       "resource": []

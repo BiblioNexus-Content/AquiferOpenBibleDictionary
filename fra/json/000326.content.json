@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 734259,
-    "reference_id": 4211,
-    "title": "Éloï, Éloï, Lama Sabachthani ?",
+    "content_id": 785188,
+    "reference_id": 4019,
+    "title": "Denys",
     "media_type": "Text",
-    "index_reference": "éloï, éloï, lama sabachthani ?",
+    "index_reference": "denys",
     "language": "fra",
-    "content": "<h1>ÉLOÏ, ÉLOÏ, LAMA SABACHTHANI ?</h1><p>Cri de Jésus sur la croix selon l&apos;Évangile de Marc (<a href=\"https://ref.ly/Mark15:34\">Mc 15.34</a>). <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4172\" data-resourceType=\"TyndaleBibleDictionary\">Éli, Éli, lama sabachthani</span>.</p>",
+    "content": "<h1>DENYS</h1><p>Citoyen important et respecté d&apos;Athènes, devenu croyant après avoir entendu Paul prêcher. Denys était membre de l&apos;Aréopage (un Aréopagite), qui était la cour suprême d&apos;Athènes (<a href=\"https://ref.ly/Acts17:34\">Ac 17.34</a>). Denys était l&apos;une des rares personnes à Athènes à avoir cru au message de Paul sur Jésus.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41015034",
-          "start_ref_usfm": "MRK 15:34",
-          "end_ref": "41015034",
-          "end_ref_usfm": "MRK 15:34"
+          "start_ref": "44017034",
+          "start_ref_usfm": "ACT 17:34",
+          "end_ref": "44017034",
+          "end_ref_usfm": "ACT 17:34"
         }
       ],
       "resource": []

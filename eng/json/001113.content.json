@@ -1,33 +1,39 @@
 [
   {
-    "content_id": 4368,
-    "reference_id": 3536,
-    "title": "Butler",
+    "content_id": 4366,
+    "reference_id": 3534,
+    "title": "Bushel",
     "media_type": "Text",
-    "index_reference": "butler",
+    "index_reference": "bushel",
     "language": "eng",
-    "content": "<h1>BUTLER*</h1><p>Translation of a Hebrew word meaning “cupbearer” or “wine taster” in <a href=\"https://ref.ly/Gen40:1-Gen40:23\">Genesis 40</a> and <a href=\"https://ref.ly/Gen41:1-Gen41:57\">41</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3878\" data-resourceType=\"TyndaleBibleDictionary\">Cup-bearer</span>.</p>",
+    "content": "<h1>BUSHEL</h1><p>1. A small vessel (“basket,” New Living Translation) that could cover a light (<a href=\"https://ref.ly/Matt5:15\">Matthew 5:15</a>; <a href=\"https://ref.ly/Mark4:21\">Mark 4:21</a>; <a href=\"https://ref.ly/Luke11:33\">Luke 11:33</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Weights and Measures</span>.</p><p>2. A unit of measure roughly equal to 19 quarts or 18 liters. In Hebrew, this is called an &quot;ephah.&quot; </p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01040001",
-          "start_ref_usfm": "GEN 40:1",
-          "end_ref": "01040023",
-          "end_ref_usfm": "GEN 40:23"
+          "start_ref": "40005015",
+          "start_ref_usfm": "MAT 5:15",
+          "end_ref": "40005015",
+          "end_ref_usfm": "MAT 5:15"
         },
         {
-          "start_ref": "01041001",
-          "start_ref_usfm": "GEN 41:1",
-          "end_ref": "01041057",
-          "end_ref_usfm": "GEN 41:57"
+          "start_ref": "41004021",
+          "start_ref_usfm": "MRK 4:21",
+          "end_ref": "41004021",
+          "end_ref_usfm": "MRK 4:21"
+        },
+        {
+          "start_ref": "42011033",
+          "start_ref_usfm": "LUK 11:33",
+          "end_ref": "42011033",
+          "end_ref_usfm": "LUK 11:33"
         }
       ],
       "resource": [
         {
-          "reference_id": 3878,
-          "content_id": 4710,
+          "reference_id": 8219,
+          "content_id": 9051,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Cup-Bearer",
+          "label": "Weights and Measures",
           "language": "eng"
         }
       ]

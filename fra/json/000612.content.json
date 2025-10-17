@@ -1,43 +1,55 @@
 [
   {
-    "content_id": 806076,
-    "reference_id": 5959,
-    "title": "Lud, Ludim",
+    "content_id": 822967,
+    "reference_id": 5325,
+    "title": "Jakin",
     "media_type": "Text",
-    "index_reference": "lud, ludim",
+    "index_reference": "jakin",
     "language": "fra",
-    "content": "<h1>LUD, LUDIM*</h1><p>Noms apparaissant dans la Table des nations dans <a href=\"https://ref.ly/Gen10:1-Gen10:32\">Genèse 10</a>. Ludim est mentionné comme le premier fils de Mizraïm, et Lud est mentionné comme le quatrième fils de Sem. Il est probablement préférable de les considérer comme ayant des origines ethniques différentes. Certains, cependant, ont suggéré que les deux noms se réfèrent à un peuple d&apos;Asie Mineure, les Lydiens, qui sont mentionnés sur les inscriptions d&apos;<span>Assurbanipal</span> comme <em>Luddu.</em> Il ne fait guère de doute que Lud, à tout le moins, doit être associé à la Lydie. Josèphe fait cette identification (<em>Antiquités juives</em> 1.6.4.). Dans <a href=\"https://ref.ly/Isa66:19\">Ésaïe 66.19</a>, il est mentionné parmi d&apos;autres nations d&apos;Asie Mineure.</p><p>Lud est souvent mentionné dans des contextes qui suggèrent que ces hommes étaient réputés pour être de bons soldats. Selon <a href=\"https://ref.ly/Jer46:9\">Jérémie 46.9</a>, ils ont combattu avec les Égyptiens contre les Babyloniens à la bataille de Carkemisch en 605 av. J.‑C. Dans la lamentation sur Tyr dans <a href=\"https://ref.ly/Ezek27:10\">Ézéchiel 27.10</a>, ils sont répertoriés parmi d&apos;autres mercenaires dans l&apos;armée de Tyr. Peut-être qu&apos;<a href=\"https://ref.ly/Ezek30:5\">Ézéchiel 30.5</a> est un autre cas de Lydiens servant comme mercenaires, cette fois dans l&apos;armée égyptienne. Une telle aide militaire à l&apos;Égypte remonte à la période assyrienne, lorsque Gyges avait envoyé une aide militaire à Psammétique d&apos;Égypte contre les Assyriens.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5969\" data-resourceType=\"TyndaleBibleDictionary\">Lydie (lieu)</span>.</p>",
+    "content": "<h1>JAKIN</h1><ol><li><p>Fils de Siméon et chef des Jachinites, qui a déménagé en Égypte avec son grand-père Jacob (<a href=\"https://ref.ly/Gen46:10\">Gn 46.10</a> ; <a href=\"https://ref.ly/Exod6:15\">Ex 6.15</a> ; <a href=\"https://ref.ly/Num26:12\">Nb 26.12</a>). Il est appelé Jarib dans <a href=\"https://ref.ly/1Chr4:24\">1 Chroniques 4.24</a>.</p></li><li><p>Un prêtre qui vivait à Jérusalem après l&apos;exil à Babylone (<a href=\"https://ref.ly/1Chr9:10\">1Ch 9.10</a> ; <a href=\"https://ref.ly/Neh11:10\">Né 11.10</a>). Le prénom Jakin pourrait éventuellement se référer à une famille de prêtres que Jakin dirigeait.</p></li><li><p>Descendant d&apos;Aaron qui dirigeait la vingt-et-unième division des prêtres servant dans le temple à l&apos;époque du roi David (<a href=\"https://ref.ly/1Chr24:17\">1Ch 24.17</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "23066019",
-          "start_ref_usfm": "ISA 66:19",
-          "end_ref": "23066019",
-          "end_ref_usfm": "ISA 66:19"
+          "start_ref": "01046010",
+          "start_ref_usfm": "GEN 46:10",
+          "end_ref": "01046010",
+          "end_ref_usfm": "GEN 46:10"
         },
         {
-          "start_ref": "24046009",
-          "start_ref_usfm": "JER 46:9",
-          "end_ref": "24046009",
-          "end_ref_usfm": "JER 46:9"
+          "start_ref": "02006015",
+          "start_ref_usfm": "EXO 6:15",
+          "end_ref": "02006015",
+          "end_ref_usfm": "EXO 6:15"
         },
         {
-          "start_ref": "26027010",
-          "start_ref_usfm": "EZK 27:10",
-          "end_ref": "26027010",
-          "end_ref_usfm": "EZK 27:10"
+          "start_ref": "04026012",
+          "start_ref_usfm": "NUM 26:12",
+          "end_ref": "04026012",
+          "end_ref_usfm": "NUM 26:12"
         },
         {
-          "start_ref": "26030005",
-          "start_ref_usfm": "EZK 30:5",
-          "end_ref": "26030005",
-          "end_ref_usfm": "EZK 30:5"
+          "start_ref": "13004024",
+          "start_ref_usfm": "1CH 4:24",
+          "end_ref": "13004024",
+          "end_ref_usfm": "1CH 4:24"
         },
         {
-          "start_ref": "01010001",
-          "start_ref_usfm": "GEN 10:1",
-          "end_ref": "01010032",
-          "end_ref_usfm": "GEN 10:32"
+          "start_ref": "13009010",
+          "start_ref_usfm": "1CH 9:10",
+          "end_ref": "13009010",
+          "end_ref_usfm": "1CH 9:10"
+        },
+        {
+          "start_ref": "13024017",
+          "start_ref_usfm": "1CH 24:17",
+          "end_ref": "13024017",
+          "end_ref_usfm": "1CH 24:17"
+        },
+        {
+          "start_ref": "16011010",
+          "start_ref_usfm": "NEH 11:10",
+          "end_ref": "16011010",
+          "end_ref_usfm": "NEH 11:10"
         }
       ],
       "resource": []

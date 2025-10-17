@@ -1,23 +1,22 @@
 [
   {
-    "content_id": 6062,
-    "reference_id": 5230,
-    "title": "Iscariot",
+    "content_id": 6061,
+    "reference_id": 5229,
+    "title": "Iscah",
     "media_type": "Text",
-    "index_reference": "iscariot",
+    "index_reference": "iscah",
     "language": "eng",
-    "content": "<h1>ISCARIOT</h1><p>Iscariot refers to Judas Iscariot, one of the twelve disciples of Jesus. He is known for betraying Jesus.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5654\" data-resourceType=\"TyndaleBibleDictionary\">Judas #1</span>.</p>",
+    "content": "<h1>ISCAH</h1><p>Haran’s daughter and Milcah’s sister (<a href=\"https://ref.ly/Gen11:29\">Genesis 11:29</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 5654,
-          "content_id": 6486,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Judas",
-          "language": "eng"
+          "start_ref": "01011029",
+          "start_ref_usfm": "GEN 11:29",
+          "end_ref": "01011029",
+          "end_ref_usfm": "GEN 11:29"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

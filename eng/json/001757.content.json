@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 5009,
-    "reference_id": 4177,
-    "title": "Elihoreph",
+    "content_id": 5008,
+    "reference_id": 4176,
+    "title": "Elihoenai",
     "media_type": "Text",
-    "index_reference": "elihoreph",
+    "index_reference": "elihoenai",
     "language": "eng",
-    "content": "<h1>ELIHOREPH</h1><p>Prominent official in the time of Solomon (<a href=\"https://ref.ly/1Kgs4:3\">1&nbsp;Kgs 4:3</a>) who, with his brother Ahijah, was a royal secretary. Attempts to regard Elihoreph as the title of an official and not a personal name find no support in the Hebrew text.</p>",
+    "content": "<h1>ELIHOENAI*</h1><p>KJV spelling of Eliehoenai, Zerahiah’s son, in <a href=\"https://ref.ly/Ezra8:4\">Ezra 8:4</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4171\" data-resourceType=\"TyndaleBibleDictionary\">Eliehoenai #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11004003",
-          "start_ref_usfm": "1KI 4:3",
-          "end_ref": "11004003",
-          "end_ref_usfm": "1KI 4:3"
+          "start_ref": "15008004",
+          "start_ref_usfm": "EZR 8:4",
+          "end_ref": "15008004",
+          "end_ref_usfm": "EZR 8:4"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4171,
+          "content_id": 5003,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Eliehoenai",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

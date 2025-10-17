@@ -1,73 +1,28 @@
 [
   {
-    "content_id": 662288,
-    "reference_id": 4038,
-    "title": "Divorce (lettre de)",
+    "content_id": 788713,
+    "reference_id": 3833,
+    "title": "Cos",
     "media_type": "Text",
-    "index_reference": "divorce (lettre de)",
+    "index_reference": "cos",
     "language": "fra",
-    "content": "<h1>DIVORCE, LETTRE DE</h1><p>Lettre qu&apos;un homme devait donner quand il renvoyait sa femme pour déclarer qu&apos;elle n&apos;était plus sa femme. La loi de Moïse obligeait tout homme qui renvoyait sa femme à lui donner cette lettre (<a href=\"https://ref.ly/Deut24:1-Deut24:4\">Dt 24.1–4</a> ; voir <a href=\"https://ref.ly/Matt5:31\">Mt 5.31</a> ; <a href=\"https://ref.ly/Matt19:7\">19.7</a> ; <a href=\"https://ref.ly/Mark10:4\">Mc 10.4</a>). Cette lettre protégeait les droits de la femme. En effet, c&apos;était une preuve qu&apos;elle n&apos;était plus mariée. Elle pouvait donc se remarier. La lettre empêchait aussi son ancien mari de garder sa dot et les objets de valeur que la famille de la femme avait donnés et qui faisaient partie de l&apos;accord de mariage.</p><p>Les paroles de Dieu prononcés dans <a href=\"https://ref.ly/Hos2:2\">Osée 2.2</a> ressemblent à une lettre de divorce&nbsp;: « <span>elle n’est point ma femme, et je ne suis point son mari</span> ». Les prophètes de l&apos;Ancien Testament parlent plusieurs fois de lettre de divorce pour montrer que Dieu voulait se séparer de son peuple, qui lui était infidèle (<a href=\"https://ref.ly/Isa50:1\">Es 50.1</a> ; <a href=\"https://ref.ly/Jer3:8\">Jr 3.8</a>).</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3747\" data-resourceType=\"TyndaleBibleDictionary\">droit civil et justice</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"4039\" data-resourceType=\"TyndaleBibleDictionary\">divorce</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"6123\" data-resourceType=\"TyndaleBibleDictionary\">mariage, coutumes matrimoniales</span>.</p>",
+    "content": "<h1>COS</h1><p>Île de la mer Égée, faisant partie du groupe des Sporades. L&apos;île possède une ville du même nom. Cos est située près de la côte de Carie en Asie Mineure (Turquie moderne).</p><p>L&apos;apôtre Paul a visité Cos lors de ses voyages. Ce sera sa première escale après avoir quitté Éphèse alors qu&apos;il se rendait à Jérusalem à la fin de son troisième voyage missionnaire (<a href=\"https://ref.ly/Acts21:1\">Ac 21.1</a>).</p><p>Dans les Apocryphes (ensemble de textes anciens non inclus dans la Bible hébraïque mais acceptés par certains groupes chrétiens), Cos est mentionné aux côtés d&apos;autres régions. Ces lieux avaient reçu une lettre du consul romain Lucius. La lettre interdisait la guerre contre le peuple juif qui vivait dans ces régions (<a href=\"https://ref.ly/1Macc15:23\">1 M 15.23</a>).</p><p>Cos (aujourd&apos;hui appelé Kos) était un centre important pour le transport maritime et le commerce. Il était célèbre pour son blé, ses onguents, ses vins et sa soie. Plus tard, il deviendra l&apos;un des centres financiers de la Méditerranée orientale.</p><p>Hippocrate, connu comme le « Père de la médecine », est né à Cos. Il y pratiquera la médecine pendant les 5e et 4e siècles av. J.‑C. Sous le règne du roi Hérode, Cos recevra des paiements financiers de façon régulière. Les habitants de Cos érigeront une statue pour honorer le fils d&apos;Hérode, Hérode Antipas.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "23050001",
-          "start_ref_usfm": "ISA 50:1",
-          "end_ref": "23050001",
-          "end_ref_usfm": "ISA 50:1"
+          "start_ref": "44021001",
+          "start_ref_usfm": "ACT 21:1",
+          "end_ref": "44021001",
+          "end_ref_usfm": "ACT 21:1"
         },
         {
-          "start_ref": "24003008",
-          "start_ref_usfm": "JER 3:8",
-          "end_ref": "24003008",
-          "end_ref_usfm": "JER 3:8"
-        },
-        {
-          "start_ref": "28002002",
-          "start_ref_usfm": "HOS 2:2",
-          "end_ref": "28002002",
-          "end_ref_usfm": "HOS 2:2"
-        },
-        {
-          "start_ref": "40005031",
-          "start_ref_usfm": "MAT 5:31",
-          "end_ref": "40005031",
-          "end_ref_usfm": "MAT 5:31"
-        },
-        {
-          "start_ref": "40019007",
-          "start_ref_usfm": "MAT 19:7",
-          "end_ref": "40019007",
-          "end_ref_usfm": "MAT 19:7"
-        },
-        {
-          "start_ref": "41010004",
-          "start_ref_usfm": "MRK 10:4",
-          "end_ref": "41010004",
-          "end_ref_usfm": "MRK 10:4"
-        },
-        {
-          "start_ref": "05024001",
-          "start_ref_usfm": "DEU 24:1",
-          "end_ref": "05024004",
-          "end_ref_usfm": "DEU 24:4"
+          "start_ref": "78015023",
+          "start_ref_usfm": "1MA 15:23",
+          "end_ref": "78015023",
+          "end_ref_usfm": "1MA 15:23"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4039,
-          "content_id": 662289,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "divorce",
-          "language": "fra"
-        },
-        {
-          "reference_id": 6123,
-          "content_id": 662302,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "mariage, coutumes de mariage",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

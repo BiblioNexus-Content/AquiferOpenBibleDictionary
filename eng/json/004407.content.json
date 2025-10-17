@@ -1,34 +1,36 @@
 [
   {
-    "content_id": 7668,
-    "reference_id": 6836,
-    "title": "Perga",
+    "content_id": 7665,
+    "reference_id": 6833,
+    "title": "Perfumer",
     "media_type": "Text",
-    "index_reference": "perga",
+    "index_reference": "perfumer",
     "language": "eng",
-    "content": "<h1>PERGA</h1><p>Perga was an important ancient city located in Pamphylia (a region in what is now southern Turkey). The Greeks likely built this city very early in its history. It became the most important religious city in Pamphylia.</p><p>In the second century BC, Roman soldiers defeated and removed a group of Syrian soldiers who controlled the city. After this, Perga was mostly able to govern itself without other nations controlling it.</p><h2>Paul’s Visit to Perga on His Missionary Journeys</h2><p>On their first missionary journey, Paul and his colleagues passed through the city on their way to Pisidian Antioch. The Book of Acts reports no preaching activity on that occasion. It notes only that John Mark left his companions at Perga and returned to Jerusalem (<a href=\"https://ref.ly/Acts13:13-Acts13:14\">Acts 13:13–14</a>).</p><p>Luke, the author of Acts, would probably have recorded it if Paul had preached during this visit. Why he did not preach is not stated. A renowned temple of Artemis, an Anatolian nature goddess existed near Perga. But from what we know of Paul&apos;s actions elsewhere, this would not have stopped him. Indeed, it was more likely to present a challenge to the apostle. Paul may have been ill. Some commentators suggest a possible connection with <a href=\"https://ref.ly/Gal4:13\">Galatians 4:13.</a> In that case Barnabas would have likely preached in Paul&apos;s place. The lack of preaching in Perga might have coincided with disagreement in the group about outreach to and acceptance of gentiles. In this case, it might be that John Mark left the group because of differences with Paul.</p><p>On their journey home, however, Paul and Barnabas preached the gospel in Perga (&quot;spoken the word in Perga&quot;; <a href=\"https://ref.ly/Acts14:25-Acts14:26\">Acts 14:25–26</a>). Then they left there and proceeded to Attalia, where they took a ship to Antioch of Syria. The results of that preaching are not known, but it is evident that Christianity did not flourish in Perga, as it did in other cities of Asia Minor.</p>",
+    "content": "<h1>PERFUMER</h1><p>A perfumer was a person who prepared oils, powders, and mixtures for three uses: </p><ol><li><p>Medicine</p></li><li><p>Perfumes</p></li><li><p>Incense used in religious ceremonies</p></li></ol><p>Many plants, when crushed, provided oils or powders that smelled unique.</p><p>A perfumer is also known as an “apothecary” (<a href=\"https://ref.ly/Exod30:25\">Exodus 30:25</a>, in the King James Version) or a “confectionary” (<a href=\"https://ref.ly/1Sam8:13\">1&nbsp;Samuel 8:13</a>, in the King James Version). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6834\" data-resourceType=\"TyndaleBibleDictionary\">Perfume</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "48004013",
-          "start_ref_usfm": "GAL 4:13",
-          "end_ref": "48004013",
-          "end_ref_usfm": "GAL 4:13"
+          "start_ref": "02030025",
+          "start_ref_usfm": "EXO 30:25",
+          "end_ref": "02030025",
+          "end_ref_usfm": "EXO 30:25"
         },
         {
-          "start_ref": "44013013",
-          "start_ref_usfm": "ACT 13:13",
-          "end_ref": "44013014",
-          "end_ref_usfm": "ACT 13:14"
-        },
-        {
-          "start_ref": "44014025",
-          "start_ref_usfm": "ACT 14:25",
-          "end_ref": "44014026",
-          "end_ref_usfm": "ACT 14:26"
+          "start_ref": "09008013",
+          "start_ref_usfm": "1SA 8:13",
+          "end_ref": "09008013",
+          "end_ref_usfm": "1SA 8:13"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6834,
+          "content_id": 7666,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Perfume",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

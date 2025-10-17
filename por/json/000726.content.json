@@ -1,58 +1,42 @@
 [
   {
-    "content_id": 717032,
-    "reference_id": 4387,
-    "title": "Ézer",
+    "content_id": 816102,
+    "reference_id": 7803,
+    "title": "Estrangulamento",
     "media_type": "Text",
-    "index_reference": "ézer",
+    "index_reference": "estrangulamento",
     "language": "por",
-    "content": "<h1>Ézer</h1><p>1. Líder de uma tribo horita (<a href=\"https://ref.ly/Gen36:21\">Gn 36.21</a>; <a href=\"https://ref.ly/1Chr1:38\">1Cr 1.38</a>);</p><p>2. Descendente e provavelmente filho de Efraim. Ele foi morto enquanto fazia uma incursão ao gado dos filisteus (<a href=\"https://ref.ly/1Chr7:21\">1Cr 7.21</a>);</p><p>3. Homem de Judá, descendente de Hur (<a href=\"https://ref.ly/1Chr4:4\">1Cr 4.4</a>);</p><p>4. Gaditas que se juntaram a Davi em Ziclague (<a href=\"https://ref.ly/1Chr12:9\">1Cr 12.9</a>);</p><p>5. O filho de Jesua, que governou Mispa e reparou o muro de Jerusalém (<a href=\"https://ref.ly/Neh3:19\">Ne 3.19</a>);</p><p>6. Sacerdote que participou da cerimônia de dedicação do muro de Jerusalém (<a href=\"https://ref.ly/Neh12:42\">Ne 12.42</a>).</p>",
+    "content": "<h1>ESTRANGULAMENTO</h1><p>Estrangulamento é o ato de sufocar ou asfixiar uma pessoa ou animal apertando a garganta, interrompendo o fluxo de ar e sangue. Na Bíblia, o termo refere-se a animais que foram mortos sem que seu sangue fosse drenado, como por asfixia. Foi uma das quatro práticas que os primeiros cristãos gentios foram solicitados a evitar por respeito aos seus irmãos e irmãs cristãos judeus.</p><p>A lei judaica não permitia comer carne de animais cujo sangue não fosse totalmente drenado quando eram mortos. O Concílio de Jerusalém pediu à igreja primitiva que seguisse essa prática para manter a paz entre cristãos judeus e gentios (<a href=\"https://ref.ly/Acts15:20,Acts15:29\">At 15.20,29</a>; <a href=\"https://ref.ly/Acts21:25\">21.25</a>).</p><p>O estrangulamento também era uma das quatro maneiras pelas quais os tribunais da lei judaica aplicavam a pena de morte. Embora a Bíblia não mencione isso como um método de punição, o estrangulamento foi posteriormente utilizado pelo Judaísmo Rabínico como uma forma de execução.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3861\" data-resourceType=\"TyndaleBibleDictionary\">Direito penal e penalidades</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036021",
-          "start_ref_usfm": "GEN 36:21",
-          "end_ref": "01036021",
-          "end_ref_usfm": "GEN 36:21"
+          "start_ref": "44015020",
+          "start_ref_usfm": "ACT 15:20",
+          "end_ref": "44015020",
+          "end_ref_usfm": "ACT 15:20"
         },
         {
-          "start_ref": "13001038",
-          "start_ref_usfm": "1CH 1:38",
-          "end_ref": "13001038",
-          "end_ref_usfm": "1CH 1:38"
+          "start_ref": "44015029",
+          "start_ref_usfm": "ACT 15:29",
+          "end_ref": "44015029",
+          "end_ref_usfm": "ACT 15:29"
         },
         {
-          "start_ref": "13004004",
-          "start_ref_usfm": "1CH 4:4",
-          "end_ref": "13004004",
-          "end_ref_usfm": "1CH 4:4"
-        },
-        {
-          "start_ref": "13007021",
-          "start_ref_usfm": "1CH 7:21",
-          "end_ref": "13007021",
-          "end_ref_usfm": "1CH 7:21"
-        },
-        {
-          "start_ref": "13012009",
-          "start_ref_usfm": "1CH 12:9",
-          "end_ref": "13012009",
-          "end_ref_usfm": "1CH 12:9"
-        },
-        {
-          "start_ref": "16003019",
-          "start_ref_usfm": "NEH 3:19",
-          "end_ref": "16003019",
-          "end_ref_usfm": "NEH 3:19"
-        },
-        {
-          "start_ref": "16012042",
-          "start_ref_usfm": "NEH 12:42",
-          "end_ref": "16012042",
-          "end_ref_usfm": "NEH 12:42"
+          "start_ref": "44021025",
+          "start_ref_usfm": "ACT 21:25",
+          "end_ref": "44021025",
+          "end_ref_usfm": "ACT 21:25"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3861,
+          "content_id": 716982,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Direito penal e punição",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

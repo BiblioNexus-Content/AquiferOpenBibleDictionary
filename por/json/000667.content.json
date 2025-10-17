@@ -1,25 +1,61 @@
 [
   {
-    "content_id": 658640,
-    "reference_id": 4302,
-    "title": "Ereque",
+    "content_id": 759740,
+    "reference_id": 4243,
+    "title": "Enã",
     "media_type": "Text",
-    "index_reference": "ereque",
+    "index_reference": "enã",
     "language": "por",
-    "content": "<h1>EREQUE</h1><p>Importante cidade suméria, localizada no que hoje é chamado de Warka, perto do Rio Eufrates, a 64 quilômetros a noroeste de Ur e 257 quilômetros ao sul de Bagdá. <a href=\"https://ref.ly/Gen10:10\">Gênesis 10.10</a> refere-se a Ereque como a segunda de quatro cidades fundadas por Ninrode. Escavações parciais descobriram as muralhas da cidade (9,7 quilômetros, de circunferência), canais e os restos de edifícios elegantes com paredes caneladas decoradas com cones coloridos e inscrições. Dois zigurates estão entre os mais antigos já descobertos, e vários templos datam do final do quarto ou início do terceiro milênio a.C. O uso de selos cilíndricos de argila começou em Ereque, e do mesmo período vieram centenas de inscrições pictográficas.</p><p>Inscrições antigas indicam que Ereque e seus arredores eram considerados extremamente belos e férteis. Seu panteão religioso centrava-se na deusa agressiva do amor, Inanna, que supostamente trouxe para Ereque as “leis divinas” às quais devia sua grandeza. Ela ajudou Ereque a subjugar seus inimigos e casou-se com o Rei Dumuzi para garantir a fertilidade e prosperidade de Sumer. Dumuzi, por sua vez, foi identificado com Tamuz, o deus da fertilidade amplamente adorado na Mesopotâmia e na Palestina.</p><p>Entre os governantes de Ereque no terceiro milênio estava Gilgamesh, herói do grande épico acádio. A partir do tempo de Hamurabi, Ereque tornou-se parte da Babilônia e continuou a florescer até depois de 300 d.C. <a href=\"https://ref.ly/Ezra4:9\">Esdras 4.9</a> refere-se aos &quot;arquevitas&quot; (ARC, ARA, NAA), ou homens de Arku, o nome assírio do qual deriva o hebraico &quot;Ereque&quot;. Estrabão, Ptolomeu e Plínio mencionam sua fama como um centro de aprendizado, principalmente astronômico.</p>",
+    "content": "<h1>ENÃ</h1><p>Pai de Aira. Aira foi nomeado por Moisés como o comandante da tribo de Naftali durante o primeiro censo de Israel no deserto do Sinai (<a href=\"https://ref.ly/Num1:15\">Nm 1.15</a>; <a href=\"https://ref.ly/Num2:29\">2.29</a>; <a href=\"https://ref.ly/Num7:78,Num7:83\">7.78,83</a>; <a href=\"https://ref.ly/Num10:27\">10.27</a>). O nome aparentemente é preservado no nome Hazar-Enã (-Enom), uma cidade em algum lugar entre Damasco e Haurã (<a href=\"https://ref.ly/Num34:9\">Nm 34.9</a>; <a href=\"https://ref.ly/Ezek47:17\">Ez 47.17</a>; <a href=\"https://ref.ly/Ezek48:1\">48.1</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010010",
-          "start_ref_usfm": "GEN 10:10",
-          "end_ref": "01010010",
-          "end_ref_usfm": "GEN 10:10"
+          "start_ref": "04001015",
+          "start_ref_usfm": "NUM 1:15",
+          "end_ref": "04001015",
+          "end_ref_usfm": "NUM 1:15"
         },
         {
-          "start_ref": "15004009",
-          "start_ref_usfm": "EZR 4:9",
-          "end_ref": "15004009",
-          "end_ref_usfm": "EZR 4:9"
+          "start_ref": "04002029",
+          "start_ref_usfm": "NUM 2:29",
+          "end_ref": "04002029",
+          "end_ref_usfm": "NUM 2:29"
+        },
+        {
+          "start_ref": "04007078",
+          "start_ref_usfm": "NUM 7:78",
+          "end_ref": "04007078",
+          "end_ref_usfm": "NUM 7:78"
+        },
+        {
+          "start_ref": "04007083",
+          "start_ref_usfm": "NUM 7:83",
+          "end_ref": "04007083",
+          "end_ref_usfm": "NUM 7:83"
+        },
+        {
+          "start_ref": "04010027",
+          "start_ref_usfm": "NUM 10:27",
+          "end_ref": "04010027",
+          "end_ref_usfm": "NUM 10:27"
+        },
+        {
+          "start_ref": "04034009",
+          "start_ref_usfm": "NUM 34:9",
+          "end_ref": "04034009",
+          "end_ref_usfm": "NUM 34:9"
+        },
+        {
+          "start_ref": "26047017",
+          "start_ref_usfm": "EZK 47:17",
+          "end_ref": "26047017",
+          "end_ref_usfm": "EZK 47:17"
+        },
+        {
+          "start_ref": "26048001",
+          "start_ref_usfm": "EZK 48:1",
+          "end_ref": "26048001",
+          "end_ref_usfm": "EZK 48:1"
         }
       ],
       "resource": []

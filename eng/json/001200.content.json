@@ -1,37 +1,25 @@
 [
   {
-    "content_id": 4455,
-    "reference_id": 3623,
-    "title": "Cendebeus",
+    "content_id": 4454,
+    "reference_id": 3622,
+    "title": "Cenchrea, Cenchreae",
     "media_type": "Text",
-    "index_reference": "cendebeus",
+    "index_reference": "cenchrea, cenchreae",
     "language": "eng",
-    "content": "<h1>CENDEBEUS</h1><p>Commander-in-chief of the seacoast of&nbsp;Syria-Palestine about 138 BC under Antiochus VII (<a href=\"https://ref.ly/1Macc15:38\">1&nbsp;Macc 15:38</a>). Cendebeus was ordered to build a fortress at Kedron (probably the Gederah of <a href=\"https://ref.ly/Josh15:36\">Jos 15:36</a>), after which he transferred his headquarters to Jamnia and from there made raids into Judea (<a href=\"https://ref.ly/1Macc15:39-1Macc15:40\">1&nbsp;Macc 15:39–40</a>). Simon Maccabeus, unable to fight back because of his old age, dispatched his sons Judas and John Hyrcanus against Cendebeus with 20,000 soldiers and horsemen. Judas was wounded, but the Jews prevailed after slaying about 2,000 men. Cendebeus was pursued back to Kedron, and the Jews returned to Judea (<a href=\"https://ref.ly/1Macc16:1-1Macc16:10\">16:1–10</a>).</p>",
+    "content": "<h1>CENCHREA, CENCHREAE*</h1><p>Seaport city that served the maritime needs of the larger city of Corinth, about eight miles (12.9 kilometers) to the west. Cenchrea is known as early as the fifth century BC in connection with an Athenian attack on Corinth. Before the Corinthian Canal was cut through the isthmus, traffic to Europe from Asia often passed from Cenchrea through Corinth to Lechaion.</p><p>Excavations begun in 1963 have located the harbor mole (breakwater), warehouse remains dating to the early first century, and a large second-century stone building. A fourth-century church testifies to the influence of Christianity in the city. Portions of the ancient road leading southeast from the Cenchrean Gate in Corinth may still be seen among the ruins of that city’s agora (marketplace).</p><p>Cenchrea is mentioned twice in the NT. The apostle Paul took an oath requiring the cutting of his hair before leaving Cenchrea during his third missionary journey (<a href=\"https://ref.ly/Acts18:18\">Acts 18:18</a>). In his letter to the church in Rome, Paul commended Phoebe, a deaconess of the church in Cenchrea, well known for her Christian service (<a href=\"https://ref.ly/Rom16:1\">Rom 16:1</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015036",
-          "start_ref_usfm": "JOS 15:36",
-          "end_ref": "06015036",
-          "end_ref_usfm": "JOS 15:36"
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
         },
         {
-          "start_ref": "78015038",
-          "start_ref_usfm": "1MA 15:38",
-          "end_ref": "78015038",
-          "end_ref_usfm": "1MA 15:38"
-        },
-        {
-          "start_ref": "78015039",
-          "start_ref_usfm": "1MA 15:39",
-          "end_ref": "78015040",
-          "end_ref_usfm": "1MA 15:40"
-        },
-        {
-          "start_ref": "78016001",
-          "start_ref_usfm": "1MA 16:1",
-          "end_ref": "78016010",
-          "end_ref_usfm": "1MA 16:10"
+          "start_ref": "45016001",
+          "start_ref_usfm": "ROM 16:1",
+          "end_ref": "45016001",
+          "end_ref_usfm": "ROM 16:1"
         }
       ],
       "resource": []

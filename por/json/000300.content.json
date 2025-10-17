@@ -1,31 +1,31 @@
 [
   {
-    "content_id": 815897,
-    "reference_id": 3305,
-    "title": "Berenice",
+    "content_id": 815896,
+    "reference_id": 3296,
+    "title": "Bereia",
     "media_type": "Text",
-    "index_reference": "berenice",
+    "index_reference": "bereia",
     "language": "por",
-    "content": "<h1>BERENICE</h1><p>A filha mais velha de Herodes Agripa I. Ela estava presente quando o apóstolo Paulo falou com seu irmão, o rei Agripa II (<a href=\"https://ref.ly/Acts25:13\">At 25.13,23</a>; <a href=\"https://ref.ly/Acts26:30\">26.30</a>).</p><p>Berenice nasceu por volta de 28 d.C. Aos 13 anos, ela se casou com Marcus, filho de um oficial judeu chamado Alexandre. Após a morte de Marcus, seu pai arranjou para que ela se casasse com seu irmão mais velho, Herodes de Cálcis. Berenice teve dois filhos, Berniciano e Hircano, antes que seu segundo marido morresse em 48 d.C. Quando seu relacionamento com seu irmão, Agripa II, se tornou mais próximo, rumores de incesto começaram a se espalhar. Para contrariar esses rumores, Berenice convenceu Polemo, o rei da Cilícia, a se casar com ela, mas ela o deixou logo depois.</p><p>No ano 66 d.C., Berenice corajosamente, mas sem sucesso, tentou impedir o procurador romano Gesio Floro de saquear o templo em Jerusalém. Ela apoiou seu irmão quando ele alertou o povo contra a guerra. Quando a guerra começou naquele mesmo ano, rebeldes judeus incendiaram seu palácio e o de seu irmão.</p>",
+    "content": "<h1>BEREIA</h1><ol><li><p>Um lugar ao norte de Jerusalém onde o exército sírio acampou antes de atacar e matar Judas Macabeu em 161 a.C. (<a href=\"https://ref.ly/1Macc9:4\">1Mc 9.4</a>).</p></li><li><p>Uma cidade antiga na Macedônia, uma região agora dividida entre Grécia, Iugoslávia [atual Macedônia do Norte] e Bulgária. Provavelmente foi fundada no quinto século a.C. A cidade ficava cerca de 40 quilômetros para o interior do Mar Egeu, localizada em uma planície cênica e fértil a 183 metros de altura nas colinas ao norte da cordilheira do Olimpo. Roma conquistou Bereia em 168 a.C., e era uma das cidades macedônias mais populosas durante o tempo de Cristo. Hoje, a cidade é chamada de Verria.</p><p>O apóstolo Paulo visitou Bereia durante sua segunda viagem missionária (<a href=\"https://ref.ly/Acts17:10-Acts17:15\">At 17.10–15</a>). Era também a cidade natal de Sópatro, um dos companheiros de Paulo (<a href=\"https://ref.ly/Acts20:4\">At 20.4</a>). Paulo e Silas viajaram para Bereia, cerca de 81 quilômetros a sudoeste, após enfrentarem violenta oposição religiosa e política em Tessalônica. Em Bereia, tanto judeus quanto gregos aceitaram avidamente o evangelho, mas Paulo teve que partir quando judeus hostis de Tessalônica vieram causar problemas.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44025013",
-          "start_ref_usfm": "ACT 25:13",
-          "end_ref": "44025013",
-          "end_ref_usfm": "ACT 25:13"
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
         },
         {
-          "start_ref": "44025023",
-          "start_ref_usfm": "ACT 25:23",
-          "end_ref": "44025023",
-          "end_ref_usfm": "ACT 25:23"
+          "start_ref": "78009004",
+          "start_ref_usfm": "1MA 9:4",
+          "end_ref": "78009004",
+          "end_ref_usfm": "1MA 9:4"
         },
         {
-          "start_ref": "44026030",
-          "start_ref_usfm": "ACT 26:30",
-          "end_ref": "44026030",
-          "end_ref_usfm": "ACT 26:30"
+          "start_ref": "44017010",
+          "start_ref_usfm": "ACT 17:10",
+          "end_ref": "44017015",
+          "end_ref_usfm": "ACT 17:15"
         }
       ],
       "resource": []

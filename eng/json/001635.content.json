@@ -1,52 +1,30 @@
 [
   {
-    "content_id": 4887,
-    "reference_id": 4055,
-    "title": "Dor",
+    "content_id": 4885,
+    "reference_id": 4053,
+    "title": "Dophkah",
     "media_type": "Text",
-    "index_reference": "dor",
+    "index_reference": "dophkah",
     "language": "eng",
-    "content": "<h1>DOR</h1><p>Fortified Palestinian city (modern el-Burj) situated along the Mediterranean coast, south of Mt Carmel and eight miles (12.9 kilometers) north of Caesarea. It is mentioned occasionally in connection with events in the period of the judges and the united monarchy (<a href=\"https://ref.ly/Josh17:11\">Jos 17:11</a>; <a href=\"https://ref.ly/Judg1:27\">Jgs 1:27</a>; <a href=\"https://ref.ly/1Chr7:29\">1&nbsp;Chr 7:29</a>). Dor is probably the same city as Naphath-dor (<a href=\"https://ref.ly/Josh12:23\">Jos 12:23</a>; <a href=\"https://ref.ly/1Kgs4:11\">1&nbsp;Kgs 4:11</a>) and Naphoth-dor (<a href=\"https://ref.ly/Josh11:2\">Jos 11:2</a>). During the days of the Conquest, the king of Dor joined Jabin’s confederacy against Joshua (<a href=\"https://ref.ly/Josh11:2\">Jos 11:2</a>), but was defeated (<a href=\"https://ref.ly/Josh12:23\">12:23</a>). The city was assigned to Manasseh’s tribe, but the tribe failed to dispossess its inhabitants (<a href=\"https://ref.ly/Judg1:27\">Jgs 1:27</a>).</p>",
+    "content": "<h1>DOPHKAH</h1><p>A name of an area near the wilderness of Sin. Dophkah is where the Israelites camped on their way to Mount Sinai (<a href=\"https://ref.ly/Num33:12-Num33:13\">Numbers 33:12–13</a>). Dophkah may be the same place as Serabit el-Khadem. Serabit el-Khadem was an Egyptian turquoise mining center. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06011002",
-          "start_ref_usfm": "JOS 11:2",
-          "end_ref": "06011002",
-          "end_ref_usfm": "JOS 11:2"
-        },
-        {
-          "start_ref": "06012023",
-          "start_ref_usfm": "JOS 12:23",
-          "end_ref": "06012023",
-          "end_ref_usfm": "JOS 12:23"
-        },
-        {
-          "start_ref": "06017011",
-          "start_ref_usfm": "JOS 17:11",
-          "end_ref": "06017011",
-          "end_ref_usfm": "JOS 17:11"
-        },
-        {
-          "start_ref": "07001027",
-          "start_ref_usfm": "JDG 1:27",
-          "end_ref": "07001027",
-          "end_ref_usfm": "JDG 1:27"
-        },
-        {
-          "start_ref": "11004011",
-          "start_ref_usfm": "1KI 4:11",
-          "end_ref": "11004011",
-          "end_ref_usfm": "1KI 4:11"
-        },
-        {
-          "start_ref": "13007029",
-          "start_ref_usfm": "1CH 7:29",
-          "end_ref": "13007029",
-          "end_ref_usfm": "1CH 7:29"
+          "start_ref": "04033012",
+          "start_ref_usfm": "NUM 33:12",
+          "end_ref": "04033013",
+          "end_ref_usfm": "NUM 33:13"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8231,
+          "content_id": 9063,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Wilderness Wanderings",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

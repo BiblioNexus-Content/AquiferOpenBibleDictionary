@@ -1,31 +1,25 @@
 [
   {
-    "content_id": 5133,
-    "reference_id": 4301,
-    "title": "Erastus",
+    "content_id": 5132,
+    "reference_id": 4300,
+    "title": "Eran",
     "media_type": "Text",
-    "index_reference": "erastus",
+    "index_reference": "eran",
     "language": "eng",
-    "content": "<h1>ERASTUS</h1><p>A name mentioned three times in the New Testament. It is uncertain if it refers to only one individual. Although, in each case, Erastus is a helper of the apostle Paul. The three mentions of Erastus in the New Testament are: </p><ol><li><p>A helper of Paul sent with the apostle Timothy into Macedonia (<a href=\"https://ref.ly/Acts19:22\">Acts 19:22</a>).</p></li><li><p>The city treasurer of Corinth, an official who managed finances. He might have been a slave or a wealthy freed slave and an important man in the Corinthian community. He sends greetings with Paul to the church in Rome (<a href=\"https://ref.ly/Rom16:23\">Romans 16:23</a>).</p></li><li><p>A friend of Paul who stayed at Corinth (<a href=\"https://ref.ly/2Tim4:20\">2&nbsp;Timothy 4:20</a>).</p></li></ol>",
+    "content": "<h1>ERAN</h1><p>Eran was a grandson of Ephraim and the oldest son of Shuthelah (<a href=\"https://ref.ly/Num26:36\">Numbers 26:36</a>). The Eranite family came from Eran. In <a href=\"https://ref.ly/1Chr7:20\">1&nbsp;Chronicles 7:20</a>, the name Eran does not appear. Instead, the name Eleadah is used in a similar family list. This difference might be because someone made a copying mistake when writing down these records.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44019022",
-          "start_ref_usfm": "ACT 19:22",
-          "end_ref": "44019022",
-          "end_ref_usfm": "ACT 19:22"
+          "start_ref": "04026036",
+          "start_ref_usfm": "NUM 26:36",
+          "end_ref": "04026036",
+          "end_ref_usfm": "NUM 26:36"
         },
         {
-          "start_ref": "45016023",
-          "start_ref_usfm": "ROM 16:23",
-          "end_ref": "45016023",
-          "end_ref_usfm": "ROM 16:23"
-        },
-        {
-          "start_ref": "55004020",
-          "start_ref_usfm": "2TI 4:20",
-          "end_ref": "55004020",
-          "end_ref_usfm": "2TI 4:20"
+          "start_ref": "13007020",
+          "start_ref_usfm": "1CH 7:20",
+          "end_ref": "13007020",
+          "end_ref_usfm": "1CH 7:20"
         }
       ],
       "resource": []

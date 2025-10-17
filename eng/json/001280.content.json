@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4533,
-    "reference_id": 3701,
-    "title": "Chislon",
+    "content_id": 4532,
+    "reference_id": 3700,
+    "title": "Chisleu, Chislev",
     "media_type": "Text",
-    "index_reference": "chislon",
+    "index_reference": "chisleu, chislev",
     "language": "eng",
-    "content": "<h1>CHISLON</h1><p>The father of Elidad, a leader of the tribe of Benjamin during the wilderness wanderings of Israel. Elidad was one of those chosen by Moses to divide the land of Canaan among the tribes (<a href=\"https://ref.ly/Num34:21\">Numbers 34:21</a>).</p>",
+    "content": "<h1>CHISLEV, CHISLEU</h1><p>Chislev is one of the months in the Hebrew calendar. On our modern calendar, it usually occurs during parts of November and December. The name can also be written as Chisleu or Kislev.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3559\" data-resourceType=\"TyndaleBibleDictionary\">Calendars, Ancient and Modern</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5792,
-          "content_id": 6624,
+          "reference_id": 5791,
+          "content_id": 6623,
           "resource_code": "Unknown",
-          "label": "Kislon",
+          "label": "Kislev",
           "language": "eng"
         }
       ]

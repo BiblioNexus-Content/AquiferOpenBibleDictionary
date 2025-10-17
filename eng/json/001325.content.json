@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4575,
-    "reference_id": 3743,
-    "title": "City of Palms",
+    "content_id": 4821,
+    "reference_id": 3989,
+    "title": "City of Destruction",
     "media_type": "Text",
-    "index_reference": "city of palms",
+    "index_reference": "city of destruction",
     "language": "eng",
-    "content": "<h1>CITY OF PALMS</h1><p>Phrase referring to Jericho, so named for its many palms (<a href=\"https://ref.ly/Deut34:3\">Dt 34:3</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5489\" data-resourceType=\"TyndaleBibleDictionary\">Jericho</span>.</p>",
+    "content": "<h1>CITY OF DESTRUCTION</h1><p>A phrase in <a href=\"https://ref.ly/Isa19:18\">Isaiah 19:18</a> in the King James Version of the Bible. Most Bible scholars believe this refers to Heliopolis, an ancient Egyptian city.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4950\" data-resourceType=\"TyndaleBibleDictionary\">Heliopolis</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05034003",
-          "start_ref_usfm": "DEU 34:3",
-          "end_ref": "05034003",
-          "end_ref_usfm": "DEU 34:3"
+          "start_ref": "23019018",
+          "start_ref_usfm": "ISA 19:18",
+          "end_ref": "23019018",
+          "end_ref_usfm": "ISA 19:18"
         }
       ],
       "resource": [
         {
-          "reference_id": 5489,
-          "content_id": 6321,
+          "reference_id": 4950,
+          "content_id": 5782,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jericho",
+          "label": "Heliopolis",
           "language": "eng"
         }
       ]

@@ -1,12 +1,12 @@
 [
   {
-    "content_id": 4687,
-    "reference_id": 3855,
-    "title": "Creature, New",
+    "content_id": 4685,
+    "reference_id": 3853,
+    "title": "Creation, New",
     "media_type": "Text",
-    "index_reference": "creature, new",
+    "index_reference": "creation, new",
     "language": "eng",
-    "content": "<h1>CREATURE, New</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6548\" data-resourceType=\"TyndaleBibleDictionary\">New Creation, New Creature</span>.</p>",
+    "content": "<h1>CREATION, New</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6548\" data-resourceType=\"TyndaleBibleDictionary\">New Creation, New Creature</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [

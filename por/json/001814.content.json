@@ -1,43 +1,43 @@
 [
   {
-    "content_id": 717279,
-    "reference_id": 7491,
-    "title": "Siquém (Pessoa)",
+    "content_id": 815965,
+    "reference_id": 4453,
+    "title": "Seguidores do Caminho",
     "media_type": "Text",
-    "index_reference": "siquém (pessoa)",
+    "index_reference": "seguidores do caminho",
     "language": "por",
-    "content": "<h1>SIQUÉM (Pessoa)</h1><p>1. Filho de Hamor, o heveu. Ele estuprou Diná, a filha de Jacó, e foi posteriormente morto junto com seu pai e todos os homens de sua cidade por Simeão e Levi (<a href=\"https://ref.ly/Gen34:1-Gen34:31\">Gn 34</a>; <a href=\"https://ref.ly/Josh24:32\">Js 24.32</a>);</p><p>2. Um dos seis filhos de Gileade, descendente de José pela linha de Manassés, e fundador da família Siquemita (<a href=\"https://ref.ly/Num26:31\">Nm 26.31</a>; <a href=\"https://ref.ly/Josh17:2\">Js 17.2</a>);</p><p>3. Um dos quatro filhos de Semida da tribo de Manassés (<a href=\"https://ref.ly/1Chr7:19\">1Cr 7.19</a>).</p>",
+    "content": "<h1>SEGUIDORES DO CAMINHO</h1><p>Um nome usado para cristãos no livro de Atos (<a href=\"https://ref.ly/Acts9:2\">At 9.2</a>; <a href=\"https://ref.ly/Acts19:9,Acts19:23\">19.9,23</a>; <a href=\"https://ref.ly/Acts22:4\">22.4</a>; <a href=\"https://ref.ly/Acts24:22\">24.22</a>). Nos seus primeiros anos, o cristianismo era chamado de &quot;o Caminho&quot;.</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8210\" data-resourceType=\"TyndaleBibleDictionary\">O Caminho</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026031",
-          "start_ref_usfm": "NUM 26:31",
-          "end_ref": "04026031",
-          "end_ref_usfm": "NUM 26:31"
+          "start_ref": "44009002",
+          "start_ref_usfm": "ACT 9:2",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
         },
         {
-          "start_ref": "06017002",
-          "start_ref_usfm": "JOS 17:2",
-          "end_ref": "06017002",
-          "end_ref_usfm": "JOS 17:2"
+          "start_ref": "44019009",
+          "start_ref_usfm": "ACT 19:9",
+          "end_ref": "44019009",
+          "end_ref_usfm": "ACT 19:9"
         },
         {
-          "start_ref": "06024032",
-          "start_ref_usfm": "JOS 24:32",
-          "end_ref": "06024032",
-          "end_ref_usfm": "JOS 24:32"
+          "start_ref": "44019023",
+          "start_ref_usfm": "ACT 19:23",
+          "end_ref": "44019023",
+          "end_ref_usfm": "ACT 19:23"
         },
         {
-          "start_ref": "13007019",
-          "start_ref_usfm": "1CH 7:19",
-          "end_ref": "13007019",
-          "end_ref_usfm": "1CH 7:19"
+          "start_ref": "44022004",
+          "start_ref_usfm": "ACT 22:4",
+          "end_ref": "44022004",
+          "end_ref_usfm": "ACT 22:4"
         },
         {
-          "start_ref": "01034001",
-          "start_ref_usfm": "GEN 34:1",
-          "end_ref": "01034031",
-          "end_ref_usfm": "GEN 34:31"
+          "start_ref": "44024022",
+          "start_ref_usfm": "ACT 24:22",
+          "end_ref": "44024022",
+          "end_ref_usfm": "ACT 24:22"
         }
       ],
       "resource": []

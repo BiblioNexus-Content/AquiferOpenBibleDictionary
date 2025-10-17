@@ -1,52 +1,72 @@
 [
   {
-    "content_id": 6716,
-    "reference_id": 5884,
-    "title": "Lehabim, Lehabites",
+    "content_id": 6715,
+    "reference_id": 5883,
+    "title": "Legion",
     "media_type": "Text",
-    "index_reference": "lehabim, lehabites",
+    "index_reference": "legion",
     "language": "eng",
-    "content": "<h1>LEHABIM, LEHABITES</h1><p>One of several people groups associated with Egypt (<a href=\"https://ref.ly/Gen10:13\">Genesis 10:13</a>; <a href=\"https://ref.ly/1Chr1:11\">1&nbsp;Chronicles 1:11</a>). The Lehabim may be an unidentified people near Egypt. Many scholars hold, probably correctly, that they are identical with the Lubim (Libyans). The Lubim are often seen in the Bible as fighting in alliance with Egypt (<a href=\"https://ref.ly/Dan11:43\">Daniel 11:43</a>; <a href=\"https://ref.ly/Nah3:9\">Nahum 3:9</a>). Sometimes Egypt and this group allied against Israel, as in the time of Rehoboam and Asa ((<a href=\"https://ref.ly/2Chr12:3\">2&nbsp;Chronicles 12:3</a>;<a href=\"https://ref.ly/2Chr16:8\"> 16:8</a>).</p>",
+    "content": "<h1>LEGION</h1><p>A legion was a large unit of the Roman army. In New Testament times, the regular size of the legion was 6,000 men. In addition to these men, some 120 cavalry were added.</p><p>Because it was a large body of men, the word “legion” came to represent a generally large number. It is used this way four times in the New Testament. In the&nbsp;story about the demon-possessed man in the country of the Gerasenes, Jesus asked the man, “What is your name?” The man replied, “My name is Legion, for we are many” (<a href=\"https://ref.ly/Mark5:9,Mark5:15\">Mark 5:9, 15</a>; <a href=\"https://ref.ly/Luke8:30\">Luke 8:30</a>) <a href=\"https://ref.ly/Matt12:45\">Matthew 12:45</a> and <a href=\"https://ref.ly/Luke8:2\">Luke 8:2</a> speak of&nbsp;a number of demons possessing a single individual.</p><p>Another use of the word is found in <a href=\"https://ref.ly/Matt26:53\">Matthew 26:53</a>. At the time of Jesus’s arrest, one of those with him drew his sword to defend Jesus. Jesus spoke against such action saying, “<span>Are you not aware that I can call on My Father, and He will at once put at My disposal more than twelve legions of angels?</span>”  He spoke of the large number of angels that could be called to help him.</p><p>The word “legion” is never used in the New Testament in its military sense. It is used for either the spiritual powers of evil that oppose men (<a href=\"https://ref.ly/Eph6:12\">Ephesians 6:12</a>) or the spiritual powers that can be called to their aid (<a href=\"https://ref.ly/Heb1:14\">Hebrews 1:14</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8197\" data-resourceType=\"TyndaleBibleDictionary\">Warfare</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010013",
-          "start_ref_usfm": "GEN 10:13",
-          "end_ref": "01010013",
-          "end_ref_usfm": "GEN 10:13"
+          "start_ref": "40012045",
+          "start_ref_usfm": "MAT 12:45",
+          "end_ref": "40012045",
+          "end_ref_usfm": "MAT 12:45"
         },
         {
-          "start_ref": "13001011",
-          "start_ref_usfm": "1CH 1:11",
-          "end_ref": "13001011",
-          "end_ref_usfm": "1CH 1:11"
+          "start_ref": "40026053",
+          "start_ref_usfm": "MAT 26:53",
+          "end_ref": "40026053",
+          "end_ref_usfm": "MAT 26:53"
         },
         {
-          "start_ref": "14012003",
-          "start_ref_usfm": "2CH 12:3",
-          "end_ref": "14012003",
-          "end_ref_usfm": "2CH 12:3"
+          "start_ref": "41005009",
+          "start_ref_usfm": "MRK 5:9",
+          "end_ref": "41005009",
+          "end_ref_usfm": "MRK 5:9"
         },
         {
-          "start_ref": "14016008",
-          "start_ref_usfm": "2CH 16:8",
-          "end_ref": "14016008",
-          "end_ref_usfm": "2CH 16:8"
+          "start_ref": "41005015",
+          "start_ref_usfm": "MRK 5:15",
+          "end_ref": "41005015",
+          "end_ref_usfm": "MRK 5:15"
         },
         {
-          "start_ref": "27011043",
-          "start_ref_usfm": "DAN 11:43",
-          "end_ref": "27011043",
-          "end_ref_usfm": "DAN 11:43"
+          "start_ref": "42008002",
+          "start_ref_usfm": "LUK 8:2",
+          "end_ref": "42008002",
+          "end_ref_usfm": "LUK 8:2"
         },
         {
-          "start_ref": "34003009",
-          "start_ref_usfm": "NAM 3:9",
-          "end_ref": "34003009",
-          "end_ref_usfm": "NAM 3:9"
+          "start_ref": "42008030",
+          "start_ref_usfm": "LUK 8:30",
+          "end_ref": "42008030",
+          "end_ref_usfm": "LUK 8:30"
+        },
+        {
+          "start_ref": "49006012",
+          "start_ref_usfm": "EPH 6:12",
+          "end_ref": "49006012",
+          "end_ref_usfm": "EPH 6:12"
+        },
+        {
+          "start_ref": "58001014",
+          "start_ref_usfm": "HEB 1:14",
+          "end_ref": "58001014",
+          "end_ref_usfm": "HEB 1:14"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8197,
+          "content_id": 9029,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Warfare",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

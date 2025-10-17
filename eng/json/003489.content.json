@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6744,
-    "reference_id": 5912,
-    "title": "Life, Book of",
+    "content_id": 6745,
+    "reference_id": 5913,
+    "title": "Life Everlasting",
     "media_type": "Text",
-    "index_reference": "life, book of",
+    "index_reference": "life everlasting",
     "language": "eng",
-    "content": "<h1>LIFE, Book of</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3467\" data-resourceType=\"TyndaleBibleDictionary\">Book of Life</span>.</p>",
+    "content": "<h1>LIFE EVERLASTING</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4333\" data-resourceType=\"TyndaleBibleDictionary\">Eternal Life</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3467,
-          "content_id": 4299,
+          "reference_id": 4333,
+          "content_id": 5165,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Book of Life",
+          "label": "Eternal Life",
           "language": "eng"
         }
       ]

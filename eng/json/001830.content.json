@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 5084,
-    "reference_id": 4252,
-    "title": "En-Haddah",
+    "content_id": 5083,
+    "reference_id": 4251,
+    "title": "Engraver, Engraving",
     "media_type": "Text",
-    "index_reference": "en-haddah",
+    "index_reference": "engraver, engraving",
     "language": "eng",
-    "content": "<h1>EN-HADDAH</h1><p>City allotted to Issachar’s tribe for an inheritance, mentioned between En-gannim and Beth-pazzez (<a href=\"https://ref.ly/Josh19:21\">Jos 19:21</a>).</p>",
+    "content": "<h1>ENGRAVER, ENGRAVING</h1><p>An engraver is a person who cuts or carves designs into hard surfaces like stone or metal. Engraving is the art or process of cutting designs, patterns, or writing into hard materials.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7795\" data-resourceType=\"TyndaleBibleDictionary\">Stonecutter</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "06019021",
-          "start_ref_usfm": "JOS 19:21",
-          "end_ref": "06019021",
-          "end_ref_usfm": "JOS 19:21"
+          "reference_id": 7795,
+          "content_id": 8627,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Stonecutter",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

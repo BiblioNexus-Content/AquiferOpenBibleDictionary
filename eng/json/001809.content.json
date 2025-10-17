@@ -1,36 +1,28 @@
 [
   {
-    "content_id": 5063,
-    "reference_id": 4231,
-    "title": "Elzaphan",
+    "content_id": 5062,
+    "reference_id": 4230,
+    "title": "Elzabad",
     "media_type": "Text",
-    "index_reference": "elzaphan",
+    "index_reference": "elzabad",
     "language": "eng",
-    "content": "<h1>ELZAPHAN</h1><p>An alternate spelling of Elizaphan, a Levite chief, in <a href=\"https://ref.ly/Exod6:22\">Exodus 6:22</a> and <a href=\"https://ref.ly/Lev10:4\">Leviticus 10:4</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4198\" data-resourceType=\"TyndaleBibleDictionary\">Elizaphan #1</span>.</p>",
+    "content": "<h1>ELZABAD</h1><p>1. Military leader from Gad’s tribe who joined David at Ziklag (<a href=\"https://ref.ly/1Chr12:12\">1&nbsp;Chr 12:12</a>).</p><p>2. Korahite Levite from Obed-edom’s family, and a gatekeeper of the sanctuary (<a href=\"https://ref.ly/1Chr26:7\">1&nbsp;Chr 26:7</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02006022",
-          "start_ref_usfm": "EXO 6:22",
-          "end_ref": "02006022",
-          "end_ref_usfm": "EXO 6:22"
+          "start_ref": "13012012",
+          "start_ref_usfm": "1CH 12:12",
+          "end_ref": "13012012",
+          "end_ref_usfm": "1CH 12:12"
         },
         {
-          "start_ref": "03010004",
-          "start_ref_usfm": "LEV 10:4",
-          "end_ref": "03010004",
-          "end_ref_usfm": "LEV 10:4"
+          "start_ref": "13026007",
+          "start_ref_usfm": "1CH 26:7",
+          "end_ref": "13026007",
+          "end_ref_usfm": "1CH 26:7"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4198,
-          "content_id": 5030,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Elizaphan",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

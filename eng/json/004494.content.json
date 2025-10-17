@@ -1,23 +1,28 @@
 [
   {
-    "content_id": 7755,
-    "reference_id": 6923,
-    "title": "Pity",
+    "content_id": 7754,
+    "reference_id": 6922,
+    "title": "Pithon",
     "media_type": "Text",
-    "index_reference": "pity",
+    "index_reference": "pithon",
     "language": "eng",
-    "content": "<h1>PITY</h1><p>Pity is the feeling of sadness for someone who is suffering or in trouble. It often leads to kindness or help. The Bible often links pity with mercy (compassion and kindness shown to someone in need).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6232\" data-resourceType=\"TyndaleBibleDictionary\">Mercy</span>.</p>",
+    "content": "<h1>PITHON</h1><p>Benjaminite, Micah’s son and a descendant of Jonathan (<a href=\"https://ref.ly/1Chr8:35\">1&nbsp;Chr 8:35</a>; <a href=\"https://ref.ly/1Chr9:41\">9:41</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 6232,
-          "content_id": 7064,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Mercy",
-          "language": "eng"
+          "start_ref": "13008035",
+          "start_ref_usfm": "1CH 8:35",
+          "end_ref": "13008035",
+          "end_ref_usfm": "1CH 8:35"
+        },
+        {
+          "start_ref": "13009041",
+          "start_ref_usfm": "1CH 9:41",
+          "end_ref": "13009041",
+          "end_ref_usfm": "1CH 9:41"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

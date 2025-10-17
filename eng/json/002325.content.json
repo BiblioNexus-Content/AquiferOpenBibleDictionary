@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5580,
-    "reference_id": 4748,
-    "title": "Haeleph",
+    "content_id": 5579,
+    "reference_id": 4747,
+    "title": "Hadrach",
     "media_type": "Text",
-    "index_reference": "haeleph",
+    "index_reference": "hadrach",
     "language": "eng",
-    "content": "<h1>HAELEPH</h1><p>City given to Benjamin’s tribe for an inheritance after the initial conquest of Canaan (<a href=\"https://ref.ly/Josh18:28\">Jos 18:28</a>).</p>",
+    "content": "<h1>HADRACH*</h1><p>Settlement in northwest Lebanon mentioned only in association with Tyre, Sidon, Hamath, and Damascus (<a href=\"https://ref.ly/Zech9:1\">Zec 9:1</a>, see nlt mg). The last two cities were listed in Assyrian records with Hatarivia, with which Hadrach is now identified.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06018028",
-          "start_ref_usfm": "JOS 18:28",
-          "end_ref": "06018028",
-          "end_ref_usfm": "JOS 18:28"
+          "start_ref": "38009001",
+          "start_ref_usfm": "ZEC 9:1",
+          "end_ref": "38009001",
+          "end_ref_usfm": "ZEC 9:1"
         }
       ],
       "resource": []

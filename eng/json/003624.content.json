@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 6883,
-    "reference_id": 6051,
-    "title": "Makaz",
+    "content_id": 6882,
+    "reference_id": 6050,
+    "title": "Mail, Coat of",
     "media_type": "Text",
-    "index_reference": "makaz",
+    "index_reference": "mail, coat of",
     "language": "eng",
-    "content": "<h1>MAKAZ</h1><p>One of the 12 cities that provided food one month out of the year for King Solomon and his household (<a href=\"https://ref.ly/1Kgs4:9\">1&nbsp;Kgs 4:9</a>). Situated in northwest Judah, it may be identified with Khirbet el-Mukheizin, south of Ekron.</p>",
+    "content": "<h1>MAIL, Coat of</h1><p>Body armor consisting of small interlaced metal plates sewn onto a leather jacket. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2918\" data-resourceType=\"TyndaleBibleDictionary\">Armor and Weapons</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "11004009",
-          "start_ref_usfm": "1KI 4:9",
-          "end_ref": "11004009",
-          "end_ref_usfm": "1KI 4:9"
+          "reference_id": 2918,
+          "content_id": 3750,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Armor and Weapons",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

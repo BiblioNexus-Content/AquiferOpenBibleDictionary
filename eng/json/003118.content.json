@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 6375,
-    "reference_id": 5543,
-    "title": "Jezrahiah",
+    "content_id": 6374,
+    "reference_id": 5542,
+    "title": "Jezoar",
     "media_type": "Text",
-    "index_reference": "jezrahiah",
+    "index_reference": "jezoar",
     "language": "eng",
-    "content": "<h1>JEZRAHIAH</h1><p>Leader of the temple singers who participated in the dedication of the rebuilt Jerusalem wall (<a href=\"https://ref.ly/Neh12:42\">Neh 12:42</a>).</p>",
+    "content": "<h1>JEZOAR*</h1><p>KJV rendering of Izhar, Helah’s son, in <a href=\"https://ref.ly/1Chr4:7\">1&nbsp;Chronicles 4:7</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5292\" data-resourceType=\"TyndaleBibleDictionary\">Izhar #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16012042",
-          "start_ref_usfm": "NEH 12:42",
-          "end_ref": "16012042",
-          "end_ref_usfm": "NEH 12:42"
+          "start_ref": "13004007",
+          "start_ref_usfm": "1CH 4:7",
+          "end_ref": "13004007",
+          "end_ref_usfm": "1CH 4:7"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5292,
+          "content_id": 6124,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Izhar",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

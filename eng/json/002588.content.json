@@ -1,28 +1,36 @@
 [
   {
-    "content_id": 5842,
-    "reference_id": 5010,
-    "title": "Hiel",
+    "content_id": 5841,
+    "reference_id": 5009,
+    "title": "Hiddekel",
     "media_type": "Text",
-    "index_reference": "hiel",
+    "index_reference": "hiddekel",
     "language": "eng",
-    "content": "<h1>HIEL</h1><p>Bethelite in the days of King Ahab who fulfilled Joshua’s curse upon the city of Jericho (<a href=\"https://ref.ly/Josh6:26\">Jos 6:26</a>; <a href=\"https://ref.ly/1Kgs16:34\">1&nbsp;Kgs 16:34</a>). Joshua had said centuries before that anyone attempting to rebuild the city would suffer the loss of his oldest and youngest sons. It is unclear whether Hiel’s sons died a natural death or were killed in a punitive ritual.</p>",
+    "content": "<h1>HIDDEKEL</h1><p>A Hebrew name for the Tigris River (<a href=\"https://ref.ly/Gen2:14\">Genesis 2:14</a>; <a href=\"https://ref.ly/Dan10:4\">Daniel 10:4, King James Version</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8006\" data-resourceType=\"TyndaleBibleDictionary\">Tigris River</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06006026",
-          "start_ref_usfm": "JOS 6:26",
-          "end_ref": "06006026",
-          "end_ref_usfm": "JOS 6:26"
+          "start_ref": "01002014",
+          "start_ref_usfm": "GEN 2:14",
+          "end_ref": "01002014",
+          "end_ref_usfm": "GEN 2:14"
         },
         {
-          "start_ref": "11016034",
-          "start_ref_usfm": "1KI 16:34",
-          "end_ref": "11016034",
-          "end_ref_usfm": "1KI 16:34"
+          "start_ref": "27010004",
+          "start_ref_usfm": "DAN 10:4",
+          "end_ref": "27010004",
+          "end_ref_usfm": "DAN 10:4"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8006,
+          "content_id": 8838,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Tigris River",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

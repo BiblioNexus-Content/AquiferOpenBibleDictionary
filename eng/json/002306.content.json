@@ -1,34 +1,42 @@
 [
   {
-    "content_id": 5561,
-    "reference_id": 4729,
-    "title": "Habor",
+    "content_id": 5560,
+    "reference_id": 4728,
+    "title": "Habergeon",
     "media_type": "Text",
-    "index_reference": "habor",
+    "index_reference": "habergeon",
     "language": "eng",
-    "content": "<h1>HABOR</h1><p>Modern Habur (Chaboras) River. The Habor River runs from the mountains in north-central Assyria, in Gozan, into the Euphrates River at a junction about 250 miles (402 kilometers) south and west of Nineveh. Numerous tributaries feed the Habor farther to the north. The OT names the river as the site to which King Shalmaneser carried the captive Israelites (<a href=\"https://ref.ly/2Kgs17:6\">2&nbsp;Kgs 17:6</a>; <a href=\"https://ref.ly/2Kgs18:11\">18:11</a>; <a href=\"https://ref.ly/1Chr5:26\">1&nbsp;Chr 5:26</a>).</p>",
+    "content": "<h1>HABERGEON*</h1><p>KJV translation for coat of mail, part of a soldier’s defensive armor (<a href=\"https://ref.ly/2Chr26:14\">2&nbsp;Chr 26:14</a>; <a href=\"https://ref.ly/Neh4:16\">Neh 4:16</a>; <a href=\"https://ref.ly/Job41:26\">Jb 41:26</a>, nlt “javelin”). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2918\" data-resourceType=\"TyndaleBibleDictionary\">Armor and Weapons</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12017006",
-          "start_ref_usfm": "2KI 17:6",
-          "end_ref": "12017006",
-          "end_ref_usfm": "2KI 17:6"
+          "start_ref": "14026014",
+          "start_ref_usfm": "2CH 26:14",
+          "end_ref": "14026014",
+          "end_ref_usfm": "2CH 26:14"
         },
         {
-          "start_ref": "12018011",
-          "start_ref_usfm": "2KI 18:11",
-          "end_ref": "12018011",
-          "end_ref_usfm": "2KI 18:11"
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
         },
         {
-          "start_ref": "13005026",
-          "start_ref_usfm": "1CH 5:26",
-          "end_ref": "13005026",
-          "end_ref_usfm": "1CH 5:26"
+          "start_ref": "18041026",
+          "start_ref_usfm": "JOB 41:26",
+          "end_ref": "18041026",
+          "end_ref_usfm": "JOB 41:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2918,
+          "content_id": 3750,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Armor and Weapons",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

@@ -1,48 +1,52 @@
 [
   {
-    "content_id": 806261,
-    "reference_id": 7048,
-    "title": "Codorna",
+    "content_id": 759696,
+    "reference_id": 3735,
+    "title": "Cisterna",
     "media_type": "Text",
-    "index_reference": "codorna",
+    "index_reference": "cisterna",
     "language": "por",
-    "content": "<h1>CODORNA</h1><p>Uma codorna é uma ave pequena e robusta com bico e pés semelhantes aos de uma galinha. Essas características ajudam-na a comer sementes e insetos. A codorna-comum (<em>Coturnix coturnix</em>) é o menor membro da família das aves, que também inclui faisões e perdizes.</p><p>Codornas medem cerca de 25 centímetros de comprimento. Elas possuem asas pequenas e arredondadas e uma barriga branca. Quando assustadas, saem de gramíneas ou arbustos com um som de zumbido. Uma fêmea pode botar até 18 ovos. Se a fêmea morrer, o macho pode cuidar dos filhotes.</p><p>Codornas da região do Mediterrâneo passam o inverno no Sudão. Na primavera, migram para o norte em grandes bandos. As codornas não conseguem voar por longos períodos. Em vez disso, aproveitam as correntes de vento para se manterem no ar.</p><h3>Codorna na Bíblia</h3><p>Grandes bandos de codornas alimentaram os israelitas duas vezes durante seu tempo no Deserto do Sinai (<a href=\"https://ref.ly/Exod16:13\">Êx 16.13</a>; <a href=\"https://ref.ly/Num11:31-Num11:32\">Nm 11.31–32</a>; <a href=\"https://ref.ly/Ps105:40\">Sl 105.40</a>). Na segunda vez, provavelmente estavam voando ao longo do Golfo de Aqaba e foram desviados de curso por um vento leste (<a href=\"https://ref.ly/Num11:31\">Nm 11.31</a>; <a href=\"https://ref.ly/Ps78:26-Ps78:28\">Sl 78.26–28</a>).</p><p>Como as codornizes não conseguem voar por muito tempo, elas permanecem próximas ao solo, cerca de dois côvados, ou 101 centímetros. Quando cansadas, podiam ser capturadas à mão (<a href=\"https://ref.ly/Num11:31-Num11:32\">Nm 11.31–32</a>).</p><p>Codornas eram consideradas alimento puro sob a lei de Moisés. Elas eram valorizadas como as mais delicadas de todas as aves de caça. As pessoas frequentemente as preservavam secando-as ao sol.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Aves</span>.</p>",
+    "content": "<h1>CISTERNA</h1><p>Local para armazenar água; uma bacia de captação ou reservatório feito pelo homem. As cisternas de pedra revestidas com cal passaram a ser amplamente usadas na Palestina no século XIII a.C.</p><p>Cisternas vazando ou abandonadas eram frequentemente usadas como câmaras de sepultamento, tortura ou prisão. Por exemplo, a masmorra na qual o profeta Jeremias foi colocado era uma cisterna lamacenta abandonada (<a href=\"https://ref.ly/Jer38:6\">Jr 38.6</a>). Ismael jogou os corpos de 70 homens assassinados em uma grande cisterna originalmente construída pelo rei Asa para o abastecimento de água durante a guerra (<a href=\"https://ref.ly/Jer41:4-Jer41:9\">41.4–9</a>).</p><p>Cisternas eram de vital importância no árido Oriente Próximo. O rei Uzias de Judá é descrito como tendo escavado muitas cisternas em áreas onde faltavam nascentes ou poços (<a href=\"https://ref.ly/2Chr26:10\">2Cr 26.10</a>). Um general assírio, zombando do rei Ezequias e de seu povo, prometeu que, se eles se submetessem, todos beberiam a água de sua própria cisterna (<a href=\"https://ref.ly/Isa36:16\">Is 36.16</a>; cp. <a href=\"https://ref.ly/2Kgs18:31\">2Rs 18.31</a>). Muito antes, Moisés havia assegurado aos israelitas que cisternas já escavadas estariam entre as bênçãos de Deus na Terra Prometida (<a href=\"https://ref.ly/Deut6:11\">Dt 6.11</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02016013",
-          "start_ref_usfm": "EXO 16:13",
-          "end_ref": "02016013",
-          "end_ref_usfm": "EXO 16:13"
+          "start_ref": "05006011",
+          "start_ref_usfm": "DEU 6:11",
+          "end_ref": "05006011",
+          "end_ref_usfm": "DEU 6:11"
         },
         {
-          "start_ref": "19105040",
-          "start_ref_usfm": "PSA 105:40",
-          "end_ref": "19105040",
-          "end_ref_usfm": "PSA 105:40"
+          "start_ref": "12018031",
+          "start_ref_usfm": "2KI 18:31",
+          "end_ref": "12018031",
+          "end_ref_usfm": "2KI 18:31"
         },
         {
-          "start_ref": "04011031",
-          "start_ref_usfm": "NUM 11:31",
-          "end_ref": "04011032",
-          "end_ref_usfm": "NUM 11:32"
+          "start_ref": "14026010",
+          "start_ref_usfm": "2CH 26:10",
+          "end_ref": "14026010",
+          "end_ref_usfm": "2CH 26:10"
         },
         {
-          "start_ref": "19078026",
-          "start_ref_usfm": "PSA 78:26",
-          "end_ref": "19078028",
-          "end_ref_usfm": "PSA 78:28"
+          "start_ref": "23036016",
+          "start_ref_usfm": "ISA 36:16",
+          "end_ref": "23036016",
+          "end_ref_usfm": "ISA 36:16"
+        },
+        {
+          "start_ref": "24038006",
+          "start_ref_usfm": "JER 38:6",
+          "end_ref": "24038006",
+          "end_ref_usfm": "JER 38:6"
+        },
+        {
+          "start_ref": "24041004",
+          "start_ref_usfm": "JER 41:4",
+          "end_ref": "24041009",
+          "end_ref_usfm": "JER 41:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3418,
-          "content_id": 658615,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Pássaros",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

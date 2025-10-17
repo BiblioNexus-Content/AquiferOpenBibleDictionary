@@ -1,34 +1,30 @@
 [
   {
-    "content_id": 760001,
-    "reference_id": 7544,
-    "title": "Sesai",
+    "content_id": 717265,
+    "reference_id": 7262,
+    "title": "Sálvia",
     "media_type": "Text",
-    "index_reference": "sesai",
+    "index_reference": "sálvia",
     "language": "por",
-    "content": "<h1>SESAI</h1><p>Sesai era um descendente de Anaque. Ele vivia na cidade de Hebrom quando os 12 espiões israelitas exploraram a terra de Canaã (<a href=\"https://ref.ly/Num13:22\">Nm 13.22</a>). Mais tarde, os israelitas derrotaram Sesai e tomaram sua terra (<a href=\"https://ref.ly/Josh15:14\">Js 15.14</a>; <a href=\"https://ref.ly/Judg1:10\">Jz 1.10</a>).</p>",
+    "content": "<h1>SÁLVIA</h1><p>Planta que cresce 0,9 metro de altura e que cresce naturalmente na Palestina. Quando pressionadas, as flores da planta fornecem o padrão para o candelabro de sete braços dos judeus (<a href=\"https://ref.ly/Exod37:17-Exod37:18\">Êx 37.17–18</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04013022",
-          "start_ref_usfm": "NUM 13:22",
-          "end_ref": "04013022",
-          "end_ref_usfm": "NUM 13:22"
-        },
-        {
-          "start_ref": "06015014",
-          "start_ref_usfm": "JOS 15:14",
-          "end_ref": "06015014",
-          "end_ref_usfm": "JOS 15:14"
-        },
-        {
-          "start_ref": "07001010",
-          "start_ref_usfm": "JDG 1:10",
-          "end_ref": "07001010",
-          "end_ref_usfm": "JDG 1:10"
+          "start_ref": "02037017",
+          "start_ref_usfm": "EXO 37:17",
+          "end_ref": "02037018",
+          "end_ref_usfm": "EXO 37:18"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6929,
+          "content_id": 125318,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Plantas",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

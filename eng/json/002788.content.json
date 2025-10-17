@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 6040,
-    "reference_id": 5208,
-    "title": "Iob",
+    "content_id": 6039,
+    "reference_id": 5207,
+    "title": "Intertestamental Period",
     "media_type": "Text",
-    "index_reference": "iob",
+    "index_reference": "intertestamental period",
     "language": "eng",
-    "content": "<h1>IOB*</h1><p>Alternate name for Jashub, Issachar’s son, in <a href=\"https://ref.ly/Gen46:13\">Genesis 46:13</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5402\" data-resourceType=\"TyndaleBibleDictionary\">Jashub #1</span>.</p>",
+    "content": "<h1>INTERTESTAMENTAL PERIOD</h1><p>The time between the end of the Old Testament and the beginning of the New Testament. This period includes important events in Jewish history that are recorded in the books of 1 and 2 Maccabees.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5995\" data-resourceType=\"TyndaleBibleDictionary\">Maccabees, 1 and 2</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "01046013",
-          "start_ref_usfm": "GEN 46:13",
-          "end_ref": "01046013",
-          "end_ref_usfm": "GEN 46:13"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5402,
-          "content_id": 6234,
+          "reference_id": 5995,
+          "content_id": 6827,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jashub",
+          "label": "Maccabees, 1 and 2",
           "language": "eng"
         }
       ]

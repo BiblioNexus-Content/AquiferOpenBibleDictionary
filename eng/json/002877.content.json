@@ -1,36 +1,22 @@
 [
   {
-    "content_id": 6130,
-    "reference_id": 5298,
-    "title": "Jaakan",
+    "content_id": 6129,
+    "reference_id": 5297,
+    "title": "Izziah",
     "media_type": "Text",
-    "index_reference": "jaakan",
+    "index_reference": "izziah",
     "language": "eng",
-    "content": "<h1>JAAKAN</h1><p>Esau’s descendant and a son of Ezer the Horite (<a href=\"https://ref.ly/1Chr1:42\">1&nbsp;Chr 1:42</a>, nlt mg); alternately called Akan in <a href=\"https://ref.ly/Gen36:27\">Genesis 36:27</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3237\" data-resourceType=\"TyndaleBibleDictionary\">Beeroth Bene-jaakan</span>.</p>",
+    "content": "<h1>IZZIAH</h1><p>Parosh’s son, who was encouraged by Ezra to divorce the foreign woman he married during the postexilic period (<a href=\"https://ref.ly/Ezra10:25\">Ezr 10:25</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036027",
-          "start_ref_usfm": "GEN 36:27",
-          "end_ref": "01036027",
-          "end_ref_usfm": "GEN 36:27"
-        },
-        {
-          "start_ref": "13001042",
-          "start_ref_usfm": "1CH 1:42",
-          "end_ref": "13001042",
-          "end_ref_usfm": "1CH 1:42"
+          "start_ref": "15010025",
+          "start_ref_usfm": "EZR 10:25",
+          "end_ref": "15010025",
+          "end_ref_usfm": "EZR 10:25"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3237,
-          "content_id": 4069,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Beeroth Bene-Jaakan",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

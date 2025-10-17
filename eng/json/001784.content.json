@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 5038,
-    "reference_id": 4206,
-    "title": "Elm",
+    "content_id": 5036,
+    "reference_id": 4204,
+    "title": "Ellasar",
     "media_type": "Text",
-    "index_reference": "elm",
+    "index_reference": "ellasar",
     "language": "eng",
-    "content": "<h1>ELM*</h1><p>KJV mistranslation for terebinth, a large Palestinian tree, in <a href=\"https://ref.ly/Hos4:13\">Hosea 4:13</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plants (Terebinth)</span>.</p>",
+    "content": "<h1>ELLASAR</h1><p>Place in Babylonia; a few scholars have suggested that Arioch was its king. He joined a coalition that included Kedorlaomer, king of Elam, and together they raided the Jordan Valley during the time of Abraham (<a href=\"https://ref.ly/Gen14:1,Gen14:9\">Gn 14:1, 9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "28004013",
-          "start_ref_usfm": "HOS 4:13",
-          "end_ref": "28004013",
-          "end_ref_usfm": "HOS 4:13"
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014001",
+          "end_ref_usfm": "GEN 14:1"
+        },
+        {
+          "start_ref": "01014009",
+          "start_ref_usfm": "GEN 14:9",
+          "end_ref": "01014009",
+          "end_ref_usfm": "GEN 14:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Plants",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

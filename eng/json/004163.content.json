@@ -1,28 +1,42 @@
 [
   {
-    "content_id": 7421,
-    "reference_id": 6589,
-    "title": "Nogah",
+    "content_id": 7420,
+    "reference_id": 6588,
+    "title": "Noe",
     "media_type": "Text",
-    "index_reference": "nogah",
+    "index_reference": "noe",
     "language": "eng",
-    "content": "<h1>NOGAH</h1><p>One of 13 sons of David born in Jerusalem after David established his kingdom (<a href=\"https://ref.ly/1Chr3:7\">1&nbsp;Chr 3:7</a>; <a href=\"https://ref.ly/1Chr14:6\">14:6</a>).</p>",
+    "content": "<h1>NOE</h1><p>The King James Version spelling of Noah in <a href=\"https://ref.ly/Matt24:37-Matt24:38\">Matthew 24:37</a><a href=\"https://ref.ly/Matt24:37-Matt24:38\">–</a><a href=\"https://ref.ly/Matt24:37-Matt24:38\">38</a> and <a href=\"https://ref.ly/Luke3:36\">Luke 3:36</a>; <a href=\"https://ref.ly/Luke17:26-Luke17:27\">17:26</a><a href=\"https://ref.ly/Luke17:26-Luke17:27\">–</a><a href=\"https://ref.ly/Luke17:26-Luke17:27\">27</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6581\" data-resourceType=\"TyndaleBibleDictionary\">Noah #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13003007",
-          "start_ref_usfm": "1CH 3:7",
-          "end_ref": "13003007",
-          "end_ref_usfm": "1CH 3:7"
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
         },
         {
-          "start_ref": "13014006",
-          "start_ref_usfm": "1CH 14:6",
-          "end_ref": "13014006",
-          "end_ref_usfm": "1CH 14:6"
+          "start_ref": "42017026",
+          "start_ref_usfm": "LUK 17:26",
+          "end_ref": "42017027",
+          "end_ref_usfm": "LUK 17:27"
+        },
+        {
+          "start_ref": "40024037",
+          "start_ref_usfm": "MAT 24:37",
+          "end_ref": "40024038",
+          "end_ref_usfm": "MAT 24:38"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6581,
+          "content_id": 7413,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Noah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

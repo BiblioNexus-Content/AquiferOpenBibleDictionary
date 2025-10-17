@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5981,
-    "reference_id": 5149,
-    "title": "Ichabod",
+    "content_id": 5980,
+    "reference_id": 5148,
+    "title": "Ibzan",
     "media_type": "Text",
-    "index_reference": "ichabod",
+    "index_reference": "ibzan",
     "language": "eng",
-    "content": "<h1>ICHABOD</h1><p>Name given to Phinehas’s son (Eli’s grandson) to commemorate the glory that had departed from Israel, after the ark of God was taken by the Philistines (<a href=\"https://ref.ly/1Sam4:19-1Sam4:22\">1&nbsp;Sm 4:19–22</a>; <a href=\"https://ref.ly/1Sam14:3\">14:3</a>).</p><p>Phinehas was killed in the battle of Aphek, at the same time the Philistines had captured the ark. When Phinehas’s wife heard of the tragedy, she went immediately into labor, and when the child was born, she named him Ichabod (meaning “no glory”) to express her despair.</p>",
+    "content": "<h1>IBZAN</h1><p>Judge who ruled over Israel, or part of it, for seven years (<a href=\"https://ref.ly/Judg12:8-Judg12:10\">Jgs 12:8–10</a>). Ibzan was a native of Bethlehem, probably of Zebulun, and was buried in his place of birth. Jewish tradition identified Ibzan with Boaz and consequently understood his native city to be Bethlehem in Judah. Ibzan had 30 sons and 30 daughters and was a man of wealth and high social standing.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5658\" data-resourceType=\"TyndaleBibleDictionary\">Judges, Book of</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09014003",
-          "start_ref_usfm": "1SA 14:3",
-          "end_ref": "09014003",
-          "end_ref_usfm": "1SA 14:3"
-        },
-        {
-          "start_ref": "09004019",
-          "start_ref_usfm": "1SA 4:19",
-          "end_ref": "09004022",
-          "end_ref_usfm": "1SA 4:22"
+          "start_ref": "07012008",
+          "start_ref_usfm": "JDG 12:8",
+          "end_ref": "07012010",
+          "end_ref_usfm": "JDG 12:10"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5658,
+          "content_id": 6490,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Judges, Book of",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

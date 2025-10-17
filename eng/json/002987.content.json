@@ -1,25 +1,37 @@
 [
   {
-    "content_id": 6241,
-    "reference_id": 5409,
-    "title": "Javan (Person)",
+    "content_id": 6240,
+    "reference_id": 5408,
+    "title": "Jattir",
     "media_type": "Text",
-    "index_reference": "javan (person)",
+    "index_reference": "jattir",
     "language": "eng",
-    "content": "<h1>JAVAN (Person)</h1><p>Japheth’s son whose seafaring descendants migrated to the north and west of Canaan (<a href=\"https://ref.ly/Gen10:2-Gen10:4\">Gn 10:2–4</a>; <a href=\"https://ref.ly/1Chr1:5-1Chr1:7\">1&nbsp;Chr 1:5–7</a>).</p>",
+    "content": "<h1>JATTIR</h1><p>Town in the hill country of Judah given to the Levites (<a href=\"https://ref.ly/Josh15:48\">Jos 15:48</a>; <a href=\"https://ref.ly/Josh21:14\">21:14</a>; <a href=\"https://ref.ly/1Chr6:57\">1&nbsp;Chr 6:57</a>). David sent spoils from his victory over the Amalekites to Jattir (<a href=\"https://ref.ly/1Sam30:27\">1&nbsp;Sm 30:27</a>). It is identified with modern Khirbet ‘Attir, 13 miles (21 kilometers) southeast of Hebron.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010002",
-          "start_ref_usfm": "GEN 10:2",
-          "end_ref": "01010004",
-          "end_ref_usfm": "GEN 10:4"
+          "start_ref": "06015048",
+          "start_ref_usfm": "JOS 15:48",
+          "end_ref": "06015048",
+          "end_ref_usfm": "JOS 15:48"
         },
         {
-          "start_ref": "13001005",
-          "start_ref_usfm": "1CH 1:5",
-          "end_ref": "13001007",
-          "end_ref_usfm": "1CH 1:7"
+          "start_ref": "06021014",
+          "start_ref_usfm": "JOS 21:14",
+          "end_ref": "06021014",
+          "end_ref_usfm": "JOS 21:14"
+        },
+        {
+          "start_ref": "09030027",
+          "start_ref_usfm": "1SA 30:27",
+          "end_ref": "09030027",
+          "end_ref_usfm": "1SA 30:27"
+        },
+        {
+          "start_ref": "13006057",
+          "start_ref_usfm": "1CH 6:57",
+          "end_ref": "13006057",
+          "end_ref_usfm": "1CH 6:57"
         }
       ],
       "resource": []

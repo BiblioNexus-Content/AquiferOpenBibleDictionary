@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6756,
-    "reference_id": 5924,
-    "title": "Linen",
+    "content_id": 6755,
+    "reference_id": 5923,
+    "title": "Lime",
     "media_type": "Text",
-    "index_reference": "linen",
+    "index_reference": "lime",
     "language": "eng",
-    "content": "<h1>LINEN</h1><p>Cloth made from flax. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3766\" data-resourceType=\"TyndaleBibleDictionary\">Cloth and Cloth Manufacturing</span>.</p>",
+    "content": "<h1>LIME*</h1><p>White substance (calcium oxide) obtained by applying heat to materials containing calcium carbonate, such as limestone or shells. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3766,
-          "content_id": 4598,
+          "reference_id": 6313,
+          "content_id": 7145,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Cloth and Cloth Manufacturing",
+          "label": "Minerals and Metals",
           "language": "eng"
         }
       ]

@@ -1,46 +1,36 @@
 [
   {
-    "content_id": 759886,
-    "reference_id": 6043,
-    "title": "Macla",
+    "content_id": 759876,
+    "reference_id": 5907,
+    "title": "Libnitas",
     "media_type": "Text",
-    "index_reference": "macla",
+    "index_reference": "libnitas",
     "language": "por",
-    "content": "<h1>MACLA</h1><ol><li><p>Uma manassita. Ela era uma das cinco filhas de Zelofeade. Macla e suas irmãs apelaram a Moisés, pedindo que ele fizesse um acordo que lhes permitisse manter sua herança, pois elas não tinham irmãos (<a href=\"https://ref.ly/Num26:33\">Nm 26.33</a>; <a href=\"https://ref.ly/Num27:1\">27.1</a>; <a href=\"https://ref.ly/Num36:11\">36.11</a>; <a href=\"https://ref.ly/Josh17:3\">Js 17.3</a>). Algumas Bíblias usam a grafia &quot;Maalá&quot;.</p></li><li><p>Um filho de Hamolequete da tribo de Manassés (<a href=\"https://ref.ly/1Chr7:18\">1Cr 7.18</a>).</p></li></ol>",
+    "content": "<h1>LIBNITAS</h1><p>Qualquer descendente de Libni. Ele era um filho de Gérson da tribo de Levi (<a href=\"https://ref.ly/Num3:21\">Nm 3.21</a>; <a href=\"https://ref.ly/Num26:58\">26.58</a>).</p><p><em>Veja </em><span data-bnType=\"resourceReference\" data-resourceId=\"5908\" data-resourceType=\"TyndaleBibleDictionary\">Libni #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026033",
-          "start_ref_usfm": "NUM 26:33",
-          "end_ref": "04026033",
-          "end_ref_usfm": "NUM 26:33"
+          "start_ref": "04003021",
+          "start_ref_usfm": "NUM 3:21",
+          "end_ref": "04003021",
+          "end_ref_usfm": "NUM 3:21"
         },
         {
-          "start_ref": "04027001",
-          "start_ref_usfm": "NUM 27:1",
-          "end_ref": "04027001",
-          "end_ref_usfm": "NUM 27:1"
-        },
-        {
-          "start_ref": "04036011",
-          "start_ref_usfm": "NUM 36:11",
-          "end_ref": "04036011",
-          "end_ref_usfm": "NUM 36:11"
-        },
-        {
-          "start_ref": "06017003",
-          "start_ref_usfm": "JOS 17:3",
-          "end_ref": "06017003",
-          "end_ref_usfm": "JOS 17:3"
-        },
-        {
-          "start_ref": "13007018",
-          "start_ref_usfm": "1CH 7:18",
-          "end_ref": "13007018",
-          "end_ref_usfm": "1CH 7:18"
+          "start_ref": "04026058",
+          "start_ref_usfm": "NUM 26:58",
+          "end_ref": "04026058",
+          "end_ref_usfm": "NUM 26:58"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5908,
+          "content_id": 717141,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Libni",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

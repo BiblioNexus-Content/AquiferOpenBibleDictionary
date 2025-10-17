@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 7459,
-    "reference_id": 6627,
-    "title": "Ocina",
+    "content_id": 7458,
+    "reference_id": 6626,
+    "title": "Ochran",
     "media_type": "Text",
-    "index_reference": "ocina",
+    "index_reference": "ochran",
     "language": "eng",
-    "content": "<h1>OCINA</h1><p>A town on the coast south of Tyre (<a href=\"https://ref.ly/Jdt2:28\">Jdt 2:28</a>). Its location is uncertain, and it has been identified with both Sandaliam and Acco.</p>",
+    "content": "<h1>OCHRAN</h1><p>Ochran is another way of spelling Ocran.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6628\" data-resourceType=\"TyndaleBibleDictionary\">Ocran</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "69002028",
-          "start_ref_usfm": "JDT 2:28",
-          "end_ref": "69002028",
-          "end_ref_usfm": "JDT 2:28"
+          "reference_id": 6628,
+          "content_id": 7460,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Ocran",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

@@ -1,55 +1,28 @@
 [
   {
-    "content_id": 6667,
-    "reference_id": 5835,
-    "title": "Laish (Place)",
+    "content_id": 6666,
+    "reference_id": 5834,
+    "title": "Laish (Person)",
     "media_type": "Text",
-    "index_reference": "laish (place)",
+    "index_reference": "laish (person)",
     "language": "eng",
-    "content": "<h1>LAISH (Place)</h1><p>1. Early name for the city of Dan (<a href=\"https://ref.ly/Judg18:7,Judg18:14,Judg18:27-Judg18:29\">Jgs 18:7, 14, 27–29</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3920\" data-resourceType=\"TyndaleBibleDictionary\">Dan (Place) #1</span>.</p><p>2. KJV spelling of Laishah, a Benjamite town, in <a href=\"https://ref.ly/Isa10:30\">Isaiah 10:30</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5833\" data-resourceType=\"TyndaleBibleDictionary\">Laishah</span>.</p>",
+    "content": "<h1>LAISH (Person)</h1><p>The father of Paltiel (also called Palti). King Saul gave his daughter Michal to Paltiel as a wife. Michal was previously married to David before Saul took her away and gave her to Paltiel (<a href=\"https://ref.ly/1Sam25:44\">1&nbsp;Samuel 25:44</a>; <a href=\"https://ref.ly/2Sam3:15-2Sam3:16\">2&nbsp;Samuel 3:15–16</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "07018007",
-          "start_ref_usfm": "JDG 18:7",
-          "end_ref": "07018007",
-          "end_ref_usfm": "JDG 18:7"
+          "start_ref": "09025044",
+          "start_ref_usfm": "1SA 25:44",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
         },
         {
-          "start_ref": "07018014",
-          "start_ref_usfm": "JDG 18:14",
-          "end_ref": "07018014",
-          "end_ref_usfm": "JDG 18:14"
-        },
-        {
-          "start_ref": "23010030",
-          "start_ref_usfm": "ISA 10:30",
-          "end_ref": "23010030",
-          "end_ref_usfm": "ISA 10:30"
-        },
-        {
-          "start_ref": "07018027",
-          "start_ref_usfm": "JDG 18:27",
-          "end_ref": "07018029",
-          "end_ref_usfm": "JDG 18:29"
+          "start_ref": "10003015",
+          "start_ref_usfm": "2SA 3:15",
+          "end_ref": "10003016",
+          "end_ref_usfm": "2SA 3:16"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3920,
-          "content_id": 4752,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Dan (Place)",
-          "language": "eng"
-        },
-        {
-          "reference_id": 5833,
-          "content_id": 6665,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Laishah",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

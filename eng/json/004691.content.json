@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 7954,
-    "reference_id": 7122,
-    "title": "Razis",
+    "content_id": 7952,
+    "reference_id": 7120,
+    "title": "Ravenous Birds",
     "media_type": "Text",
-    "index_reference": "razis",
+    "index_reference": "ravenous birds",
     "language": "eng",
-    "content": "<h1>RAZIS</h1><p>A fiercely patriotic Jewish elder sought by the Syrian general Nicanor for opposition to Hellenism (<a href=\"https://ref.ly/2Macc14:37-2Macc14:46\">2&nbsp;Macc 14:37–46</a>). He committed suicide, throwing his own innards at spectators, rather than face arrest by Syrian soldiers.</p>",
+    "content": "<h1>RAVENOUS BIRDS*</h1><p>KJV translation for “birds of prey” in <a href=\"https://ref.ly/Isa46:11\">Isaiah 46:11</a> and <a href=\"https://ref.ly/Ezek39:4\">Ezekiel 39:4</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Birds (Kite or&nbsp;Glede; Vulture, Griffon)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "79014037",
-          "start_ref_usfm": "2MA 14:37",
-          "end_ref": "79014046",
-          "end_ref_usfm": "2MA 14:46"
+          "start_ref": "23046011",
+          "start_ref_usfm": "ISA 46:11",
+          "end_ref": "23046011",
+          "end_ref_usfm": "ISA 46:11"
+        },
+        {
+          "start_ref": "26039004",
+          "start_ref_usfm": "EZK 39:4",
+          "end_ref": "26039004",
+          "end_ref_usfm": "EZK 39:4"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3418,
+          "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Birds",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

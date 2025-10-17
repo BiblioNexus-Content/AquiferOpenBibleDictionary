@@ -1,46 +1,30 @@
 [
   {
-    "content_id": 759683,
-    "reference_id": 3525,
-    "title": "Buqui",
+    "content_id": 815961,
+    "reference_id": 4411,
+    "title": "Braça",
     "media_type": "Text",
-    "index_reference": "buqui",
+    "index_reference": "braça",
     "language": "por",
-    "content": "<h1>BUQUI</h1><ol><li><p>Um líder da tribo de Dã que ajudou Josué a dividir a terra de Canaã entre os israelitas (<a href=\"https://ref.ly/Num34:22\">Nm 34.22</a>).</p></li><li><p>Um ancestral de Esdras (<a href=\"https://ref.ly/1Chr6:5,1Chr6:51\">1Cr 6.5,51</a>; <a href=\"https://ref.ly/Ezra7:1,Ezra7:4-Ezra7:5\">Ed 7.1,4–5</a>).</p></li></ol>",
+    "content": "<h1>BRAÇA</h1><p>Uma unidade de medida de água equivalente a cerca de 1,8 metros. Os marinheiros usavam braças para medir a profundidade da água. Durante a jornada de Paulo para Roma, os marinheiros mediram a profundidade da água quando seu navio se aproximava da terra durante uma tempestade (<a href=\"https://ref.ly/Acts27:28\">At 27.28</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Pesos e Medidas</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04034022",
-          "start_ref_usfm": "NUM 34:22",
-          "end_ref": "04034022",
-          "end_ref_usfm": "NUM 34:22"
-        },
-        {
-          "start_ref": "13006005",
-          "start_ref_usfm": "1CH 6:5",
-          "end_ref": "13006005",
-          "end_ref_usfm": "1CH 6:5"
-        },
-        {
-          "start_ref": "13006051",
-          "start_ref_usfm": "1CH 6:51",
-          "end_ref": "13006051",
-          "end_ref_usfm": "1CH 6:51"
-        },
-        {
-          "start_ref": "15007001",
-          "start_ref_usfm": "EZR 7:1",
-          "end_ref": "15007001",
-          "end_ref_usfm": "EZR 7:1"
-        },
-        {
-          "start_ref": "15007004",
-          "start_ref_usfm": "EZR 7:4",
-          "end_ref": "15007005",
-          "end_ref_usfm": "EZR 7:5"
+          "start_ref": "44027028",
+          "start_ref_usfm": "ACT 27:28",
+          "end_ref": "44027028",
+          "end_ref_usfm": "ACT 27:28"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8219,
+          "content_id": 125350,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Pesos E Medidas",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

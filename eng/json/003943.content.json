@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 7203,
-    "reference_id": 6371,
-    "title": "Moreh, Oak of",
+    "content_id": 7202,
+    "reference_id": 6370,
+    "title": "Moreh, Hill of",
     "media_type": "Text",
-    "index_reference": "moreh, oak of",
+    "index_reference": "moreh, hill of",
     "language": "eng",
-    "content": "<h1>MOREH, Oak of</h1><p>Abraham’s first recorded stopping place upon entering Palestine after leaving Mesopotamia. Here he built an altar to God (<a href=\"https://ref.ly/Gen12:6\">Gn 12:6</a>). Later, Moses mentioned this place as a geographical landmark to identify the whereabouts of Mt Gerizim and Mt Ebal (<a href=\"https://ref.ly/Deut11:30\">Dt 11:30</a>). The kjv improperly reads “plain” of Moreh. The oak of Moreh was located near Shechem.</p>",
+    "content": "<h1>MOREH, Hill of</h1><p>Hill close to the valley of Jezreel, near which the Midianites camped when they were attacked by Gideon (<a href=\"https://ref.ly/Judg7:1\">Jgs 7:1</a>). It was probably called by this name because it was the location of a sanctuary where divination was practiced. Its name may imply instruction or divination. It is generally identified with Jebel Nabi Dahi, across the valley from Mt Gilboa.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01012006",
-          "start_ref_usfm": "GEN 12:6",
-          "end_ref": "01012006",
-          "end_ref_usfm": "GEN 12:6"
-        },
-        {
-          "start_ref": "05011030",
-          "start_ref_usfm": "DEU 11:30",
-          "end_ref": "05011030",
-          "end_ref_usfm": "DEU 11:30"
+          "start_ref": "07007001",
+          "start_ref_usfm": "JDG 7:1",
+          "end_ref": "07007001",
+          "end_ref_usfm": "JDG 7:1"
         }
       ],
       "resource": []

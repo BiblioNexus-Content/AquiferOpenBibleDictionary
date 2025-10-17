@@ -1,48 +1,28 @@
 [
   {
-    "content_id": 759681,
-    "reference_id": 3514,
-    "title": "Ninhada",
+    "content_id": 759902,
+    "reference_id": 6378,
+    "title": "Moserote, Moserá",
     "media_type": "Text",
-    "index_reference": "ninhada",
+    "index_reference": "moserote, moserá",
     "language": "por",
-    "content": "<h1>NINHADA</h1><p>Um termo frequentemente usado na Bíblia para pássaros jovens, especialmente pássaros treinados, também é usado para cobras ou víboras como uma metáfora para &quot;pecadores&quot; (<a href=\"https://ref.ly/Num32:14\">Nm 32.14</a>; <a href=\"https://ref.ly/Matt3:7\">Mt 3.7</a>; <a href=\"https://ref.ly/Matt12:34\">12.34</a>; <a href=\"https://ref.ly/Luke3:7\">Lc 3.7</a>). Pode ser traduzido também por &quot;raça&quot;. </p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Aves (Domésticas, Aves; Perdiz)</span>.</p>",
+    "content": "<h1>MOSEROTE, MOSERÁ</h1><p>Local temporário de acampamento dos israelitas durante suas peregrinações no deserto. Estava situado entre Hasmona e Benê-Jaacã (<a href=\"https://ref.ly/Num33:30-Num33:31\">Nm 33.30–31</a>). Mais tarde, Arão morreu e foi sepultado lá (<a href=\"https://ref.ly/Deut10:6\">Dt 10.6</a>). No original, Moserote é a forma plural de Moserá (ou, Mosera).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04032014",
-          "start_ref_usfm": "NUM 32:14",
-          "end_ref": "04032014",
-          "end_ref_usfm": "NUM 32:14"
+          "start_ref": "05010006",
+          "start_ref_usfm": "DEU 10:6",
+          "end_ref": "05010006",
+          "end_ref_usfm": "DEU 10:6"
         },
         {
-          "start_ref": "40003007",
-          "start_ref_usfm": "MAT 3:7",
-          "end_ref": "40003007",
-          "end_ref_usfm": "MAT 3:7"
-        },
-        {
-          "start_ref": "40012034",
-          "start_ref_usfm": "MAT 12:34",
-          "end_ref": "40012034",
-          "end_ref_usfm": "MAT 12:34"
-        },
-        {
-          "start_ref": "42003007",
-          "start_ref_usfm": "LUK 3:7",
-          "end_ref": "42003007",
-          "end_ref_usfm": "LUK 3:7"
+          "start_ref": "04033030",
+          "start_ref_usfm": "NUM 33:30",
+          "end_ref": "04033031",
+          "end_ref_usfm": "NUM 33:31"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3418,
-          "content_id": 658615,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Pássaros",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

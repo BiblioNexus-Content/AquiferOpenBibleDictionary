@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 4645,
-    "reference_id": 3813,
-    "title": "Copper",
+    "content_id": 4643,
+    "reference_id": 3811,
+    "title": "Coos",
     "media_type": "Text",
-    "index_reference": "copper",
+    "index_reference": "coos",
     "language": "eng",
-    "content": "<h1>COPPER</h1><p>Reddish-brown, malleable metal found in the ground (<a href=\"https://ref.ly/Deut8:9\">Dt 8:9</a>) and fashioned into ornaments, tools, and coins. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>.</p>",
+    "content": "<h1>COOS</h1><p>The King James Version spelling of Cos, an island and city in the Aegean Sea (<a href=\"https://ref.ly/Acts21:1\">Acts 21:1</a>). This was one of the places the apostle Paul visited during his missionary journeys.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3833\" data-resourceType=\"TyndaleBibleDictionary\">Cos</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05008009",
-          "start_ref_usfm": "DEU 8:9",
-          "end_ref": "05008009",
-          "end_ref_usfm": "DEU 8:9"
+          "start_ref": "44021001",
+          "start_ref_usfm": "ACT 21:1",
+          "end_ref": "44021001",
+          "end_ref_usfm": "ACT 21:1"
         }
       ],
       "resource": [
         {
-          "reference_id": 6313,
-          "content_id": 7145,
+          "reference_id": 3833,
+          "content_id": 4665,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Minerals and Metals",
+          "label": "Cos",
           "language": "eng"
         }
       ]

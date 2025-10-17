@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 6230,
-    "reference_id": 5398,
-    "title": "Jashen",
+    "content_id": 6227,
+    "reference_id": 5395,
+    "title": "Jaroah",
     "media_type": "Text",
-    "index_reference": "jashen",
+    "index_reference": "jaroah",
     "language": "eng",
-    "content": "<h1>JASHEN</h1><p>One of the 30 mighty men of King David (<a href=\"https://ref.ly/2Sam23:32\">2&nbsp;Samuel 23:32</a>). The Hebrew text is translated “the sons of Jashen.” In <a href=\"https://ref.ly/1Chr11:34\">1&nbsp;Chronicles 11:34</a>, the text is translated “the sons of Hashem the Gizonite.” </p><p>Scholars agree in general that the phrase “the sons of” is an error of double writing (or dittography). It repeats the last three letters of the preceding word. The original text probably was either “Jashen the Gizonite” or “Hashem the Gizonite.” This means that Jashen himself, not his son, was the mighty warrior in David&apos;s army.</p>",
+    "content": "<h1>JAROAH</h1><p>Gilead’s son from Gad’s tribe (<a href=\"https://ref.ly/1Chr5:14\">1&nbsp;Chr 5:14</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "10023032",
-          "start_ref_usfm": "2SA 23:32",
-          "end_ref": "10023032",
-          "end_ref_usfm": "2SA 23:32"
-        },
-        {
-          "start_ref": "13011034",
-          "start_ref_usfm": "1CH 11:34",
-          "end_ref": "13011034",
-          "end_ref_usfm": "1CH 11:34"
+          "start_ref": "13005014",
+          "start_ref_usfm": "1CH 5:14",
+          "end_ref": "13005014",
+          "end_ref_usfm": "1CH 5:14"
         }
       ],
       "resource": []

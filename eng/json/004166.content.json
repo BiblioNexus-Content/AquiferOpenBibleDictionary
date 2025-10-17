@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 7424,
-    "reference_id": 6592,
-    "title": "Non",
+    "content_id": 7423,
+    "reference_id": 6591,
+    "title": "Nohah (Place)",
     "media_type": "Text",
-    "index_reference": "non",
+    "index_reference": "nohah (place)",
     "language": "eng",
-    "content": "<h1>NON*</h1><p>KJV form of Nun, Joshua’s father, in <a href=\"https://ref.ly/1Chr7:27\">1&nbsp;Chronicles 7:27</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6603\" data-resourceType=\"TyndaleBibleDictionary\">Nun</span>.</p>",
+    "content": "<h1>NOHAH* (Place)</h1><p>Place west of Gibeah in Benjamin’s territory (<a href=\"https://ref.ly/Judg20:43\">Jgs 20:43</a>, rsv). Other translations consider Nohah (meaning “quiet”) an adverb and translate it accordingly, “with ease” (kjv), because no town by that name is known.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13007027",
-          "start_ref_usfm": "1CH 7:27",
-          "end_ref": "13007027",
-          "end_ref_usfm": "1CH 7:27"
+          "start_ref": "07020043",
+          "start_ref_usfm": "JDG 20:43",
+          "end_ref": "07020043",
+          "end_ref_usfm": "JDG 20:43"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6603,
-          "content_id": 7435,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Nun",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

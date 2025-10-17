@@ -1,36 +1,28 @@
 [
   {
-    "content_id": 6852,
-    "reference_id": 6020,
-    "title": "Maggot",
+    "content_id": 6851,
+    "reference_id": 6019,
+    "title": "Magdiel",
     "media_type": "Text",
-    "index_reference": "maggot",
+    "index_reference": "magdiel",
     "language": "eng",
-    "content": "<h1>MAGGOT</h1><p>Fly larvae (<a href=\"https://ref.ly/Job25:6\">Jb 25:6</a>; <a href=\"https://ref.ly/Isa14:11\">Is 14:11</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals (Fly)</span>.</p>",
+    "content": "<h1>MAGDIEL</h1><p>One of the chiefs of Edom (<a href=\"https://ref.ly/Gen36:43\">Gn 36:43</a>; <a href=\"https://ref.ly/1Chr1:54\">1&nbsp;Chr 1:54</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "18025006",
-          "start_ref_usfm": "JOB 25:6",
-          "end_ref": "18025006",
-          "end_ref_usfm": "JOB 25:6"
+          "start_ref": "01036043",
+          "start_ref_usfm": "GEN 36:43",
+          "end_ref": "01036043",
+          "end_ref_usfm": "GEN 36:43"
         },
         {
-          "start_ref": "23014011",
-          "start_ref_usfm": "ISA 14:11",
-          "end_ref": "23014011",
-          "end_ref_usfm": "ISA 14:11"
+          "start_ref": "13001054",
+          "start_ref_usfm": "1CH 1:54",
+          "end_ref": "13001054",
+          "end_ref_usfm": "1CH 1:54"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 2782,
-          "content_id": 3614,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Animals",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

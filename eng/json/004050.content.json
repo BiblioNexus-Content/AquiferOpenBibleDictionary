@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 7309,
-    "reference_id": 6477,
-    "title": "Narcissus (Plant)",
+    "content_id": 7308,
+    "reference_id": 6476,
+    "title": "Narcissus (Person)",
     "media_type": "Text",
-    "index_reference": "narcissus (plant)",
+    "index_reference": "narcissus (person)",
     "language": "eng",
-    "content": "<h1>NARCISSUS (Plant)</h1><p>A fragrant plant growing on the plains of Sharon in abundance. It also grows in other parts of Palestine. It is has narrow leaves and usually white or yellow flowers. The flowers have a cup-shaped or trumpet-shaped crown. Because of its sweet fragrance, many people cultivate and enjoy this plant.</p><p>The polyanthus narcissus (<em>Narcissus tazetta</em>) appears to be the plant mentioned in <a href=\"https://ref.ly/Isa35:1\">Isaiah 35:1</a> (&quot;rose&quot; in the Berean Standard Bible).  </p>",
+    "content": "<h1>NARCISSUS (Person)</h1><p>Christian whose household knew the Lord and received greetings from Paul in his letter to Rome (<a href=\"https://ref.ly/Rom16:11\">Rom 16:11</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "23035001",
-          "start_ref_usfm": "ISA 35:1",
-          "end_ref": "23035001",
-          "end_ref_usfm": "ISA 35:1"
+          "start_ref": "45016011",
+          "start_ref_usfm": "ROM 16:11",
+          "end_ref": "45016011",
+          "end_ref_usfm": "ROM 16:11"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

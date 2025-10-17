@@ -1,75 +1,63 @@
 [
   {
-    "content_id": 759819,
-    "reference_id": 5119,
-    "title": "Hurão (Hurã)",
+    "content_id": 161825,
+    "reference_id": 4991,
+    "title": "Herodias",
     "media_type": "Text",
-    "index_reference": "hurão (hurã)",
+    "index_reference": "herodias",
     "language": "por",
-    "content": "<h1>HURÃO (HURÃ)</h1><ol><li><p>Um filho de Bela da tribo de Benjamim (<a href=\"https://ref.ly/1Chr8:5\">1Cr 8.5</a>). Ele pode ser a mesma pessoa que Hufã (<a href=\"https://ref.ly/Num26:39\">Nm 26.39</a>). A NTLH usa a grafia Hurã.</p></li><li><p>Outra grafia de Hirão, o rei fenício de Tiro que foi aliado de Davi e Salomão. Hirão forneceu materiais para a construção do templo (<a href=\"https://ref.ly/2Chr2:3,2Chr2:11-2Chr2:12\">2Cr 2.3,11–12</a>; <a href=\"https://ref.ly/2Chr8:2,2Chr8:18\">8.2,18</a>; <a href=\"https://ref.ly/2Chr9:10,2Chr9:21\">9.10,21</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5028\" data-resourceType=\"TyndaleBibleDictionary\">Hirão #1</span>.</p></li><li><p>Outra grafia de Hirão, um artesão de Tiro que trabalhou no templo de Salomão (<a href=\"https://ref.ly/2Chr4:11\">2Cr 4.11</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5028\" data-resourceType=\"TyndaleBibleDictionary\">Hirão #2</span>.</p></li></ol>",
+    "content": "<h1>HERODIAS</h1><p>Filha de Aristóbulo, o filho de Herodes, o Grande, e Berenice. Nascida entre 9 e 7 a.C., seu irmão mais velho era Herodes Agripa I. Em 6 a.C., ainda em sua infância, ela foi prometida por seu avô, Herodes, o Grande, a seu filho com Mariamne II, chamado Herodes Filipe. Herodias era a mãe de Salomé, nascida entre 15 e 19 d.C.</p><p>Herodias e Herodes Filipe viviam na costa marítima da Judeia, possivelmente em Azoto ou Cesareia. Em 29 d.C. Herodes Antipas visitou a residência de Herodias (sua sobrinha) em seu caminho para Roma. Eles foram atraídos um pelo outro e Herodias concordou em se casar com ele, desde que ele se divorciasse de sua atual esposa, a filha de Aretas IV, o rei nabateu de Petra. Herodias, sendo uma asmoneia, não queria compartilhar a casa com uma árabe — inimigos antigos da dinastia asmoneia. Quando a filha de Aretas recebeu a notícia desta conspiração, ela escapou secretamente para seu pai, e Herodias e Antipas se casaram. Este incidente foi o início de hostilidades entre Antipas e Aretas, que eventualmente levou à guerra de Aretas contra Antipas e a derrota deste em 36 d.C.</p><p>João Batista denunciou abertamente este casamento (<a href=\"https://ref.ly/Matt14:3-Matt14:12\">Mt 14.3–12</a>; <a href=\"https://ref.ly/Mark6:17-Mark6:29\">Mc 6.17–29</a>; <a href=\"https://ref.ly/Luke3:19-Luke3:20\">Lc 3.19–20</a>) porque a lei judaica proibia o casamento com a esposa de um irmão (<a href=\"https://ref.ly/Lev18:16\">Lv 18.16</a>; <a href=\"https://ref.ly/Lev20:21\">20.21</a>), exceto para gerar filhos a um irmão falecido sem filhos por um casamento levirato (<a href=\"https://ref.ly/Deut25:5\">Dt 25.5</a>; <a href=\"https://ref.ly/Mark12:19\">Mc 12.19</a>). Neste caso, o irmão, Herodes Filipe, ainda estava vivo e tinha uma filha, Salomé. A denúncia ousada de João Batista levou Antipas a prendê-lo por volta de 30 ou 31 d.C. Herodias queria mais do que isso. Ela organizou, possivelmente no aniversário de Herodes Antipas, para que sua filha dançasse diante dele e seus magistrados. Em sinal de agradecimento, Herodes Antipas prometeu a Salomé até metade de seu reino. Seguindo o conselho de sua mãe, ela pediu a cabeça de João Batista em um prato.</p><p>Herodias aparece pela última vez na história envolvida em uma intriga entre seu irmão, Agripa I, que havia sido designado rei pelo imperador Calígula, e seu marido Antipas, que há muito desejava esse título. Antipas, por insistência de sua esposa, foi a Roma para defender seu caso, mas ele perdeu e foi banido. Herodias, no entanto, permaneceu fiel e o seguiu até o exílio, mesmo que Calígula não a tivesse punido pelo fato de ser a irmã de Agripa.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4989\" data-resourceType=\"TyndaleBibleDictionary\">Herodes, Família Herodiana</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026039",
-          "start_ref_usfm": "NUM 26:39",
-          "end_ref": "04026039",
-          "end_ref_usfm": "NUM 26:39"
+          "start_ref": "03018016",
+          "start_ref_usfm": "LEV 18:16",
+          "end_ref": "03018016",
+          "end_ref_usfm": "LEV 18:16"
         },
         {
-          "start_ref": "13008005",
-          "start_ref_usfm": "1CH 8:5",
-          "end_ref": "13008005",
-          "end_ref_usfm": "1CH 8:5"
+          "start_ref": "03020021",
+          "start_ref_usfm": "LEV 20:21",
+          "end_ref": "03020021",
+          "end_ref_usfm": "LEV 20:21"
         },
         {
-          "start_ref": "14002003",
-          "start_ref_usfm": "2CH 2:3",
-          "end_ref": "14002003",
-          "end_ref_usfm": "2CH 2:3"
+          "start_ref": "05025005",
+          "start_ref_usfm": "DEU 25:5",
+          "end_ref": "05025005",
+          "end_ref_usfm": "DEU 25:5"
         },
         {
-          "start_ref": "14004011",
-          "start_ref_usfm": "2CH 4:11",
-          "end_ref": "14004011",
-          "end_ref_usfm": "2CH 4:11"
+          "start_ref": "41012019",
+          "start_ref_usfm": "MRK 12:19",
+          "end_ref": "41012019",
+          "end_ref_usfm": "MRK 12:19"
         },
         {
-          "start_ref": "14008002",
-          "start_ref_usfm": "2CH 8:2",
-          "end_ref": "14008002",
-          "end_ref_usfm": "2CH 8:2"
+          "start_ref": "40014003",
+          "start_ref_usfm": "MAT 14:3",
+          "end_ref": "40014012",
+          "end_ref_usfm": "MAT 14:12"
         },
         {
-          "start_ref": "14008018",
-          "start_ref_usfm": "2CH 8:18",
-          "end_ref": "14008018",
-          "end_ref_usfm": "2CH 8:18"
+          "start_ref": "41006017",
+          "start_ref_usfm": "MRK 6:17",
+          "end_ref": "41006029",
+          "end_ref_usfm": "MRK 6:29"
         },
         {
-          "start_ref": "14009010",
-          "start_ref_usfm": "2CH 9:10",
-          "end_ref": "14009010",
-          "end_ref_usfm": "2CH 9:10"
-        },
-        {
-          "start_ref": "14009021",
-          "start_ref_usfm": "2CH 9:21",
-          "end_ref": "14009021",
-          "end_ref_usfm": "2CH 9:21"
-        },
-        {
-          "start_ref": "14002011",
-          "start_ref_usfm": "2CH 2:11",
-          "end_ref": "14002012",
-          "end_ref_usfm": "2CH 2:12"
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003020",
+          "end_ref_usfm": "LUK 3:20"
         }
       ],
       "resource": [
         {
-          "reference_id": 5028,
-          "content_id": 717075,
+          "reference_id": 4989,
+          "content_id": 161824,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Hirão",
+          "label": "Herodes, Família Herodiana*",
           "language": "por"
         }
       ]

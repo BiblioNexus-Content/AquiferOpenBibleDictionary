@@ -1,36 +1,22 @@
 [
   {
-    "content_id": 6465,
-    "reference_id": 5633,
-    "title": "Jotbathah",
+    "content_id": 6464,
+    "reference_id": 5632,
+    "title": "Jotbah",
     "media_type": "Text",
-    "index_reference": "jotbathah",
+    "index_reference": "jotbah",
     "language": "eng",
-    "content": "<h1>JOTBATHAH</h1><p>Temporary camping place of the Israelites during their wilderness wanderings, located between Hor-haggidgad and Abronah (<a href=\"https://ref.ly/Num33:33-Num33:34\">Nm 33:33–34</a>). Later, following the death of Aaron, Israel journeyed from Gudgodah to this place, noted for its streams of water (<a href=\"https://ref.ly/Deut10:7\">Dt 10:7</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
+    "content": "<h1>JOTBAH</h1><p>Hometown of Haruz, the father of Meshullemeth, who was the mother of King Amon of Judah (<a href=\"https://ref.ly/2Kgs21:19\">2&nbsp;Kgs 21:19</a>). Its location is uncertain; however, some identify it with the town later named Jotapata by the Romans, situated six miles (9.7 kilometers) north of Sepphoris (modern Khirbet Jefat).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05010007",
-          "start_ref_usfm": "DEU 10:7",
-          "end_ref": "05010007",
-          "end_ref_usfm": "DEU 10:7"
-        },
-        {
-          "start_ref": "04033033",
-          "start_ref_usfm": "NUM 33:33",
-          "end_ref": "04033034",
-          "end_ref_usfm": "NUM 33:34"
+          "start_ref": "12021019",
+          "start_ref_usfm": "2KI 21:19",
+          "end_ref": "12021019",
+          "end_ref_usfm": "2KI 21:19"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 8231,
-          "content_id": 9063,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Wilderness Wanderings",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,36 +1,15 @@
 [
   {
-    "content_id": 5351,
-    "reference_id": 4519,
-    "title": "Galbanum",
+    "content_id": 787496,
+    "reference_id": 212866,
+    "title": "Galba",
     "media_type": "Text",
-    "index_reference": "galbanum",
+    "index_reference": "galba",
     "language": "eng",
-    "content": "<h1>GALBANUM</h1><p>Galbanum is a sticky, aromatic resin that comes from a tall plant in the <em>Apiaceae</em> family, which also includes carrots and parsley. It was one of the ingredients in the special incense used in the tabernacle (<a href=\"https://ref.ly/Exod30:34\">Exodus 30:34</a>). </p><p>The galbanum plant (<em>Ferula galbaniflua</em> or <em>Ferula gummosa</em>) grows naturally in regions such as Syria and Persia. It has small, greenish-white flowers and fruit that grow in clusters at the top of its stem. Its leaves are divided into many small parts, resembling those of parsley or carrot plants.</p><p>To collect galbanum, people cut the plant’s stem near the ground. This releases a milky liquid. This liquid hardens into a waxy, brownish resin. Today, galbanum is sometimes used in making varnish and perfumes.</p><p><a href=\"https://ref.ly/Sir24:15\">Sirach 24:15</a> describes galbanum as having a pleasing aroma. By itself, galbanum has a strong, pungent smell when burned. But it was evidently mixed with other substances to make a pleasant-smelling ointment.</p>",
+    "content": "<h1>Galba </h1><p>Galba was a Roman emperor who lived from 3 BC to AD 69. He became emperor of Rome after Nero died. He ruled for only a short time, from AD 68 to 69.</p><h2>Rise to Power</h2><p>Galba’s full name was Servius Sulpicius Galba. Before becoming emperor, he had served as a governor in several Roman provinces, including France, Germany, Spain, and Africa. After Nero’s death in AD 68, the emperor’s special military force (called the Praetorian Guard) chose Galba as the new emperor.</p><h2>Galba’s Short Rule</h2><p>Galba was not popular with the army or the people. He tried to save money and avoided the fancy ceremonies that many Romans expected. His actions made people dislike him.</p><p>The Roman army in Germany never fully accepted Galba as their emperor. In AD 69, they withdrew their support and chose another leader, Aulus Vitellius.</p><h2>Galba’s Fall</h2><p>Galba made a serious mistake when he did not choose Marcus Salvius Otho to succeed him. Otho then gained support from the Praetorian Guard. Otho was declared emperor, and Galba was killed. The Roman Senate accepted Otho as the new ruler.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3548\" data-resourceType=\"TyndaleBibleDictionary\">Caesars, the</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "02030034",
-          "start_ref_usfm": "EXO 30:34",
-          "end_ref": "02030034",
-          "end_ref_usfm": "EXO 30:34"
-        },
-        {
-          "start_ref": "72024015",
-          "start_ref_usfm": "SIR 24:15",
-          "end_ref": "72024015",
-          "end_ref_usfm": "SIR 24:15"
-        }
-      ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
-          "language": "eng"
-        }
-      ]
+      "passage": [],
+      "resource": []
     }
   }
 ]

@@ -1,31 +1,25 @@
 [
   {
-    "content_id": 7629,
-    "reference_id": 6797,
-    "title": "Pelaiah",
+    "content_id": 7628,
+    "reference_id": 6796,
+    "title": "Pekod",
     "media_type": "Text",
-    "index_reference": "pelaiah",
+    "index_reference": "pekod",
     "language": "eng",
-    "content": "<h1>PELAIAH</h1><p>1. Elioenai’s son and a remote descendant of David (<a href=\"https://ref.ly/1Chr3:24\">1&nbsp;Chr 3:24</a>).</p><p>2. Levite who helped Ezra explain (or translate) the Law to the people after it was read to them (<a href=\"https://ref.ly/Neh8:7\">Neh 8:7</a>; <a href=\"https://ref.ly/Neh10:10\">10:10</a>).</p>",
+    "content": "<h1>PEKOD</h1><p>Place mentioned as the location of an Aramean tribe living in southern Babylonia between Babylon and Elam and more exactly on the eastern bank of the Lower Tigris by modern Kut-el-Amara and the confluence of the&nbsp;Kerkha (<a href=\"https://ref.ly/Jer50:21\">Jer 50:21</a>; <a href=\"https://ref.ly/Ezek23:23\">Ez 23:23</a>). Tiglath-pileser III (745– 727), Sargon II (722–705), and Sennacherib (705–681) subjugated the population and exacted tribute of horses, cattle, and sheep from Pekod.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13003024",
-          "start_ref_usfm": "1CH 3:24",
-          "end_ref": "13003024",
-          "end_ref_usfm": "1CH 3:24"
+          "start_ref": "24050021",
+          "start_ref_usfm": "JER 50:21",
+          "end_ref": "24050021",
+          "end_ref_usfm": "JER 50:21"
         },
         {
-          "start_ref": "16008007",
-          "start_ref_usfm": "NEH 8:7",
-          "end_ref": "16008007",
-          "end_ref_usfm": "NEH 8:7"
-        },
-        {
-          "start_ref": "16010010",
-          "start_ref_usfm": "NEH 10:10",
-          "end_ref": "16010010",
-          "end_ref_usfm": "NEH 10:10"
+          "start_ref": "26023023",
+          "start_ref_usfm": "EZK 23:23",
+          "end_ref": "26023023",
+          "end_ref_usfm": "EZK 23:23"
         }
       ],
       "resource": []

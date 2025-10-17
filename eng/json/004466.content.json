@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7727,
-    "reference_id": 6895,
-    "title": "Phygellus, Phygelus",
+    "content_id": 7726,
+    "reference_id": 6894,
+    "title": "Phuvah",
     "media_type": "Text",
-    "index_reference": "phygellus, phygelus",
+    "index_reference": "phuvah",
     "language": "eng",
-    "content": "<h1>PHYGELLUS, PHYGELUS</h1><p>A Christian believer from Asia (a region that is now part of modern Turkey) who abandoned the apostle Paul (<a href=\"https://ref.ly/2Tim1:15\">2&nbsp;Timothy 1:15</a>). Paul mentions him together with another person named Hermogenes. Nothing else is known about either of these people.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4986\" data-resourceType=\"TyndaleBibleDictionary\">Hermogenes</span>.</p>",
+    "content": "<h1>PHUVAH</h1><p>The King James Version spelling of Puvah, a son of the patriarch Issachar (<a href=\"https://ref.ly/Gen46:13\">Genesis 46:13</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7040\" data-resourceType=\"TyndaleBibleDictionary\">Puvah</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "55001015",
-          "start_ref_usfm": "2TI 1:15",
-          "end_ref": "55001015",
-          "end_ref_usfm": "2TI 1:15"
+          "start_ref": "01046013",
+          "start_ref_usfm": "GEN 46:13",
+          "end_ref": "01046013",
+          "end_ref_usfm": "GEN 46:13"
         }
       ],
       "resource": [
         {
-          "reference_id": 4986,
-          "content_id": 5818,
+          "reference_id": 7040,
+          "content_id": 7872,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Hermogenes",
+          "label": "Puvah",
           "language": "eng"
         }
       ]

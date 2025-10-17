@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 6048,
-    "reference_id": 5216,
-    "title": "Iri",
+    "content_id": 6045,
+    "reference_id": 5213,
+    "title": "Iram",
     "media_type": "Text",
-    "index_reference": "iri",
+    "index_reference": "iram",
     "language": "eng",
-    "content": "<h1>IRI</h1><p>Bela’s son from Benjamin’s tribe (<a href=\"https://ref.ly/1Chr7:7\">1&nbsp;Chr 7:7</a>).</p>",
+    "content": "<h1>IRAM</h1><p>The leader of a tribe (chief) in Edom (<a href=\"https://ref.ly/Gen36:43\">Genesis 36:43</a>; <a href=\"https://ref.ly/1Chr1:54\">1&nbsp;Chronicles 1:54</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13007007",
-          "start_ref_usfm": "1CH 7:7",
-          "end_ref": "13007007",
-          "end_ref_usfm": "1CH 7:7"
+          "start_ref": "01036043",
+          "start_ref_usfm": "GEN 36:43",
+          "end_ref": "01036043",
+          "end_ref_usfm": "GEN 36:43"
+        },
+        {
+          "start_ref": "13001054",
+          "start_ref_usfm": "1CH 1:54",
+          "end_ref": "13001054",
+          "end_ref_usfm": "1CH 1:54"
         }
       ],
       "resource": []

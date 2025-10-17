@@ -1,63 +1,47 @@
 [
   {
-    "content_id": 716905,
-    "reference_id": 2754,
-    "title": "Aná",
+    "content_id": 716904,
+    "reference_id": 2749,
+    "title": "Amuleto",
     "media_type": "Text",
-    "index_reference": "aná",
+    "index_reference": "amuleto",
     "language": "por",
-    "content": "<h1>ANÁ</h1><ol><li><p>Filho de Zibeão, o heveu, e pai de Aolíbama. Aolíbama foi uma das esposas de Esaú (<a href=\"https://ref.ly/Gen36:2,Gen36:18\">Gn 36.2,18</a>).</p></li><li><p>O quarto filho de Seir, o horita. Aná foi um chefe entre os horitas que também tinha uma filha chamada Aolíbama (<a href=\"https://ref.ly/Gen36:20,Gen36:25\">Gn 36.20,25</a>; <a href=\"https://ref.ly/1Chr1:38,1Chr1:41\">1Cr 1.38,41</a>).</p></li><li><p>O filho de Zibeão que encontrou fontes termais no deserto (<a href=\"https://ref.ly/Gen36:24\">Gn 36.24</a>). Este Zibeão era irmão do #2 acima. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8379\" data-resourceType=\"TyndaleBibleDictionary\">Zibeão</span>.</p></li></ol>",
+    "content": "<h1>AMULETO</h1><p>Um pequeno objeto utilizado por uma pessoa. Geralmente é usado ao redor do pescoço e serve como amuleto ou meio de proteção contra o mal, feitiçaria, doenças ou outras ameaças físicas e espirituais.</p><p>A palavra &quot;amuleto&quot; provavelmente deriva de um termo latino ou árabe que significa &quot;carregar&quot;. Amuletos também são conhecidos como talismãs. Eles têm sido feitos de várias substâncias e vêm em muitas formas. Peças de metal ou tiras de pergaminho (folhas finas de pele de animal tratada) são usadas com trechos de escritos sagrados (até mesmo Escrituras). Ervas e preparações de animais também foram usadas. Gemas semipreciosas (pedras valiosas) eram frequentemente inscritas com uma fórmula mágica.</p><p>Nenhuma palavra hebraica ou grega na Bíblia é traduzida com certeza como &quot;amuleto&quot;. A prática de usar amuletos é às vezes implícita e geralmente é vista com desaprovação. Alguns consideram os brincos de ouro usados pelos israelitas que escaparam do Egito como amuletos (<a href=\"https://ref.ly/Exod32:2-Exod32:4\">Êx 32.2–4</a>). Arão transformou esses brincos em um bezerro de ouro. O profeta Isaías condenou os ornamentos usados pelas mulheres de sua época (<a href=\"https://ref.ly/Isa3:16-Isa3:23\">Is 3.16–23</a>).</p><p>A maioria dos estudiosos considera os filactérios e mezuzás usados pelos judeus como formas de amuletos. Filactérios são pequenas caixas que contêm versículos das Escrituras. Eles têm tiras de couro usadas para vestir os filactérios durante a oração. Da mesma forma, mezuzás são pequenos recipientes que contêm versículos das Escrituras e são colocados nos batentes das portas. Ambos são formas de viver os mandamentos em <a href=\"https://ref.ly/Deut6:4-Deut6:9\">Dt 6.4–9</a>. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6896\" data-resourceType=\"TyndaleBibleDictionary\">Filactério</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6021\" data-resourceType=\"TyndaleBibleDictionary\">Magia</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4480\" data-resourceType=\"TyndaleBibleDictionary\">Frontal</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036002",
-          "start_ref_usfm": "GEN 36:2",
-          "end_ref": "01036002",
-          "end_ref_usfm": "GEN 36:2"
+          "start_ref": "02032002",
+          "start_ref_usfm": "EXO 32:2",
+          "end_ref": "02032004",
+          "end_ref_usfm": "EXO 32:4"
         },
         {
-          "start_ref": "01036018",
-          "start_ref_usfm": "GEN 36:18",
-          "end_ref": "01036018",
-          "end_ref_usfm": "GEN 36:18"
-        },
-        {
-          "start_ref": "01036020",
-          "start_ref_usfm": "GEN 36:20",
-          "end_ref": "01036020",
-          "end_ref_usfm": "GEN 36:20"
-        },
-        {
-          "start_ref": "01036024",
-          "start_ref_usfm": "GEN 36:24",
-          "end_ref": "01036024",
-          "end_ref_usfm": "GEN 36:24"
-        },
-        {
-          "start_ref": "01036025",
-          "start_ref_usfm": "GEN 36:25",
-          "end_ref": "01036025",
-          "end_ref_usfm": "GEN 36:25"
-        },
-        {
-          "start_ref": "13001038",
-          "start_ref_usfm": "1CH 1:38",
-          "end_ref": "13001038",
-          "end_ref_usfm": "1CH 1:38"
-        },
-        {
-          "start_ref": "13001041",
-          "start_ref_usfm": "1CH 1:41",
-          "end_ref": "13001041",
-          "end_ref_usfm": "1CH 1:41"
+          "start_ref": "23003016",
+          "start_ref_usfm": "ISA 3:16",
+          "end_ref": "23003023",
+          "end_ref_usfm": "ISA 3:23"
         }
       ],
       "resource": [
         {
-          "reference_id": 8379,
-          "content_id": 717341,
+          "reference_id": 4480,
+          "content_id": 717040,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Zibeão",
+          "label": "Frontal",
+          "language": "por"
+        },
+        {
+          "reference_id": 6021,
+          "content_id": 717154,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Magia",
+          "language": "por"
+        },
+        {
+          "reference_id": 6896,
+          "content_id": 717231,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Filactério",
           "language": "por"
         }
       ]

@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7039,
-    "reference_id": 6207,
-    "title": "Melon",
+    "content_id": 7038,
+    "reference_id": 6206,
+    "title": "Melkon",
     "media_type": "Text",
-    "index_reference": "melon",
+    "index_reference": "melkon",
     "language": "eng",
-    "content": "<h1>MELON</h1><p>A melon is a fruit with many seeds that belongs to the gourd family. Several types of these related vine plants have a hard outer skin and juicy flesh inside.</p><p>The melons mentioned in <a href=\"https://ref.ly/Num11:5\">Numbers 11:5</a> could be either the muskmelon (<em>Cucumis melo</em>) or the watermelon (<em>Citrullus vulgaris</em>). It is possible this verse refers to both of these fruits.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Food and Food Preparation</span>.</p>",
+    "content": "<h1>MELKON</h1><p>The name that has been traditionally given to one of the wise men (who is also called Melchior) who brought gifts to Jesus (<a href=\"https://ref.ly/Matt2:1-Matt2:2\">Matthew 2:1</a><a href=\"https://ref.ly/Matt2:1-Matt2:2\">–</a><a href=\"https://ref.ly/Matt2:1-Matt2:2\">2</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6023\" data-resourceType=\"TyndaleBibleDictionary\">Magi</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002002",
+          "end_ref_usfm": "MAT 2:2"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 4454,
-          "content_id": 5286,
+          "reference_id": 6023,
+          "content_id": 6855,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Food and Food Preparation",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
+          "label": "Magi",
           "language": "eng"
         }
       ]

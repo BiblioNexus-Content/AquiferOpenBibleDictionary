@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 5119,
-    "reference_id": 4287,
-    "title": "Ephrain",
+    "content_id": 5114,
+    "reference_id": 4282,
+    "title": "Ephraimite",
     "media_type": "Text",
-    "index_reference": "ephrain",
+    "index_reference": "ephraimite",
     "language": "eng",
-    "content": "<h1>EPHRAIN*</h1><p>KJV form of Ephron, a town near Bethel, in <a href=\"https://ref.ly/2Chr13:19\">2&nbsp;Chronicles 13:19</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4292\" data-resourceType=\"TyndaleBibleDictionary\">Ephron (Place) #2</span>.</p>",
+    "content": "<h1>EPHRAIMITE</h1><p>Name given to a person from the tribal area of Ephraim. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4285\" data-resourceType=\"TyndaleBibleDictionary\">Ephraim (Place) #1</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "14013019",
-          "start_ref_usfm": "2CH 13:19",
-          "end_ref": "14013019",
-          "end_ref_usfm": "2CH 13:19"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 4292,
-          "content_id": 5124,
+          "reference_id": 4285,
+          "content_id": 5117,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ephron (Place)",
+          "label": "Ephraim (Place)",
           "language": "eng"
         }
       ]

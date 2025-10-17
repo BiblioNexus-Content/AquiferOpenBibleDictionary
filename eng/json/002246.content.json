@@ -1,49 +1,43 @@
 [
   {
-    "content_id": 5502,
-    "reference_id": 4670,
-    "title": "Goiim",
+    "content_id": 5501,
+    "reference_id": 4669,
+    "title": "Gog",
     "media_type": "Text",
-    "index_reference": "goiim",
+    "index_reference": "gog",
     "language": "eng",
-    "content": "<h1>GOIIM</h1><p>1. People or region mentioned in <a href=\"https://ref.ly/Gen14:1,Gen14:9\">Genesis 14:1, 9</a> as ruled by a king named Tidal. The word is variously translated “nations” (kjv) and “Goiim” (rsv, nlt). Tidal, together with three other kings—Amraphel of Shinar, Arioch of Ellasar, and Kedorlaomer of Elam—attacked several cities in the valley of Siddim near the Dead Sea (<a href=\"https://ref.ly/Gen14:3\">Gn 14:3</a>). They defeated the five kings of the valley region, looted their towns, and captured Lot, Abraham’s nephew, who lived in Sodom (v <a href=\"https://ref.ly/Gen14:12\">12</a>). When Abraham heard of this, he gathered his soldiers, pursued the victorious kings, defeated them, and rescued Lot (vv <a href=\"https://ref.ly/Gen14:13-Gen14:16\">13–16</a>).</p><p>2. People mentioned in connection with Joshua’s victory over an unknown king of Goiim (<a href=\"https://ref.ly/Josh12:23\">Jos 12:23</a>). The location of these people is uncertain, since the verse reads “Gilgal” in the Hebrew text and “Galilee” in the Septuagint.</p>",
+    "content": "<h1>GOG</h1><p>1. Reubenite, Shemaiah’s son (<a href=\"https://ref.ly/1Chr5:4\">1&nbsp;Chr 5:4</a>).</p><p>2. Individual described as the prince of Meshech who ruled over the land of Magog (<a href=\"https://ref.ly/Ezek38:2-Ezek38:21\">Ez 38:2–21</a>; <a href=\"https://ref.ly/Ezek39:1-Ezek39:16\">39:1–16</a>). Magog was evidently a territory located far from Palestine whose inhabitants would attack Jerusalem in a final attempt to overthrow God’s people. The Lord, through Ezekiel, promised Gog a catastrophic defeat.</p><p>Attempts to identify Gog with some historical ruler have not been convincing. Gyges of Lydia, who drove out Cimmerian invaders, has been suggested, but equally probable are Gaga, mentioned in the Amarna tablets, and Gagi, king of the city-state of Sabi. Some have maintained a mythological interpretation, in which Gog is a symbol of evil actively opposing good. Certainly Gog—connected in Scripture with godless nations such as Gomer, Put, Persia, Sheba, and Tarshish—is depicted as leading an alliance of world powers in opposition to God. Gog also appears in Revelation (<a href=\"https://ref.ly/Rev20:7-Rev20:9\">20:7–9</a>), where Satan mobilizes Gog and Magog (i.e., the nations of the world) against God’s saints in a final battle. A literal view contemplates an attack on Jerusalem by hostile forces (cf. <a href=\"https://ref.ly/Zech14:1-Zech14:21\">Zec 14</a>), while a symbolic interpretation envisions a climactic conflict between good and evil.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01014001",
-          "start_ref_usfm": "GEN 14:1",
-          "end_ref": "01014001",
-          "end_ref_usfm": "GEN 14:1"
+          "start_ref": "13005004",
+          "start_ref_usfm": "1CH 5:4",
+          "end_ref": "13005004",
+          "end_ref_usfm": "1CH 5:4"
         },
         {
-          "start_ref": "01014003",
-          "start_ref_usfm": "GEN 14:3",
-          "end_ref": "01014003",
-          "end_ref_usfm": "GEN 14:3"
+          "start_ref": "26038002",
+          "start_ref_usfm": "EZK 38:2",
+          "end_ref": "26038021",
+          "end_ref_usfm": "EZK 38:21"
         },
         {
-          "start_ref": "01014009",
-          "start_ref_usfm": "GEN 14:9",
-          "end_ref": "01014009",
-          "end_ref_usfm": "GEN 14:9"
+          "start_ref": "26039001",
+          "start_ref_usfm": "EZK 39:1",
+          "end_ref": "26039016",
+          "end_ref_usfm": "EZK 39:16"
         },
         {
-          "start_ref": "01014012",
-          "start_ref_usfm": "GEN 14:12",
-          "end_ref": "01014012",
-          "end_ref_usfm": "GEN 14:12"
+          "start_ref": "66020007",
+          "start_ref_usfm": "REV 20:7",
+          "end_ref": "66020009",
+          "end_ref_usfm": "REV 20:9"
         },
         {
-          "start_ref": "06012023",
-          "start_ref_usfm": "JOS 12:23",
-          "end_ref": "06012023",
-          "end_ref_usfm": "JOS 12:23"
-        },
-        {
-          "start_ref": "01014013",
-          "start_ref_usfm": "GEN 14:13",
-          "end_ref": "01014016",
-          "end_ref_usfm": "GEN 14:16"
+          "start_ref": "38014001",
+          "start_ref_usfm": "ZEC 14:1",
+          "end_ref": "38014021",
+          "end_ref_usfm": "ZEC 14:21"
         }
       ],
       "resource": []

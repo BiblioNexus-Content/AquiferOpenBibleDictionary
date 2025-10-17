@@ -1,43 +1,49 @@
 [
   {
-    "content_id": 682885,
-    "reference_id": 3406,
-    "title": "Bildade",
+    "content_id": 682886,
+    "reference_id": 3410,
+    "title": "Bila (Pessoa)",
     "media_type": "Text",
-    "index_reference": "bildade",
+    "index_reference": "bila (pessoa)",
     "language": "por",
-    "content": "<h1>BILDADE</h1><p>Um dos três amigos que vieram confortar Jó em sua angústia, identificado como um suíta (<a href=\"https://ref.ly/Job2:11\">Jó 2.11</a>). Esse termo sugere que ele era descendente de Sua, filho de Abraão e sua segunda esposa Quetura (<a href=\"https://ref.ly/Gen25:1-Gen25:2\">Gn 25.1–2</a>). Bildade falou com Jó em três ocasiões. Em seu primeiro discurso, ele afirmou que Deus sustenta os justos e pune os ímpios (<a href=\"https://ref.ly/Job8:1-Job8:22\">Jó 8</a>). Portanto, Jó deve ser um hipócrita ao dizer que está certo com Deus. Em seu segundo discurso, Bildade enfatizou a punição imediata dos ímpios nesta vida (cap. <a href=\"https://ref.ly/Job18:1-Job18:21\">18</a>). Assim, Jó deve ser ímpio por causa de seu intenso sofrimento. Em seu terceiro discurso, Bildade proclamou a majestade de Deus e comparou o homem a um verme (cap. <a href=\"https://ref.ly/Job25:1-Job25:6\">25</a>). Ele insinuou que Jó era tolo ao afirmar ser justo diante de um Deus tão santo.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5562\" data-resourceType=\"TyndaleBibleDictionary\">Jó, Livro de</span>.</p>",
+    "content": "<h1>BILA (Pessoa)</h1><p>Serva dada por Labão à sua filha Raquel quando ela se casou com Jacó (<a href=\"https://ref.ly/Gen29:29\">Gn 29.29</a>). Percebendo sua própria esterilidade, Raquel deu Bila ao seu marido como concubina e aceitou os dois filhos deles como seus, nomeando-os Dã e Naftali (<a href=\"https://ref.ly/Gen30:3-Gen30:8\">30.3–8</a>; <a href=\"https://ref.ly/Gen35:25\">35.25</a>; <a href=\"https://ref.ly/Gen46:25\">46.25</a>). Investigações arqueológicas confirmaram o costume de uma esposa estéril fornecer uma concubina para garantir filhos ao marido. Tal arranjo é mencionado em documentos de contrato de casamento desenterrados em Nuzi e datados de aproximadamente a mesma época dos eventos de <a href=\"https://ref.ly/Gen29:1-Gen29:35\">Gênesis 29</a>. O filho de Jacó, Rúben, mais tarde foi culpado de incesto com Bila (<a href=\"https://ref.ly/Gen35:22\">35.22</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "18002011",
-          "start_ref_usfm": "JOB 2:11",
-          "end_ref": "18002011",
-          "end_ref_usfm": "JOB 2:11"
+          "start_ref": "01029029",
+          "start_ref_usfm": "GEN 29:29",
+          "end_ref": "01029029",
+          "end_ref_usfm": "GEN 29:29"
         },
         {
-          "start_ref": "01025001",
-          "start_ref_usfm": "GEN 25:1",
-          "end_ref": "01025002",
-          "end_ref_usfm": "GEN 25:2"
+          "start_ref": "01035022",
+          "start_ref_usfm": "GEN 35:22",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
         },
         {
-          "start_ref": "18008001",
-          "start_ref_usfm": "JOB 8:1",
-          "end_ref": "18008022",
-          "end_ref_usfm": "JOB 8:22"
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
         },
         {
-          "start_ref": "18018001",
-          "start_ref_usfm": "JOB 18:1",
-          "end_ref": "18018021",
-          "end_ref_usfm": "JOB 18:21"
+          "start_ref": "01046025",
+          "start_ref_usfm": "GEN 46:25",
+          "end_ref": "01046025",
+          "end_ref_usfm": "GEN 46:25"
         },
         {
-          "start_ref": "18025001",
-          "start_ref_usfm": "JOB 25:1",
-          "end_ref": "18025006",
-          "end_ref_usfm": "JOB 25:6"
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01029001",
+          "start_ref_usfm": "GEN 29:1",
+          "end_ref": "01029035",
+          "end_ref_usfm": "GEN 29:35"
         }
       ],
       "resource": []

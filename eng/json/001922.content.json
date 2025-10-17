@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 5180,
-    "reference_id": 4348,
-    "title": "Euergetes",
+    "content_id": 5179,
+    "reference_id": 4347,
+    "title": "Eucharist",
     "media_type": "Text",
-    "index_reference": "euergetes",
+    "index_reference": "eucharist",
     "language": "eng",
-    "content": "<h1>EUERGETES*</h1><p>Title of honor belonging to two Ptolemaic rulers. From the Greek word meaning “Benefactor,” the title was ascribed to rulers known for their benevolent actions. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7013\" data-resourceType=\"TyndaleBibleDictionary\">Ptolemaic Empire</span>.</p>",
+    "content": "<h1>EUCHARIST</h1><p>The word &quot;Eucharist&quot; comes from the Greek word <em>eucharistia</em>, which means &quot;thanksgiving.&quot; It refers to one of the central Christian mysteries: sharing in the body and blood of Christ through bread and wine. The Eucharist is also called Holy Communion or the Lord&apos;s Supper.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5947\" data-resourceType=\"TyndaleBibleDictionary\">Lord’s Supper, The</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 7013,
-          "content_id": 7845,
+          "reference_id": 5947,
+          "content_id": 6779,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ptolemaic Empire",
+          "label": "Lord’s Supper, the",
           "language": "eng"
         }
       ]

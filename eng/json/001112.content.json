@@ -1,39 +1,20 @@
 [
   {
-    "content_id": 4366,
-    "reference_id": 3534,
-    "title": "Bushel",
+    "content_id": 4367,
+    "reference_id": 3535,
+    "title": "Bush",
     "media_type": "Text",
-    "index_reference": "bushel",
+    "index_reference": "bush",
     "language": "eng",
-    "content": "<h1>BUSHEL</h1><p>1. A small vessel (“basket,” New Living Translation) that could cover a light (<a href=\"https://ref.ly/Matt5:15\">Matthew 5:15</a>; <a href=\"https://ref.ly/Mark4:21\">Mark 4:21</a>; <a href=\"https://ref.ly/Luke11:33\">Luke 11:33</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Weights and Measures</span>.</p><p>2. A unit of measure roughly equal to 19 quarts or 18 liters. In Hebrew, this is called an &quot;ephah.&quot; </p>",
+    "content": "<h1>BUSH</h1><p>A bush is a low, branching, woody plant. A bush is usually smaller than a tree. There are different opinions about the bush from which God appeared to Moses (<a href=\"https://ref.ly/Exod3:2-Exod3:4\">Exodus 3:2–4</a>). From the biblical account, it seems most likely that this was a miraculous event.</p><p>However, some people look for a natural explanation. They believe the burning bush may have been the crimson-flowered mistletoe or acacia strap flower (<em>Loranthus acaciae</em>). This plant grows in great numbers as a partial parasite on various acacia shrubs, such as the thorny acacia (<em>Acacia nilotica</em>). These shrubs grow in Israel and the surrounding areas, as well as Sinai. When in full bloom, the mistletoe makes the shrub or tree appear to be on fire. This happens because its brilliant flame-colored blossoms stand out against the green leaves and yellow flowers of the host plants.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "40005015",
-          "start_ref_usfm": "MAT 5:15",
-          "end_ref": "40005015",
-          "end_ref_usfm": "MAT 5:15"
-        },
-        {
-          "start_ref": "41004021",
-          "start_ref_usfm": "MRK 4:21",
-          "end_ref": "41004021",
-          "end_ref_usfm": "MRK 4:21"
-        },
-        {
-          "start_ref": "42011033",
-          "start_ref_usfm": "LUK 11:33",
-          "end_ref": "42011033",
-          "end_ref_usfm": "LUK 11:33"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 8219,
-          "content_id": 9051,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Weights and Measures",
+          "reference_id": 6929,
+          "content_id": 7761,
+          "resource_code": "Unknown",
+          "label": "Plants",
           "language": "eng"
         }
       ]

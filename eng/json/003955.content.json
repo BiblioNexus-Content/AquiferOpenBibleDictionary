@@ -1,27 +1,33 @@
 [
   {
-    "content_id": 7217,
-    "reference_id": 6385,
-    "title": "Most Holy Place",
+    "content_id": 7216,
+    "reference_id": 6384,
+    "title": "Most High",
     "media_type": "Text",
-    "index_reference": "most holy place",
+    "index_reference": "most high",
     "language": "eng",
-    "content": "<h1>MOST HOLY PLACE</h1><p>The inner room of the tabernacle and temple where they kept the ark of the covenant. The ark was a gold-covered wooden box that held important holy items, including the stone tablets with the Ten Commandments (<a href=\"https://ref.ly/Exod25:10-Exod25:22\">Exodus 25:10–22</a>). </p><p>This room was the most holy space in Israelite worship. Only the high priest could enter it, and only once each year on the Day of Atonement (<a href=\"https://ref.ly/Lev16:1-Lev16:34\">Leviticus 16</a>). Before entering, the high priest had to perform special cleansing rituals.</p><p>In the temple, the most holy place was separated from the rest of the building by a thick curtain. This curtain tore from top to bottom when Jesus died (<a href=\"https://ref.ly/Matt27:51\">Matthew 27:51</a>).</p><p>The room was also called the &quot;holy of holies,&quot; which means &quot;the holiest place.&quot; </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7864\" data-resourceType=\"TyndaleBibleDictionary\">Tabernacle</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7950\" data-resourceType=\"TyndaleBibleDictionary\">Temple</span>.</p>",
+    "content": "<h1>MOST HIGH</h1><p>An ancient name for God used in both the Old and New Testaments (<a href=\"https://ref.ly/Ps21:7\">Psalm 21:7</a>; <a href=\"https://ref.ly/Acts7:48\">Acts 7:48</a>). This title emphasizes God&apos;s supreme authority and position above all other powers.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4667\" data-resourceType=\"TyndaleBibleDictionary\">God, Names of</span>.</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 7864,
-          "content_id": 8696,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Tabernacle",
-          "language": "eng"
+          "start_ref": "19021007",
+          "start_ref_usfm": "PSA 21:7",
+          "end_ref": "19021007",
+          "end_ref_usfm": "PSA 21:7"
         },
         {
-          "reference_id": 7950,
-          "content_id": 8782,
+          "start_ref": "44007048",
+          "start_ref_usfm": "ACT 7:48",
+          "end_ref": "44007048",
+          "end_ref_usfm": "ACT 7:48"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 4667,
+          "content_id": 5499,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Temple",
+          "label": "God, Names of",
           "language": "eng"
         }
       ]

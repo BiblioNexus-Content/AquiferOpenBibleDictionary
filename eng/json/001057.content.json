@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 4313,
-    "reference_id": 3481,
-    "title": "Bosor (Place)",
+    "content_id": 4312,
+    "reference_id": 3480,
+    "title": "Bosor (Person)",
     "media_type": "Text",
-    "index_reference": "bosor (place)",
+    "index_reference": "bosor (person)",
     "language": "eng",
-    "content": "<h1>BOSOR (Place)</h1><p>Bosor was a city in the region of Gilead. Judas Maccabeus captured the city to rescue the Jewish people living there (<a href=\"https://ref.ly/1Macc5:26,1Macc5:36\">1&nbsp;Maccabees 5:26, 36</a>). Today, this place is called Busr El-Hariri.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3491\" data-resourceType=\"TyndaleBibleDictionary\">Bozrah #3</span>.</p>",
+    "content": "<h1>BOSOR (Person)</h1><p>The King James Version form of Beor, father of Balaam (<a href=\"https://ref.ly/2Pet2:15\">2&nbsp;Peter 2:15</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3290\" data-resourceType=\"TyndaleBibleDictionary\">Beor #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "78005026",
-          "start_ref_usfm": "1MA 5:26",
-          "end_ref": "78005026",
-          "end_ref_usfm": "1MA 5:26"
-        },
-        {
-          "start_ref": "78005036",
-          "start_ref_usfm": "1MA 5:36",
-          "end_ref": "78005036",
-          "end_ref_usfm": "1MA 5:36"
+          "start_ref": "61002015",
+          "start_ref_usfm": "2PE 2:15",
+          "end_ref": "61002015",
+          "end_ref_usfm": "2PE 2:15"
         }
       ],
       "resource": [
         {
-          "reference_id": 3491,
-          "content_id": 4323,
+          "reference_id": 3290,
+          "content_id": 4122,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Bozrah",
+          "label": "Beor",
           "language": "eng"
         }
       ]

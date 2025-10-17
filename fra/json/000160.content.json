@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 785167,
-    "reference_id": 3437,
-    "title": "Blaste",
+    "content_id": 822875,
+    "reference_id": 3226,
+    "title": "Bedad",
     "media_type": "Text",
-    "index_reference": "blaste",
+    "index_reference": "bedad",
     "language": "fra",
-    "content": "<h1>BLASTE</h1><p>Secrétaire royal du roi Hérode Agrippa 1er (<a href=\"https://ref.ly/Acts12:20\">Ac 12.20</a>). Les habitants des villes de Tyr et de Sidon avaient besoin de nourriture du pays d&apos;Hérode, mais Hérode était en colère contre eux. Ils se sont d&apos;abord liés d&apos;amitié avec Blaste pour qu&apos;il les aide à obtenir une rencontre avec le roi. Après que Blaste a organisé cette rencontre, Hérode a prononcé un discours aux délégués. Pendant ce discours, Hérode a accepté l&apos;adoration du peuple au lieu de donner gloire à Dieu. À cause de cela, un ange du Seigneur a frappé Hérode d&apos;une maladie mortelle (v. <a href=\"https://ref.ly/Acts12:21-Acts12:23\">21–23</a>).</p>",
+    "content": "<h1>BEDAD</h1><p>Père de Hadad, l&apos;un des rois d&apos;Édom avant qu&apos;Israël n&apos;ait des rois (<a href=\"https://ref.ly/Gen36:35\">Gn 36.35</a> ; <a href=\"https://ref.ly/1Chr1:46\">1Ch 1.46</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44012020",
-          "start_ref_usfm": "ACT 12:20",
-          "end_ref": "44012020",
-          "end_ref_usfm": "ACT 12:20"
+          "start_ref": "01036035",
+          "start_ref_usfm": "GEN 36:35",
+          "end_ref": "01036035",
+          "end_ref_usfm": "GEN 36:35"
         },
         {
-          "start_ref": "44012021",
-          "start_ref_usfm": "ACT 12:21",
-          "end_ref": "44012023",
-          "end_ref_usfm": "ACT 12:23"
+          "start_ref": "13001046",
+          "start_ref_usfm": "1CH 1:46",
+          "end_ref": "13001046",
+          "end_ref_usfm": "1CH 1:46"
         }
       ],
       "resource": []

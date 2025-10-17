@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 806060,
-    "reference_id": 5593,
-    "title": "Jokthan",
+    "content_id": 756956,
+    "reference_id": 4830,
+    "title": "Harbona",
     "media_type": "Text",
-    "index_reference": "jokthan",
+    "index_reference": "harbona",
     "language": "fra",
-    "content": "<h1>JOKTHAN</h1><p>Fils d&apos;Héber et frère cadet de Péleg. Un certain nombre de groupes arabes descendent de lui (<a href=\"https://ref.ly/Gen10:25-Gen10:29\">Gn 10.25–29</a> ; <a href=\"https://ref.ly/1Chr1:19-1Chr1:23\">1Ch 1.19–23</a>).</p>",
+    "content": "<h1>HARBONA</h1><p>Un des sept serviteurs personnels du roi Assuérus. Assuérus (également appelé Xerxès) leur ordonna de faire défiler la reine Vasthi devant les convives d&apos;un festin débauché afin que tous puissent admirer sa beauté (<a href=\"https://ref.ly/Esth1:10\">Est 1.10</a>). Plus tard, Harbona suggérera qu&apos;Haman soit pendu à la potence que ce dernier avait construite pour exécuter Mardochée (<a href=\"https://ref.ly/Esth7:9\">Est 7.9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010025",
-          "start_ref_usfm": "GEN 10:25",
-          "end_ref": "01010029",
-          "end_ref_usfm": "GEN 10:29"
+          "start_ref": "17001010",
+          "start_ref_usfm": "EST 1:10",
+          "end_ref": "17001010",
+          "end_ref_usfm": "EST 1:10"
         },
         {
-          "start_ref": "13001019",
-          "start_ref_usfm": "1CH 1:19",
-          "end_ref": "13001023",
-          "end_ref_usfm": "1CH 1:23"
+          "start_ref": "17007009",
+          "start_ref_usfm": "EST 7:9",
+          "end_ref": "17007009",
+          "end_ref_usfm": "EST 7:9"
         }
       ],
       "resource": []

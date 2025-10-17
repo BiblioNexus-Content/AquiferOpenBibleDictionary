@@ -1,61 +1,55 @@
 [
   {
-    "content_id": 6162,
-    "reference_id": 5330,
-    "title": "Jacob’s Well",
+    "content_id": 6161,
+    "reference_id": 5329,
+    "title": "Jacob’s Ladder",
     "media_type": "Text",
-    "index_reference": "jacob’s well",
+    "index_reference": "jacob’s ladder",
     "language": "eng",
-    "content": "<h1>JACOB’S WELL</h1><p>Place mentioned only in John’s Gospel (<a href=\"https://ref.ly/John4:5-John4:29\">Jn 4:5–29</a>). It was here that Jesus sat and talked with the unnamed woman of Samaria, who readily accepted Jesus’ words. This well is located in a plot of ground acquired by the patriarch Jacob, about 300 yards (274 meters) southeast from the traditional tomb of Joseph (<a href=\"https://ref.ly/Gen33:19\">Gn 33:19</a>; <a href=\"https://ref.ly/Josh24:32\">Jos 24:32</a>; <a href=\"https://ref.ly/John4:5-John4:6\">Jn 4:5–6</a>). The site is about two miles (3.2&nbsp;kilometers) southeast of modern Nablus, 600 yards (549 meters) southeast of the site of ancient Shechem (modern Balata), and 1,000 yards (914 meters) south of Sychar (modern Askar). Towering over the site on the northwest is Mt Ebal (at the foot of which lies Askar), and on the southwest Mt Gerizim, mountains of cursing and blessing, respectively (<a href=\"https://ref.ly/Deut27:12-Deut27:13\">Dt 27:12–13</a>; <a href=\"https://ref.ly/Josh8:30-Josh8:33\">Jos 8:30–33</a>). Near here Abraham built his first altar, and Jacob his second (<a href=\"https://ref.ly/Gen12:6-Gen12:7\">Gn 12:6–7</a>; <a href=\"https://ref.ly/Gen33:18-Gen33:20\">33:18–20</a>). Thus the site is one of the most ancient and sacred in the Holy Land.</p><p>The well is about 100 feet (30.5 meters) in depth and one yard (.9 meter) in diameter, cut through limestone. Fed by subterranean streams from the adjacent mountain slopes, the water is pure and plentiful, the pride of the villagers. A church has existed on the site from at least AD 380. The Greek Orthodox Church acquired the site in 1885 and built a structure on the site. Access to the well is by steps leading from either side of the church altar to the well curb below.</p>",
+    "content": "<h1>JACOB’S LADDER*</h1><p>When Jacob left home after deceiving his father, Isaac, into giving him the blessing that Isaac had intended for Esau (<a href=\"https://ref.ly/Gen27:6-Gen27:40\">Gn 27:6–40</a>), he was not only desirous of finding a wife from among the daughters of his mother’s brother, but he was also literally fleeing for his life, because Esau had determined to kill him (v <a href=\"https://ref.ly/Gen27:41\">41</a>). When he stopped to rest for the night in the open countryside, the Lord appeared to him in a dream and blessed him (<a href=\"https://ref.ly/Gen28:10-Gen28:22\">28:10–22</a>). In the vision Jacob saw a ladder reaching from the earth to heaven with angels ascending and descending upon it. At the top of the ladder stood the Lord himself, who confirmed to Jacob the promise previously given to Abraham (<a href=\"https://ref.ly/Gen12:2-Gen12:3,Gen12:7\">12:2–3, 7</a>), and repeated to Isaac (<a href=\"https://ref.ly/Gen26:3-Gen26:5\">26:3–5</a>). In the context it seems clear that the ladder with the ascending and descending angels depicts God reaching out to Jacob and making a way for Jacob to have a relationship with him. The communion that was to exist between God and Jacob is symbolized in the ladder and the movement of the angels. This communication between heaven and earth appears to be the same point that is made in <a href=\"https://ref.ly/John1:50\">John 1:50</a> when Jesus says to Nathanael and his other disciples, “You will&nbsp;all see heaven open and the angels of God going up and down upon the Son of Man” (nlt). Jacob was so overwhelmed by God’s grace in revealing himself to him in this way that he named the place at which this took place Bethel—the House of God.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01033019",
-          "start_ref_usfm": "GEN 33:19",
-          "end_ref": "01033019",
-          "end_ref_usfm": "GEN 33:19"
-        },
-        {
-          "start_ref": "06024032",
-          "start_ref_usfm": "JOS 24:32",
-          "end_ref": "06024032",
-          "end_ref_usfm": "JOS 24:32"
-        },
-        {
-          "start_ref": "06008030",
-          "start_ref_usfm": "JOS 8:30",
-          "end_ref": "06008033",
-          "end_ref_usfm": "JOS 8:33"
-        },
-        {
-          "start_ref": "01012006",
-          "start_ref_usfm": "GEN 12:6",
+          "start_ref": "01012007",
+          "start_ref_usfm": "GEN 12:7",
           "end_ref": "01012007",
           "end_ref_usfm": "GEN 12:7"
         },
         {
-          "start_ref": "01033018",
-          "start_ref_usfm": "GEN 33:18",
-          "end_ref": "01033020",
-          "end_ref_usfm": "GEN 33:20"
+          "start_ref": "01027041",
+          "start_ref_usfm": "GEN 27:41",
+          "end_ref": "01027041",
+          "end_ref_usfm": "GEN 27:41"
         },
         {
-          "start_ref": "43004005",
-          "start_ref_usfm": "JHN 4:5",
-          "end_ref": "43004029",
-          "end_ref_usfm": "JHN 4:29"
+          "start_ref": "43001050",
+          "start_ref_usfm": "JHN 1:50",
+          "end_ref": "43001050",
+          "end_ref_usfm": "JHN 1:50"
         },
         {
-          "start_ref": "43004005",
-          "start_ref_usfm": "JHN 4:5",
-          "end_ref": "43004006",
-          "end_ref_usfm": "JHN 4:6"
+          "start_ref": "01028010",
+          "start_ref_usfm": "GEN 28:10",
+          "end_ref": "01028022",
+          "end_ref_usfm": "GEN 28:22"
         },
         {
-          "start_ref": "05027012",
-          "start_ref_usfm": "DEU 27:12",
-          "end_ref": "05027013",
-          "end_ref_usfm": "DEU 27:13"
+          "start_ref": "01012002",
+          "start_ref_usfm": "GEN 12:2",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "01026003",
+          "start_ref_usfm": "GEN 26:3",
+          "end_ref": "01026005",
+          "end_ref_usfm": "GEN 26:5"
+        },
+        {
+          "start_ref": "01027006",
+          "start_ref_usfm": "GEN 27:6",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
         }
       ],
       "resource": []

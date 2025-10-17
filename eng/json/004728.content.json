@@ -1,28 +1,23 @@
 [
   {
-    "content_id": 7991,
-    "reference_id": 7159,
-    "title": "Remaliah",
+    "content_id": 7990,
+    "reference_id": 7158,
+    "title": "Religion",
     "media_type": "Text",
-    "index_reference": "remaliah",
+    "index_reference": "religion",
     "language": "eng",
-    "content": "<h1>REMALIAH</h1><p>The father of King Pekah of Israel who ruled from 737 to 732 BC. Pekah took power by secretly killing the previous king (<a href=\"https://ref.ly/2Kgs15:25-2Kgs15:37\">2&nbsp;Kings 15:25–37</a>). Later, he attacked Jerusalem with his army (<a href=\"https://ref.ly/Isa7:1-Isa7:9\">Isaiah 7:1–9</a>).</p>",
+    "content": "<h1>RELIGION</h1><p>The service and worship of God; an institutionalized system of religious beliefs and practices. The Israelites’ service and worship of God had become institutionalized by the time Jesus lived. Jesus himself criticized several of its practices for having a show of piety but lacking true heart-felt adoration of God. The institutionalization of the Christian faith occurred in many churches long after the time of the apostles. Hence, it is not discussed in the NT.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5646\" data-resourceType=\"TyndaleBibleDictionary\">Judaism</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "23007001",
-          "start_ref_usfm": "ISA 7:1",
-          "end_ref": "23007009",
-          "end_ref_usfm": "ISA 7:9"
-        },
-        {
-          "start_ref": "12015025",
-          "start_ref_usfm": "2KI 15:25",
-          "end_ref": "12015037",
-          "end_ref_usfm": "2KI 15:37"
+          "reference_id": 5646,
+          "content_id": 6478,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Judaism",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

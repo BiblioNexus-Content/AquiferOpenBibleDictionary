@@ -1,14 +1,21 @@
 [
   {
-    "content_id": 7572,
-    "reference_id": 6740,
-    "title": "Papias",
+    "content_id": 7571,
+    "reference_id": 6739,
+    "title": "Paphos",
     "media_type": "Text",
-    "index_reference": "papias",
+    "index_reference": "paphos",
     "language": "eng",
-    "content": "<h1>PAPIAS</h1><p>Papias was an early church leader who lived from about AD 60 to 130. He was from a place called Hierapolis and wrote about the early days of Christianity. We learn about Papias from two other early church writers: Eusebius of Caesarea and Irenaeus of Lyons. Irenaeus said that Papias had heard the apostle John preach and knew another church leader named Polycarp.</p><p>Eusebius mentioned a book that Papias wrote called <em>Explanation of the Sayings of the Lord.</em> In this book, Papias said he wanted to write down true stories about what the apostles said and did. He got these stories from an older church leader (presbyter). Irenaeus thought Papias was talking about the apostle John. Eusebius thought that Papias was talking about two different Johns:</p><ul><li><p>The apostle John</p></li><li><p>Another John who was the friend of someone named Aristion.</p></li></ul><p>Papias said that the author of the Gospel of Mark was the interpreter of Peter, who was named Mark. While Mark had never heard Christ speak, he carefully gave an account of everything he remembered from the preaching of Peter. Papias agreed that Matthew wrote down the sayings of Jesus in Hebrew. While Irenaeus understood this to mean Hebraisms (Hebrew idioms or expressions) in Matthew’s Gospel, Origen thought it meant that Matthew originally wrote his Gospel in Hebrew.</p><p>Papias&apos;s writings have made people ask questions about:</p><ol><li><p>how the Gospels were put together;</p></li><li><p>whether Matthew&apos;s Gospel was first written in Hebrew (or Aramaic, a related language); and</p></li><li><p>whether there were two important men named John in the early church.</p></li></ol><p>According to tradition, Papias was killed because of his faith and died a martyr.</p>",
+    "content": "<h1>PAPHOS</h1><p>Paphos was a city in southwest Cyprus. It began as a Phoenician settlement called &quot;Old Paphos.&quot; Later, a Greek settlement called &quot;New Paphos&quot; was built about 16.1&nbsp;kilometers (10 miles) away from the original city. New Paphos became the main government center when Cyprus became part of the Roman Empire in 22 BC.</p><p>The combined city was famous for its temple. The people first dedicated the temple to the Syrian goddess Astarte. According to the Roman historian Tacitus, people worshiped Astarte using ancient Phoenician ceremonies. These ceremonies included putting oil on a cone-shaped stone (possibly a meteorite). The Greeks later identified Astarte with their goddess Aphrodite. They believed Aphrodite came out of the sea.</p><p>In Paphos, the apostle Paul faced his first strong opposition to the good news about Jesus. This opposition came from a man named Elymas. In response, Paul performed his first miracle that is recorded in the Bible. Paul made Elymas blind, but the blindness was only temporary, showing Paul&apos;s mercy (<a href=\"https://ref.ly/Acts13:11\">Acts 13:11</a>).</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "44013011",
+          "start_ref_usfm": "ACT 13:11",
+          "end_ref": "44013011",
+          "end_ref_usfm": "ACT 13:11"
+        }
+      ],
       "resource": []
     }
   }

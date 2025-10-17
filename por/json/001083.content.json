@@ -1,43 +1,49 @@
 [
   {
-    "content_id": 815994,
-    "reference_id": 5667,
-    "title": "Júlio",
+    "content_id": 717119,
+    "reference_id": 5531,
+    "title": "Jeús",
     "media_type": "Text",
-    "index_reference": "júlio",
+    "index_reference": "jeús",
     "language": "por",
-    "content": "<h1>JÚLIO</h1><p>Centurião romano da corte de Augusto que escoltou o apóstolo Paulo e outros prisioneiros da Palestina para Roma (<a href=\"https://ref.ly/Acts27:1\">At 27.1</a>). Os líderes judeus em Jerusalém acusaram Paulo de ensinar doutrinas falsas e profanar o templo. Devido à indecisão de dois governadores romanos sucessivos, Paulo ficou preso por mais de dois anos e finalmente apelou para César. Júlio era um homem bondoso. Ele permitiu que Paulo deixasse o navio em Sidom para ser confortado por seus amigos (v. <a href=\"https://ref.ly/Acts27:3\">3</a>). No entanto, em sua ânsia de levar os prisioneiros para Roma, Júlio ignorou o conselho de Paulo de passar o inverno em Bons Portos. Em vez disso, ele ordenou que o navio navegasse para Fênix, outro porto em Creta, que era mais adequado para ancorar no inverno (vv. <a href=\"https://ref.ly/Acts27:9-Acts27:12\">9–12</a>). Durante a viagem, uma tempestade naufragou o navio. Os soldados a bordo queriam matar os prisioneiros por medo de que escapassem, mas Júlio impediu esse massacre, ordenando que todos pulassem do navio e nadassem até a costa. Essa decisão poupou a vida de Paulo (vv. <a href=\"https://ref.ly/Acts27:42-Acts27:44\">42–44</a>). Alguns estudiosos conjecturam que Júlio foi o soldado que ficou com Paulo em Roma (<a href=\"https://ref.ly/Acts28:16\">28.16</a>).</p>",
+    "content": "<h1>JEÚS</h1><ol><li><p>O mais velho de três filhos nascidos de Esaú com Oolibama. Ela era filha de Aná, dos cananeus. Jeús foi um chefe entre os descendentes de Esaú em Edom (<a href=\"https://ref.ly/Gen36:5-Gen36:18\">Gn 36.5–18</a>; <a href=\"https://ref.ly/1Chr1:35\">1Cr 1.35</a>).</p></li><li><p>Um filho de Bilã da família de Jediael. Ele também foi um líder na tribo de Benjamim (<a href=\"https://ref.ly/1Chr7:10\">1Cr 7.10</a>).</p></li><li><p>Um benjamita, filho de Ezeque e descendente do rei Saul (<a href=\"https://ref.ly/1Chr8:39\">1Cr 8.39</a>).</p></li><li><p>Um levita da família de Gérson e o terceiro dos quatro filhos de Simei. Ele e seu irmão mais novo, Berias, tiveram poucos filhos. Assim, os registros durante o reinado do rei Davi os consideram como uma única família (<a href=\"https://ref.ly/1Chr23:10-1Chr23:11\">1Cr 23.10–11</a>).</p></li><li><p>O mais velho de três filhos nascidos do rei Roboão com Maalate. Ela era neta de Eliabe (<a href=\"https://ref.ly/2Chr11:19\">2Cr 11.19</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44027001",
-          "start_ref_usfm": "ACT 27:1",
-          "end_ref": "44027001",
-          "end_ref_usfm": "ACT 27:1"
+          "start_ref": "13001035",
+          "start_ref_usfm": "1CH 1:35",
+          "end_ref": "13001035",
+          "end_ref_usfm": "1CH 1:35"
         },
         {
-          "start_ref": "44027003",
-          "start_ref_usfm": "ACT 27:3",
-          "end_ref": "44027003",
-          "end_ref_usfm": "ACT 27:3"
+          "start_ref": "13007010",
+          "start_ref_usfm": "1CH 7:10",
+          "end_ref": "13007010",
+          "end_ref_usfm": "1CH 7:10"
         },
         {
-          "start_ref": "44028016",
-          "start_ref_usfm": "ACT 28:16",
-          "end_ref": "44028016",
-          "end_ref_usfm": "ACT 28:16"
+          "start_ref": "13008039",
+          "start_ref_usfm": "1CH 8:39",
+          "end_ref": "13008039",
+          "end_ref_usfm": "1CH 8:39"
         },
         {
-          "start_ref": "44027009",
-          "start_ref_usfm": "ACT 27:9",
-          "end_ref": "44027012",
-          "end_ref_usfm": "ACT 27:12"
+          "start_ref": "14011019",
+          "start_ref_usfm": "2CH 11:19",
+          "end_ref": "14011019",
+          "end_ref_usfm": "2CH 11:19"
         },
         {
-          "start_ref": "44027042",
-          "start_ref_usfm": "ACT 27:42",
-          "end_ref": "44027044",
-          "end_ref_usfm": "ACT 27:44"
+          "start_ref": "13023010",
+          "start_ref_usfm": "1CH 23:10",
+          "end_ref": "13023011",
+          "end_ref_usfm": "1CH 23:11"
+        },
+        {
+          "start_ref": "01036005",
+          "start_ref_usfm": "GEN 36:5",
+          "end_ref": "01036018",
+          "end_ref_usfm": "GEN 36:18"
         }
       ],
       "resource": []

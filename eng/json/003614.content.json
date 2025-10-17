@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 6873,
-    "reference_id": 6041,
-    "title": "Mahazioth",
+    "content_id": 6872,
+    "reference_id": 6040,
+    "title": "Mahavah, Mahavite",
     "media_type": "Text",
-    "index_reference": "mahazioth",
+    "index_reference": "mahavah, mahavite",
     "language": "eng",
-    "content": "<h1>MAHAZIOTH</h1><p>One of the 14 sons of Heman the Kohathite, and head of the 23d course of tabernacle musicians who ministered with cymbals, harps, and lyres (<a href=\"https://ref.ly/1Chr25:4,1Chr25:30\">1&nbsp;Chr 25:4, 30</a>).</p>",
+    "content": "<h1>MAHAVAH, MAHAVITE*</h1><p>Term used in <a href=\"https://ref.ly/1Chr11:46\">1&nbsp;Chronicles 11:46</a> to designate Eliel, one of David’s mighty men. The word was probably added to indicate where he came from so as to distinguish him from the Eliel in verse <a href=\"https://ref.ly/1Chr11:47\">47</a>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13025004",
-          "start_ref_usfm": "1CH 25:4",
-          "end_ref": "13025004",
-          "end_ref_usfm": "1CH 25:4"
+          "start_ref": "13011046",
+          "start_ref_usfm": "1CH 11:46",
+          "end_ref": "13011046",
+          "end_ref_usfm": "1CH 11:46"
         },
         {
-          "start_ref": "13025030",
-          "start_ref_usfm": "1CH 25:30",
-          "end_ref": "13025030",
-          "end_ref_usfm": "1CH 25:30"
+          "start_ref": "13011047",
+          "start_ref_usfm": "1CH 11:47",
+          "end_ref": "13011047",
+          "end_ref_usfm": "1CH 11:47"
         }
       ],
       "resource": []

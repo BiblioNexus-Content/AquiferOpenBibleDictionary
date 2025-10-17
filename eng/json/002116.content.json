@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 5372,
-    "reference_id": 4540,
-    "title": "Gaspar",
+    "content_id": 5371,
+    "reference_id": 4539,
+    "title": "Gashmu",
     "media_type": "Text",
-    "index_reference": "gaspar",
+    "index_reference": "gashmu",
     "language": "eng",
-    "content": "<h1>GASPAR</h1><p>The traditional name for one of the wise men who brought a gift to Jesus in <a href=\"https://ref.ly/Matt2:1-Matt2:2\">Matthew 2:1–2</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8246\" data-resourceType=\"TyndaleBibleDictionary\">Wise Men</span>.</p>",
+    "content": "<h1>GASHMU*</h1><p>KJV spelling of Geshem the Arab in <a href=\"https://ref.ly/Neh6:6\">Nehemiah 6:6</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4602\" data-resourceType=\"TyndaleBibleDictionary\">Geshem</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40002001",
-          "start_ref_usfm": "MAT 2:1",
-          "end_ref": "40002002",
-          "end_ref_usfm": "MAT 2:2"
+          "start_ref": "16006006",
+          "start_ref_usfm": "NEH 6:6",
+          "end_ref": "16006006",
+          "end_ref_usfm": "NEH 6:6"
         }
       ],
       "resource": [
         {
-          "reference_id": 8246,
-          "content_id": 9078,
+          "reference_id": 4602,
+          "content_id": 5434,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Wise Men",
+          "label": "Geshem",
           "language": "eng"
         }
       ]

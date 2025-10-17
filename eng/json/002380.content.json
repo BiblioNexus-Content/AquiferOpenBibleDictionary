@@ -1,31 +1,31 @@
 [
   {
-    "content_id": 5635,
-    "reference_id": 4803,
-    "title": "Hamutal",
+    "content_id": 5634,
+    "reference_id": 4802,
+    "title": "Hamul, Hamulite",
     "media_type": "Text",
-    "index_reference": "hamutal",
+    "index_reference": "hamul, hamulite",
     "language": "eng",
-    "content": "<h1>HAMUTAL</h1><p>Daughter of Jeremiah of Libnah, one of King Josiah’s wives, and the mother of two kings: Jehoahaz and Zedekiah (<a href=\"https://ref.ly/2Kgs23:31\">2&nbsp;Kgs 23:31</a>; <a href=\"https://ref.ly/2Kgs24:18\">24:18</a>; <a href=\"https://ref.ly/Jer52:1\">Jer 52:1</a>).</p>",
+    "content": "<h1>HAMUL, HAMULITE</h1><p>Perez’s younger son (<a href=\"https://ref.ly/Gen46:12\">Gn 46:12</a>; <a href=\"https://ref.ly/1Chr2:5\">1&nbsp;Chr 2:5</a>) and founder of the Hamulite family (<a href=\"https://ref.ly/Num26:21\">Nm 26:21</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12023031",
-          "start_ref_usfm": "2KI 23:31",
-          "end_ref": "12023031",
-          "end_ref_usfm": "2KI 23:31"
+          "start_ref": "01046012",
+          "start_ref_usfm": "GEN 46:12",
+          "end_ref": "01046012",
+          "end_ref_usfm": "GEN 46:12"
         },
         {
-          "start_ref": "12024018",
-          "start_ref_usfm": "2KI 24:18",
-          "end_ref": "12024018",
-          "end_ref_usfm": "2KI 24:18"
+          "start_ref": "04026021",
+          "start_ref_usfm": "NUM 26:21",
+          "end_ref": "04026021",
+          "end_ref_usfm": "NUM 26:21"
         },
         {
-          "start_ref": "24052001",
-          "start_ref_usfm": "JER 52:1",
-          "end_ref": "24052001",
-          "end_ref_usfm": "JER 52:1"
+          "start_ref": "13002005",
+          "start_ref_usfm": "1CH 2:5",
+          "end_ref": "13002005",
+          "end_ref_usfm": "1CH 2:5"
         }
       ],
       "resource": []

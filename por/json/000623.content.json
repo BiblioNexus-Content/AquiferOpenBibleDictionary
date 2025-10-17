@@ -1,52 +1,30 @@
 [
   {
-    "content_id": 759733,
-    "reference_id": 4166,
-    "title": "Eliasafe",
+    "content_id": 717006,
+    "reference_id": 4124,
+    "title": "Eí",
     "media_type": "Text",
-    "index_reference": "eliasafe",
+    "index_reference": "eí",
     "language": "por",
-    "content": "<h1>ELIASAFE</h1><ol><li><p>Um líder da tribo de Gade escolhido por Moisés. Ele era filho de Deuel (Reuel) (<a href=\"https://ref.ly/Num1:14\">Nm 1.14</a>; <a href=\"https://ref.ly/Num2:14\">2.14</a>; <a href=\"https://ref.ly/Num7:42,Num7:47\">7.42,47</a>; <a href=\"https://ref.ly/Num10:20\">10.20</a>).</p></li><li><p>Um gersonita da tribo de Levi e filho de Lael. Ele tinha três responsabilidades na tribo:</p><ol><li><p>Cuidar das coberturas do Tabernáculo;</p></li><li><p>Cuidar das cortinas do santuário; e</p></li><li><p>Cuidar do altar principal (<a href=\"https://ref.ly/Num3:24-Num3:25\">Nm 3.24–25</a>).</p></li></ol></li></ol>",
+    "content": "<h1>Eí</h1><p>Filho de Benjamim (<a href=\"https://ref.ly/Gen46:21\">Gn 46.21</a>); talvez um erro de escrita para Airão. <em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2622\" data-resourceType=\"TyndaleBibleDictionary\">Airão, Airamita</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04001014",
-          "start_ref_usfm": "NUM 1:14",
-          "end_ref": "04001014",
-          "end_ref_usfm": "NUM 1:14"
-        },
-        {
-          "start_ref": "04002014",
-          "start_ref_usfm": "NUM 2:14",
-          "end_ref": "04002014",
-          "end_ref_usfm": "NUM 2:14"
-        },
-        {
-          "start_ref": "04007042",
-          "start_ref_usfm": "NUM 7:42",
-          "end_ref": "04007042",
-          "end_ref_usfm": "NUM 7:42"
-        },
-        {
-          "start_ref": "04007047",
-          "start_ref_usfm": "NUM 7:47",
-          "end_ref": "04007047",
-          "end_ref_usfm": "NUM 7:47"
-        },
-        {
-          "start_ref": "04010020",
-          "start_ref_usfm": "NUM 10:20",
-          "end_ref": "04010020",
-          "end_ref_usfm": "NUM 10:20"
-        },
-        {
-          "start_ref": "04003024",
-          "start_ref_usfm": "NUM 3:24",
-          "end_ref": "04003025",
-          "end_ref_usfm": "NUM 3:25"
+          "start_ref": "01046021",
+          "start_ref_usfm": "GEN 46:21",
+          "end_ref": "01046021",
+          "end_ref_usfm": "GEN 46:21"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2622,
+          "content_id": 716889,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Airão, Airamita",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

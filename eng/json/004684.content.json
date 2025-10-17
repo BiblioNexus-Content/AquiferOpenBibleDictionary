@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 7947,
-    "reference_id": 7115,
-    "title": "Raphon",
+    "content_id": 7945,
+    "reference_id": 7113,
+    "title": "Raphanah",
     "media_type": "Text",
-    "index_reference": "raphon",
+    "index_reference": "raphanah",
     "language": "eng",
-    "content": "<h1>RAPHON</h1><p>A town where Judas Maccabeus and his troops defeated the Syrian commander Timothy (<a href=\"https://ref.ly/1Macc5:37-1Macc5:43\">1&nbsp;Macc 5:37–43</a>). It was near Carnaim, and since Carnaim is the same as Ashteroth-karnaim (the modern Sheikh Sa’ad), Raphon is probably er-Rafeh on the Nahr el-Ehreir.</p>",
+    "content": "<h1>RAPHANAH*</h1><p>One of the original 10 Greek cities rebuilt by Rome after Pompey’s conquest of Palestine and Syria around 63 BC. Raphanah (also spelled Raphana) was situated in the Decapolis region. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3958\" data-resourceType=\"TyndaleBibleDictionary\">Decapolis</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "78005037",
-          "start_ref_usfm": "1MA 5:37",
-          "end_ref": "78005043",
-          "end_ref_usfm": "1MA 5:43"
+          "reference_id": 3958,
+          "content_id": 4790,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Decapolis",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

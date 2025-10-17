@@ -1,60 +1,58 @@
 [
   {
-    "content_id": 161822,
-    "reference_id": 4966,
-    "title": "Hemorragia",
+    "content_id": 717062,
+    "reference_id": 4797,
+    "title": "Hamor",
     "media_type": "Text",
-    "index_reference": "hemorragia",
+    "index_reference": "hamor",
     "language": "por",
-    "content": "<h1>HEMORRAGIA</h1><p>Emissão de sangue, vindo de qualquer corte&nbsp;ou sangramento nasal (<a href=\"https://ref.ly/Prov30:33\">Pv 30.33</a>). No entanto, nas Escrituras,&nbsp;quase sempre se refere ao sangramento vaginal. As leis sobre a menstruação normal e anormal são dadas em <a href=\"https://ref.ly/Lev15:19-Lev15:30\">Levítico 15.19–30</a>. Uma mulher com menstruação normal era considerada impura por sete dias, juntamente com qualquer coisa que entrasse em contato com ela. Uma&nbsp;mulher que sangrasse por mais de sete dias era considerada impura&nbsp;enquanto estivesse sangrando e por mais sete dias adicionais.</p><p>Todos os Evangelhos, exceto João, dão um relato da cura milagrosa de Jesus da mulher que teve uma hemorragia por 12 anos (<a href=\"https://ref.ly/Matt9:20-Matt9:22\">Mt 9.20–22</a>; <a href=\"https://ref.ly/Mark5:25-Mark5:34\">Mc 5.25–34</a>; <a href=\"https://ref.ly/Luke8:43-Luke8:48\">Lc 8.43–48</a>). Ao tocar a roupa de Jesus, a mulher estava realmente violando as leis do AT sobre a menstruação e tornando a roupa de Jesus impura (<a href=\"https://ref.ly/Lev15:1-Lev15:33\">Lv 15</a>). Seu ato corajoso de fé em Jesus a curou.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6179\" data-resourceType=\"TyndaleBibleDictionary\">Medicina e Prática Médica</span>.</p>",
+    "content": "<h1>Hamor</h1><p>Um príncipe heveu ou horita que governava a área ao redor de Siquém (<a href=\"https://ref.ly/Gen34:2\">Gn 34.2</a>). Quando Jacó retornou de Padã-Arã com sua família, ele comprou terras de Hamor. Durante esse tempo, o filho de Hamor, Siquém, forçou Diná, filha de Jacó, a ter relações sexuais com ele, contra a vontade dela.</p><p>A pedido de seu filho, Hamor pediu a Jacó para que Siquém se casasse com Diná. Ele ofereceu um dote. Simeão e Levi, fingindo ser amigos, enganaram os homens que viviam naquela cidade para que fossem circuncidados. Então, eles os atacaram e mataram antes que se recuperassem, buscando vingança pela humilhação de sua irmã.</p><p>“Hamor” é a palavra hebraica que Jacó usa para se referir a Issacar ao abençoar seus filhos (<a href=\"https://ref.ly/Gen49:14\">Gn 49.14</a>). É a palavra usual para “jumento” no Antigo Testamento (p. ex. <a href=\"https://ref.ly/Gen42:26\">Gn 42.26</a>; <a href=\"https://ref.ly/Exod20:17\">Êx 20.17</a>; <a href=\"https://ref.ly/Judg15:15\">Jz 15.15</a>; <a href=\"https://ref.ly/Isa1:3\">Is 1.3</a>; <a href=\"https://ref.ly/Zech9:9\">Zc 9.9</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "20030033",
-          "start_ref_usfm": "PRO 30:33",
-          "end_ref": "20030033",
-          "end_ref_usfm": "PRO 30:33"
+          "start_ref": "01034002",
+          "start_ref_usfm": "GEN 34:2",
+          "end_ref": "01034002",
+          "end_ref_usfm": "GEN 34:2"
         },
         {
-          "start_ref": "03015001",
-          "start_ref_usfm": "LEV 15:1",
-          "end_ref": "03015033",
-          "end_ref_usfm": "LEV 15:33"
+          "start_ref": "01042026",
+          "start_ref_usfm": "GEN 42:26",
+          "end_ref": "01042026",
+          "end_ref_usfm": "GEN 42:26"
         },
         {
-          "start_ref": "40009020",
-          "start_ref_usfm": "MAT 9:20",
-          "end_ref": "40009022",
-          "end_ref_usfm": "MAT 9:22"
+          "start_ref": "01049014",
+          "start_ref_usfm": "GEN 49:14",
+          "end_ref": "01049014",
+          "end_ref_usfm": "GEN 49:14"
         },
         {
-          "start_ref": "41005025",
-          "start_ref_usfm": "MRK 5:25",
-          "end_ref": "41005034",
-          "end_ref_usfm": "MRK 5:34"
+          "start_ref": "02020017",
+          "start_ref_usfm": "EXO 20:17",
+          "end_ref": "02020017",
+          "end_ref_usfm": "EXO 20:17"
         },
         {
-          "start_ref": "42008043",
-          "start_ref_usfm": "LUK 8:43",
-          "end_ref": "42008048",
-          "end_ref_usfm": "LUK 8:48"
+          "start_ref": "07015015",
+          "start_ref_usfm": "JDG 15:15",
+          "end_ref": "07015015",
+          "end_ref_usfm": "JDG 15:15"
         },
         {
-          "start_ref": "03015019",
-          "start_ref_usfm": "LEV 15:19",
-          "end_ref": "03015030",
-          "end_ref_usfm": "LEV 15:30"
+          "start_ref": "23001003",
+          "start_ref_usfm": "ISA 1:3",
+          "end_ref": "23001003",
+          "end_ref_usfm": "ISA 1:3"
+        },
+        {
+          "start_ref": "38009009",
+          "start_ref_usfm": "ZEC 9:9",
+          "end_ref": "38009009",
+          "end_ref_usfm": "ZEC 9:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6179,
-          "content_id": 161846,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Medicina E Prática Médica",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

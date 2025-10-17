@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5939,
-    "reference_id": 5107,
-    "title": "Hul",
+    "content_id": 5937,
+    "reference_id": 5105,
+    "title": "Hukok",
     "media_type": "Text",
-    "index_reference": "hul",
+    "index_reference": "hukok",
     "language": "eng",
-    "content": "<h1>HUL</h1><p>Son of Aram and grandson of Shem (<a href=\"https://ref.ly/Gen10:23\">Gn 10:23</a>; <a href=\"https://ref.ly/1Chr1:17\">1&nbsp;Chr 1:17</a>).</p>",
+    "content": "<h1>HUKOK</h1><p>Alternate form of the Asherite town Helkath in <a href=\"https://ref.ly/1Chr6:75\">1&nbsp;Chronicles 6:75</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4954\" data-resourceType=\"TyndaleBibleDictionary\">Helkath</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010023",
-          "start_ref_usfm": "GEN 10:23",
-          "end_ref": "01010023",
-          "end_ref_usfm": "GEN 10:23"
-        },
-        {
-          "start_ref": "13001017",
-          "start_ref_usfm": "1CH 1:17",
-          "end_ref": "13001017",
-          "end_ref_usfm": "1CH 1:17"
+          "start_ref": "13006075",
+          "start_ref_usfm": "1CH 6:75",
+          "end_ref": "13006075",
+          "end_ref_usfm": "1CH 6:75"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4954,
+          "content_id": 5786,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Helkath",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

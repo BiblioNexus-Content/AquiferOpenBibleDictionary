@@ -1,40 +1,30 @@
 [
   {
-    "content_id": 806001,
-    "reference_id": 4091,
-    "title": "Ébal",
+    "content_id": 822986,
+    "reference_id": 5739,
+    "title": "Czib",
     "media_type": "Text",
-    "index_reference": "ébal",
+    "index_reference": "czib",
     "language": "fra",
-    "content": "<h1>ÉBAL</h1><p>1. Fils de Schobal et descendant de Séir le Horite (<a href=\"https://ref.ly/Gen36:23\">Gn 36.23</a> ; <a href=\"https://ref.ly/1Chr1:40\">1Ch 1.40</a>).</p><p>2. Fils de Jokthan et descendant de Sem (<a href=\"https://ref.ly/1Chr1:22\">1Ch 1.22</a>). Il est appelé Obal dans <a href=\"https://ref.ly/Gen10:28\">Genèse 10.28</a>.</p>",
+    "content": "<h1>CZIB</h1><p>Une autre orthographe d&apos;Aczib, une ville dans le territoire de Juda (<a href=\"https://ref.ly/Gen38:5\">Gn 38.5</a>).</p><p></p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010028",
-          "start_ref_usfm": "GEN 10:28",
-          "end_ref": "01010028",
-          "end_ref_usfm": "GEN 10:28"
-        },
-        {
-          "start_ref": "01036023",
-          "start_ref_usfm": "GEN 36:23",
-          "end_ref": "01036023",
-          "end_ref_usfm": "GEN 36:23"
-        },
-        {
-          "start_ref": "13001022",
-          "start_ref_usfm": "1CH 1:22",
-          "end_ref": "13001022",
-          "end_ref_usfm": "1CH 1:22"
-        },
-        {
-          "start_ref": "13001040",
-          "start_ref_usfm": "1CH 1:40",
-          "end_ref": "13001040",
-          "end_ref_usfm": "1CH 1:40"
+          "start_ref": "01038005",
+          "start_ref_usfm": "GEN 38:5",
+          "end_ref": "01038005",
+          "end_ref_usfm": "GEN 38:5"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2524,
+          "content_id": 822844,
+          "resource_code": "Unknown",
+          "label": "Aczib",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

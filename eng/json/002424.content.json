@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 5679,
-    "reference_id": 4847,
-    "title": "Harorite",
+    "content_id": 5678,
+    "reference_id": 4846,
+    "title": "Haroeh",
     "media_type": "Text",
-    "index_reference": "harorite",
+    "index_reference": "haroeh",
     "language": "eng",
-    "content": "<h1>HARORITE*</h1><p>Alternate description of one of David’s mighty men (<a href=\"https://ref.ly/1Chr11:27\">1&nbsp;Chr 11:27</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4845\" data-resourceType=\"TyndaleBibleDictionary\">Harod #2</span>.</p>",
+    "content": "<h1>HAROEH</h1><p>Alternate name of Reaiah, Shobal’s son, in <a href=\"https://ref.ly/1Chr2:52\">1&nbsp;Chronicles 2:52</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7124\" data-resourceType=\"TyndaleBibleDictionary\">Reaiah #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13011027",
-          "start_ref_usfm": "1CH 11:27",
-          "end_ref": "13011027",
-          "end_ref_usfm": "1CH 11:27"
+          "start_ref": "13002052",
+          "start_ref_usfm": "1CH 2:52",
+          "end_ref": "13002052",
+          "end_ref_usfm": "1CH 2:52"
         }
       ],
       "resource": [
         {
-          "reference_id": 4845,
-          "content_id": 5677,
+          "reference_id": 7124,
+          "content_id": 7956,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Harod",
+          "label": "Reaiah",
           "language": "eng"
         }
       ]

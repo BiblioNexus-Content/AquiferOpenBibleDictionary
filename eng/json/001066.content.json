@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 4322,
-    "reference_id": 3490,
-    "title": "Bozkath",
+    "content_id": 4321,
+    "reference_id": 3489,
+    "title": "Bozez",
     "media_type": "Text",
-    "index_reference": "bozkath",
+    "index_reference": "bozez",
     "language": "eng",
-    "content": "<h1>BOZKATH</h1><p>Town near Lachish and Eglon in Judah’s territory (<a href=\"https://ref.ly/Josh15:39\">Jos 15:39</a>), home of King Josiah’s mother (<a href=\"https://ref.ly/2Kgs22:1\">2&nbsp;Kgs 22:1</a>).</p>",
+    "content": "<h1>BOZEZ</h1><p>One of a pair of distinctive rocks (Seneh was the other) flanking the road between Michmash and Gaba. Jonathan and his armor bearer scaled one of these crags to take on a Philistine outpost (<a href=\"https://ref.ly/1Sam14:4\">1&nbsp;Sm 14:4</a>). The two rocks are still visible in the modern Wadi Suweinet. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7390\" data-resourceType=\"TyndaleBibleDictionary\">Seneh</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015039",
-          "start_ref_usfm": "JOS 15:39",
-          "end_ref": "06015039",
-          "end_ref_usfm": "JOS 15:39"
-        },
-        {
-          "start_ref": "12022001",
-          "start_ref_usfm": "2KI 22:1",
-          "end_ref": "12022001",
-          "end_ref_usfm": "2KI 22:1"
+          "start_ref": "09014004",
+          "start_ref_usfm": "1SA 14:4",
+          "end_ref": "09014004",
+          "end_ref_usfm": "1SA 14:4"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 7390,
+          "content_id": 8222,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Seneh",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

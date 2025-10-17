@@ -1,31 +1,31 @@
 [
   {
-    "content_id": 716916,
-    "reference_id": 2956,
-    "title": "Azenate",
+    "content_id": 759640,
+    "reference_id": 3072,
+    "title": "Azazel",
     "media_type": "Text",
-    "index_reference": "azenate",
+    "index_reference": "azazel",
     "language": "por",
-    "content": "<h1>AZENATE</h1><p>A esposa egípcia de José, que se tornou a mãe de Manassés e Efraim. Azenate era filha do sacerdote Potífera (<a href=\"https://ref.ly/Gen41:45,Gen41:50-Gen41:52\">Gn 41.45,50</a>–<a href=\"https://ref.ly/Gen41:45,Gen41:50-Gen41:52\">52</a>; <a href=\"https://ref.ly/Gen46:20\">46.20</a>).</p>",
+    "content": "<h1>AZAZEL</h1><p>Uma palavra hebraica de origem e significado incertos. Aparece em <a href=\"https://ref.ly/Lev16:8,Lev16:10,Lev16:26\">Levítico 16.8,10,26</a>. Como há pouca informação sobre ela na Bíblia ou em outras fontes, estudiosos sugeriram pelo menos quatro interpretações:</p><ol><li><p>Bode expiatório: Alguns acreditam que Azazel se refere ao bode expiatório usado nas cerimônias do Dia da Expiação. No entanto, essa interpretação é improvável porque os versículos 10 e 26 dizem que o bode foi enviado para Azazel, e não como Azazel.</p></li><li><p>Um lugar para onde o bode foi enviado: Muitos estudiosos judeus acreditam que Azazel é um local para onde o bode foi enviado, possivelmente um penhasco alto de onde o bode era lançado. Outros sugerem que significa &quot;lugares desérticos&quot;.</p></li><li><p>“Lugar” abstrato ou estado de ser: Alguns acreditam que Azazel vem de uma palavra hebraica que significa “partir” ou “remover”, e assim a interpretam como “remoção total”, “envio completo” ou “solidão”. Que “mandará esse bode para o deserto, a fim de conseguir o perdão dos pecados do povo” em <a href=\"https://ref.ly/Lev16:10\">Levítico 16.10</a> pode ser interpretado como “enviado para se tornar nada” ou “totalmente removido”. Isso implica a remoção dos pecados: eles se tornam “nada”, já que são totalmente removidos. Enviar o bode embora seria então um ato simbólico e ritual através do qual Deus remove os pecados passados de alguém.</p></li><li><p>O nome pessoal de um ser, provavelmente um demônio, para o qual o bode expiatório foi enviado: Muitos estudiosos modernos acreditam que Azazel é um ser, provavelmente um demônio, para o qual o bode expiatório foi enviado. O livro não canônico de Enoque descreve Azazel como um líder de anjos caídos que enganam os humanos. Esta interpretação sugere que um bode é dado ao Senhor, e o outro a um ser maligno, possivelmente Satanás.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01041045",
-          "start_ref_usfm": "GEN 41:45",
-          "end_ref": "01041045",
-          "end_ref_usfm": "GEN 41:45"
+          "start_ref": "03016008",
+          "start_ref_usfm": "LEV 16:8",
+          "end_ref": "03016008",
+          "end_ref_usfm": "LEV 16:8"
         },
         {
-          "start_ref": "01046020",
-          "start_ref_usfm": "GEN 46:20",
-          "end_ref": "01046020",
-          "end_ref_usfm": "GEN 46:20"
+          "start_ref": "03016010",
+          "start_ref_usfm": "LEV 16:10",
+          "end_ref": "03016010",
+          "end_ref_usfm": "LEV 16:10"
         },
         {
-          "start_ref": "01041050",
-          "start_ref_usfm": "GEN 41:50",
-          "end_ref": "01041052",
-          "end_ref_usfm": "GEN 41:52"
+          "start_ref": "03016026",
+          "start_ref_usfm": "LEV 16:26",
+          "end_ref": "03016026",
+          "end_ref_usfm": "LEV 16:26"
         }
       ],
       "resource": []

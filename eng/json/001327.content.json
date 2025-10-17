@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 4577,
-    "reference_id": 3745,
-    "title": "City of the Sun",
+    "content_id": 4576,
+    "reference_id": 3744,
+    "title": "City of Salt",
     "media_type": "Text",
-    "index_reference": "city of the sun",
+    "index_reference": "city of salt",
     "language": "eng",
-    "content": "<h1>CITY OF THE SUN</h1><p>Phrase in <a href=\"https://ref.ly/Isa19:18\">Isaiah 19:18</a>, generally taken as a reference to the Egyptian city Heliopolis. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4950\" data-resourceType=\"TyndaleBibleDictionary\">Heliopolis</span>.</p>",
+    "content": "<h1>CITY OF SALT</h1><p>City located near the Dead Sea, assigned to Judah’s tribe for an inheritance (<a href=\"https://ref.ly/Josh15:62\">Jos 15:62</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "23019018",
-          "start_ref_usfm": "ISA 19:18",
-          "end_ref": "23019018",
-          "end_ref_usfm": "ISA 19:18"
+          "start_ref": "06015062",
+          "start_ref_usfm": "JOS 15:62",
+          "end_ref": "06015062",
+          "end_ref_usfm": "JOS 15:62"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4950,
-          "content_id": 5782,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Heliopolis",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

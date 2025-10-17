@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4526,
-    "reference_id": 3694,
-    "title": "Chileab",
+    "content_id": 4524,
+    "reference_id": 3692,
+    "title": "Children, Song of the Three",
     "media_type": "Text",
-    "index_reference": "chileab",
+    "index_reference": "children, song of the three",
     "language": "eng",
-    "content": "<h1>CHILEAB</h1><p>The second son of King David. Chileab was the first child born to him by Abigail (<a href=\"https://ref.ly/2Sam3:3\">2&nbsp;Samuel 3:3</a>). Another name for Kileab is Daniel in <a href=\"https://ref.ly/1Chr3:1\">1&nbsp;Chronicles 3:1</a>.</p><p></p>",
+    "content": "<h1>CHILDREN, Song of the Three</h1><p>An addition to the book of Daniel that begins with the “Prayer of Azariah.” The song is also called “Song of the Three Young Men.” <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3913\" data-resourceType=\"TyndaleBibleDictionary\">Daniel, Additions to</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5747,
-          "content_id": 6579,
-          "resource_code": "Unknown",
-          "label": "Kileab",
+          "reference_id": 3913,
+          "content_id": 4745,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Daniel, Additions to",
           "language": "eng"
         }
       ]

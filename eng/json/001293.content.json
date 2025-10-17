@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 4546,
-    "reference_id": 3714,
-    "title": "Chozeba",
+    "content_id": 4545,
+    "reference_id": 3713,
+    "title": "Chosen",
     "media_type": "Text",
-    "index_reference": "chozeba",
+    "index_reference": "chosen",
     "language": "eng",
-    "content": "<h1>CHOZEBA*</h1><p>KJV form of Cozeba in <a href=\"https://ref.ly/1Chr4:22\">1&nbsp;Chronicles 4:22</a>. Cozeba was an alternate name for Achzib, a city in Judah’s territory. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3847\" data-resourceType=\"TyndaleBibleDictionary\">Cozeba</span>.</p>",
+    "content": "<h1>CHOSEN</h1><p>The word <em>chosen</em> means someone or something selected for a purpose. In the Bible, this often refers to God choosing individuals, groups, or nations for his work.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4149\" data-resourceType=\"TyndaleBibleDictionary\">Elect, Election</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "13004022",
-          "start_ref_usfm": "1CH 4:22",
-          "end_ref": "13004022",
-          "end_ref_usfm": "1CH 4:22"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 3847,
-          "content_id": 4679,
+          "reference_id": 4149,
+          "content_id": 4981,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Cozeba",
+          "label": "Elect, Election",
           "language": "eng"
         }
       ]

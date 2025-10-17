@@ -1,63 +1,75 @@
 [
   {
-    "content_id": 6569,
-    "reference_id": 5737,
-    "title": "Keys of the Kingdom",
+    "content_id": 6568,
+    "reference_id": 5736,
+    "title": "Keturah",
     "media_type": "Text",
-    "index_reference": "keys of the kingdom",
+    "index_reference": "keturah",
     "language": "eng",
-    "content": "<h1>KEYS OF THE KINGDOM</h1><p>A symbolic description of the authority that Jesus gave to Peter. In <a href=\"https://ref.ly/Matt16:19\">Matthew 16:19</a>, Jesus tells Peter, “<span>I will give you the keys of the kingdom of heaven. Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.</span>”</p><p>In ancient times, many cultures believed that gates to heaven and the underworld were controlled by beings with keys. For instance, in Greek mythology, Pluto had the key to the underworld. Jewish writings often assigned the key to God. In the book of Revelation, Jesus holds the keys to death and the underworld (<a href=\"https://ref.ly/Rev1:18\">Revelation 1:18</a>; see <a href=\"https://ref.ly/Rev3:7\">3:7</a>).</p><p>In the Gospel of Matthew, the keys represent the authority to manage entry into the kingdom of heaven. After Peter declares that Jesus is the Christ, Jesus gives him the authority to “bind” and “loose” (<a href=\"https://ref.ly/Matt16:16\">Matthew 16:16, </a><a href=\"https://ref.ly/Matt16:19\">19</a>). This authority is later shared with all the disciples (<a href=\"https://ref.ly/Matt18:18\">Matthew 18:18</a>). The terms “bind” and “loose” were used by rabbis to describe declaring someone under a ban or freeing them from it. This could mean expulsion or reinstatement in a synagogue or determining someone&apos;s judgment by God.</p><p>Jesus’s “power of the keys” is about spiritual authority. It is similar to the authority Jesus gives in John <a href=\"https://ref.ly/John20:23\">John 20:23</a>: “<span>If you forgive anyone his sins, they are forgiven; if you withhold forgiveness from anyone, it is withheld.</span>”</p><p>The Pharisees and scribes thought they had the power to deny others entry into the kingdom of heaven (<a href=\"https://ref.ly/Matt23:13\">Matthew 23:13</a>). However, they missed the truth that Peter recognized—that Jesus is the true way to God’s kingdom. The keys symbolize the authority to declare judgment and offer forgiveness, not by human power, but based on Christ’s teachings.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5756\" data-resourceType=\"TyndaleBibleDictionary\">Kingdom of God, Kingdom of Heaven</span>.</p>",
+    "content": "<h1>KETURAH</h1><p>Keturah was the second wife of Abraham. The Bible does not clearly state if Abraham married her before or after Sarah died (<a href=\"https://ref.ly/Gen25:1\">Genesis 25:1</a>). Abraham and Keturah had six sons together:</p><ol><li><p>Zimran</p></li><li><p>Jokshan</p></li><li><p>Medan</p></li><li><p>Midian</p></li><li><p>Ishbak</p></li><li><p>Shuah (see <a href=\"https://ref.ly/Gen25:2\">Genesis 25:2</a>)</p></li></ol><p>Keturah did not have the same status as Sarah. The Bible calls her a concubine (<a href=\"https://ref.ly/Gen25:6\">Genesis 25:6</a>, compare <a href=\"https://ref.ly/1Chr1:32\">1&nbsp;Chronicles 1:32</a>). Her sons received gifts from Abraham instead of sharing in his inheritance. </p><p>The sons of Keturah became ancestors of tribes that Israel later had contact with after they entered the promised land. The most important of these tribes were Midian and Jokshan&apos;s sons Sheba and Dedan (<a href=\"https://ref.ly/Gen25:3\">Genesis 25:3</a>). These tribes settled in the northern and central regions near the Euphrates River, extending into the central parts of the Arabian Desert.</p><p>The people worked as merchants and shepherds (<a href=\"https://ref.ly/Gen37:1-Gen37:36\">Genesis 37</a>; <a href=\"https://ref.ly/Exod2:16\">Exodus 2:16</a>). They took part in international trade (<a href=\"https://ref.ly/Isa60:6\">Isaiah 60:6</a>). For example, the queen of Sheba, who was a descendant of Jokshan (<a href=\"https://ref.ly/Gen25:3\">Genesis 25:3</a>), visited Solomon to start trading with Israel (<a href=\"https://ref.ly/1Kgs10:2\">1&nbsp;Kings 10:2</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2488\" data-resourceType=\"TyndaleBibleDictionary\">Abraham</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40016016",
-          "start_ref_usfm": "MAT 16:16",
-          "end_ref": "40016016",
-          "end_ref_usfm": "MAT 16:16"
+          "start_ref": "01025001",
+          "start_ref_usfm": "GEN 25:1",
+          "end_ref": "01025001",
+          "end_ref_usfm": "GEN 25:1"
         },
         {
-          "start_ref": "40016019",
-          "start_ref_usfm": "MAT 16:19",
-          "end_ref": "40016019",
-          "end_ref_usfm": "MAT 16:19"
+          "start_ref": "01025002",
+          "start_ref_usfm": "GEN 25:2",
+          "end_ref": "01025002",
+          "end_ref_usfm": "GEN 25:2"
         },
         {
-          "start_ref": "40018018",
-          "start_ref_usfm": "MAT 18:18",
-          "end_ref": "40018018",
-          "end_ref_usfm": "MAT 18:18"
+          "start_ref": "01025003",
+          "start_ref_usfm": "GEN 25:3",
+          "end_ref": "01025003",
+          "end_ref_usfm": "GEN 25:3"
         },
         {
-          "start_ref": "40023013",
-          "start_ref_usfm": "MAT 23:13",
-          "end_ref": "40023013",
-          "end_ref_usfm": "MAT 23:13"
+          "start_ref": "01025006",
+          "start_ref_usfm": "GEN 25:6",
+          "end_ref": "01025006",
+          "end_ref_usfm": "GEN 25:6"
         },
         {
-          "start_ref": "43020023",
-          "start_ref_usfm": "JHN 20:23",
-          "end_ref": "43020023",
-          "end_ref_usfm": "JHN 20:23"
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002016",
+          "end_ref_usfm": "EXO 2:16"
         },
         {
-          "start_ref": "66001018",
-          "start_ref_usfm": "REV 1:18",
-          "end_ref": "66001018",
-          "end_ref_usfm": "REV 1:18"
+          "start_ref": "11010002",
+          "start_ref_usfm": "1KI 10:2",
+          "end_ref": "11010002",
+          "end_ref_usfm": "1KI 10:2"
         },
         {
-          "start_ref": "66003007",
-          "start_ref_usfm": "REV 3:7",
-          "end_ref": "66003007",
-          "end_ref_usfm": "REV 3:7"
+          "start_ref": "13001032",
+          "start_ref_usfm": "1CH 1:32",
+          "end_ref": "13001032",
+          "end_ref_usfm": "1CH 1:32"
+        },
+        {
+          "start_ref": "23060006",
+          "start_ref_usfm": "ISA 60:6",
+          "end_ref": "23060006",
+          "end_ref_usfm": "ISA 60:6"
+        },
+        {
+          "start_ref": "01037001",
+          "start_ref_usfm": "GEN 37:1",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
         }
       ],
       "resource": [
         {
-          "reference_id": 5756,
-          "content_id": 6588,
+          "reference_id": 2488,
+          "content_id": 3320,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Kingdom of God, Kingdom of Heaven",
+          "label": "Abraham",
           "language": "eng"
         }
       ]

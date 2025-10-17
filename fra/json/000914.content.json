@@ -1,78 +1,22 @@
 [
   {
-    "content_id": 806134,
-    "reference_id": 7502,
-    "title": "Schélach, Schéla",
+    "content_id": 785233,
+    "reference_id": 6739,
+    "title": "Paphos",
     "media_type": "Text",
-    "index_reference": "schélach, schéla",
+    "index_reference": "paphos",
     "language": "fra",
-    "content": "<h1>SCHÉLACH, SCHÉLA</h1><ol><li><p>Fils d&apos;Arphaxad et père d&apos;Héber (<a href=\"https://ref.ly/Gen10:24\">Gn 10.24</a> ; <a href=\"https://ref.ly/Gen11:12-Gen11:15\">11.12–15</a> ; <a href=\"https://ref.ly/1Chr1:18\">1Ch 1.18</a>). Schélah est mentionné dans la liste des ancêtres de Jésus par Luc comme le fils de Kaïnan, fils d&apos;Arphaxad (<a href=\"https://ref.ly/Luke3:35\">Lc 3.35</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4580\" data-resourceType=\"TyndaleBibleDictionary\">Généaologie de Jésus-Christ</span>.</p></li><li><p>Troisième fils de Juda par Bathshua, une Cananéenne. Schéla est né à Kezib, une petite ville en Juda (<a href=\"https://ref.ly/Gen38:5\">Gn 38.5</a> ; <a href=\"https://ref.ly/1Chr2:3\">1Ch 2.3</a>). Il a fondé la famille des <span>Schélanite</span>s (<a href=\"https://ref.ly/Num26:20\">Nb 26.20</a>). « <span>Schélanite</span> » devrait peut-être être lu au lieu de « <span>Schilonite</span> » dans <a href=\"https://ref.ly/Neh11:5\">Néhémie 11.5</a> ; <a href=\"https://ref.ly/1Chr9:5\">1 Chroniques 9.5</a>.</p></li></ol>",
+    "content": "<h1>PAPHOS</h1><p>Paphos était une ville située dans le sud-ouest de Chypre. Elle était, au départ, une colonie phénicienne appelée « Vieux Paphos ». Plus tard, une colonie grecque nommée « Nouveau Paphos » a été construite à environ 15 km de la ville d&apos;origine. Nouveau Paphos est devenu le principal centre administratif lorsque Chypre a été rajoutée à l&apos;Empire romain en l&apos;an 22 av. J.‑C.</p><p>La ville combinée était célèbre pour son temple. Les habitants ont d&apos;abord dédié le temple à la déesse syrienne Astarté. Selon l&apos;historien romain Tacite, les gens adoraient Astarté à travers d&apos;anciennes cérémonies phéniciennes. Ces cérémonies comprenaient l&apos;application d&apos;huile sur une pierre en forme de cône (possiblement une météorite). Les Grecs ont ensuite identifié Astarté avec leur déesse Aphrodite. Ils croyaient qu&apos;Aphrodite était sortie de la mer.</p><p>À Paphos, l&apos;apôtre Paul a rencontré pour la première fois une forte opposition à la Bonne Nouvelle concernant Jésus. Cette opposition est venue d&apos;un homme nommé Élymas. En réponse, Paul a accompli son premier miracle consigné dans la Bible. Paul a rendu Élymas aveugle, mais sa cécité n&apos;était que temporaire, montrant ainsi la miséricorde de Paul (<a href=\"https://ref.ly/Acts13:11\">Ac 13.11</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010024",
-          "start_ref_usfm": "GEN 10:24",
-          "end_ref": "01010024",
-          "end_ref_usfm": "GEN 10:24"
-        },
-        {
-          "start_ref": "01038005",
-          "start_ref_usfm": "GEN 38:5",
-          "end_ref": "01038005",
-          "end_ref_usfm": "GEN 38:5"
-        },
-        {
-          "start_ref": "04026020",
-          "start_ref_usfm": "NUM 26:20",
-          "end_ref": "04026020",
-          "end_ref_usfm": "NUM 26:20"
-        },
-        {
-          "start_ref": "13001018",
-          "start_ref_usfm": "1CH 1:18",
-          "end_ref": "13001018",
-          "end_ref_usfm": "1CH 1:18"
-        },
-        {
-          "start_ref": "13002003",
-          "start_ref_usfm": "1CH 2:3",
-          "end_ref": "13002003",
-          "end_ref_usfm": "1CH 2:3"
-        },
-        {
-          "start_ref": "13009005",
-          "start_ref_usfm": "1CH 9:5",
-          "end_ref": "13009005",
-          "end_ref_usfm": "1CH 9:5"
-        },
-        {
-          "start_ref": "16011005",
-          "start_ref_usfm": "NEH 11:5",
-          "end_ref": "16011005",
-          "end_ref_usfm": "NEH 11:5"
-        },
-        {
-          "start_ref": "42003035",
-          "start_ref_usfm": "LUK 3:35",
-          "end_ref": "42003035",
-          "end_ref_usfm": "LUK 3:35"
-        },
-        {
-          "start_ref": "01011012",
-          "start_ref_usfm": "GEN 11:12",
-          "end_ref": "01011015",
-          "end_ref_usfm": "GEN 11:15"
+          "start_ref": "44013011",
+          "start_ref_usfm": "ACT 13:11",
+          "end_ref": "44013011",
+          "end_ref_usfm": "ACT 13:11"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4580,
-          "content_id": 806021,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Généalogie de Jésus-Christ",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

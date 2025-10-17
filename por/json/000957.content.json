@@ -1,108 +1,94 @@
 [
   {
-    "content_id": 717038,
-    "reference_id": 4472,
-    "title": "Incenso",
+    "content_id": 717071,
+    "reference_id": 4962,
+    "title": "Homã",
     "media_type": "Text",
-    "index_reference": "incenso",
+    "index_reference": "homã",
     "language": "por",
-    "content": "<h1>Incenso</h1><p>Uma resina gomosa e fragrante (um líquido espesso de plantas). Pode ser moída em pó e queimada para liberar um aroma semelhante ao bálsamo. É frequentemente mencionada junto com a mirra na Bíblia (<a href=\"https://ref.ly/Song3:6\">Ct Sl 3.6</a>; <a href=\"https://ref.ly/Song4:6\">4.6</a>; <a href=\"https://ref.ly/Matt2:11\">Mt 2.11</a>). O incenso vem de árvores balsâmicas do gênero Boswellia. É das espécies <em>B. carterii</em>, <em>B. papyrifera</em> e <em>B. thurifera</em>. Essas árvores, que são relacionadas às árvores de terebintina, têm flores em forma de estrela que são brancas ou verdes com pontas rosadas. Para coletar a resina, é feito um corte profundo no tronco da árvore, o que libera uma goma de cor âmbar. Essas árvores eram nativas apenas de Sabá (Seba) na Arábia (<a href=\"https://ref.ly/Isa60:6\">Is 60.6</a>; <a href=\"https://ref.ly/Jer6:20\">Jr 6.20</a>) e da Somalilândia. Portanto, o incenso era caro. Era transportado para a Palestina por caravanas. A chamada árvore de incenso na Palestina (<a href=\"https://ref.ly/Sir50:8\">Ec 50.8</a>) era provavelmente <em>Commiphora opobalsamum.</em> Sua resina era usada para produzir perfume.</p><p>O incenso era usado sozinho ou misturado com outras substâncias para incenso. Era um dos ingredientes no incenso sagrado usado para adoração no tabernáculo (<a href=\"https://ref.ly/Exod30:34\">Êx 30.34</a>). Era colocado sobre o pão da Presença (<a href=\"https://ref.ly/Lev24:7\">Lv 24.7</a>) e misturado com óleo nas ofertas de cereais (<a href=\"https://ref.ly/Lev2:1-Lev2:2,Lev2:14-Lev2:16\">Lv 2.1</a><a href=\"https://ref.ly/Lev2:1-Lev2:2\">–</a><a href=\"https://ref.ly/Lev2:1-Lev2:2,Lev2:14-Lev2:16\">2,14</a><a href=\"https://ref.ly/Lev2:1-Lev2:2\">–</a><a href=\"https://ref.ly/Lev2:1-Lev2:2,Lev2:14-Lev2:16\">16</a>; <a href=\"https://ref.ly/Lev6:15\">6.15</a>), embora não fosse incluído nas ofertas pelo pecado (<a href=\"https://ref.ly/Lev5:11\">5.11</a>). O templo em Jerusalém mantinha um suprimento de incenso (<a href=\"https://ref.ly/Neh13:5,Neh13:9\">Ne 13.5,9</a>). O incenso foi posteriormente usado em cosméticos e perfumes (<a href=\"https://ref.ly/Song3:6\">Ct Sl 3.6</a>). Devido ao seu alto valor e seu uso na adoração, dar incenso como presente ao menino Jesus era considerado altamente apropriado (<a href=\"https://ref.ly/Matt2:11\">Mt 2.11</a>).</p><p><em>Veja também </em><span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plantas</span>.</p>",
+    "content": "<h1>Homã</h1><p>1. O filho de Lotã, irmão de Hori e descendente de Seir, o horita (<a href=\"https://ref.ly/Gen36:22\">Gn 36.22</a>).</p><p>2. Filho de Maol, descendente de Zerá da tribo de Judá e um dos sábios cuja sabedoria foi superada pelo rei Salomão (<a href=\"https://ref.ly/1Kgs4:31\">1Rs 4.31</a>; <a href=\"https://ref.ly/1Chr2:6\">1Cr 2.6</a>). Ele é possivelmente o ezraíta e autor do <a href=\"https://ref.ly/Ps88:1-Ps88:18\">Salmo 88</a>.</p><p>3. Levita coatita, filho de Joel e um dos designados, junto com Asafe e Etã (também chamado Jedutum), por Davi para liderar os músicos no santuário (<a href=\"https://ref.ly/1Kgs4:31\">1Rs 4.31</a>; <a href=\"https://ref.ly/1Chr15:17\">15.17</a>; <a href=\"https://ref.ly/1Chr16:41\">16.41</a>). Durante o transporte da arca da casa de Obede-Edom para Jerusalém, ele foi responsável por tocar os címbalos de bronze (<a href=\"https://ref.ly/1Chr15:19\">1Cr 15.19</a>; <a href=\"https://ref.ly/2Chr5:12\">2Cr 5.12</a>). Hemã foi pai de 14 filhos e 3 filhas, todos os quais serviram como músicos na casa do Senhor (<a href=\"https://ref.ly/1Chr25:1-1Chr25:6\">1Cr 25.1–6</a>). Mais tarde, seus descendentes participaram da purificação do templo durante o reinado do rei Ezequias (715–686 a.C.; <a href=\"https://ref.ly/2Chr29:14\">2Cr 29.14</a>) e ajudaram na celebração da Páscoa iniciada pelo rei Josias (640–609 a.C.; <a href=\"https://ref.ly/2Chr35:15\">2Cr 35.15</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02030034",
-          "start_ref_usfm": "EXO 30:34",
-          "end_ref": "02030034",
-          "end_ref_usfm": "EXO 30:34"
+          "start_ref": "01036022",
+          "start_ref_usfm": "GEN 36:22",
+          "end_ref": "01036022",
+          "end_ref_usfm": "GEN 36:22"
         },
         {
-          "start_ref": "03005011",
-          "start_ref_usfm": "LEV 5:11",
-          "end_ref": "03005011",
-          "end_ref_usfm": "LEV 5:11"
+          "start_ref": "11004031",
+          "start_ref_usfm": "1KI 4:31",
+          "end_ref": "11004031",
+          "end_ref_usfm": "1KI 4:31"
         },
         {
-          "start_ref": "03006015",
-          "start_ref_usfm": "LEV 6:15",
-          "end_ref": "03006015",
-          "end_ref_usfm": "LEV 6:15"
+          "start_ref": "13001039",
+          "start_ref_usfm": "1CH 1:39",
+          "end_ref": "13001039",
+          "end_ref_usfm": "1CH 1:39"
         },
         {
-          "start_ref": "03024007",
-          "start_ref_usfm": "LEV 24:7",
-          "end_ref": "03024007",
-          "end_ref_usfm": "LEV 24:7"
+          "start_ref": "13002006",
+          "start_ref_usfm": "1CH 2:6",
+          "end_ref": "13002006",
+          "end_ref_usfm": "1CH 2:6"
         },
         {
-          "start_ref": "16013005",
-          "start_ref_usfm": "NEH 13:5",
-          "end_ref": "16013005",
-          "end_ref_usfm": "NEH 13:5"
+          "start_ref": "13006033",
+          "start_ref_usfm": "1CH 6:33",
+          "end_ref": "13006033",
+          "end_ref_usfm": "1CH 6:33"
         },
         {
-          "start_ref": "16013009",
-          "start_ref_usfm": "NEH 13:9",
-          "end_ref": "16013009",
-          "end_ref_usfm": "NEH 13:9"
+          "start_ref": "13015017",
+          "start_ref_usfm": "1CH 15:17",
+          "end_ref": "13015017",
+          "end_ref_usfm": "1CH 15:17"
         },
         {
-          "start_ref": "22003006",
-          "start_ref_usfm": "SNG 3:6",
-          "end_ref": "22003006",
-          "end_ref_usfm": "SNG 3:6"
+          "start_ref": "13015019",
+          "start_ref_usfm": "1CH 15:19",
+          "end_ref": "13015019",
+          "end_ref_usfm": "1CH 15:19"
         },
         {
-          "start_ref": "22004006",
-          "start_ref_usfm": "SNG 4:6",
-          "end_ref": "22004006",
-          "end_ref_usfm": "SNG 4:6"
+          "start_ref": "13016041",
+          "start_ref_usfm": "1CH 16:41",
+          "end_ref": "13016041",
+          "end_ref_usfm": "1CH 16:41"
         },
         {
-          "start_ref": "23060006",
-          "start_ref_usfm": "ISA 60:6",
-          "end_ref": "23060006",
-          "end_ref_usfm": "ISA 60:6"
+          "start_ref": "14005012",
+          "start_ref_usfm": "2CH 5:12",
+          "end_ref": "14005012",
+          "end_ref_usfm": "2CH 5:12"
         },
         {
-          "start_ref": "24006020",
-          "start_ref_usfm": "JER 6:20",
-          "end_ref": "24006020",
-          "end_ref_usfm": "JER 6:20"
+          "start_ref": "14029014",
+          "start_ref_usfm": "2CH 29:14",
+          "end_ref": "14029014",
+          "end_ref_usfm": "2CH 29:14"
         },
         {
-          "start_ref": "40002011",
-          "start_ref_usfm": "MAT 2:11",
-          "end_ref": "40002011",
-          "end_ref_usfm": "MAT 2:11"
+          "start_ref": "14035015",
+          "start_ref_usfm": "2CH 35:15",
+          "end_ref": "14035015",
+          "end_ref_usfm": "2CH 35:15"
         },
         {
-          "start_ref": "72050008",
-          "start_ref_usfm": "SIR 50:8",
-          "end_ref": "72050008",
-          "end_ref_usfm": "SIR 50:8"
+          "start_ref": "19088001",
+          "start_ref_usfm": "PSA 88:1",
+          "end_ref": "19088018",
+          "end_ref_usfm": "PSA 88:18"
         },
         {
-          "start_ref": "03002001",
-          "start_ref_usfm": "LEV 2:1",
-          "end_ref": "03002002",
-          "end_ref_usfm": "LEV 2:2"
-        },
-        {
-          "start_ref": "03002014",
-          "start_ref_usfm": "LEV 2:14",
-          "end_ref": "03002016",
-          "end_ref_usfm": "LEV 2:16"
+          "start_ref": "13025001",
+          "start_ref_usfm": "1CH 25:1",
+          "end_ref": "13025006",
+          "end_ref_usfm": "1CH 25:6"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6929,
-          "content_id": 125318,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Plantas",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,87 +1,81 @@
 [
   {
-    "content_id": 658707,
-    "reference_id": 6800,
-    "title": "Pelegue",
+    "content_id": 682867,
+    "reference_id": 3141,
+    "title": "Padeiro",
     "media_type": "Text",
-    "index_reference": "pelegue",
+    "index_reference": "padeiro",
     "language": "por",
-    "content": "<h1>PELEGUE</h1><p>O filho de Éber e pai de Reú (<a href=\"https://ref.ly/Gen10:25\">Gn 10.25</a>; <a href=\"https://ref.ly/Gen11:16-Gen11:19\">11.16–19</a>; <a href=\"https://ref.ly/1Chr1:19,1Chr1:25\">1&nbsp;Cr 1.19,25</a>; <a href=\"https://ref.ly/Luke3:35\">Lc 3.35</a>). Durante sua vida, a terra foi dividida (<em>Pelegue</em> significa “divisão” ou “curso de água”). Não está claro a que essa divisão se refere. Sugestões incluem:</p><ol><li><p>A dispersão das línguas após a Torre de Babel (<a href=\"https://ref.ly/Gen11:1-Gen11:9\">Gn 11.1–9</a>)</p></li><li><p>A disseminação dos descendentes de Noé</p></li><li><p>A separação do povo de Arfaxade dos árabes joctanitas (<a href=\"https://ref.ly/Gen10:24-Gen10:29\">Gn 10.24–29</a>)</p></li><li><p>A divisão da terra por canais (o termo é usado desta forma em <a href=\"https://ref.ly/Job29:6\">Jó 29.6</a>; <a href=\"https://ref.ly/Job38:25\">38.25</a>; <a href=\"https://ref.ly/Isa30:25\">Is 30.25</a>; <a href=\"https://ref.ly/Isa32:2\">32.2</a>)</p></li></ol><p>A origem do nome é geralmente atribuída à cidade de Phalga, ao norte da junção dos rios Eufrates e Cabur.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4580\" data-resourceType=\"TyndaleBibleDictionary\">Ancestralidade de Jesus Cristo</span>.</p>",
+    "content": "<h1> PADEIRO</h1><p>Aquele que prepara comida. Nos tempos bíblicos, o padeiro trabalhava:</p><ul><li><p>em casa (<a href=\"https://ref.ly/Gen19:3\">Gn 19.3</a>),</p></li><li><p>na padaria pública (<a href=\"https://ref.ly/Jer37:21\">Jr 37.21</a>), e</p></li><li><p>nos palácios de reis e nobres (<a href=\"https://ref.ly/Gen40:1-Gen40:22\">Gn 40.1–22</a>; <a href=\"https://ref.ly/Gen41:10,Gen41:13\">41.10,13</a>; <a href=\"https://ref.ly/1Sam8:13\">1Sm 8.13</a>)</p></li></ul><p>Eles faziam pão e bolos a partir dos alimentos básicos de óleo e farinha. Os israelitas, ao fugirem do Egito, assaram pão sem fermento para sua jornada (<a href=\"https://ref.ly/Exod12:39\">Êx 12.39</a>). O pão e os bolos eram assados em uma panela ou forno (<a href=\"https://ref.ly/Lev2:4\">Lv 2.4</a>; <a href=\"https://ref.ly/Lev26:26\">26.26</a>). À medida que a sociedade israelita se desenvolveu, padeiros profissionais trabalhavam e formavam guildas. Alguns argumentaram que Oseias era padeiro por causa de seu conhecimento das técnicas de panificação (<a href=\"https://ref.ly/Hos7:4-Hos7:8\">Os 7.4–8</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4454\" data-resourceType=\"TyndaleBibleDictionary\">Alimentos e preparação de alimentos</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010025",
-          "start_ref_usfm": "GEN 10:25",
-          "end_ref": "01010025",
-          "end_ref_usfm": "GEN 10:25"
+          "start_ref": "01019003",
+          "start_ref_usfm": "GEN 19:3",
+          "end_ref": "01019003",
+          "end_ref_usfm": "GEN 19:3"
         },
         {
-          "start_ref": "13001019",
-          "start_ref_usfm": "1CH 1:19",
-          "end_ref": "13001019",
-          "end_ref_usfm": "1CH 1:19"
+          "start_ref": "01041010",
+          "start_ref_usfm": "GEN 41:10",
+          "end_ref": "01041010",
+          "end_ref_usfm": "GEN 41:10"
         },
         {
-          "start_ref": "13001025",
-          "start_ref_usfm": "1CH 1:25",
-          "end_ref": "13001025",
-          "end_ref_usfm": "1CH 1:25"
+          "start_ref": "01041013",
+          "start_ref_usfm": "GEN 41:13",
+          "end_ref": "01041013",
+          "end_ref_usfm": "GEN 41:13"
         },
         {
-          "start_ref": "18029006",
-          "start_ref_usfm": "JOB 29:6",
-          "end_ref": "18029006",
-          "end_ref_usfm": "JOB 29:6"
+          "start_ref": "02012039",
+          "start_ref_usfm": "EXO 12:39",
+          "end_ref": "02012039",
+          "end_ref_usfm": "EXO 12:39"
         },
         {
-          "start_ref": "18038025",
-          "start_ref_usfm": "JOB 38:25",
-          "end_ref": "18038025",
-          "end_ref_usfm": "JOB 38:25"
+          "start_ref": "03002004",
+          "start_ref_usfm": "LEV 2:4",
+          "end_ref": "03002004",
+          "end_ref_usfm": "LEV 2:4"
         },
         {
-          "start_ref": "23030025",
-          "start_ref_usfm": "ISA 30:25",
-          "end_ref": "23030025",
-          "end_ref_usfm": "ISA 30:25"
+          "start_ref": "03026026",
+          "start_ref_usfm": "LEV 26:26",
+          "end_ref": "03026026",
+          "end_ref_usfm": "LEV 26:26"
         },
         {
-          "start_ref": "23032002",
-          "start_ref_usfm": "ISA 32:2",
-          "end_ref": "23032002",
-          "end_ref_usfm": "ISA 32:2"
+          "start_ref": "09008013",
+          "start_ref_usfm": "1SA 8:13",
+          "end_ref": "09008013",
+          "end_ref_usfm": "1SA 8:13"
         },
         {
-          "start_ref": "42003035",
-          "start_ref_usfm": "LUK 3:35",
-          "end_ref": "42003035",
-          "end_ref_usfm": "LUK 3:35"
+          "start_ref": "24037021",
+          "start_ref_usfm": "JER 37:21",
+          "end_ref": "24037021",
+          "end_ref_usfm": "JER 37:21"
         },
         {
-          "start_ref": "01011001",
-          "start_ref_usfm": "GEN 11:1",
-          "end_ref": "01011009",
-          "end_ref_usfm": "GEN 11:9"
+          "start_ref": "01040001",
+          "start_ref_usfm": "GEN 40:1",
+          "end_ref": "01040022",
+          "end_ref_usfm": "GEN 40:22"
         },
         {
-          "start_ref": "01011016",
-          "start_ref_usfm": "GEN 11:16",
-          "end_ref": "01011019",
-          "end_ref_usfm": "GEN 11:19"
-        },
-        {
-          "start_ref": "01010024",
-          "start_ref_usfm": "GEN 10:24",
-          "end_ref": "01010029",
-          "end_ref_usfm": "GEN 10:29"
+          "start_ref": "28007004",
+          "start_ref_usfm": "HOS 7:4",
+          "end_ref": "28007008",
+          "end_ref_usfm": "HOS 7:8"
         }
       ],
       "resource": [
         {
-          "reference_id": 4580,
-          "content_id": 682940,
+          "reference_id": 4454,
+          "content_id": 125261,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Genealogia de Jesus Cristo",
+          "label": "Comida E Preparação De Alimentos",
           "language": "por"
         }
       ]

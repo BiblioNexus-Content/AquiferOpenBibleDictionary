@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 6666,
-    "reference_id": 5834,
-    "title": "Laish (Person)",
+    "content_id": 6664,
+    "reference_id": 5832,
+    "title": "Lahmi",
     "media_type": "Text",
-    "index_reference": "laish (person)",
+    "index_reference": "lahmi",
     "language": "eng",
-    "content": "<h1>LAISH (Person)</h1><p>The father of Paltiel (also called Palti). King Saul gave his daughter Michal to Paltiel as a wife. Michal was previously married to David before Saul took her away and gave her to Paltiel (<a href=\"https://ref.ly/1Sam25:44\">1&nbsp;Samuel 25:44</a>; <a href=\"https://ref.ly/2Sam3:15-2Sam3:16\">2&nbsp;Samuel 3:15–16</a>).</p>",
+    "content": "<h1>LAHMI</h1><p>A brother of Goliath the Gittite. According to <a href=\"https://ref.ly/1Chr20:5\">1&nbsp;Chronicles 20:5</a>, Elhanan killed Lahmi. But <a href=\"https://ref.ly/2Sam21:19\">2&nbsp;Samuel 21:19</a> says that Elhanan killed Goliath rather than his brother Lahmi. Most interpreters accept the 1&nbsp;Chronicles passage as the correct reading. They consider the 2&nbsp;Samuel text to be a textual corruption.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09025044",
-          "start_ref_usfm": "1SA 25:44",
-          "end_ref": "09025044",
-          "end_ref_usfm": "1SA 25:44"
+          "start_ref": "10021019",
+          "start_ref_usfm": "2SA 21:19",
+          "end_ref": "10021019",
+          "end_ref_usfm": "2SA 21:19"
         },
         {
-          "start_ref": "10003015",
-          "start_ref_usfm": "2SA 3:15",
-          "end_ref": "10003016",
-          "end_ref_usfm": "2SA 3:16"
+          "start_ref": "13020005",
+          "start_ref_usfm": "1CH 20:5",
+          "end_ref": "13020005",
+          "end_ref_usfm": "1CH 20:5"
         }
       ],
       "resource": []

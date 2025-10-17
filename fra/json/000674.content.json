@@ -1,55 +1,43 @@
 [
   {
-    "content_id": 806086,
-    "reference_id": 6301,
-    "title": "Milca",
+    "content_id": 788727,
+    "reference_id": 5667,
+    "title": "Julius",
     "media_type": "Text",
-    "index_reference": "milca",
+    "index_reference": "julius",
     "language": "fra",
-    "content": "<h1>MILCA</h1><p>1. Fille de Haran et demi-sœur de Nachor, elle deviendra l&apos;épouse de Nachor (<a href=\"https://ref.ly/Gen11:29\">Gn 11.29</a>). Elle donnera à Nachor huit fils (<a href=\"https://ref.ly/Gen22:20-Gen22:23\">Gn 22.20–23</a>). Elle était la grand-mère de Rebecca par son fils Bethuel (<a href=\"https://ref.ly/Gen24:15-Gen24:47\">Gn 24.15–47</a>).</p><p>2. L&apos;une des cinq filles de Tselophchad. Comme Tselophchad n&apos;avait pas de fils, ses filles ont demandé à Moïse de leur permettre de recevoir l&apos;héritage de leur père à l&apos;ouest de Manassé après la mort de celui-ci (<a href=\"https://ref.ly/Num26:33\">Nb 26.33</a> ; <a href=\"https://ref.ly/Num27:1-Num27:11\">27.1–11</a> ; <a href=\"https://ref.ly/Num36:5-Num36:13\">36.5–13</a> ; <a href=\"https://ref.ly/Josh17:3-Josh17:4\">Jos 17.3–4</a>).</p>",
+    "content": "<h1>JULIUS</h1><p>Centurion romain de la cohorte augustéenne qui escortera l&apos;apôtre Paul et d&apos;autres prisonniers de la Palestine à Rome (<a href=\"https://ref.ly/Acts27:1\">Ac 27.1</a>). Les dirigeants juifs de Jérusalem avaient accusé Paul d&apos;enseigner une fausse doctrine et de profaner le temple. En raison de l&apos;indécision de deux gouverneurs romains successifs, Paul était resté en prison pendant plus de deux ans et finira par faire appel à César. Julius était un homme bienveillant. Il permettra à Paul de quitter le navire à Sidon pour être réconforté par ses amis (v. <a href=\"https://ref.ly/Acts27:3\">3</a>). Cependant, dans son empressement pour amener ses prisonniers à Rome, Julius ignorera le conseil de Paul de passer l&apos;hiver à Beaux Ports. Au lieu de cela, il ordonnera au navire de naviguer vers Phénix, un autre port en Crète, plus adapté pour l&apos;hivernage (v. <a href=\"https://ref.ly/Acts27:9-Acts27:12\">9–12</a>). Pendant le voyage, une tempête détruit le navire. Les soldats à bord voulaient tuer les prisonniers de peur qu&apos;ils ne s&apos;échappent, mais Julius empêchera ce massacre, ordonnant à tous de quitter le navire et de nager jusqu&apos;à la rive. Cette décision sauvera la vie de Paul (v. <a href=\"https://ref.ly/Acts27:42-Acts27:44\">42–44</a>). Certains experts ont supposé que Julius était le soldat qui est resté avec Paul à Rome (<a href=\"https://ref.ly/Acts28:16\">Ac 28.16</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01011029",
-          "start_ref_usfm": "GEN 11:29",
-          "end_ref": "01011029",
-          "end_ref_usfm": "GEN 11:29"
+          "start_ref": "44027001",
+          "start_ref_usfm": "ACT 27:1",
+          "end_ref": "44027001",
+          "end_ref_usfm": "ACT 27:1"
         },
         {
-          "start_ref": "04026033",
-          "start_ref_usfm": "NUM 26:33",
-          "end_ref": "04026033",
-          "end_ref_usfm": "NUM 26:33"
+          "start_ref": "44027003",
+          "start_ref_usfm": "ACT 27:3",
+          "end_ref": "44027003",
+          "end_ref_usfm": "ACT 27:3"
         },
         {
-          "start_ref": "04027001",
-          "start_ref_usfm": "NUM 27:1",
-          "end_ref": "04027011",
-          "end_ref_usfm": "NUM 27:11"
+          "start_ref": "44028016",
+          "start_ref_usfm": "ACT 28:16",
+          "end_ref": "44028016",
+          "end_ref_usfm": "ACT 28:16"
         },
         {
-          "start_ref": "01022020",
-          "start_ref_usfm": "GEN 22:20",
-          "end_ref": "01022023",
-          "end_ref_usfm": "GEN 22:23"
+          "start_ref": "44027009",
+          "start_ref_usfm": "ACT 27:9",
+          "end_ref": "44027012",
+          "end_ref_usfm": "ACT 27:12"
         },
         {
-          "start_ref": "01024015",
-          "start_ref_usfm": "GEN 24:15",
-          "end_ref": "01024047",
-          "end_ref_usfm": "GEN 24:47"
-        },
-        {
-          "start_ref": "04036005",
-          "start_ref_usfm": "NUM 36:5",
-          "end_ref": "04036013",
-          "end_ref_usfm": "NUM 36:13"
-        },
-        {
-          "start_ref": "06017003",
-          "start_ref_usfm": "JOS 17:3",
-          "end_ref": "06017004",
-          "end_ref_usfm": "JOS 17:4"
+          "start_ref": "44027042",
+          "start_ref_usfm": "ACT 27:42",
+          "end_ref": "44027044",
+          "end_ref_usfm": "ACT 27:44"
         }
       ],
       "resource": []

@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 7218,
-    "reference_id": 6386,
-    "title": "Mote",
+    "content_id": 7217,
+    "reference_id": 6385,
+    "title": "Most Holy Place",
     "media_type": "Text",
-    "index_reference": "mote",
+    "index_reference": "most holy place",
     "language": "eng",
-    "content": "<h1>MOTE</h1><p>A term used in the King James Version to describe a small piece of material stuck in the eye of a “brother” (<a href=\"https://ref.ly/Matt7:3-Matt7:5\">Matthew 7:3</a><a href=\"https://ref.ly/Matt7:3-Matt7:5\">–</a><a href=\"https://ref.ly/Matt7:3-Matt7:5\">5</a>; <a href=\"https://ref.ly/Luke6:41-Luke6:42\">Luke 6:41</a><a href=\"https://ref.ly/Luke6:41-Luke6:42\">–</a><a href=\"https://ref.ly/Luke6:41-Luke6:42\">42</a>). More recent translations use the term “speck.”</p>",
+    "content": "<h1>MOST HOLY PLACE</h1><p>The inner room of the tabernacle and temple where they kept the ark of the covenant. The ark was a gold-covered wooden box that held important holy items, including the stone tablets with the Ten Commandments (<a href=\"https://ref.ly/Exod25:10-Exod25:22\">Exodus 25:10–22</a>). </p><p>This room was the most holy space in Israelite worship. Only the high priest could enter it, and only once each year on the Day of Atonement (<a href=\"https://ref.ly/Lev16:1-Lev16:34\">Leviticus 16</a>). Before entering, the high priest had to perform special cleansing rituals.</p><p>In the temple, the most holy place was separated from the rest of the building by a thick curtain. This curtain tore from top to bottom when Jesus died (<a href=\"https://ref.ly/Matt27:51\">Matthew 27:51</a>).</p><p>The room was also called the &quot;holy of holies,&quot; which means &quot;the holiest place.&quot; </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7864\" data-resourceType=\"TyndaleBibleDictionary\">Tabernacle</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7950\" data-resourceType=\"TyndaleBibleDictionary\">Temple</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "40007003",
-          "start_ref_usfm": "MAT 7:3",
-          "end_ref": "40007005",
-          "end_ref_usfm": "MAT 7:5"
+          "reference_id": 7864,
+          "content_id": 8696,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Tabernacle",
+          "language": "eng"
         },
         {
-          "start_ref": "42006041",
-          "start_ref_usfm": "LUK 6:41",
-          "end_ref": "42006042",
-          "end_ref_usfm": "LUK 6:42"
+          "reference_id": 7950,
+          "content_id": 8782,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Temple",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

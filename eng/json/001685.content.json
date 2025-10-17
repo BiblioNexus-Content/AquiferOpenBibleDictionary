@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 4938,
-    "reference_id": 4106,
-    "title": "Edar",
+    "content_id": 4937,
+    "reference_id": 4105,
+    "title": "Eclipse",
     "media_type": "Text",
-    "index_reference": "edar",
+    "index_reference": "eclipse",
     "language": "eng",
-    "content": "<h1>EDAR*</h1><p>KJV spelling of Eder in <a href=\"https://ref.ly/Gen35:21\">Genesis 35:21</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4109\" data-resourceType=\"TyndaleBibleDictionary\">Eder (Place) #1</span>.</p>",
+    "content": "<h1>ECLIPSE*</h1><p>Total or partial obscuration of the sun as a result of the passing of the moon between the sun and the earth; thus, a possible explanation for certain unusual astronomical events in the Bible. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3014\" data-resourceType=\"TyndaleBibleDictionary\">Astronomy</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "01035021",
-          "start_ref_usfm": "GEN 35:21",
-          "end_ref": "01035021",
-          "end_ref_usfm": "GEN 35:21"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 4109,
-          "content_id": 4941,
+          "reference_id": 3014,
+          "content_id": 3846,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Eder (Place)",
+          "label": "Astronomy",
           "language": "eng"
         }
       ]

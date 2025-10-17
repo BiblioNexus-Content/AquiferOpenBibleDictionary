@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7283,
-    "reference_id": 6451,
-    "title": "Nahalol",
+    "content_id": 7282,
+    "reference_id": 6450,
+    "title": "Nahallal",
     "media_type": "Text",
-    "index_reference": "nahalol",
+    "index_reference": "nahallal",
     "language": "eng",
-    "content": "<h1>NAHALOL</h1><p>A city of Zebulun, in <a href=\"https://ref.ly/Judg1:30\">Judges 1:30</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6448\" data-resourceType=\"TyndaleBibleDictionary\">Nahalal</span>.</p>",
+    "content": "<h1>NAHALLAL*</h1><p>KJV spelling of Nahalal, a city of Zebulun, in <a href=\"https://ref.ly/Josh19:15\">Joshua 19:15</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6448\" data-resourceType=\"TyndaleBibleDictionary\">Nahalal</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "07001030",
-          "start_ref_usfm": "JDG 1:30",
-          "end_ref": "07001030",
-          "end_ref_usfm": "JDG 1:30"
+          "start_ref": "06019015",
+          "start_ref_usfm": "JOS 19:15",
+          "end_ref": "06019015",
+          "end_ref_usfm": "JOS 19:15"
         }
       ],
       "resource": [

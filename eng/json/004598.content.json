@@ -1,23 +1,22 @@
 [
   {
-    "content_id": 7861,
-    "reference_id": 7029,
-    "title": "Purgatory",
+    "content_id": 7860,
+    "reference_id": 7028,
+    "title": "Purah",
     "media_type": "Text",
-    "index_reference": "purgatory",
+    "index_reference": "purah",
     "language": "eng",
-    "content": "<h1>PURGATORY*</h1><p>According to the Roman Catholic Church, the place of temporal punishment and cleansing before entry into heaven. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5205\" data-resourceType=\"TyndaleBibleDictionary\">Intermediate State</span>.</p>",
+    "content": "<h1>PURAH</h1><p>Gideon’s servant, who accompanied his master on a secret night visit to the Midianite camp, where they were encouraged by the Lord (<a href=\"https://ref.ly/Judg7:10-Judg7:11\">Jgs 7:10–11</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 5205,
-          "content_id": 6037,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Intermediate State",
-          "language": "eng"
+          "start_ref": "07007010",
+          "start_ref_usfm": "JDG 7:10",
+          "end_ref": "07007011",
+          "end_ref_usfm": "JDG 7:11"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

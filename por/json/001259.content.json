@@ -1,58 +1,36 @@
 [
   {
-    "content_id": 717174,
-    "reference_id": 6268,
-    "title": "Mezuzá",
+    "content_id": 717163,
+    "reference_id": 6103,
+    "title": "Mara",
     "media_type": "Text",
-    "index_reference": "mezuzá",
+    "index_reference": "mara",
     "language": "por",
-    "content": "<h1>MEZUZÁ</h1><p>Uma palavra hebraica que significa a estrutura vertical de uma porta ou portão. A Bíblia menciona essa palavra cerca de 20 vezes no Antigo Testamento. Durante a primeira Páscoa, os israelitas colocaram o sangue do cordeiro na <em>mezuzah</em> de suas casas (<a href=\"https://ref.ly/Exod12:7,Exod12:22-Exod12:23\">Êx 12.7,22–23</a>).</p><p>Em <a href=\"https://ref.ly/Deut6:9\">Deuteronômio 6.9</a> e <a href=\"https://ref.ly/Deut11:20\">11.20</a>, Deus instruiu o povo hebreu a escrever seus mandamentos nas portas de suas casas e nos portões da cidade. Os judeus ainda seguem essa prática hoje. Toda casa judaica possui um pequeno recipiente feito de metal ou madeira preso ao batente da porta, aproximadamente na altura do ombro. Este recipiente, conhecido como <em>mezuzá</em>, contém um pequeno pedaço de pergaminho. Em um lado do pergaminho estão escritas as palavras de <a href=\"https://ref.ly/Deut6:4-Deut6:9\">Deuteronômio 6.4–9</a> e <a href=\"https://ref.ly/Deut11:13-Deut11:21\">11.13–21.</a> No outro lado está escrita a palavra Shaddai, que é o nome hebraico para Deus Todo-poderoso.</p><p>Do lado de fora do recipiente da <em>mezuzá</em> está a letra hebraica <em>shin</em>, que é a primeira letra do nome Shaddai. Quando uma pessoa judia devota entra ou sai de casa, ela toca a <em>mezuzá</em> e depois beija os dedos. Ao mesmo tempo, ela repete as palavras do <a href=\"https://ref.ly/Ps121:8\">Salmo 121.8</a>: &quot;O Senhor guardará a sua saída e a sua entrada, desde agora e para sempre&quot;.</p>",
+    "content": "<h1>MARA</h1><p>Uma nascente (uma fonte natural de água que surge do solo) onde a água era amarga demais para beber. Mara foi o primeiro lugar onde os israelitas acamparam depois de atravessarem o mar Vermelho (<a href=\"https://ref.ly/Exod15:23\">Êx 15.23</a>; <a href=\"https://ref.ly/Num33:8-Num33:9\">Nm 33.8–9</a>). Hoje, muitos estudiosos acreditam que Mara ficava localizada em um lugar agora chamado &apos;Ain Hawarah. É um tanque de água amarga na planície costeira oriental do golfo de Suez. Fica cerca de 70,8 quilômetros a sudeste de Suez e oito quilômetros a noroeste de &apos;Ain Gharandel. Fica ao sul de Wadi Amarah, um leito de rio seco cujo nome pode vir do antigo nome Mara.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações no deserto</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02012007",
-          "start_ref_usfm": "EXO 12:7",
-          "end_ref": "02012007",
-          "end_ref_usfm": "EXO 12:7"
+          "start_ref": "02015023",
+          "start_ref_usfm": "EXO 15:23",
+          "end_ref": "02015023",
+          "end_ref_usfm": "EXO 15:23"
         },
         {
-          "start_ref": "05006009",
-          "start_ref_usfm": "DEU 6:9",
-          "end_ref": "05006009",
-          "end_ref_usfm": "DEU 6:9"
-        },
-        {
-          "start_ref": "05011020",
-          "start_ref_usfm": "DEU 11:20",
-          "end_ref": "05011020",
-          "end_ref_usfm": "DEU 11:20"
-        },
-        {
-          "start_ref": "19121008",
-          "start_ref_usfm": "PSA 121:8",
-          "end_ref": "19121008",
-          "end_ref_usfm": "PSA 121:8"
-        },
-        {
-          "start_ref": "05006004",
-          "start_ref_usfm": "DEU 6:4",
-          "end_ref": "05006009",
-          "end_ref_usfm": "DEU 6:9"
-        },
-        {
-          "start_ref": "05011013",
-          "start_ref_usfm": "DEU 11:13",
-          "end_ref": "05011021",
-          "end_ref_usfm": "DEU 11:21"
-        },
-        {
-          "start_ref": "02012022",
-          "start_ref_usfm": "EXO 12:22",
-          "end_ref": "02012023",
-          "end_ref_usfm": "EXO 12:23"
+          "start_ref": "04033008",
+          "start_ref_usfm": "NUM 33:8",
+          "end_ref": "04033009",
+          "end_ref_usfm": "NUM 33:9"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 8231,
+          "content_id": 717332,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Peregrinações no deserto",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

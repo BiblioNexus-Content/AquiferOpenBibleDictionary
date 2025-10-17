@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6539,
-    "reference_id": 5707,
-    "title": "Kelubai",
+    "content_id": 6540,
+    "reference_id": 5708,
+    "title": "Kelub",
     "media_type": "Text",
-    "index_reference": "kelubai",
+    "index_reference": "kelub",
     "language": "eng",
-    "content": "<h1>KELUBAI</h1><p>Another spelling of the name Chelubai, which is itself a variant of the name Caleb. This refers to the son of Hezron who appears in (<a href=\"https://ref.ly/1Chr2:9\">1&nbsp;Chronicles 2:9</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3666\" data-resourceType=\"TyndaleBibleDictionary\">Chelubai</span>.</p>",
+    "content": "<h1>KELUB</h1><p>Another spelling for the name Chelub.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3667\" data-resourceType=\"TyndaleBibleDictionary\">Chelub</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3666,
-          "content_id": 4498,
+          "reference_id": 3667,
+          "content_id": 4499,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Chelubai",
+          "label": "Chelub",
           "language": "eng"
         }
       ]

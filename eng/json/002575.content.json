@@ -1,36 +1,22 @@
 [
   {
-    "content_id": 5830,
-    "reference_id": 4998,
-    "title": "Heth",
+    "content_id": 5828,
+    "reference_id": 4996,
+    "title": "Heshmon",
     "media_type": "Text",
-    "index_reference": "heth",
+    "index_reference": "heshmon",
     "language": "eng",
-    "content": "<h1>HETH*</h1><p>Progenitor of the Hittite people and a descendant of Canaan, in Ham’s line (<a href=\"https://ref.ly/Gen10:15\">Gn 10:15</a>; <a href=\"https://ref.ly/1Chr1:13\">1&nbsp;Chr 1:13</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5029\" data-resourceType=\"TyndaleBibleDictionary\">Hittites</span>.</p>",
+    "content": "<h1>HESHMON</h1><p>Town mentioned only in <a href=\"https://ref.ly/Josh15:27\">Joshua 15:27</a>. It was located near Beth-pelet in southern Judah. The notion that the Hasmoneans originated there is unsubstantiated.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010015",
-          "start_ref_usfm": "GEN 10:15",
-          "end_ref": "01010015",
-          "end_ref_usfm": "GEN 10:15"
-        },
-        {
-          "start_ref": "13001013",
-          "start_ref_usfm": "1CH 1:13",
-          "end_ref": "13001013",
-          "end_ref_usfm": "1CH 1:13"
+          "start_ref": "06015027",
+          "start_ref_usfm": "JOS 15:27",
+          "end_ref": "06015027",
+          "end_ref_usfm": "JOS 15:27"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5029,
-          "content_id": 5861,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Hittites",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4829,
-    "reference_id": 3997,
-    "title": "Diamond",
+    "content_id": 4828,
+    "reference_id": 3996,
+    "title": "Diadem",
     "media_type": "Text",
-    "index_reference": "diamond",
+    "index_reference": "diadem",
     "language": "eng",
-    "content": "<h1>DIAMOND</h1><p>Precious gem, usually colorless, consisting of crystalized carbon. In the Bible “diamond” seems to indicate the hardness, rather than the actual identification, of the stone. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7796\" data-resourceType=\"TyndaleBibleDictionary\">Stones, Precious</span>.</p>",
+    "content": "<h1>DIADEM</h1><p>A diadem is a type of crown that kings and queens wore around their heads like a band or ribbon. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3867\" data-resourceType=\"TyndaleBibleDictionary\">Crown</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 7796,
-          "content_id": 8628,
+          "reference_id": 3867,
+          "content_id": 4699,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Stones, Precious",
+          "label": "Crown",
           "language": "eng"
         }
       ]

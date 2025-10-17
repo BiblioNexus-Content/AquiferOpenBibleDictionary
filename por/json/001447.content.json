@@ -1,74 +1,52 @@
 [
   {
-    "content_id": 683054,
-    "reference_id": 6748,
-    "title": "Parã",
+    "content_id": 759922,
+    "reference_id": 6632,
+    "title": "Ogue",
     "media_type": "Text",
-    "index_reference": "parã",
+    "index_reference": "ogue",
     "language": "por",
-    "content": "<h1>PARÃ</h1><p>Região desértica no nordeste da Península do Sinai, a oeste de Arabá (Vale do Rifte). O assentamento de Cades-Barneia é seu limite mais ao norte. Alguns estudiosos identificam o grande planalto Et-Tih, no centro do Sinai, como parte deste deserto.</p><p>O deserto de Parã é uma vasta e árida extensão de planaltos, montanhas, desfiladeiros e vales secos. A falta de água e vegetação tornava-o um lugar extremamente inóspito, em contraste marcante com a terra que mana leite e mel prometida a Israel.</p><p>Este deserto tornou-se o lar de Ismael (<a href=\"https://ref.ly/Gen21:20-Gen21:21\">Gn 21.20–21</a>). A nação de Israel acampou lá no caminho do Egito para Canaã (<a href=\"https://ref.ly/Num10:12\">Nm 10.12</a>; <a href=\"https://ref.ly/Num12:16\">12.16</a>). De Cades-Barneia, na borda norte do deserto, Moisés enviou espiões para reconhecer a Terra Prometida (<a href=\"https://ref.ly/Num13:3,Num13:26\">13.3,26</a>). Diz-se que Davi liderou seu grupo de homens para esta região após a morte de Samuel para se distanciar do Rei Saul (<a href=\"https://ref.ly/1Sam25:1\">1Sm 25.1</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6726\" data-resourceType=\"TyndaleBibleDictionary\">Palestina</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7681\" data-resourceType=\"TyndaleBibleDictionary\">Sina, Sinai</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Peregrinações no deserto</span>.</p>",
+    "content": "<h1>OGUE</h1><p>Rei de Basã. Este rei era famoso em parte porque era um gigante. “Pois apenas Ogue, rei de Basã, havia restado do remanescente dos refaíns. Sua cama de ferro, com nove côvados de comprimento e quatro côvados de largura, ainda está em Rabá dos amonitas” (<a href=\"https://ref.ly/Deut3:11\">Dt 3.11</a>). Isso significa que a cama tinha mais de 4,1 metros de comprimento e 1,8 metros de largura!</p><p>Moisés derrotou Ogue logo após a derrota do rei Seom, o amorita (<a href=\"https://ref.ly/Num21:33-Num21:35\">Nm 21.33–35</a>). Basã ficava ao longo da parte norte da Transjordânia (a região a leste do Rio Jordão). A terra de Ogue se estendia para o nordeste a partir do curso inferior do Rio Jarmuk (Yarmuk). Cadeias altas de montanhas a leste o protegiam dos ventos escaldantes do deserto.</p><p>Ogue e seu povo tinham vários assentamentos. Os assentamentos mais importantes eram Astarote e Edrei (<a href=\"https://ref.ly/Josh13:12\">Js 13.12</a>). Ogue havia fortificado sua terra com 60 cidades muradas. Ele provavelmente estava excessivamente confiante ao lutar contra o exército de Moisés. Moisés destruiu todos que viviam nessas cidades, poupando apenas o gado e os despojos de guerra (<a href=\"https://ref.ly/Deut3:5-Deut3:6\">Dt 3.5–6</a>).</p><p>Três tribos de Israel achararam a Transjordânia mais adequada para pastorear seus rebanhos. Assim, após a derrota de Seom e Ogue, Moisés designou essas terras capturadas para as tribos de Gade, Rúben e metade de Manassés (<a href=\"https://ref.ly/Num32:33\">Nm 32.33</a>; <a href=\"https://ref.ly/Josh12:4-Josh12:6\">Js 12.4–6</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04010012",
-          "start_ref_usfm": "NUM 10:12",
-          "end_ref": "04010012",
-          "end_ref_usfm": "NUM 10:12"
+          "start_ref": "04032033",
+          "start_ref_usfm": "NUM 32:33",
+          "end_ref": "04032033",
+          "end_ref_usfm": "NUM 32:33"
         },
         {
-          "start_ref": "04012016",
-          "start_ref_usfm": "NUM 12:16",
-          "end_ref": "04012016",
-          "end_ref_usfm": "NUM 12:16"
+          "start_ref": "05003011",
+          "start_ref_usfm": "DEU 3:11",
+          "end_ref": "05003011",
+          "end_ref_usfm": "DEU 3:11"
         },
         {
-          "start_ref": "04013003",
-          "start_ref_usfm": "NUM 13:3",
-          "end_ref": "04013003",
-          "end_ref_usfm": "NUM 13:3"
+          "start_ref": "06013012",
+          "start_ref_usfm": "JOS 13:12",
+          "end_ref": "06013012",
+          "end_ref_usfm": "JOS 13:12"
         },
         {
-          "start_ref": "04013026",
-          "start_ref_usfm": "NUM 13:26",
-          "end_ref": "04013026",
-          "end_ref_usfm": "NUM 13:26"
+          "start_ref": "04021033",
+          "start_ref_usfm": "NUM 21:33",
+          "end_ref": "04021035",
+          "end_ref_usfm": "NUM 21:35"
         },
         {
-          "start_ref": "09025001",
-          "start_ref_usfm": "1SA 25:1",
-          "end_ref": "09025001",
-          "end_ref_usfm": "1SA 25:1"
+          "start_ref": "05003005",
+          "start_ref_usfm": "DEU 3:5",
+          "end_ref": "05003006",
+          "end_ref_usfm": "DEU 3:6"
         },
         {
-          "start_ref": "01021020",
-          "start_ref_usfm": "GEN 21:20",
-          "end_ref": "01021021",
-          "end_ref_usfm": "GEN 21:21"
+          "start_ref": "06012004",
+          "start_ref_usfm": "JOS 12:4",
+          "end_ref": "06012006",
+          "end_ref_usfm": "JOS 12:6"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6726,
-          "content_id": 658705,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Palestina",
-          "language": "por"
-        },
-        {
-          "reference_id": 7681,
-          "content_id": 717292,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Sina, Sinai",
-          "language": "por"
-        },
-        {
-          "reference_id": 8231,
-          "content_id": 717332,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Peregrinações no deserto",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

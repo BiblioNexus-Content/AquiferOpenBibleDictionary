@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 4961,
-    "reference_id": 4129,
-    "title": "Eladah",
+    "content_id": 4969,
+    "reference_id": 4137,
+    "title": "Ela",
     "media_type": "Text",
-    "index_reference": "eladah",
+    "index_reference": "ela",
     "language": "eng",
-    "content": "<h1>ELADAH*</h1><p>KJV form of Eleadah, Ephraim’s descendant, in <a href=\"https://ref.ly/1Chr7:20\">1&nbsp;Chronicles 7:20</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4144\" data-resourceType=\"TyndaleBibleDictionary\">Eleadah</span>.</p>",
+    "content": "<h1>ELA</h1><p>Father of Shimei, one of the 12 officers appointed to requisition food for King Solomon’s household (<a href=\"https://ref.ly/1Kgs4:18\">1&nbsp;Kgs 4:18</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13007020",
-          "start_ref_usfm": "1CH 7:20",
-          "end_ref": "13007020",
-          "end_ref_usfm": "1CH 7:20"
+          "start_ref": "11004018",
+          "start_ref_usfm": "1KI 4:18",
+          "end_ref": "11004018",
+          "end_ref_usfm": "1KI 4:18"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4144,
-          "content_id": 4976,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Eleadah",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

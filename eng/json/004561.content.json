@@ -1,34 +1,30 @@
 [
   {
-    "content_id": 7825,
-    "reference_id": 6993,
-    "title": "Prize",
+    "content_id": 7821,
+    "reference_id": 6989,
+    "title": "Prison, Court of the",
     "media_type": "Text",
-    "index_reference": "prize",
+    "index_reference": "prison, court of the",
     "language": "eng",
-    "content": "<h1>PRIZE</h1><p>Reward given the winner of a contest. In the ancient Greek games (the Olympian and Isthmian), the prize usually consisted of a simple wreath woven with olive branches. The apostle Paul transposed this technical term from the athletic arena into the language of the early church for illustrative purposes. He alone uses the word, and in only two related passages: <a href=\"https://ref.ly/1Cor9:24\">1&nbsp;Corinthians 9:24</a>, where he employs it literally, and <a href=\"https://ref.ly/Phil3:14\">Philippians 3:14</a>, where he applies it metaphorically.</p><p>Comparing the living of the Christian life to the running of a footrace, Paul exhorts his readers to live so that they may win the prize. The prize itself, whether defined as “eternal life” or “heavenly perfection” or “resurrection glory,” is a gift of grace; therefore, Paul’s figure of the race and the reward cannot be pressed to imply that man’s effort is the causative agent in the securing of the prize (<a href=\"https://ref.ly/Rom9:16\">Rom 9:16</a>), but only that strenuous effort must be exercised if the prize is to be enjoyed. The purpose of the illustration is to summon believers to live the Christian faith with the same self-denial, supreme exertion, and single-minded concentration as that manifested by the winner of the prize in the Grecian games.</p>",
+    "content": "<h1>PRISON, Court of the</h1><p>The King James Version translation of “Court of the Guard.” It was an open court where they kept the prophet Jeremiah prisoner (<a href=\"https://ref.ly/Jer32:2\">Jeremiah 32:2</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4710\" data-resourceType=\"TyndaleBibleDictionary\">Guard, Courtyard of the</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "45009016",
-          "start_ref_usfm": "ROM 9:16",
-          "end_ref": "45009016",
-          "end_ref_usfm": "ROM 9:16"
-        },
-        {
-          "start_ref": "46009024",
-          "start_ref_usfm": "1CO 9:24",
-          "end_ref": "46009024",
-          "end_ref_usfm": "1CO 9:24"
-        },
-        {
-          "start_ref": "50003014",
-          "start_ref_usfm": "PHP 3:14",
-          "end_ref": "50003014",
-          "end_ref_usfm": "PHP 3:14"
+          "start_ref": "24032002",
+          "start_ref_usfm": "JER 32:2",
+          "end_ref": "24032002",
+          "end_ref_usfm": "JER 32:2"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4710,
+          "content_id": 5542,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Guard, Courtyard of the",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

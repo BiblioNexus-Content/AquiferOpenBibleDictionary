@@ -1,19 +1,49 @@
 [
   {
-    "content_id": 5718,
-    "reference_id": 4886,
-    "title": "Hauran",
+    "content_id": 5716,
+    "reference_id": 4884,
+    "title": "Hattush",
     "media_type": "Text",
-    "index_reference": "hauran",
+    "index_reference": "hattush",
     "language": "eng",
-    "content": "<h1>HAURAN</h1><p>Region in northeastern Transjordan mentioned in Ezekiel’s description of the borders of the land (<a href=\"https://ref.ly/Ezek47:16-Ezek47:18\">Ez 47:16–18</a>). In biblical times it corresponded to the modern Jebel ed-Druze of the Leja. This area is mentioned as early as the reign of Shalmaneser III of Assyria in his description of a military campaign in 841 BC. His army marched to Mt Khauranu after a siege of Damascus and before crossing Galilee to Mt Carmel.</p><p>In 733–732 BC Tiglath-pileser III of Assyria conquered Damascus and its surrounding region and organized it into provinces, one of which was Khaurina, or Hauran. The same province is mentioned in the Annals of Ashurbanipal during his campaign against the Arabians (639–637 BC).</p>",
+    "content": "<h1>HATTUSH</h1><p>1. Shemaiah’s son and a descendant of David (<a href=\"https://ref.ly/1Chr3:22\">1&nbsp;Chr 3:22</a>). Hattush returned from the Babylonian exile with Ezra (<a href=\"https://ref.ly/Ezra8:3\">Ezr 8:3</a>).</p><p>2. Son of Hashabneiah, who helped Nehemiah rebuild the walls of Jerusalem (<a href=\"https://ref.ly/Neh3:10\">Neh 3:10</a>).</p><p>3. Priest who returned from Babylon with Zerubbabel (<a href=\"https://ref.ly/Neh12:2\">Neh 12:2</a>). One of his descendants signed Ezra’s covenant of faithfulness to God (<a href=\"https://ref.ly/Neh10:4\">Neh 10:4</a>). His name is omitted from <a href=\"https://ref.ly/Neh12:14\">Nehemiah 12:14</a> through scribal error.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "26047016",
-          "start_ref_usfm": "EZK 47:16",
-          "end_ref": "26047018",
-          "end_ref_usfm": "EZK 47:18"
+          "start_ref": "13003022",
+          "start_ref_usfm": "1CH 3:22",
+          "end_ref": "13003022",
+          "end_ref_usfm": "1CH 3:22"
+        },
+        {
+          "start_ref": "15008003",
+          "start_ref_usfm": "EZR 8:3",
+          "end_ref": "15008003",
+          "end_ref_usfm": "EZR 8:3"
+        },
+        {
+          "start_ref": "16003010",
+          "start_ref_usfm": "NEH 3:10",
+          "end_ref": "16003010",
+          "end_ref_usfm": "NEH 3:10"
+        },
+        {
+          "start_ref": "16010004",
+          "start_ref_usfm": "NEH 10:4",
+          "end_ref": "16010004",
+          "end_ref_usfm": "NEH 10:4"
+        },
+        {
+          "start_ref": "16012002",
+          "start_ref_usfm": "NEH 12:2",
+          "end_ref": "16012002",
+          "end_ref_usfm": "NEH 12:2"
+        },
+        {
+          "start_ref": "16012014",
+          "start_ref_usfm": "NEH 12:14",
+          "end_ref": "16012014",
+          "end_ref_usfm": "NEH 12:14"
         }
       ],
       "resource": []

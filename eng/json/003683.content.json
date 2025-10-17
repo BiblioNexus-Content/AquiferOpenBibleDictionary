@@ -1,22 +1,42 @@
 [
   {
-    "content_id": 6942,
-    "reference_id": 6110,
-    "title": "Marduk",
+    "content_id": 6941,
+    "reference_id": 6109,
+    "title": "Marcus",
     "media_type": "Text",
-    "index_reference": "marduk",
+    "index_reference": "marcus",
     "language": "eng",
-    "content": "<h1>MARDUK</h1><p>Supreme Babylonian deity, worshiped as the&nbsp;god of creation and destiny. Marduk (also called Bel) was originally the local city god of Babylon. However, as&nbsp;Babylon increased in power, Marduk achieved preeminence over the whole Mesopotamian pantheon of deities. His rise to supremacy is told in the creation epic <em>Enuma Elish,</em> where Marduk is credited with defeating Tiamat, primeval chaos; he then created the heavens and the earth. Zarpanit (Sarpanit) was Marduk’s consort, and the temple Esagila at Babylon was erected for them. Jeremiah foretold that Marduk would be put to shame for his inability to keep Babylon from destruction (<a href=\"https://ref.ly/Jer50:2\">Jer 50:2</a>; Merodach—the Hebrew pronunciation of Marduk).</p>",
+    "content": "<h1>MARCUS*</h1><p>KJV alternate spelling of Mark (<a href=\"https://ref.ly/Col4:10\">Col 4:10</a>; <a href=\"https://ref.ly/Phlm1:24\">Phlm 1:24</a>; <a href=\"https://ref.ly/1Pet5:13\">1&nbsp;Pt 5:13</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6119\" data-resourceType=\"TyndaleBibleDictionary\">Mark, John</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "24050002",
-          "start_ref_usfm": "JER 50:2",
-          "end_ref": "24050002",
-          "end_ref_usfm": "JER 50:2"
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6119,
+          "content_id": 6951,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "John Mark",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

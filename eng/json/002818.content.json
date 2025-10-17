@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 6069,
-    "reference_id": 5237,
-    "title": "Ishijah",
+    "content_id": 6068,
+    "reference_id": 5236,
+    "title": "Ishiah",
     "media_type": "Text",
-    "index_reference": "ishijah",
+    "index_reference": "ishiah",
     "language": "eng",
-    "content": "<h1>ISHIJAH</h1><p>Harim’s son, who obeyed Ezra’s exhortation to divorce his pagan wife (<a href=\"https://ref.ly/Ezra10:31\">Ezr 10:31</a>).</p>",
+    "content": "<h1>ISHIAH*</h1><p>KJV spelling of Isshiah, Izrahiah’s son, in <a href=\"https://ref.ly/1Chr7:3\">1&nbsp;Chronicles 7:3</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5266\" data-resourceType=\"TyndaleBibleDictionary\">Isshiah #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15010031",
-          "start_ref_usfm": "EZR 10:31",
-          "end_ref": "15010031",
-          "end_ref_usfm": "EZR 10:31"
+          "start_ref": "13007003",
+          "start_ref_usfm": "1CH 7:3",
+          "end_ref": "13007003",
+          "end_ref_usfm": "1CH 7:3"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5266,
+          "content_id": 6098,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Isshiah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

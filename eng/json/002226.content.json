@@ -1,40 +1,49 @@
 [
   {
-    "content_id": 5483,
-    "reference_id": 4651,
-    "title": "Gizon, Gizonite",
+    "content_id": 5482,
+    "reference_id": 4650,
+    "title": "Gittith",
     "media_type": "Text",
-    "index_reference": "gizon, gizonite",
+    "index_reference": "gittith",
     "language": "eng",
-    "content": "<h1>GIZON, GIZONITE*</h1><p>Designation for Hashem (Jashen, nlt), one of David’s mighty men (<a href=\"https://ref.ly/1Chr11:34\">1&nbsp;Chr 11:34</a>). Gizon may have been an ancient Canaanite settlement. Some scholars have emended the text to read “Gunite” (cf. <a href=\"https://ref.ly/1Chr5:15\">1&nbsp;Chr 5:15</a>; <a href=\"https://ref.ly/1Chr7:13\">7:13</a>) or “from Gimzo” (cf. <a href=\"https://ref.ly/2Chr28:18\">2&nbsp;Chr 28:18</a>).</p>",
+    "content": "<h1>GITTITH*</h1><p>Obscure Hebrew term in the superscriptions of <a href=\"https://ref.ly/Ps8:1-Ps8:9\">Psalms 8</a>, <a href=\"https://ref.ly/Ps81:1-Ps81:16\">81</a>, and <a href=\"https://ref.ly/Ps84:1-Ps84:12\">84</a> (nlt mg); perhaps a musical instrument or a musical cue, signaling a mood, to which the psalms were to be performed. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Music</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6414\" data-resourceType=\"TyndaleBibleDictionary\">Musical Instruments</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13005015",
-          "start_ref_usfm": "1CH 5:15",
-          "end_ref": "13005015",
-          "end_ref_usfm": "1CH 5:15"
+          "start_ref": "19084001",
+          "start_ref_usfm": "PSA 84:1",
+          "end_ref": "19084012",
+          "end_ref_usfm": "PSA 84:12"
         },
         {
-          "start_ref": "13007013",
-          "start_ref_usfm": "1CH 7:13",
-          "end_ref": "13007013",
-          "end_ref_usfm": "1CH 7:13"
+          "start_ref": "19008001",
+          "start_ref_usfm": "PSA 8:1",
+          "end_ref": "19008009",
+          "end_ref_usfm": "PSA 8:9"
         },
         {
-          "start_ref": "13011034",
-          "start_ref_usfm": "1CH 11:34",
-          "end_ref": "13011034",
-          "end_ref_usfm": "1CH 11:34"
-        },
-        {
-          "start_ref": "14028018",
-          "start_ref_usfm": "2CH 28:18",
-          "end_ref": "14028018",
-          "end_ref_usfm": "2CH 28:18"
+          "start_ref": "19081001",
+          "start_ref_usfm": "PSA 81:1",
+          "end_ref": "19081016",
+          "end_ref_usfm": "PSA 81:16"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6414,
+          "content_id": 7246,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Musical Instruments",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6416,
+          "content_id": 7248,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Music",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

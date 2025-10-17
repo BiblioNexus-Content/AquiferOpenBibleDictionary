@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 6050,
-    "reference_id": 5218,
-    "title": "Iron (Place)",
+    "content_id": 6052,
+    "reference_id": 5220,
+    "title": "Iron",
     "media_type": "Text",
-    "index_reference": "iron (place)",
+    "index_reference": "iron",
     "language": "eng",
-    "content": "<h1>IRON* (Place)</h1><p>KJV form of Yiron, a city in Naphtali’s territory (<a href=\"https://ref.ly/Josh19:38\">Jos 19:38</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8273\" data-resourceType=\"TyndaleBibleDictionary\">Yiron</span>.</p>",
+    "content": "<h1>IRON</h1><p>A strong metal used to make tools and weapons in ancient times.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6313\" data-resourceType=\"TyndaleBibleDictionary\">Minerals and Metals</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "06019038",
-          "start_ref_usfm": "JOS 19:38",
-          "end_ref": "06019038",
-          "end_ref_usfm": "JOS 19:38"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 8273,
-          "content_id": 9105,
+          "reference_id": 6313,
+          "content_id": 7145,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Yiron",
+          "label": "Minerals and Metals",
           "language": "eng"
         }
       ]

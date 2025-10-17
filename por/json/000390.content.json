@@ -1,27 +1,39 @@
 [
   {
-    "content_id": 759689,
-    "reference_id": 3599,
-    "title": "Carmita",
+    "content_id": 716963,
+    "reference_id": 3588,
+    "title": "Capitel",
     "media_type": "Text",
-    "index_reference": "carmita",
+    "index_reference": "capitel",
     "language": "por",
-    "content": "<h1>CARMITA</h1><p>Um nome para um descendente de Carmi. Carmi foi um dos filhos de Rúben (<a href=\"https://ref.ly/Num26:6\">Nm 26.6</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3600\" data-resourceType=\"TyndaleBibleDictionary\">Carmi #1</span>.</p>",
+    "content": "<h1>CAPITEL</h1><p>Na arquitetura (projeto de edifícios), o capitel é a parte superior de uma coluna. Os capitéis são frequentemente decorados com desenhos detalhados. Capitéis (“capitel” na Versão da ARC) estavam no topo das cinco colunas do Tabernáculo durante a peregrinação dos israelitas no deserto (<a href=\"https://ref.ly/Exod36:38\">Êx 36.38</a>). Eles também estavam no topo das colunas chamadas “Boaz” e “Jaquim” no Templo de Salomão (<a href=\"https://ref.ly/1Kgs7:16-1Kgs7:22,1Kgs7:40-1Kgs7:42\">1Rs 7.16–22,40–42</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2888\" data-resourceType=\"TyndaleBibleDictionary\">Arquitetura</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026006",
-          "start_ref_usfm": "NUM 26:6",
-          "end_ref": "04026006",
-          "end_ref_usfm": "NUM 26:6"
+          "start_ref": "02036038",
+          "start_ref_usfm": "EXO 36:38",
+          "end_ref": "02036038",
+          "end_ref_usfm": "EXO 36:38"
+        },
+        {
+          "start_ref": "11007016",
+          "start_ref_usfm": "1KI 7:16",
+          "end_ref": "11007022",
+          "end_ref_usfm": "1KI 7:22"
+        },
+        {
+          "start_ref": "11007040",
+          "start_ref_usfm": "1KI 7:40",
+          "end_ref": "11007042",
+          "end_ref_usfm": "1KI 7:42"
         }
       ],
       "resource": [
         {
-          "reference_id": 3600,
-          "content_id": 716966,
+          "reference_id": 2888,
+          "content_id": 207150,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Carmi",
+          "label": "Arquitetura",
           "language": "por"
         }
       ]

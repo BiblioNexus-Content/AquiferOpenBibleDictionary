@@ -1,57 +1,27 @@
 [
   {
-    "content_id": 806262,
-    "reference_id": 7077,
-    "title": "Raabe (Monstro)",
+    "content_id": 816065,
+    "reference_id": 6994,
+    "title": "Prócoro, Procorus",
     "media_type": "Text",
-    "index_reference": "raabe (monstro)",
+    "index_reference": "prócoro, procorus",
     "language": "por",
-    "content": "<h1>RAABE (Monstro)</h1><p>Um monstro marinho mitológico que simbolizava o Egito (<a href=\"https://ref.ly/Ps87:4\">Sl 87.4</a>). “Pois a ajuda do Egito não vale nada. Por isso, estou pondo no Egito o apelido de &apos;O Dragão Manso&apos;” (<a href=\"https://ref.ly/Isa30:7\">Is 30.7</a>). Os escritores da Bíblia descreveram como Deus ajudou o povo de Israel a atravessar o Mar Vermelho enquanto o exército egípcio se afogava ali (cp. <a href=\"https://ref.ly/Isa51:10\">Is 51.10</a>). Eles usaram a imagem de Deus lutando e derrotando um monstro poderoso para contar essa história (<a href=\"https://ref.ly/Job26:12\">Jó 26.12</a>; <a href=\"https://ref.ly/Ps89:10\">Sl 89.10</a>; <a href=\"https://ref.ly/Isa51:9\">Is 51.9</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4122\" data-resourceType=\"TyndaleBibleDictionary\">Egito, Egípcio</span>.</p>",
+    "content": "<h1>PRÓCORO, PROCORUS</h1><p>Um dos sete homens escolhidos pela igreja primitiva em Jerusalém para servir às viúvas e gerenciar a distribuição diária de alimentos (<a href=\"https://ref.ly/Acts6:5\">At 6.5</a>). Esses sete homens foram selecionados porque estavam cheios do Espírito Santo e sabedoria. Os outros seis homens eram Estevão, Filipe, Nicanor, Timão, Pármenas e Nicolau.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3944\" data-resourceType=\"TyndaleBibleDictionary\">Diácono, Diaconisa</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "18026012",
-          "start_ref_usfm": "JOB 26:12",
-          "end_ref": "18026012",
-          "end_ref_usfm": "JOB 26:12"
-        },
-        {
-          "start_ref": "19087004",
-          "start_ref_usfm": "PSA 87:4",
-          "end_ref": "19087004",
-          "end_ref_usfm": "PSA 87:4"
-        },
-        {
-          "start_ref": "19089010",
-          "start_ref_usfm": "PSA 89:10",
-          "end_ref": "19089010",
-          "end_ref_usfm": "PSA 89:10"
-        },
-        {
-          "start_ref": "23030007",
-          "start_ref_usfm": "ISA 30:7",
-          "end_ref": "23030007",
-          "end_ref_usfm": "ISA 30:7"
-        },
-        {
-          "start_ref": "23051009",
-          "start_ref_usfm": "ISA 51:9",
-          "end_ref": "23051009",
-          "end_ref_usfm": "ISA 51:9"
-        },
-        {
-          "start_ref": "23051010",
-          "start_ref_usfm": "ISA 51:10",
-          "end_ref": "23051010",
-          "end_ref_usfm": "ISA 51:10"
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
         }
       ],
       "resource": [
         {
-          "reference_id": 4122,
-          "content_id": 717005,
+          "reference_id": 3944,
+          "content_id": 161798,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Egito, egípcio",
+          "label": "Diácono, Diaconisa*",
           "language": "por"
         }
       ]

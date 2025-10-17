@@ -1,60 +1,40 @@
 [
   {
-    "content_id": 7395,
-    "reference_id": 6563,
-    "title": "Nicodemus",
+    "content_id": 7394,
+    "reference_id": 6562,
+    "title": "Nicanor",
     "media_type": "Text",
-    "index_reference": "nicodemus",
+    "index_reference": "nicanor",
     "language": "eng",
-    "content": "<h1>NICODEMUS</h1><p>Pharisee and member of the Sanhedrin mentioned only in John’s Gospel (<a href=\"https://ref.ly/John3:1-John3:15\">Jn 3:1–15</a>; <a href=\"https://ref.ly/John7:50-John7:52\">7:50–52</a>; <a href=\"https://ref.ly/John19:39-John19:41\">19:39–41</a>). According to <a href=\"https://ref.ly/John3:1-John3:36\">John 3</a>, Nicodemus came to Jesus at night and acknowledged him as a teacher sent by God. He was convinced that Jesus could not perform such things if God were not with him. Following an exchange concerning the need to be born again, Jesus asked how Nicodemus, a member of the Jewish religious court, could fail to understand such things. At that time he evidently made no profession of faith, but later he did defend Jesus before the Sanhedrin (<a href=\"https://ref.ly/John7:50-John7:52\">7:50–52</a>). After Jesus’ death, Nicodemus openly assisted Joseph of Arimathea with the burial of his body (<a href=\"https://ref.ly/John19:39-John19:42\">19:39–42</a>).</p><p>Some scholars suggest that Nicodemus was one of the Jewish leaders who believed in Jesus but did not confess him openly for fear of excommunication (<a href=\"https://ref.ly/John12:42\">12:42</a>). Tradition subsequently held that he belonged to the household of faith, as one persuaded to believe through the message and deeds of Jesus, but remained intimidated by the religious establishment.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5576\" data-resourceType=\"TyndaleBibleDictionary\">John, Gospel of</span>.</p>",
+    "content": "<h1>NICANOR</h1><ol><li><p>The son of Patroclus, “one of the king’s chief friends” (<a href=\"https://ref.ly/2Macc8:9\">2&nbsp;Maccabees 8:9</a>). He was a Syrian general who served under two kings: Antiochus IV Epiphanes and Demetrius Soter. Nicanor may have been the supreme commander over Ptolemy and&nbsp;Gorgias in Lysias&apos;s first campaign against Judas Maccabeus (<a href=\"https://ref.ly/1Macc3:38-1Macc3:59\">1&nbsp;Maccabees 3:38ff</a>.) This was during the reign of Antiochus IV Epiphanes. </p><p>Nicanor died in the battle at&nbsp;Adasa and Beth-horon in 161 BC. According to 2&nbsp;Maccabees, Judas hung the head of Nicanor from the citadel (a fortress in Jerusalem) as a clear proof of the God&apos;s victory (<a href=\"https://ref.ly/2Macc15:35\">15:35</a>).</p></li><li><p>One of the seven men chosen by the early church to manage the daily distribution of food to the poor believers in Jerusalem (<a href=\"https://ref.ly/Acts6:5\">Acts 6:5</a>). These seven men were selected to ensure that widows and others in need received fair treatment in the daily distribution of food.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "43012042",
-          "start_ref_usfm": "JHN 12:42",
-          "end_ref": "43012042",
-          "end_ref_usfm": "JHN 12:42"
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
         },
         {
-          "start_ref": "43003001",
-          "start_ref_usfm": "JHN 3:1",
-          "end_ref": "43003036",
-          "end_ref_usfm": "JHN 3:36"
+          "start_ref": "79008009",
+          "start_ref_usfm": "2MA 8:9",
+          "end_ref": "79008009",
+          "end_ref_usfm": "2MA 8:9"
         },
         {
-          "start_ref": "43003001",
-          "start_ref_usfm": "JHN 3:1",
-          "end_ref": "43003015",
-          "end_ref_usfm": "JHN 3:15"
+          "start_ref": "79015035",
+          "start_ref_usfm": "2MA 15:35",
+          "end_ref": "79015035",
+          "end_ref_usfm": "2MA 15:35"
         },
         {
-          "start_ref": "43007050",
-          "start_ref_usfm": "JHN 7:50",
-          "end_ref": "43007052",
-          "end_ref_usfm": "JHN 7:52"
-        },
-        {
-          "start_ref": "43019039",
-          "start_ref_usfm": "JHN 19:39",
-          "end_ref": "43019041",
-          "end_ref_usfm": "JHN 19:41"
-        },
-        {
-          "start_ref": "43019039",
-          "start_ref_usfm": "JHN 19:39",
-          "end_ref": "43019042",
-          "end_ref_usfm": "JHN 19:42"
+          "start_ref": "78003038",
+          "start_ref_usfm": "1MA 3:38",
+          "end_ref": "78003059",
+          "end_ref_usfm": "1MA 3:59"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5576,
-          "content_id": 6408,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "John, Gospel of",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

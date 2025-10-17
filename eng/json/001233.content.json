@@ -1,34 +1,37 @@
 [
   {
-    "content_id": 4486,
-    "reference_id": 3654,
-    "title": "Charmis",
+    "content_id": 4487,
+    "reference_id": 3655,
+    "title": "Charm",
     "media_type": "Text",
-    "index_reference": "charmis",
+    "index_reference": "charm",
     "language": "eng",
-    "content": "<h1>CHARMIS</h1><p>Charmis was the son of Melchiel. He was one of three civil officers (magistrates) of Bethulia (<a href=\"https://ref.ly/Jdt6:14-Jdt6:15\">Judith 6:14–15</a>; <a href=\"https://ref.ly/Jdt10:6\">10:6</a>). When the Assyrians attacked, Charmis and the other leaders said they would wait only a short time for God to rescue them. If nothing happened, they planned to surrender.</p><p>Judith strongly rebuked them. She told them not to limit God or decide how and when He would act (<a href=\"https://ref.ly/Jdt8:9-Jdt8:27\">8:9–27</a>).</p>",
+    "content": "<h1>CHARM</h1><p>A charm is a small object worn around the neck to repel evil. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2749\" data-resourceType=\"TyndaleBibleDictionary\">Amulet</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6021\" data-resourceType=\"TyndaleBibleDictionary\">Magic</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7749\" data-resourceType=\"TyndaleBibleDictionary\">Sorcery</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "69010006",
-          "start_ref_usfm": "JDT 10:6",
-          "end_ref": "69010006",
-          "end_ref_usfm": "JDT 10:6"
+          "reference_id": 2749,
+          "content_id": 3581,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Amulet",
+          "language": "eng"
         },
         {
-          "start_ref": "69006014",
-          "start_ref_usfm": "JDT 6:14",
-          "end_ref": "69006015",
-          "end_ref_usfm": "JDT 6:15"
+          "reference_id": 6021,
+          "content_id": 6853,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Magic",
+          "language": "eng"
         },
         {
-          "start_ref": "69008009",
-          "start_ref_usfm": "JDT 8:9",
-          "end_ref": "69008027",
-          "end_ref_usfm": "JDT 8:27"
+          "reference_id": 7749,
+          "content_id": 8581,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Sorcery",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

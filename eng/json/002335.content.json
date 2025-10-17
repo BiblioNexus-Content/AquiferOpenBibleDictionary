@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5593,
-    "reference_id": 4761,
-    "title": "Haggi",
+    "content_id": 5589,
+    "reference_id": 4757,
+    "title": "Haggeri",
     "media_type": "Text",
-    "index_reference": "haggi",
+    "index_reference": "haggeri",
     "language": "eng",
-    "content": "<h1>HAGGI</h1><p>Gad’s son and founder of the family of Haggites (<a href=\"https://ref.ly/Gen46:16\">Gn 46:16</a>; <a href=\"https://ref.ly/Num26:15\">Nm 26:15</a>).</p>",
+    "content": "<h1>HAGGERI*</h1><p>KJV rendering of Hagri, Mibhar’s father, in <a href=\"https://ref.ly/1Chr11:38\">1&nbsp;Chronicles 11:38</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4763\" data-resourceType=\"TyndaleBibleDictionary\">Hagri</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01046016",
-          "start_ref_usfm": "GEN 46:16",
-          "end_ref": "01046016",
-          "end_ref_usfm": "GEN 46:16"
-        },
-        {
-          "start_ref": "04026015",
-          "start_ref_usfm": "NUM 26:15",
-          "end_ref": "04026015",
-          "end_ref_usfm": "NUM 26:15"
+          "start_ref": "13011038",
+          "start_ref_usfm": "1CH 11:38",
+          "end_ref": "13011038",
+          "end_ref_usfm": "1CH 11:38"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4763,
+          "content_id": 5595,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Hagri",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

@@ -1,27 +1,27 @@
 [
   {
-    "content_id": 7922,
-    "reference_id": 7090,
-    "title": "Ramathaim-Zophim",
+    "content_id": 7923,
+    "reference_id": 7091,
+    "title": "Ramathaim",
     "media_type": "Text",
-    "index_reference": "ramathaim-zophim",
+    "index_reference": "ramathaim",
     "language": "eng",
-    "content": "<h1>RAMATHAIM-ZOPHIM*</h1><p>Alternate name for Ramah, Samuel’s hometown, in <a href=\"https://ref.ly/1Sam1:1\">1&nbsp;Samuel 1:1</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7089\" data-resourceType=\"TyndaleBibleDictionary\">Ramah #5</span>.</p>",
+    "content": "<h1>RAMATHAIM</h1><p>Alternate translation of Greek “Rathamin” (<a href=\"https://ref.ly/1Macc11:34\">1&nbsp;Macc 11:34</a>, nlt mg). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7119\" data-resourceType=\"TyndaleBibleDictionary\">Rathamin</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "09001001",
-          "start_ref_usfm": "1SA 1:1",
-          "end_ref": "09001001",
-          "end_ref_usfm": "1SA 1:1"
+          "start_ref": "78011034",
+          "start_ref_usfm": "1MA 11:34",
+          "end_ref": "78011034",
+          "end_ref_usfm": "1MA 11:34"
         }
       ],
       "resource": [
         {
-          "reference_id": 7089,
-          "content_id": 7921,
+          "reference_id": 7119,
+          "content_id": 7951,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ramah",
+          "label": "Rathamin",
           "language": "eng"
         }
       ]

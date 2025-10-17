@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 5310,
-    "reference_id": 4478,
-    "title": "Fringe",
+    "content_id": 5309,
+    "reference_id": 4477,
+    "title": "Friends",
     "media_type": "Text",
-    "index_reference": "fringe",
+    "index_reference": "friends",
     "language": "eng",
-    "content": "<h1>FRINGE</h1><p>The border of a garment, or a “tassel.” Jewish men wore four fringes on their upper garments because God commanded them to do so (<a href=\"https://ref.ly/Deut22:12\">Deuteronomy 22:12</a>). Those tassels were reminders of God&apos;s laws.</p>",
+    "content": "<h1>FRIENDS</h1><p>A friend is someone you know well and care about.</p><p>Jesus called his closest followers his friends (<a href=\"https://ref.ly/Luke12:4\">Luke 12:4</a>; <a href=\"https://ref.ly/John15:14-John15:15\">John 15:14–15</a>). So, it would have been natural for Christians to refer to themselves as &quot;the friends of Christ.&quot; Some philosophical groups in the Greek world used terms of friendship to describe close relationships between their members. However, early Christians chose to use other words to describe themselves, such as &quot;followers of Jesus&quot; or &quot;disciples.&quot;</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05022012",
-          "start_ref_usfm": "DEU 22:12",
-          "end_ref": "05022012",
-          "end_ref_usfm": "DEU 22:12"
+          "start_ref": "42012004",
+          "start_ref_usfm": "LUK 12:4",
+          "end_ref": "42012004",
+          "end_ref_usfm": "LUK 12:4"
+        },
+        {
+          "start_ref": "43015014",
+          "start_ref_usfm": "JHN 15:14",
+          "end_ref": "43015015",
+          "end_ref_usfm": "JHN 15:15"
         }
       ],
       "resource": []

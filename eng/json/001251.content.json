@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4505,
-    "reference_id": 3673,
-    "title": "Chephar-Ammoni, Chephar-Haammonai",
+    "content_id": 4503,
+    "reference_id": 3671,
+    "title": "Chenaniah",
     "media_type": "Text",
-    "index_reference": "chephar-ammoni, chephar-haammonai",
+    "index_reference": "chenaniah",
     "language": "eng",
-    "content": "<h1>CHEPHAR-AMMONI, CHEPHAR-HAAMMONAI</h1><p>Alternate spellings of the name <span>Kephar-ammoni, the city given to Benjamin&apos;s tribe for an inheritance after Israel conquered Canaan </span>(<a href=\"https://ref.ly/Josh18:24\">Joshua 18:24</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5720\" data-resourceType=\"TyndaleBibleDictionary\">Kephar-ammoni</span>.</p>",
+    "content": "<h1>CHENANIAH</h1><p>An alternate spelling of the name Kenaniah.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5712\" data-resourceType=\"TyndaleBibleDictionary\">Kenaniah</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5720,
-          "content_id": 6552,
+          "reference_id": 5712,
+          "content_id": 6544,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Kephar-Ammoni",
+          "label": "Kenaniah",
           "language": "eng"
         }
       ]

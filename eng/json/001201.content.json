@@ -1,49 +1,40 @@
 [
   {
-    "content_id": 4456,
-    "reference_id": 3624,
-    "title": "Censer",
+    "content_id": 4455,
+    "reference_id": 3623,
+    "title": "Cendebeus",
     "media_type": "Text",
-    "index_reference": "censer",
+    "index_reference": "cendebeus",
     "language": "eng",
-    "content": "<h1>CENSER</h1><p>A censer is a container used to burn incense. On the Day of Atonement, the high priest burned two handfuls of incense in the censer. He did this inside the most holy place before the Lord (<a href=\"https://ref.ly/Lev16:12\">Leviticus 16:12</a>). The censers of the tabernacle were bronze (<a href=\"https://ref.ly/Num16:39\">Numbers 16:39</a>). The censers used by the angels in the book of Revelation were gold (<a href=\"https://ref.ly/Rev8:3-Rev8:5\">Revelation 8:3–5</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7864\" data-resourceType=\"TyndaleBibleDictionary\">Tabernacle</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7950\" data-resourceType=\"TyndaleBibleDictionary\">Temple</span>.</p>",
+    "content": "<h1>CENDEBEUS</h1><p>Commander-in-chief of the seacoast of&nbsp;Syria-Palestine about 138 BC under Antiochus VII (<a href=\"https://ref.ly/1Macc15:38\">1&nbsp;Macc 15:38</a>). Cendebeus was ordered to build a fortress at Kedron (probably the Gederah of <a href=\"https://ref.ly/Josh15:36\">Jos 15:36</a>), after which he transferred his headquarters to Jamnia and from there made raids into Judea (<a href=\"https://ref.ly/1Macc15:39-1Macc15:40\">1&nbsp;Macc 15:39–40</a>). Simon Maccabeus, unable to fight back because of his old age, dispatched his sons Judas and John Hyrcanus against Cendebeus with 20,000 soldiers and horsemen. Judas was wounded, but the Jews prevailed after slaying about 2,000 men. Cendebeus was pursued back to Kedron, and the Jews returned to Judea (<a href=\"https://ref.ly/1Macc16:1-1Macc16:10\">16:1–10</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "03016012",
-          "start_ref_usfm": "LEV 16:12",
-          "end_ref": "03016012",
-          "end_ref_usfm": "LEV 16:12"
+          "start_ref": "06015036",
+          "start_ref_usfm": "JOS 15:36",
+          "end_ref": "06015036",
+          "end_ref_usfm": "JOS 15:36"
         },
         {
-          "start_ref": "04016039",
-          "start_ref_usfm": "NUM 16:39",
-          "end_ref": "04016039",
-          "end_ref_usfm": "NUM 16:39"
+          "start_ref": "78015038",
+          "start_ref_usfm": "1MA 15:38",
+          "end_ref": "78015038",
+          "end_ref_usfm": "1MA 15:38"
         },
         {
-          "start_ref": "66008003",
-          "start_ref_usfm": "REV 8:3",
-          "end_ref": "66008005",
-          "end_ref_usfm": "REV 8:5"
+          "start_ref": "78015039",
+          "start_ref_usfm": "1MA 15:39",
+          "end_ref": "78015040",
+          "end_ref_usfm": "1MA 15:40"
+        },
+        {
+          "start_ref": "78016001",
+          "start_ref_usfm": "1MA 16:1",
+          "end_ref": "78016010",
+          "end_ref_usfm": "1MA 16:10"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 7864,
-          "content_id": 8696,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Tabernacle",
-          "language": "eng"
-        },
-        {
-          "reference_id": 7950,
-          "content_id": 8782,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Temple",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

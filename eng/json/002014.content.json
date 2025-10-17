@@ -1,45 +1,27 @@
 [
   {
-    "content_id": 5270,
-    "reference_id": 4438,
-    "title": "Fish Gate",
+    "content_id": 5271,
+    "reference_id": 4439,
+    "title": "Fish",
     "media_type": "Text",
-    "index_reference": "fish gate",
+    "index_reference": "fish",
     "language": "eng",
-    "content": "<h1>FISH GATE</h1><p>Gate probably located in the north wall of the city of Jerusalem. The Fish Gate was built in David’s time and later formed part of Manasseh’s fortifications (<a href=\"https://ref.ly/2Chr33:14\">2&nbsp;Chr 33:14</a>). After the Babylonian exile, it was restored under Nehemiah (<a href=\"https://ref.ly/Neh3:3\">Neh 3:3</a>; <a href=\"https://ref.ly/Neh12:39\">12:39</a>); it is mentioned along with the Mishneh or Second Quarter (<a href=\"https://ref.ly/Zeph1:10\">Zep 1:10</a>). The gate was probably so named either because fish were brought into the city from the north, or because it was located near the city’s fish market.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5501\" data-resourceType=\"TyndaleBibleDictionary\">Jerusalem</span>.</p>",
+    "content": "<h1>FISH</h1><p>Aquatic animals with fins and gills that live in rivers, lakes, and seas.</p><p>The Bible often mentions fish without naming them or providing descriptions. Fish have been a key food for humans since ancient times. Today, they remain a major protein source in many regions. In biblical times, the fish trade was advanced. Notably, one of Jerusalem&apos;s gates was named the Fish Gate. (<a href=\"https://ref.ly/Neh3:3\">Nehemiah 3:3</a>; <a href=\"https://ref.ly/Zeph1:10\">Zephaniah 1:10</a>). The law in <a href=\"https://ref.ly/Lev11:9-Lev11:12\">Leviticus 11:9–12</a> allowed the Israelites to eat fish, but only those with both fins and scales. Scaleless fish such as catfish were not allowed, even though they had fins.</p><h2>Fishing in the Ancient World</h2><p>Egyptian paintings show different fishing methods. The Philistines fished in the Mediterranean Sea. However, Israel was not a seafaring nation. Thus, they likely caught most fish from freshwater sources, especially the Sea of Galilee. This lake is home to 36 fish species, such as: </p><ul><li><p>Perch</p></li><li><p>Carp</p></li><li><p>Barbel</p></li><li><p>Sardines</p></li><li><p>Catfish</p></li></ul><p>In New Testament times, fishing with a dragnet was common. Boats would head out into deep waters, throw a large net into the water, and drag it toward shore (<a href=\"https://ref.ly/Luke5:4\">Luke 5:4</a>). Rowers and sometimes a crew in another boat would have to help row back. The catch was divided on shore (<a href=\"https://ref.ly/Matt13:47-Matt13:48\">Matthew 13:47–48</a>). Fishing was usually done at night. The cool water brought fish closer to the surface. They could not see the approaching nets.</p><p>The Jews also fished by: </p><ul><li><p>Hook and line (<a href=\"https://ref.ly/Matt17:27\">Matthew 17:27</a>) </p></li><li><p>Spear (<a href=\"https://ref.ly/Job41:7\">Job 41:7</a>) </p></li><li><p>Throw net (<a href=\"https://ref.ly/Ezek47:10\">Ezekiel 47:10</a>)</p></li></ul><p>The book of Habakkuk refers to hook-and-line fishing, netting, and seining (<a href=\"https://ref.ly/Hab1:15\">Habakkuk 1:15</a>). Seining is a method of fishing by dragging a net in the water.</p><p>Early in the Christian church, the fish symbolized Christ and faith. It was scratched in Roman catacombs and now decorates walls, altars, pews, and vestments. The symbol emerged because the Greek word for &quot;fish&quot; (<em>ichthus</em>) represents the phrase &quot;Jesus Christ, Son of God, Savior.&quot;</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8222\" data-resourceType=\"TyndaleBibleDictionary\">Whale</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "14033014",
-          "start_ref_usfm": "2CH 33:14",
-          "end_ref": "14033014",
-          "end_ref_usfm": "2CH 33:14"
-        },
-        {
-          "start_ref": "16003003",
-          "start_ref_usfm": "NEH 3:3",
-          "end_ref": "16003003",
-          "end_ref_usfm": "NEH 3:3"
-        },
-        {
-          "start_ref": "16012039",
-          "start_ref_usfm": "NEH 12:39",
-          "end_ref": "16012039",
-          "end_ref_usfm": "NEH 12:39"
-        },
-        {
-          "start_ref": "36001010",
-          "start_ref_usfm": "ZEP 1:10",
-          "end_ref": "36001010",
-          "end_ref_usfm": "ZEP 1:10"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5501,
-          "content_id": 6333,
+          "reference_id": 2782,
+          "content_id": 3614,
+          "resource_code": "Unknown",
+          "label": "Animals",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8222,
+          "content_id": 9054,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jerusalem",
+          "label": "Whale",
           "language": "eng"
         }
       ]

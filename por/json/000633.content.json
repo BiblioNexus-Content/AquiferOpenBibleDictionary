@@ -1,37 +1,25 @@
 [
   {
-    "content_id": 759737,
-    "reference_id": 4199,
-    "title": "Elizur",
+    "content_id": 682912,
+    "reference_id": 4141,
+    "title": "Elda",
     "media_type": "Text",
-    "index_reference": "elizur",
+    "index_reference": "elda",
     "language": "por",
-    "content": "<h1>ELIZUR</h1><p>O filho de Sedeur e líder da tribo de Rúben quando os israelitas começaram sua jornada pelo deserto após deixarem o Egito (<a href=\"https://ref.ly/Num1:5\">Nm 1.5</a>; <a href=\"https://ref.ly/Num2:10\">2.10</a>; <a href=\"https://ref.ly/Num7:30-Num7:35\">7.30–35</a>; <a href=\"https://ref.ly/Num10:18\">10.18</a>).</p>",
+    "content": "<h1>ELDA</h1><p>Quinto filho de Midiã e descendente de Abraão e sua esposa Quetura (<a href=\"https://ref.ly/Gen25:4\">Gn 25.4</a>; <a href=\"https://ref.ly/1Chr1:33\">1Cr 1.33</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04001005",
-          "start_ref_usfm": "NUM 1:5",
-          "end_ref": "04001005",
-          "end_ref_usfm": "NUM 1:5"
+          "start_ref": "01025004",
+          "start_ref_usfm": "GEN 25:4",
+          "end_ref": "01025004",
+          "end_ref_usfm": "GEN 25:4"
         },
         {
-          "start_ref": "04002010",
-          "start_ref_usfm": "NUM 2:10",
-          "end_ref": "04002010",
-          "end_ref_usfm": "NUM 2:10"
-        },
-        {
-          "start_ref": "04010018",
-          "start_ref_usfm": "NUM 10:18",
-          "end_ref": "04010018",
-          "end_ref_usfm": "NUM 10:18"
-        },
-        {
-          "start_ref": "04007030",
-          "start_ref_usfm": "NUM 7:30",
-          "end_ref": "04007035",
-          "end_ref_usfm": "NUM 7:35"
+          "start_ref": "13001033",
+          "start_ref_usfm": "1CH 1:33",
+          "end_ref": "13001033",
+          "end_ref_usfm": "1CH 1:33"
         }
       ],
       "resource": []

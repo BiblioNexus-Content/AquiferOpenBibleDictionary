@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 717294,
-    "reference_id": 7702,
-    "title": "Sitri",
+    "content_id": 658735,
+    "reference_id": 7505,
+    "title": "Selefe",
     "media_type": "Text",
-    "index_reference": "sitri",
+    "index_reference": "selefe",
     "language": "por",
-    "content": "<h1>SITRI</h1><p>Um levita coatita e terceiro filho de Uziel. Sitri era primo de Arão e Moisés (<a href=\"https://ref.ly/Exod6:22\">Êx 6.22</a>).</p>",
+    "content": "<h1>SELEFE</h1><p>Filho de Joctã e fundador de uma tribo árabe que vive no Iêmen (<a href=\"https://ref.ly/Gen10:26\">Gn 10.26</a>; <a href=\"https://ref.ly/1Chr1:20\">1Cr 1.20</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02006022",
-          "start_ref_usfm": "EXO 6:22",
-          "end_ref": "02006022",
-          "end_ref_usfm": "EXO 6:22"
+          "start_ref": "01010026",
+          "start_ref_usfm": "GEN 10:26",
+          "end_ref": "01010026",
+          "end_ref_usfm": "GEN 10:26"
+        },
+        {
+          "start_ref": "13001020",
+          "start_ref_usfm": "1CH 1:20",
+          "end_ref": "13001020",
+          "end_ref_usfm": "1CH 1:20"
         }
       ],
       "resource": []

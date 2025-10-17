@@ -1,37 +1,49 @@
 [
   {
-    "content_id": 6910,
-    "reference_id": 6078,
-    "title": "Mammon",
+    "content_id": 6909,
+    "reference_id": 6077,
+    "title": "Malta",
     "media_type": "Text",
-    "index_reference": "mammon",
+    "index_reference": "malta",
     "language": "eng",
-    "content": "<h1>MAMMON</h1><p>An Aramaic word meaning wealth or property. The Gospel writers wrote it in Greek letters. </p><p>Some English translations preserve the Greek form of the word in English (King James Version, Revised Standard Version, New American Standard Bible). Meanwhile, others translate it with the words “wealth” or “money” (New English Bible, Today&apos;s English Version, New International Version, New Living Translation). In <a href=\"https://ref.ly/Matt6:24\">Matthew 6:24</a> and <a href=\"https://ref.ly/Luke16:13\">Luke 16:13</a>, “mammon” is rivalled against God for his disciple&apos;s loyalty: Which master will they be obedient to? In <a href=\"https://ref.ly/Luke16:9-Luke16:11\">Luke 16:9–11</a> the term designates material wealth or property. <span>Mammon has no negative value. Luke 16:11 makes this clear. It says</span>: “<span>If you have not been faithful with worldly wealth, who will entrust you with true riches</span>?”</p>",
+    "content": "<h1>MALTA</h1><p>Island in the Mediterranean Sea, south of Sicily. The name Malta occurs only once in the Bible (<a href=\"https://ref.ly/Acts28:1\">Acts 28:1</a>, kjv “Melita”), in connection with the shipwreck that occurred on Paul’s voyage to Rome (<a href=\"https://ref.ly/Acts25:11-Acts25:12\">25:11–12</a>). This voyage was undertaken during the winter, the season in which storms are most likely to be encountered on the Mediterranean. The ship proceeded cautiously, for contrary winds were blowing (<a href=\"https://ref.ly/Acts27:4\">27:4</a>). With difficulty they reached the harbor of Fair Havens on Crete (vv <a href=\"https://ref.ly/Acts27:7-Acts27:8\">7–8</a>). In spite of a warning by Paul, the decision was made to try to reach the Cretan port of Phoenix, which was more suitable for wintering (vv <a href=\"https://ref.ly/Acts27:9-Acts27:12\">9–12</a>).</p><p>Caught by a severe storm and driven helplessly by the wind for 14 days, the ship finally neared land during the night. In the morning, the ship tried for the beach but ran aground and was pounded to pieces by the surf. Everyone managed to reach the shore safely. While putting wood on a fire, Paul was bitten by a viper. The natives of the island supposed that he was a criminal whose life was being taken by the bite of a snake. When he did not fall down dead, they radically changed their opinion of him and regarded him as a god (<a href=\"https://ref.ly/Acts28:6\">Acts 28:6</a>).</p><p>The island of Malta is about 60 miles (96.5 kilometers) from Sicily and has an area of 95 square miles (246.1 square kilometers). St. Paul’s Bay marks the traditional site of the shipwreck of Acts. The island is essentially agricultural, but production is poor because of the thin calcareous soil. Terracing is practiced in order to utilize the soil to the fullest extent. The island has no rivers and is dependent on rainfall and springs for its water. The climate in general is mild, but in the summer the island is subject to the hot, dust-laden sirocco from the deserts of Libya.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40006024",
-          "start_ref_usfm": "MAT 6:24",
-          "end_ref": "40006024",
-          "end_ref_usfm": "MAT 6:24"
+          "start_ref": "44027004",
+          "start_ref_usfm": "ACT 27:4",
+          "end_ref": "44027004",
+          "end_ref_usfm": "ACT 27:4"
         },
         {
-          "start_ref": "42016011",
-          "start_ref_usfm": "LUK 16:11",
-          "end_ref": "42016011",
-          "end_ref_usfm": "LUK 16:11"
+          "start_ref": "44028001",
+          "start_ref_usfm": "ACT 28:1",
+          "end_ref": "44028001",
+          "end_ref_usfm": "ACT 28:1"
         },
         {
-          "start_ref": "42016013",
-          "start_ref_usfm": "LUK 16:13",
-          "end_ref": "42016013",
-          "end_ref_usfm": "LUK 16:13"
+          "start_ref": "44028006",
+          "start_ref_usfm": "ACT 28:6",
+          "end_ref": "44028006",
+          "end_ref_usfm": "ACT 28:6"
         },
         {
-          "start_ref": "42016009",
-          "start_ref_usfm": "LUK 16:9",
-          "end_ref": "42016011",
-          "end_ref_usfm": "LUK 16:11"
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025012",
+          "end_ref_usfm": "ACT 25:12"
+        },
+        {
+          "start_ref": "44027009",
+          "start_ref_usfm": "ACT 27:9",
+          "end_ref": "44027012",
+          "end_ref_usfm": "ACT 27:12"
+        },
+        {
+          "start_ref": "44027007",
+          "start_ref_usfm": "ACT 27:7",
+          "end_ref": "44027008",
+          "end_ref_usfm": "ACT 27:8"
         }
       ],
       "resource": []

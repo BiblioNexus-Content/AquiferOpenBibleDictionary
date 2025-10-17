@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 5691,
-    "reference_id": 4859,
-    "title": "Hasenuah",
+    "content_id": 5690,
+    "reference_id": 4858,
+    "title": "Hasadiah",
     "media_type": "Text",
-    "index_reference": "hasenuah",
+    "index_reference": "hasadiah",
     "language": "eng",
-    "content": "<h1>HASENUAH*</h1><p>KJV rendering of Hassenuah in <a href=\"https://ref.ly/1Chr9:7\">1&nbsp;Chronicles 9:7</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4874\" data-resourceType=\"TyndaleBibleDictionary\">Hassenuah</span>.</p>",
+    "content": "<h1>HASADIAH</h1><p>One of Zerubbabel’s sons (<a href=\"https://ref.ly/1Chr3:20\">1&nbsp;Chr 3:20</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13009007",
-          "start_ref_usfm": "1CH 9:7",
-          "end_ref": "13009007",
-          "end_ref_usfm": "1CH 9:7"
+          "start_ref": "13003020",
+          "start_ref_usfm": "1CH 3:20",
+          "end_ref": "13003020",
+          "end_ref_usfm": "1CH 3:20"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4874,
-          "content_id": 5706,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Hassenuah",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

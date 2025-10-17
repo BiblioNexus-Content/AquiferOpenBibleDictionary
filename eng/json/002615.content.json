@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 5864,
-    "reference_id": 5032,
-    "title": "Hizkijah",
+    "content_id": 5863,
+    "reference_id": 5031,
+    "title": "Hizkiah",
     "media_type": "Text",
-    "index_reference": "hizkijah",
+    "index_reference": "hizkiah",
     "language": "eng",
-    "content": "<h1>HIZKIJAH*</h1><p>KJV form of Hezekiah, Ater’s descendant, in <a href=\"https://ref.ly/Neh10:17\">Nehemiah 10:17</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5001\" data-resourceType=\"TyndaleBibleDictionary\">Hezekiah #3</span>.</p>",
+    "content": "<h1>HIZKIAH</h1><p>1. Neariah’s son and a descendant of David through Rehoboam’s line (<a href=\"https://ref.ly/1Chr3:23\">1&nbsp;Chr 3:23</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5001\" data-resourceType=\"TyndaleBibleDictionary\">Hezekiah #2</span>.</p><p>2. KJV spelling of Hezekiah, Zephaniah’s forefather, in <a href=\"https://ref.ly/Zeph1:1\">Zephaniah 1:1</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5001\" data-resourceType=\"TyndaleBibleDictionary\">Hezekiah #4</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16010017",
-          "start_ref_usfm": "NEH 10:17",
-          "end_ref": "16010017",
-          "end_ref_usfm": "NEH 10:17"
+          "start_ref": "13003023",
+          "start_ref_usfm": "1CH 3:23",
+          "end_ref": "13003023",
+          "end_ref_usfm": "1CH 3:23"
+        },
+        {
+          "start_ref": "36001001",
+          "start_ref_usfm": "ZEP 1:1",
+          "end_ref": "36001001",
+          "end_ref_usfm": "ZEP 1:1"
         }
       ],
       "resource": [

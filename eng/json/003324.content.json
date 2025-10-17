@@ -1,27 +1,34 @@
 [
   {
-    "content_id": 6582,
-    "reference_id": 5750,
-    "title": "Kilmad",
+    "content_id": 6581,
+    "reference_id": 5749,
+    "title": "Killing",
     "media_type": "Text",
-    "index_reference": "kilmad",
+    "index_reference": "killing",
     "language": "eng",
-    "content": "<h1>KILMAD</h1><p>Another spelling of Chilmad, a city in Mesopotamia (<a href=\"https://ref.ly/Ezek27:23\">Ezekiel 27:23</a>).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3696\" data-resourceType=\"TyndaleBibleDictionary\">Chilmad</span>.</p><p></p>",
+    "content": "<h1>KILLING</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3747\" data-resourceType=\"TyndaleBibleDictionary\">Civil Law and Justice</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3861\" data-resourceType=\"TyndaleBibleDictionary\">Criminal Law and Punishment</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"3786\" data-resourceType=\"TyndaleBibleDictionary\">Commandments, The Ten</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "26027023",
-          "start_ref_usfm": "EZK 27:23",
-          "end_ref": "26027023",
-          "end_ref_usfm": "EZK 27:23"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 3696,
-          "content_id": 4528,
+          "reference_id": 3747,
+          "content_id": 4579,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Chilmad",
+          "label": "Civil Law and Justice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 3786,
+          "content_id": 4618,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Commandments, the Ten",
+          "language": "eng"
+        },
+        {
+          "reference_id": 3861,
+          "content_id": 4693,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Criminal Law and Punishment",
           "language": "eng"
         }
       ]

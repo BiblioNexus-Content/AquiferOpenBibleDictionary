@@ -1,49 +1,25 @@
 [
   {
-    "content_id": 811818,
-    "reference_id": 4820,
-    "title": "Hénoc",
+    "content_id": 785199,
+    "reference_id": 4376,
+    "title": "Exorcisme, Exorciste",
     "media_type": "Text",
-    "index_reference": "hénoc",
+    "index_reference": "exorcisme, exorciste",
     "language": "fra",
-    "content": "<h1>HÉNOC</h1><ol><li><p>Troisième fils de Madian, et petit-fils d&apos;Abraham par Ketura (<a href=\"https://ref.ly/Gen25:4\">Gn 25.4</a> ; <a href=\"https://ref.ly/1Chr1:33\">1Ch 1.33</a>).</p></li><li><p>Premier fils de Ruben (<a href=\"https://ref.ly/Gen46:9\">Gn 46.9</a> ; <a href=\"https://ref.ly/Exod6:14\">Ex 6.14</a> ; <a href=\"https://ref.ly/1Chr5:3\">1Ch 5.3</a>) et ancêtre des <span>Hénokites</span> (<a href=\"https://ref.ly/Num26:5\">Nb 26.5</a>).</p></li></ol>",
+    "content": "<h1>EXORCISME, EXORCISTE</h1><p>Un exorcisme est la pratique qui consiste à chasser les démons et les esprits maléfiques. Un exorciste est une personne qui effectue un exorcisme.</p><p>Beaucoup de gens au Proche-Orient Ancien prétendaient pouvoir chasser ou contrôler les démons. Certains des miracles de Jésus relatés dans les Évangiles sont des exorcismes. Mais <a href=\"https://ref.ly/Acts19:13\">Actes 19.13</a> est la seule autre référence biblique à l&apos;exorcisme parmi les Juifs. Cependant, dans <a href=\"https://ref.ly/1Sam16:14-1Sam16:23\">1 Samuel 16.14–23</a>, David agit comme un exorciste lorsqu&apos;il jouait de sa harpe pour chasser un esprit mauvais du roi Saül.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3977\" data-resourceType=\"TyndaleBibleDictionary\">Démon</span> ; <span data-bnType=\"resourceReference\" data-resourceId=\"3976\" data-resourceType=\"TyndaleBibleDictionary\">Possession démoniaque</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01025004",
-          "start_ref_usfm": "GEN 25:4",
-          "end_ref": "01025004",
-          "end_ref_usfm": "GEN 25:4"
+          "start_ref": "44019013",
+          "start_ref_usfm": "ACT 19:13",
+          "end_ref": "44019013",
+          "end_ref_usfm": "ACT 19:13"
         },
         {
-          "start_ref": "01046009",
-          "start_ref_usfm": "GEN 46:9",
-          "end_ref": "01046009",
-          "end_ref_usfm": "GEN 46:9"
-        },
-        {
-          "start_ref": "02006014",
-          "start_ref_usfm": "EXO 6:14",
-          "end_ref": "02006014",
-          "end_ref_usfm": "EXO 6:14"
-        },
-        {
-          "start_ref": "04026005",
-          "start_ref_usfm": "NUM 26:5",
-          "end_ref": "04026005",
-          "end_ref_usfm": "NUM 26:5"
-        },
-        {
-          "start_ref": "13001033",
-          "start_ref_usfm": "1CH 1:33",
-          "end_ref": "13001033",
-          "end_ref_usfm": "1CH 1:33"
-        },
-        {
-          "start_ref": "13005003",
-          "start_ref_usfm": "1CH 5:3",
-          "end_ref": "13005003",
-          "end_ref_usfm": "1CH 5:3"
+          "start_ref": "09016014",
+          "start_ref_usfm": "1SA 16:14",
+          "end_ref": "09016023",
+          "end_ref_usfm": "1SA 16:23"
         }
       ],
       "resource": []

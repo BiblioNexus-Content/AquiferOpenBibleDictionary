@@ -1,33 +1,20 @@
 [
   {
-    "content_id": 5751,
-    "reference_id": 4919,
-    "title": "Heath",
+    "content_id": 5749,
+    "reference_id": 4917,
+    "title": "Hearth",
     "media_type": "Text",
-    "index_reference": "heath",
+    "index_reference": "hearth",
     "language": "eng",
-    "content": "<h1>HEATH*</h1><p>Type of evergreen shrub; kjv mistranslation for&nbsp;shrub or bush in <a href=\"https://ref.ly/Jer17:6\">Jeremiah 17:6</a> and <a href=\"https://ref.ly/Jer48:6\">48:6</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plants (Juniper)</span>.</p>",
+    "content": "<h1>HEARTH</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5057\" data-resourceType=\"TyndaleBibleDictionary\">Homes and Dwellings</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "24017006",
-          "start_ref_usfm": "JER 17:6",
-          "end_ref": "24017006",
-          "end_ref_usfm": "JER 17:6"
-        },
-        {
-          "start_ref": "24048006",
-          "start_ref_usfm": "JER 48:6",
-          "end_ref": "24048006",
-          "end_ref_usfm": "JER 48:6"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 6929,
-          "content_id": 7761,
+          "reference_id": 5057,
+          "content_id": 5889,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Plants",
+          "label": "Homes and Dwellings",
           "language": "eng"
         }
       ]

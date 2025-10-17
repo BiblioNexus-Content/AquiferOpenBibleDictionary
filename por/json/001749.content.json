@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 759992,
-    "reference_id": 7503,
-    "title": "Selaíta",
+    "content_id": 658726,
+    "reference_id": 7253,
+    "title": "Sabtecá",
     "media_type": "Text",
-    "index_reference": "selaíta",
+    "index_reference": "sabtecá",
     "language": "por",
-    "content": "<h1>SELAÍTA</h1><p>Qualquer descendente de Selá, filho de Judá (<a href=\"https://ref.ly/Num26:20\">Nm 26.20</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7502\" data-resourceType=\"TyndaleBibleDictionary\">Selá #2</span>.</p>",
+    "content": "<h1>SABTECÁ</h1><p>Um dos cinco filhos de Cuxe e um descendente de Noé através da linhagem de Cam (<a href=\"https://ref.ly/Gen10:7\">Gn 10.7</a>; <a href=\"https://ref.ly/1Chr1:9\">1Cr 1.9</a>). Sabtecá se estabeleceu na Arábia.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026020",
-          "start_ref_usfm": "NUM 26:20",
-          "end_ref": "04026020",
-          "end_ref_usfm": "NUM 26:20"
+          "start_ref": "01010007",
+          "start_ref_usfm": "GEN 10:7",
+          "end_ref": "01010007",
+          "end_ref_usfm": "GEN 10:7"
+        },
+        {
+          "start_ref": "13001009",
+          "start_ref_usfm": "1CH 1:9",
+          "end_ref": "13001009",
+          "end_ref_usfm": "1CH 1:9"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 7502,
-          "content_id": 658734,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Selá",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

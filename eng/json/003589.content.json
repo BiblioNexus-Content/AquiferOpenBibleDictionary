@@ -1,30 +1,28 @@
 [
   {
-    "content_id": 6847,
-    "reference_id": 6015,
-    "title": "Magadan",
+    "content_id": 6846,
+    "reference_id": 6014,
+    "title": "Madon",
     "media_type": "Text",
-    "index_reference": "magadan",
+    "index_reference": "madon",
     "language": "eng",
-    "content": "<h1>MAGADAN</h1><p>A location that Jesus visited after he crossed the Sea of Galilee (<a href=\"https://ref.ly/Matt15:39\">Matthew 15:39</a>). The correct spelling was most likely Magdala. The only New Testament reference to this town is in the name of Mary <em>Magdalene.</em> Magadan had several names:</p><ul><li><p>Greek sources call it Taricheae, “factories for salting fish” (Strabo 16.2.45; Pliny 5.71)</p></li><li><p>Rabbinic sources call it Migdal Nunnayah or Migdal Sab’aiyah, “Tower of the Fishes/ Dyers” </p></li><li><p>It was also called el-Mejdel </p></li></ul><p>It was about 4.8 kilometers (three miles) northwest of Tiberias, on the southern end of the great plain of Gennesaret. It was famous for its fertile soil and constant enjoyable climate.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3906\" data-resourceType=\"TyndaleBibleDictionary\">Dalmanutha</span>.</p>",
+    "content": "<h1>MADON</h1><p>One of the many Canaanite cities allied against Joshua in a vain attempt to stop the progress of the Israelites into Palestine. A disastrous battle fought at Meron brought these cities under Israelite control (<a href=\"https://ref.ly/Josh11:1\">Jos 11:1</a>; <a href=\"https://ref.ly/Josh12:19\">12:19</a>). Madon is probably the modern Qarn Hattin, about five miles (8 kilometers) from the Sea of&nbsp;Galilee.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "40015039",
-          "start_ref_usfm": "MAT 15:39",
-          "end_ref": "40015039",
-          "end_ref_usfm": "MAT 15:39"
+          "start_ref": "06011001",
+          "start_ref_usfm": "JOS 11:1",
+          "end_ref": "06011001",
+          "end_ref_usfm": "JOS 11:1"
+        },
+        {
+          "start_ref": "06012019",
+          "start_ref_usfm": "JOS 12:19",
+          "end_ref": "06012019",
+          "end_ref_usfm": "JOS 12:19"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3906,
-          "content_id": 4738,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Dalmanutha",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

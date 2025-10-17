@@ -1,46 +1,23 @@
 [
   {
-    "content_id": 5101,
-    "reference_id": 4269,
-    "title": "Ephah (Person)",
+    "content_id": 5100,
+    "reference_id": 4268,
+    "title": "Ephah (Measurement)",
     "media_type": "Text",
-    "index_reference": "ephah (person)",
+    "index_reference": "ephah (measurement)",
     "language": "eng",
-    "content": "<h1>EPHAH (Person)</h1><p>1. Son of Midian, an offspring of Abraham through his concubine Keturah (<a href=\"https://ref.ly/Gen25:4\">Gn 25:4</a>; <a href=\"https://ref.ly/1Chr1:33\">1&nbsp;Chr 1:33</a>). Isaiah mentions him as a gold trader (<a href=\"https://ref.ly/Isa60:6\">Is 60:6</a>). Some manuscripts mention two sons of Midian with the same name, Ephah, but that is an error of misspelling.</p><p>2. Caleb’s concubine, who bore him three sons (<a href=\"https://ref.ly/1Chr2:46\">1&nbsp;Chr 2:46</a>).</p><p>3. Jahdai’s son from Judah’s tribe (<a href=\"https://ref.ly/1Chr2:47\">1&nbsp;Chr 2:47</a>).</p>",
+    "content": "<h1>EPHAH (Measurement)</h1><p>Measure of grain, about half a bushel (18 liters). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Weights and Measures</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "01025004",
-          "start_ref_usfm": "GEN 25:4",
-          "end_ref": "01025004",
-          "end_ref_usfm": "GEN 25:4"
-        },
-        {
-          "start_ref": "13001033",
-          "start_ref_usfm": "1CH 1:33",
-          "end_ref": "13001033",
-          "end_ref_usfm": "1CH 1:33"
-        },
-        {
-          "start_ref": "13002046",
-          "start_ref_usfm": "1CH 2:46",
-          "end_ref": "13002046",
-          "end_ref_usfm": "1CH 2:46"
-        },
-        {
-          "start_ref": "13002047",
-          "start_ref_usfm": "1CH 2:47",
-          "end_ref": "13002047",
-          "end_ref_usfm": "1CH 2:47"
-        },
-        {
-          "start_ref": "23060006",
-          "start_ref_usfm": "ISA 60:6",
-          "end_ref": "23060006",
-          "end_ref_usfm": "ISA 60:6"
+          "reference_id": 8219,
+          "content_id": 9051,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Weights and Measures",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

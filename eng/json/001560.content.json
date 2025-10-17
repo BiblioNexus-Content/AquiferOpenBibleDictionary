@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 4811,
-    "reference_id": 3979,
-    "title": "Denarius",
+    "content_id": 4810,
+    "reference_id": 3978,
+    "title": "Demophon",
     "media_type": "Text",
-    "index_reference": "denarius",
+    "index_reference": "demophon",
     "language": "eng",
-    "content": "<h1>DENARIUS</h1><p>A denarius was a silver coin used in the Roman Empire. Most workers earned one denarius for working a full day.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3779\" data-resourceType=\"TyndaleBibleDictionary\">Coins</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6362\" data-resourceType=\"TyndaleBibleDictionary\">Money</span>.</p>",
+    "content": "<h1>DEMOPHON</h1><p>A Syrian officer and district governor in Palestine. He served under Antiochus V (about 164 BC). His fellow governors were Timothy, Apollonius, and Hieronymus. Even though two leaders, Lysias and Judas Maccabeus, had made peace agreements, Demophon and the other leaders kept causing problems for the Jewish people (<a href=\"https://ref.ly/2Macc12:2\">2&nbsp;Maccabees 12:2</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 3779,
-          "content_id": 4611,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Coins",
-          "language": "eng"
-        },
-        {
-          "reference_id": 6362,
-          "content_id": 7194,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Money",
-          "language": "eng"
+          "start_ref": "79012002",
+          "start_ref_usfm": "2MA 12:2",
+          "end_ref": "79012002",
+          "end_ref_usfm": "2MA 12:2"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

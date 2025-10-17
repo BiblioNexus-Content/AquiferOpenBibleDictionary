@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 5392,
-    "reference_id": 4560,
-    "title": "Geber",
+    "content_id": 5389,
+    "reference_id": 4557,
+    "title": "Gebalite",
     "media_type": "Text",
-    "index_reference": "geber",
+    "index_reference": "gebalite",
     "language": "eng",
-    "content": "<h1>GEBER</h1><p>1. Alternate name for Ben-geber, one of Solomon’s commissariat officers, in <a href=\"https://ref.ly/1Kgs4:13\">1&nbsp;Kings 4:13</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3272\" data-resourceType=\"TyndaleBibleDictionary\">Ben-geber</span>.</p><p>2. Uri’s son, who was responsible for providing food for Solomon’s household. His territory was probably south of Ramoth-gilead (<a href=\"https://ref.ly/1Kgs4:19\">1&nbsp;Kgs 4:19</a>). Perhaps #1 and #2 were related.</p>",
+    "content": "<h1>GEBALITE</h1><p>Inhabitant of Gebal (<a href=\"https://ref.ly/Josh13:5\">Jos 13:5</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4558\" data-resourceType=\"TyndaleBibleDictionary\">Gebal #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "11004013",
-          "start_ref_usfm": "1KI 4:13",
-          "end_ref": "11004013",
-          "end_ref_usfm": "1KI 4:13"
-        },
-        {
-          "start_ref": "11004019",
-          "start_ref_usfm": "1KI 4:19",
-          "end_ref": "11004019",
-          "end_ref_usfm": "1KI 4:19"
+          "start_ref": "06013005",
+          "start_ref_usfm": "JOS 13:5",
+          "end_ref": "06013005",
+          "end_ref_usfm": "JOS 13:5"
         }
       ],
       "resource": [
         {
-          "reference_id": 3272,
-          "content_id": 4104,
+          "reference_id": 4558,
+          "content_id": 5390,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ben-Geber",
+          "label": "Gebal",
           "language": "eng"
         }
       ]

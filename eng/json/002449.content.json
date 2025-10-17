@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 5704,
-    "reference_id": 4872,
-    "title": "Hasrah",
+    "content_id": 5703,
+    "reference_id": 4871,
+    "title": "Hasmonean",
     "media_type": "Text",
-    "index_reference": "hasrah",
+    "index_reference": "hasmonean",
     "language": "eng",
-    "content": "<h1>HASRAH*</h1><p>Variant spelling of Harhas, Shallum’s grandfather, in <a href=\"https://ref.ly/2Chr34:22\">2&nbsp;Chronicles 34:22</a> (nlt mg). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4836\" data-resourceType=\"TyndaleBibleDictionary\">Harhas</span>.</p>",
+    "content": "<h1>HASMONEAN*</h1><p>Family name of the Jews who instigated the Jewish revolt against the Greeks in 167 BC. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5646\" data-resourceType=\"TyndaleBibleDictionary\">Judaism</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "14034022",
-          "start_ref_usfm": "2CH 34:22",
-          "end_ref": "14034022",
-          "end_ref_usfm": "2CH 34:22"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 4836,
-          "content_id": 5668,
+          "reference_id": 5646,
+          "content_id": 6478,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Harhas",
+          "label": "Judaism",
           "language": "eng"
         }
       ]

@@ -1,34 +1,30 @@
 [
   {
-    "content_id": 7705,
-    "reference_id": 6873,
-    "title": "Phichol, Phicol",
+    "content_id": 7704,
+    "reference_id": 6872,
+    "title": "Phenicia",
     "media_type": "Text",
-    "index_reference": "phichol, phicol",
+    "index_reference": "phenicia",
     "language": "eng",
-    "content": "<h1>PHICHOL, PHICOL</h1><p>The leader of Abimelech&apos;s army. He was present when Abimelech made peace agreements with Abraham and later with Isaac (<a href=\"https://ref.ly/Gen21:22,Gen21:32\">Genesis 21:22, 32</a>; <a href=\"https://ref.ly/Gen26:26\">26:26</a>). The presence of an army commander should have indicated that Abraham was vulnerable. But, the enemies acknowledged the superior power of the God of Abraham. So, they sought to live with him in peace.</p>",
+    "content": "<h1>PHENICIA</h1><p>The King James Version spelling of Phoenicia in <a href=\"https://ref.ly/Acts21:2\">Acts 21:2</a>. This refers to an ancient region along the Mediterranean coast in what is now Lebanon and parts of Syria.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6889\" data-resourceType=\"TyndaleBibleDictionary\">Phoenicia, Phoenicians</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01021022",
-          "start_ref_usfm": "GEN 21:22",
-          "end_ref": "01021022",
-          "end_ref_usfm": "GEN 21:22"
-        },
-        {
-          "start_ref": "01021032",
-          "start_ref_usfm": "GEN 21:32",
-          "end_ref": "01021032",
-          "end_ref_usfm": "GEN 21:32"
-        },
-        {
-          "start_ref": "01026026",
-          "start_ref_usfm": "GEN 26:26",
-          "end_ref": "01026026",
-          "end_ref_usfm": "GEN 26:26"
+          "start_ref": "44021002",
+          "start_ref_usfm": "ACT 21:2",
+          "end_ref": "44021002",
+          "end_ref_usfm": "ACT 21:2"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6889,
+          "content_id": 7721,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Phoenicia, Phoenicians",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 4537,
-    "reference_id": 3705,
-    "title": "Chiun",
+    "content_id": 4536,
+    "reference_id": 3704,
+    "title": "Chittim",
     "media_type": "Text",
-    "index_reference": "chiun",
+    "index_reference": "chittim",
     "language": "eng",
-    "content": "<h1>CHIUN*</h1><p>KJV form of Kaiwan, an Assyrian astral deity, in <a href=\"https://ref.ly/Amos5:26\">Amos 5:26</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5683\" data-resourceType=\"TyndaleBibleDictionary\">Kaiwan</span>.</p>",
+    "content": "<h1>CHITTIM</h1><p>Another spelling of Kittim, the ancient Hebrew name for the island of Cyprus.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5800\" data-resourceType=\"TyndaleBibleDictionary\">Kittim</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "30005026",
-          "start_ref_usfm": "AMO 5:26",
-          "end_ref": "30005026",
-          "end_ref_usfm": "AMO 5:26"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5683,
-          "content_id": 6515,
+          "reference_id": 5800,
+          "content_id": 6632,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Kaiwan",
+          "label": "Kittim",
           "language": "eng"
         }
       ]

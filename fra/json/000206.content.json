@@ -1,37 +1,67 @@
 [
   {
-    "content_id": 713673,
-    "reference_id": 7248,
-    "title": "Chemin de Sabbat",
+    "content_id": 822889,
+    "reference_id": 3491,
+    "title": "Botsra",
     "media_type": "Text",
-    "index_reference": "chemin de sabbat",
+    "index_reference": "botsra",
     "language": "fra",
-    "content": "<h1>CHEMIN DE SABBAT</h1><p>Une règle de la tradition juive limitait la distance que les gens pouvaient parcourir le jour du sabbat. Le commandement qui interdisait de travailler le jour du sabbat était compris comme incluant l&apos;interdiction de parcourir de longues distances (<a href=\"https://ref.ly/Exod16:27-Exod16:30\">Ex 16.27–30</a>). Une personne était autorisée à parcourir deux mille coudées, soit environ un kilomètre, mais pas plus loin (voir <a href=\"https://ref.ly/Josh3:4\">Jos 3.4</a>).</p><p>Cette distance a été décidée sur la base de deux références bibliques :</p><ul><li><p>L&apos;espace entre l&apos;arche et les personnes qui la suivaient (<a href=\"https://ref.ly/Josh3:4\">Jos 3.4</a>), ou</p></li><li><p>Des pâturages aux villes lévitiques (<a href=\"https://ref.ly/Num35:4-Num35:5\">Nb 35.4–5</a>).</p></li></ul><p>L&apos;idée était qu&apos;une personne ne devrait pas aller au-delà de ce qui est nécessaire pour adorer ou pour s&apos;occuper des animaux.</p><p>Le seul endroit où la Bible mentionne directement cette pratique est dans <a href=\"https://ref.ly/Acts1:12\">Actes 1.12</a>, qui décrit la distance de la montagne des Oliviers à Jérusalem comme « un chemin de sabbat ». Selon Josèphe (un historien juif), cette distance était entre 914 et 1 097 mètres.</p><p>Les rabbins (enseignants juifs) ont mis en place des moyens pour au moins doubler cette distance autorisée. Une méthode consistait à établir une résidence temporaire à deux mille coudées en emportant suffisamment de nourriture pour deux repas. Ils mangeaient un repas et enterraient l&apos;autre dans le sol pour marquer un lieu de résidence temporaire. Une autre méthode consistait à désigner un endroit à deux mille coudées et à le considérer comme leur domicile légal pour le sabbat. Ils pouvaient également considérer l&apos;ensemble de leur ville comme leur domicile et calculer le « chemin de sabbat » à partir des abords du village.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7250\" data-resourceType=\"TyndaleBibleDictionary\">Sabbat</span>.</p>",
+    "content": "<h1>BOTSRA</h1><p>1. Ville fortifiée dans le nord d&apos;Édom (<a href=\"https://ref.ly/Gen36:33\">Gn 36.33</a> ; <a href=\"https://ref.ly/1Chr1:44\">1Ch 1.44</a>), considérée comme impossible à conquérir car elle était protégée par des falaises sur trois côtés. Située à 50 km au nord de Pétra environ, à l&apos;emplacement de l&apos;actuelle Buseirah, la ville contrôlait le trafic sur la route royale. Botsra est mentionnée comme l&apos;une des forteresses qui tomberaient lorsque Dieu jugerait Édom (<a href=\"https://ref.ly/Isa34:6\">Es 34.6</a> ; <a href=\"https://ref.ly/Isa63:1\">63.1</a> ; <a href=\"https://ref.ly/Jer49:13\">Jr 49.13</a> ; <a href=\"https://ref.ly/Amos1:12\">Am 1.12</a>).</p><p>2. L&apos;une des villes citées par le prophète Jérémie comme s&apos;effondrant avec la nation moabite (<a href=\"https://ref.ly/Jer48:24\">Jr 48.24</a>) ; sans doute une variante orthographique de Betser. <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3391\" data-resourceType=\"TyndaleBibleDictionary\">Betser (Lieu)</span>.</p><p>3. Ville également appelée Bosorah, capturée par Judas Maccabée au cours de sa campagne de Galaad (<a href=\"https://ref.ly/1Macc5:26,1Macc5:28\">1 M 5.26, 28</a>). Il s&apos;agit peut-être du même endroit que n° 2 ci-dessus.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06003004",
-          "start_ref_usfm": "JOS 3:4",
-          "end_ref": "06003004",
-          "end_ref_usfm": "JOS 3:4"
+          "start_ref": "01036033",
+          "start_ref_usfm": "GEN 36:33",
+          "end_ref": "01036033",
+          "end_ref_usfm": "GEN 36:33"
         },
         {
-          "start_ref": "44001012",
-          "start_ref_usfm": "ACT 1:12",
-          "end_ref": "44001012",
-          "end_ref_usfm": "ACT 1:12"
+          "start_ref": "13001044",
+          "start_ref_usfm": "1CH 1:44",
+          "end_ref": "13001044",
+          "end_ref_usfm": "1CH 1:44"
         },
         {
-          "start_ref": "04035004",
-          "start_ref_usfm": "NUM 35:4",
-          "end_ref": "04035005",
-          "end_ref_usfm": "NUM 35:5"
+          "start_ref": "23034006",
+          "start_ref_usfm": "ISA 34:6",
+          "end_ref": "23034006",
+          "end_ref_usfm": "ISA 34:6"
         },
         {
-          "start_ref": "02016027",
-          "start_ref_usfm": "EXO 16:27",
-          "end_ref": "02016030",
-          "end_ref_usfm": "EXO 16:30"
+          "start_ref": "23063001",
+          "start_ref_usfm": "ISA 63:1",
+          "end_ref": "23063001",
+          "end_ref_usfm": "ISA 63:1"
+        },
+        {
+          "start_ref": "24048024",
+          "start_ref_usfm": "JER 48:24",
+          "end_ref": "24048024",
+          "end_ref_usfm": "JER 48:24"
+        },
+        {
+          "start_ref": "24049013",
+          "start_ref_usfm": "JER 49:13",
+          "end_ref": "24049013",
+          "end_ref_usfm": "JER 49:13"
+        },
+        {
+          "start_ref": "30001012",
+          "start_ref_usfm": "AMO 1:12",
+          "end_ref": "30001012",
+          "end_ref_usfm": "AMO 1:12"
+        },
+        {
+          "start_ref": "78005026",
+          "start_ref_usfm": "1MA 5:26",
+          "end_ref": "78005026",
+          "end_ref_usfm": "1MA 5:26"
+        },
+        {
+          "start_ref": "78005028",
+          "start_ref_usfm": "1MA 5:28",
+          "end_ref": "78005028",
+          "end_ref_usfm": "1MA 5:28"
         }
       ],
       "resource": []

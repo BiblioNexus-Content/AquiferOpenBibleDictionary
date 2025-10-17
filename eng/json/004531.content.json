@@ -1,52 +1,46 @@
 [
   {
-    "content_id": 7792,
-    "reference_id": 6960,
-    "title": "Potsherd",
+    "content_id": 7790,
+    "reference_id": 6958,
+    "title": "Potiphera",
     "media_type": "Text",
-    "index_reference": "potsherd",
+    "index_reference": "potiphera",
     "language": "eng",
-    "content": "<h1>POTSHERD*</h1><p>Piece of broken pottery used in OT times to carry hot coals or to dip water. Potsherds were also used as lids for storage containers or cooking kettles, as a medium for written communication, or to add grit to waterproofing compounds. The symbolic importance of sherds is clear in <a href=\"https://ref.ly/Ps22:15\">Psalm 22:15</a>, <a href=\"https://ref.ly/Isa30:14\">Isaiah 30:14</a>, <a href=\"https://ref.ly/Isa45:9\">45:9</a>, and <a href=\"https://ref.ly/Ezek23:34\">Ezekiel 23:34</a>.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6963\" data-resourceType=\"TyndaleBibleDictionary\">Pottery</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8265\" data-resourceType=\"TyndaleBibleDictionary\">Writing (Potsherds)</span>.</p>",
+    "content": "<h1>POTIPHERA</h1><p>Priest of On whose daughter, Asenath, was given to Joseph as his wife by Pharaoh (<a href=\"https://ref.ly/Gen41:45,Gen41:50\">Gn 41:45, 50</a>; <a href=\"https://ref.ly/Gen46:20\">46:20</a>). On (or Heliopolis) was the center of the sun-god cult, and Potiphera was likely a high-ranking priest in the cult. His name, which means “he whom Re [the son god] has given,” does not appear in Egyptian records until the tenth century BC, a fact employed by those who prefer a late date for the book of Genesis. Yet the name is known from the 15th century (the time of Moses), and its full form may be a modernization of a name common in Joseph’s era (20th century BC).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4122\" data-resourceType=\"TyndaleBibleDictionary\">Egypt, Egyptian</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5617\" data-resourceType=\"TyndaleBibleDictionary\">Joseph #1</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19022015",
-          "start_ref_usfm": "PSA 22:15",
-          "end_ref": "19022015",
-          "end_ref_usfm": "PSA 22:15"
+          "start_ref": "01041045",
+          "start_ref_usfm": "GEN 41:45",
+          "end_ref": "01041045",
+          "end_ref_usfm": "GEN 41:45"
         },
         {
-          "start_ref": "23030014",
-          "start_ref_usfm": "ISA 30:14",
-          "end_ref": "23030014",
-          "end_ref_usfm": "ISA 30:14"
+          "start_ref": "01041050",
+          "start_ref_usfm": "GEN 41:50",
+          "end_ref": "01041050",
+          "end_ref_usfm": "GEN 41:50"
         },
         {
-          "start_ref": "23045009",
-          "start_ref_usfm": "ISA 45:9",
-          "end_ref": "23045009",
-          "end_ref_usfm": "ISA 45:9"
-        },
-        {
-          "start_ref": "26023034",
-          "start_ref_usfm": "EZK 23:34",
-          "end_ref": "26023034",
-          "end_ref_usfm": "EZK 23:34"
+          "start_ref": "01046020",
+          "start_ref_usfm": "GEN 46:20",
+          "end_ref": "01046020",
+          "end_ref_usfm": "GEN 46:20"
         }
       ],
       "resource": [
         {
-          "reference_id": 6963,
-          "content_id": 7795,
+          "reference_id": 4122,
+          "content_id": 4954,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Pottery",
+          "label": "Egypt, Egyptian",
           "language": "eng"
         },
         {
-          "reference_id": 8265,
-          "content_id": 9097,
+          "reference_id": 5617,
+          "content_id": 6449,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Writing",
+          "label": "Joseph",
           "language": "eng"
         }
       ]

@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 7224,
-    "reference_id": 6392,
-    "title": "Mount Horeb",
+    "content_id": 7225,
+    "reference_id": 6393,
+    "title": "Mount Hor",
     "media_type": "Text",
-    "index_reference": "mount horeb",
+    "index_reference": "mount hor",
     "language": "eng",
-    "content": "<h1>MOUNT HOREB*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7681\" data-resourceType=\"TyndaleBibleDictionary\">Sina, Sinai</span>.</p>",
+    "content": "<h1>MOUNT HOR</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5074\" data-resourceType=\"TyndaleBibleDictionary\">Hor, Mount</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 7681,
-          "content_id": 8513,
+          "reference_id": 5074,
+          "content_id": 5906,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Sina, Sinai",
+          "label": "Hor, Mount",
           "language": "eng"
         }
       ]

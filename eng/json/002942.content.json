@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6194,
-    "reference_id": 5362,
-    "title": "Jakin and Boaz",
+    "content_id": 6196,
+    "reference_id": 5364,
+    "title": "Jakin",
     "media_type": "Text",
-    "index_reference": "jakin and boaz",
+    "index_reference": "jakin",
     "language": "eng",
-    "content": "<h1>JAKIN AND BOAZ</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5323\" data-resourceType=\"TyndaleBibleDictionary\">Jachin and Boaz</span>.</p>",
+    "content": "<h1>JAKIN</h1><p>Another spelling for Jachin.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5325\" data-resourceType=\"TyndaleBibleDictionary\">Jachin</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5323,
-          "content_id": 6155,
+          "reference_id": 5325,
+          "content_id": 6157,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jachin and Boaz",
+          "label": "Jachin",
           "language": "eng"
         }
       ]

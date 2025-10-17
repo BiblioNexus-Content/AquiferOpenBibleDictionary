@@ -1,63 +1,95 @@
 [
   {
-    "content_id": 682879,
-    "reference_id": 3267,
-    "title": "Ben-Ami",
+    "content_id": 815895,
+    "reference_id": 3264,
+    "title": "Bema",
     "media_type": "Text",
-    "index_reference": "ben-ami",
+    "index_reference": "bema",
     "language": "por",
-    "content": "<h1>BEN-AMI</h1><p>O filho de Ló e sua filha mais nova. Uma relação incestuosa semelhante entre Ló e sua filha mais velha resultou em um filho chamado Moabe. Os dois filhos são considerados os ancestrais dos povos amonitas e moabitas (<a href=\"https://ref.ly/Gen19:38\">Gn 19.38</a>).</p><p>Embora Ló pudesse ter compartilhado da promessa feita a Abraão (<a href=\"https://ref.ly/Gen11:31\">Gn 11.31</a>; <a href=\"https://ref.ly/Gen12:1-Gen12:4\">12.1–4</a>), ele escolheu seguir seu próprio caminho (<a href=\"https://ref.ly/Gen13:2-Gen13:12\">13.2–12</a>) e não confiou no Senhor (<a href=\"https://ref.ly/Gen19:15-Gen19:23\">19.15–23</a>). No entanto, por causa de seu relacionamento com Abraão, os israelitas trataram os descendentes de Ló com respeito, apesar de os amonitas e moabitas às vezes serem fortes inimigos de Israel (<a href=\"https://ref.ly/2Chr20:1-2Chr20:12\">2Cr 20.1–12</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2734\" data-resourceType=\"TyndaleBibleDictionary\">Amom, Amonitas</span>.</p>",
+    "content": "<h1>BEMA</h1><p>Uma palavra grega para um assento de julgamento ou tribunal de um oficial romano. Esta palavra, que literalmente significa &quot;degrau&quot; ou &quot;passo&quot;, era comumente usada no primeiro século d.C. para se referir a uma plataforma elevada onde discursos políticos ou decisões judiciais eram proferidos. O bema era uma característica importante nas cidades antigas, muitas vezes localizado em áreas públicas significativas, como mercados.</p><p>No Novo Testamento, a palavra é utilizada várias vezes:</p><ul><li><p>Jesus foi interrogado diante do tribunal de Pilatos (<a href=\"https://ref.ly/Matt27:19\">Mt 27.19</a>; <a href=\"https://ref.ly/John19:13\">Jo 19.13</a>).</p></li><li><p>Herodes Agripa I dirigiu-se ao povo de Tiro e Sidom de um tribunal (<a href=\"https://ref.ly/Acts12:21\">At 12.21</a>).</p></li><li><p>O apóstolo Paulo foi levado perante o tribunal de Gálio em Corinto (<a href=\"https://ref.ly/Acts18:12-Acts18:17\">At 18.12–17</a>).</p></li><li><p>O apóstolo Paulo foi novamente levado perante o tribunal de Festo em Cesareia (<a href=\"https://ref.ly/Acts25:6,Acts25:10,Acts25:17\">At 25.6,10,17</a>).</p></li><li><p>Paulo usou a palavra para se referir ao tribunal de julgamento de Deus.</p><ul><li><p>Em <a href=\"https://ref.ly/Rom14:10\">Romanos 14.10,</a> ele advertiu que todos estarão diante do tribunal de Deus.</p></li><li><p>De acordo com <a href=\"https://ref.ly/2Cor5:10\">2 Coríntios 5.10</a>, Paulo descreveu o tribunal de julgamento de Cristo, onde o valor do trabalho de cada pessoa será avaliado (compare <a href=\"https://ref.ly/1Cor3:13-1Cor3:15\">1Co 3.13–15</a>).</p></li></ul></li></ul><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5663\" data-resourceType=\"TyndaleBibleDictionary\">Julgamento</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5662\" data-resourceType=\"TyndaleBibleDictionary\">Tribunal de julgamento</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5856\" data-resourceType=\"TyndaleBibleDictionary\">Julgamento final</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01011031",
-          "start_ref_usfm": "GEN 11:31",
-          "end_ref": "01011031",
-          "end_ref_usfm": "GEN 11:31"
+          "start_ref": "40027019",
+          "start_ref_usfm": "MAT 27:19",
+          "end_ref": "40027019",
+          "end_ref_usfm": "MAT 27:19"
         },
         {
-          "start_ref": "01019038",
-          "start_ref_usfm": "GEN 19:38",
-          "end_ref": "01019038",
-          "end_ref_usfm": "GEN 19:38"
+          "start_ref": "43019013",
+          "start_ref_usfm": "JHN 19:13",
+          "end_ref": "43019013",
+          "end_ref_usfm": "JHN 19:13"
         },
         {
-          "start_ref": "14020001",
-          "start_ref_usfm": "2CH 20:1",
-          "end_ref": "14020012",
-          "end_ref_usfm": "2CH 20:12"
+          "start_ref": "44012021",
+          "start_ref_usfm": "ACT 12:21",
+          "end_ref": "44012021",
+          "end_ref_usfm": "ACT 12:21"
         },
         {
-          "start_ref": "01012001",
-          "start_ref_usfm": "GEN 12:1",
-          "end_ref": "01012004",
-          "end_ref_usfm": "GEN 12:4"
+          "start_ref": "44025006",
+          "start_ref_usfm": "ACT 25:6",
+          "end_ref": "44025006",
+          "end_ref_usfm": "ACT 25:6"
         },
         {
-          "start_ref": "01013002",
-          "start_ref_usfm": "GEN 13:2",
-          "end_ref": "01013012",
-          "end_ref_usfm": "GEN 13:12"
+          "start_ref": "44025010",
+          "start_ref_usfm": "ACT 25:10",
+          "end_ref": "44025010",
+          "end_ref_usfm": "ACT 25:10"
         },
         {
-          "start_ref": "01019015",
-          "start_ref_usfm": "GEN 19:15",
-          "end_ref": "01019023",
-          "end_ref_usfm": "GEN 19:23"
+          "start_ref": "44025017",
+          "start_ref_usfm": "ACT 25:17",
+          "end_ref": "44025017",
+          "end_ref_usfm": "ACT 25:17"
         },
         {
-          "start_ref": "05002008",
-          "start_ref_usfm": "DEU 2:8",
-          "end_ref": "05002019",
-          "end_ref_usfm": "DEU 2:19"
+          "start_ref": "45014010",
+          "start_ref_usfm": "ROM 14:10",
+          "end_ref": "45014010",
+          "end_ref_usfm": "ROM 14:10"
+        },
+        {
+          "start_ref": "47005010",
+          "start_ref_usfm": "2CO 5:10",
+          "end_ref": "47005010",
+          "end_ref_usfm": "2CO 5:10"
+        },
+        {
+          "start_ref": "44018012",
+          "start_ref_usfm": "ACT 18:12",
+          "end_ref": "44018017",
+          "end_ref_usfm": "ACT 18:17"
+        },
+        {
+          "start_ref": "46003013",
+          "start_ref_usfm": "1CO 3:13",
+          "end_ref": "46003015",
+          "end_ref_usfm": "1CO 3:15"
         }
       ],
       "resource": [
         {
-          "reference_id": 2734,
-          "content_id": 682852,
+          "reference_id": 5662,
+          "content_id": 682991,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Amom, Amonitas",
+          "label": "Trono do julgamento",
+          "language": "por"
+        },
+        {
+          "reference_id": 5663,
+          "content_id": 481551,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Julgamento",
+          "language": "por"
+        },
+        {
+          "reference_id": 5856,
+          "content_id": 816001,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Juízo final",
           "language": "por"
         }
       ]

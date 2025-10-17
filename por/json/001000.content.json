@@ -1,75 +1,93 @@
 [
   {
-    "content_id": 759839,
-    "reference_id": 5358,
-    "title": "Jair",
+    "content_id": 683110,
+    "reference_id": 8127,
+    "title": "Incircuncisão",
     "media_type": "Text",
-    "index_reference": "jair",
+    "index_reference": "incircuncisão",
     "language": "por",
-    "content": "<h1>JAIR</h1><ol><li><p>Um descendente de Manassés (<a href=\"https://ref.ly/Num32:41\">NM 32.41</a>). Na época da Conquista, ele tomou várias aldeias na região de Argobe, em Basã e Gileade, e as chamou com seu próprio nome, Havote-Jair, que significa &quot;Cidades de Jair&quot; (<a href=\"https://ref.ly/Deut3:14\">Dt 3.14</a>; compare <a href=\"https://ref.ly/Josh13:30\">Js 13.30</a>; <a href=\"https://ref.ly/1Kgs4:13\">1Rs 4.13</a>; <a href=\"https://ref.ly/1Chr2:23\">1Cr 2.23</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4889\" data-resourceType=\"TyndaleBibleDictionary\">Havote-Jair</span>.</p></li><li><p>Um dos juízes de Israel. Ele julgou Israel por 22 anos. Ser um gileadita significa que ele pode ser descendente do #1 acima (<a href=\"https://ref.ly/Judg10:3-Judg10:5\">Jz 10.3–5</a>).</p></li><li><p>Pai de Elanã, que matou Lami, irmão de Golias (<a href=\"https://ref.ly/1Chr20:5\">1Cr 20.5</a>). Em <a href=\"https://ref.ly/2Sam21:19\">2 Samuel 21.19</a>, ele é chamado Jaaré-Oregim.</p></li><li><p>Pai de Mordecai (<a href=\"https://ref.ly/Esth2:5\">Et 2.5</a>). Há um salto no tempo de 597 a.C., quando capturaram Jeconias, rei de Judá, para 486 a.C., quando Xerxes, rei da Pérsia, começou seu reinado. Isso ocorre no início de Ester. Isso sugere que Jair pode ter sido exilado juntamente com Jeconias ou, alternativamente, que foi seu pai, Simei, quem foi levado. Nesse caso, Jair teria nascido durante o cativeiro.</p></li></ol>",
+    "content": "<h1>INCIRCUNCISÃO*</h1><p>É a condição natural do homem, ou seja, com o prepúcio cobrindo o pênis. Como os judeus, entre muitos outros povos, removiam isso cirurgicamente como um sinal de sua aliança com Deus (<a href=\"https://ref.ly/Gen17:9-Gen17:14\">Gn 17.9–14</a>; <a href=\"https://ref.ly/Exod12:48\">Êx 12.48</a>; <a href=\"https://ref.ly/Lev12:3\">Lv 12.3</a>), o termo passou a designar “não judeu” ou “gentio” (filisteus, gregos e romanos não circuncidavam, mas egípcios e muitos povos semitas sim). Por extensão, conotava “aqueles fora da aliança”.</p><p>O termo &quot;incircuncisão&quot; ocorre 20 vezes no NT, geralmente significando simplesmente &quot;gentio&quot;, em oposição a judeu. Paulo argumenta fortemente contra fazer tais distinções. Para Paulo, a atitude do coração de alguém em relação a Deus é muito mais importante do que a lei ritual, que não tem nada a ver com sua salvação (<a href=\"https://ref.ly/Rom2:25-Rom2:27\">Rm 2.25–27</a>). Abraão se tornou um crente e foi justificado por Deus enquanto estava incircunciso, então a circuncisão não tem nada a ver com sua salvação (<a href=\"https://ref.ly/Rom3:30\">3.30</a>; <a href=\"https://ref.ly/Rom4:9-Rom4:12\">4.9–12</a>). Anteriormente, os gentios eram excluídos do povo de Deus (<a href=\"https://ref.ly/Eph2:11-Eph2:12\">Ef 2.11–12</a>), mas agora os crentes judeus e não judeus (gentios) se tornaram um em Cristo (<a href=\"https://ref.ly/Gal2:7\">Gl 2.7</a>; <a href=\"https://ref.ly/Gal5:6\">5.6</a>; <a href=\"https://ref.ly/Gal6:15\">6.15</a>; <a href=\"https://ref.ly/Col3:11\">Cl 3.11</a>). Paulo se recusa a ceder àqueles que exigem circuncisão para a plena membresia na igreja.</p><p>Em uma passagem (<a href=\"https://ref.ly/Col2:8-Col2:15\">Cl 2.8–15</a>), Paulo fala da incircuncisão metaforicamente, significando o estado não regenerado de uma pessoa. Aqui, a incircuncisão é equivalente à “carne” (significando o impulso maligno ou estado natural de alguém). Assim como a carne literal é cortada no rito da circuncisão, essa “carne” é cortada por Cristo no momento da conversão, como simbolizado no batismo. A pessoa batizada é purificada da “impureza”, assim como um não judeu circuncidado é purificado da impureza incircuncisa anterior.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3734\" data-resourceType=\"TyndaleBibleDictionary\">Circuncisão</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04032041",
-          "start_ref_usfm": "NUM 32:41",
-          "end_ref": "04032041",
-          "end_ref_usfm": "NUM 32:41"
+          "start_ref": "02012048",
+          "start_ref_usfm": "EXO 12:48",
+          "end_ref": "02012048",
+          "end_ref_usfm": "EXO 12:48"
         },
         {
-          "start_ref": "05003014",
-          "start_ref_usfm": "DEU 3:14",
-          "end_ref": "05003014",
-          "end_ref_usfm": "DEU 3:14"
+          "start_ref": "03012003",
+          "start_ref_usfm": "LEV 12:3",
+          "end_ref": "03012003",
+          "end_ref_usfm": "LEV 12:3"
         },
         {
-          "start_ref": "06013030",
-          "start_ref_usfm": "JOS 13:30",
-          "end_ref": "06013030",
-          "end_ref_usfm": "JOS 13:30"
+          "start_ref": "45003030",
+          "start_ref_usfm": "ROM 3:30",
+          "end_ref": "45003030",
+          "end_ref_usfm": "ROM 3:30"
         },
         {
-          "start_ref": "10021019",
-          "start_ref_usfm": "2SA 21:19",
-          "end_ref": "10021019",
-          "end_ref_usfm": "2SA 21:19"
+          "start_ref": "48002007",
+          "start_ref_usfm": "GAL 2:7",
+          "end_ref": "48002007",
+          "end_ref_usfm": "GAL 2:7"
         },
         {
-          "start_ref": "11004013",
-          "start_ref_usfm": "1KI 4:13",
-          "end_ref": "11004013",
-          "end_ref_usfm": "1KI 4:13"
+          "start_ref": "48005006",
+          "start_ref_usfm": "GAL 5:6",
+          "end_ref": "48005006",
+          "end_ref_usfm": "GAL 5:6"
         },
         {
-          "start_ref": "13002023",
-          "start_ref_usfm": "1CH 2:23",
-          "end_ref": "13002023",
-          "end_ref_usfm": "1CH 2:23"
+          "start_ref": "48006015",
+          "start_ref_usfm": "GAL 6:15",
+          "end_ref": "48006015",
+          "end_ref_usfm": "GAL 6:15"
         },
         {
-          "start_ref": "13020005",
-          "start_ref_usfm": "1CH 20:5",
-          "end_ref": "13020005",
-          "end_ref_usfm": "1CH 20:5"
+          "start_ref": "51003011",
+          "start_ref_usfm": "COL 3:11",
+          "end_ref": "51003011",
+          "end_ref_usfm": "COL 3:11"
         },
         {
-          "start_ref": "17002005",
-          "start_ref_usfm": "EST 2:5",
-          "end_ref": "17002005",
-          "end_ref_usfm": "EST 2:5"
+          "start_ref": "01017009",
+          "start_ref_usfm": "GEN 17:9",
+          "end_ref": "01017014",
+          "end_ref_usfm": "GEN 17:14"
         },
         {
-          "start_ref": "07010003",
-          "start_ref_usfm": "JDG 10:3",
-          "end_ref": "07010005",
-          "end_ref_usfm": "JDG 10:5"
+          "start_ref": "49002011",
+          "start_ref_usfm": "EPH 2:11",
+          "end_ref": "49002012",
+          "end_ref_usfm": "EPH 2:12"
+        },
+        {
+          "start_ref": "45004009",
+          "start_ref_usfm": "ROM 4:9",
+          "end_ref": "45004012",
+          "end_ref_usfm": "ROM 4:12"
+        },
+        {
+          "start_ref": "45002025",
+          "start_ref_usfm": "ROM 2:25",
+          "end_ref": "45002027",
+          "end_ref_usfm": "ROM 2:27"
+        },
+        {
+          "start_ref": "51002008",
+          "start_ref_usfm": "COL 2:8",
+          "end_ref": "51002015",
+          "end_ref_usfm": "COL 2:15"
         }
       ],
       "resource": [
         {
-          "reference_id": 4889,
-          "content_id": 759796,
+          "reference_id": 3734,
+          "content_id": 124378,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Havote-Jair, Havote-Jair",
+          "label": "Circuncisão",
           "language": "por"
         }
       ]

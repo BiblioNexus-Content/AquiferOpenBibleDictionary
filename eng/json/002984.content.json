@@ -1,22 +1,23 @@
 [
   {
-    "content_id": 6238,
-    "reference_id": 5406,
-    "title": "Jathan",
+    "content_id": 6237,
+    "reference_id": 5405,
+    "title": "Jasper",
     "media_type": "Text",
-    "index_reference": "jathan",
+    "index_reference": "jasper",
     "language": "eng",
-    "content": "<h1>JATHAN*</h1><p>One of the sons of Shemaiah, who had accompanied Tobit to Jerusalem to worship (<a href=\"https://ref.ly/Tob5:14\">Tb 5:14</a>, nlt mg).</p>",
+    "content": "<h1>JASPER</h1><p>Variety of green quartz. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7796\" data-resourceType=\"TyndaleBibleDictionary\">Stones, Precious</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "68005014",
-          "start_ref_usfm": "TOB 5:14",
-          "end_ref": "68005014",
-          "end_ref_usfm": "TOB 5:14"
+          "reference_id": 7796,
+          "content_id": 8628,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Stones, Precious",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

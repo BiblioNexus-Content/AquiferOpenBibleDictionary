@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 4485,
-    "reference_id": 3653,
-    "title": "Charismata",
+    "content_id": 4484,
+    "reference_id": 3652,
+    "title": "Chariot",
     "media_type": "Text",
-    "index_reference": "charismata",
+    "index_reference": "chariot",
     "language": "eng",
-    "content": "<h1>CHARISMATA</h1><p><em>Charismata</em> is a Greek word that means “gifts” or “grace gifts.” These are special abilities that the Holy Spirit gives to people in the church (<a href=\"https://ref.ly/1Cor12:1-1Cor12:31\">1&nbsp;Corinthians 12</a>; <a href=\"https://ref.ly/1Cor14:1-1Cor14:40\">14</a>). These gifts are meant to help the church grow and serve others.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7776\" data-resourceType=\"TyndaleBibleDictionary\">Spiritual Gifts</span>.</p>",
+    "content": "<h1>CHARIOT</h1><p>A chariot is an ancient two-wheeled vehicle pulled by animals, often horses. Chariots were used in war. They were also a means of transportation for persons of rank or wealth, and for hunting.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8083\" data-resourceType=\"TyndaleBibleDictionary\">Travel</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8197\" data-resourceType=\"TyndaleBibleDictionary\">Warfare</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "46012001",
-          "start_ref_usfm": "1CO 12:1",
-          "end_ref": "46012031",
-          "end_ref_usfm": "1CO 12:31"
-        },
-        {
-          "start_ref": "46014001",
-          "start_ref_usfm": "1CO 14:1",
-          "end_ref": "46014040",
-          "end_ref_usfm": "1CO 14:40"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 7776,
-          "content_id": 8608,
+          "reference_id": 8083,
+          "content_id": 8915,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Spiritual Gifts",
+          "label": "Travel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8197,
+          "content_id": 9029,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Warfare",
           "language": "eng"
         }
       ]

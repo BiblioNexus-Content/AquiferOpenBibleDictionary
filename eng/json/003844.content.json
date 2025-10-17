@@ -1,25 +1,31 @@
 [
   {
-    "content_id": 7104,
-    "reference_id": 6272,
-    "title": "Mibzar",
+    "content_id": 7103,
+    "reference_id": 6271,
+    "title": "Mibsam",
     "media_type": "Text",
-    "index_reference": "mibzar",
+    "index_reference": "mibsam",
     "language": "eng",
-    "content": "<h1>MIBZAR</h1><p>Chief of Edom (<a href=\"https://ref.ly/Gen36:42\">Gn 36:42</a>; <a href=\"https://ref.ly/1Chr1:53\">1&nbsp;Chr 1:53</a>). The name means “fortress.” Eusebius connects Mibzar with Mibsara, a large town in Edom.</p>",
+    "content": "<h1>MIBSAM</h1><p>1. One of Ishmael’s sons and the founder of a tribe named after him (<a href=\"https://ref.ly/Gen25:13\">Gn 25:13</a>; <a href=\"https://ref.ly/1Chr1:29\">1&nbsp;Chr 1:29</a>).</p><p>2. Shallum’s son and the father of Mishma (<a href=\"https://ref.ly/1Chr4:25\">1&nbsp;Chr 4:25</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036042",
-          "start_ref_usfm": "GEN 36:42",
-          "end_ref": "01036042",
-          "end_ref_usfm": "GEN 36:42"
+          "start_ref": "01025013",
+          "start_ref_usfm": "GEN 25:13",
+          "end_ref": "01025013",
+          "end_ref_usfm": "GEN 25:13"
         },
         {
-          "start_ref": "13001053",
-          "start_ref_usfm": "1CH 1:53",
-          "end_ref": "13001053",
-          "end_ref_usfm": "1CH 1:53"
+          "start_ref": "13001029",
+          "start_ref_usfm": "1CH 1:29",
+          "end_ref": "13001029",
+          "end_ref_usfm": "1CH 1:29"
+        },
+        {
+          "start_ref": "13004025",
+          "start_ref_usfm": "1CH 4:25",
+          "end_ref": "13004025",
+          "end_ref_usfm": "1CH 4:25"
         }
       ],
       "resource": []

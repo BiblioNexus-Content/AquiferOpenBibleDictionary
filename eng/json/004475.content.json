@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 7736,
-    "reference_id": 6904,
-    "title": "Pileha, Pilha",
+    "content_id": 7735,
+    "reference_id": 6903,
+    "title": "Pildash",
     "media_type": "Text",
-    "index_reference": "pileha, pilha",
+    "index_reference": "pildash",
     "language": "eng",
-    "content": "<h1>PILEHA*, PILHA</h1><p>Political leader who set his seal on Ezra’s covenant during the postexilic era (<a href=\"https://ref.ly/Neh10:24\">Neh 10:24</a>).</p>",
+    "content": "<h1>PILDASH</h1><p>The sixth son of Nahor and Milcah. He was a nephew of the patriarch Abraham (<a href=\"https://ref.ly/Gen22:22\">Genesis 22:22</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16010024",
-          "start_ref_usfm": "NEH 10:24",
-          "end_ref": "16010024",
-          "end_ref_usfm": "NEH 10:24"
+          "start_ref": "01022022",
+          "start_ref_usfm": "GEN 22:22",
+          "end_ref": "01022022",
+          "end_ref_usfm": "GEN 22:22"
         }
       ],
       "resource": []

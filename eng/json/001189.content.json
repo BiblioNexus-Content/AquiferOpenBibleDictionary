@@ -1,27 +1,34 @@
 [
   {
-    "content_id": 4445,
-    "reference_id": 3613,
-    "title": "Castor and Pollux",
+    "content_id": 4444,
+    "reference_id": 3612,
+    "title": "Castanet",
     "media_type": "Text",
-    "index_reference": "castor and pollux",
+    "index_reference": "castanet",
     "language": "eng",
-    "content": "<h1>CASTOR AND POLLUX</h1><p>According to Greek and Roman mythology, these were twin sons of Zeus. The apostle Paul sailed from Malta to Puteoli on a ship whose sign or figurehead was the &quot;Twin Brothers&quot; (<a href=\"https://ref.ly/Acts28:11\">Acts 28:11</a>). These twin brothers were also known as the Dioscuri (which means &quot;sons of Zeus&quot;).</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4022\" data-resourceType=\"TyndaleBibleDictionary\">Dioscuri</span>.</p>",
+    "content": "<h1>CASTANET</h1><p>A small hand-held percussion instrument, like a rattle . These are called &quot;sistrums&quot; in <a href=\"https://ref.ly/2Sam6:5\">2&nbsp;Samuel 6:5</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6414\" data-resourceType=\"TyndaleBibleDictionary\">Musical Instruments</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Music</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44028011",
-          "start_ref_usfm": "ACT 28:11",
-          "end_ref": "44028011",
-          "end_ref_usfm": "ACT 28:11"
+          "start_ref": "10006005",
+          "start_ref_usfm": "2SA 6:5",
+          "end_ref": "10006005",
+          "end_ref_usfm": "2SA 6:5"
         }
       ],
       "resource": [
         {
-          "reference_id": 4022,
-          "content_id": 4854,
+          "reference_id": 6414,
+          "content_id": 7246,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Dioscuri",
+          "label": "Musical Instruments",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6416,
+          "content_id": 7248,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Music",
           "language": "eng"
         }
       ]

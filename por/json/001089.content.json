@@ -1,87 +1,77 @@
 [
   {
-    "content_id": 760050,
-    "reference_id": 8256,
-    "title": "Lã",
+    "content_id": 815989,
+    "reference_id": 5581,
+    "title": "João (pessoa)",
     "media_type": "Text",
-    "index_reference": "lã",
+    "index_reference": "joão (pessoa)",
     "language": "por",
-    "content": "<h1>LÃ</h1><p>A fibra de lã, produzida a partir do pelo de ovelhas, era um produto importante no antigo Oriente Próximo.</p><p>O rei Mesa de Moabe, um criador de ovelhas, enviava a lã de 100.000 carneiros como tributo ao rei Acabe de Israel todos os anos (<a href=\"https://ref.ly/2Kgs3:4\">2Rs 3.4</a>). O povo de Damasco comercializava lã com os mercadores de Tiro (<a href=\"https://ref.ly/Ezek27:18\">Ez 27.18</a>). Vestimentas de lã eram comumente usadas pelos israelitas (<a href=\"https://ref.ly/Lev13:47-Lev13:59\">Lv 13.47–59</a>; <a href=\"https://ref.ly/Isa51:8\">Is 51.8</a>; <a href=\"https://ref.ly/Hos2:5,Hos2:9\">Os 2.5,9</a>). Vestimentas de lã misturadas com tecido de linho eram proibidas (<a href=\"https://ref.ly/Deut22:11\">Dt 22.11</a>). De fato, usar qualquer lã era proibido para os sacerdotes israelitas que serviam no átrio interno do santuário (<a href=\"https://ref.ly/Ezek44:17\">Ez 44.17</a>).</p><p>A lã é, em certos contextos, um símbolo bíblico de brancura e pureza. É uma comparação para:</p><ul><li><p>redenção (<a href=\"https://ref.ly/Isa1:18\">Is 1.18</a>),</p></li><li><p>o cabelo daquele que sempre existiu, ou, Ancião de Dias (<a href=\"https://ref.ly/Dan7:9\">Dn 7.9</a>), e</p></li><li><p>o cabelo e a cabeça do Filho do Homem (<a href=\"https://ref.ly/Rev1:14\">Ap 1.14</a>).</p></li></ul><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3766\" data-resourceType=\"TyndaleBibleDictionary\">Tecido e fabricação de tecidos</span>.</p>",
+    "content": "<h1>JOÃO (pessoa)</h1><ol><li><p>O pai de Simão Pedro e André (<a href=\"https://ref.ly/John1:40-John1:42\">Jo 1.40–42</a>; <a href=\"https://ref.ly/John21:15-John21:17\">21.15–17</a>). De acordo com <a href=\"https://ref.ly/Matt16:17\">Mateus 16.17</a>, o pai de Pedro se chamava Jona (Jonas, Jonas). Jona era ou uma outra versão do nome João ou existiam duas histórias sobre seu nome;</p></li><li><p>Um membro da família do sumo sacerdote que, junto com Anás, Caifás e Alexandre, questionou Pedro e João depois que os dois apóstolos curaram um homem coxo (<a href=\"https://ref.ly/Acts4:6\">At 4.6</a>);</p></li><li><p>De acordo com o bispo da igreja primitiva Papias, um membro do grupo maior de discípulos de Jesus fora dos Doze (compare <a href=\"https://ref.ly/Luke10:1\">Lc 10.1</a>). Conhecido como “João o ancião&quot;, ele é frequentemente mencionado como o autor de 2 e 3 João (<a href=\"https://ref.ly/2John1:1\">2Jo 1.1</a>; <a href=\"https://ref.ly/3John1:1\">3Jo 1.1</a>). O termo “ancião” provavelmente se refere a João o apóstolo;</p></li><li><p>O apóstolo. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5582\" data-resourceType=\"TyndaleBibleDictionary\">João, o apóstolo;</span></p></li><li><p>O Batista. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5583\" data-resourceType=\"TyndaleBibleDictionary\">João Batista;</span></p></li><li><p>Um dos primeiros discípulos, conhecido como João Marcos, é o autor do segundo evangelho. <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6119\" data-resourceType=\"TyndaleBibleDictionary\">Marcos, João</span>.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05022011",
-          "start_ref_usfm": "DEU 22:11",
-          "end_ref": "05022011",
-          "end_ref_usfm": "DEU 22:11"
+          "start_ref": "40016017",
+          "start_ref_usfm": "MAT 16:17",
+          "end_ref": "40016017",
+          "end_ref_usfm": "MAT 16:17"
         },
         {
-          "start_ref": "12003004",
-          "start_ref_usfm": "2KI 3:4",
-          "end_ref": "12003004",
-          "end_ref_usfm": "2KI 3:4"
+          "start_ref": "42010001",
+          "start_ref_usfm": "LUK 10:1",
+          "end_ref": "42010001",
+          "end_ref_usfm": "LUK 10:1"
         },
         {
-          "start_ref": "23001018",
-          "start_ref_usfm": "ISA 1:18",
-          "end_ref": "23001018",
-          "end_ref_usfm": "ISA 1:18"
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
         },
         {
-          "start_ref": "23051008",
-          "start_ref_usfm": "ISA 51:8",
-          "end_ref": "23051008",
-          "end_ref_usfm": "ISA 51:8"
+          "start_ref": "63001001",
+          "start_ref_usfm": "2JN 1:1",
+          "end_ref": "63001001",
+          "end_ref_usfm": "2JN 1:1"
         },
         {
-          "start_ref": "26027018",
-          "start_ref_usfm": "EZK 27:18",
-          "end_ref": "26027018",
-          "end_ref_usfm": "EZK 27:18"
+          "start_ref": "64001001",
+          "start_ref_usfm": "3JN 1:1",
+          "end_ref": "64001001",
+          "end_ref_usfm": "3JN 1:1"
         },
         {
-          "start_ref": "26044017",
-          "start_ref_usfm": "EZK 44:17",
-          "end_ref": "26044017",
-          "end_ref_usfm": "EZK 44:17"
+          "start_ref": "43001040",
+          "start_ref_usfm": "JHN 1:40",
+          "end_ref": "43001042",
+          "end_ref_usfm": "JHN 1:42"
         },
         {
-          "start_ref": "27007009",
-          "start_ref_usfm": "DAN 7:9",
-          "end_ref": "27007009",
-          "end_ref_usfm": "DAN 7:9"
-        },
-        {
-          "start_ref": "28002005",
-          "start_ref_usfm": "HOS 2:5",
-          "end_ref": "28002005",
-          "end_ref_usfm": "HOS 2:5"
-        },
-        {
-          "start_ref": "28002009",
-          "start_ref_usfm": "HOS 2:9",
-          "end_ref": "28002009",
-          "end_ref_usfm": "HOS 2:9"
-        },
-        {
-          "start_ref": "66001014",
-          "start_ref_usfm": "REV 1:14",
-          "end_ref": "66001014",
-          "end_ref_usfm": "REV 1:14"
-        },
-        {
-          "start_ref": "03013047",
-          "start_ref_usfm": "LEV 13:47",
-          "end_ref": "03013059",
-          "end_ref_usfm": "LEV 13:59"
+          "start_ref": "43021015",
+          "start_ref_usfm": "JHN 21:15",
+          "end_ref": "43021017",
+          "end_ref_usfm": "JHN 21:17"
         }
       ],
       "resource": [
         {
-          "reference_id": 3766,
-          "content_id": 716970,
+          "reference_id": 5582,
+          "content_id": 125282,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Tecido e fabricação de tecidos",
+          "label": "João, O Apóstolo",
+          "language": "por"
+        },
+        {
+          "reference_id": 5583,
+          "content_id": 125283,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "João Batista",
+          "language": "por"
+        },
+        {
+          "reference_id": 6119,
+          "content_id": 816022,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "João Marcos",
           "language": "por"
         }
       ]

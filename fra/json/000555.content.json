@@ -1,34 +1,36 @@
 [
   {
-    "content_id": 811833,
-    "reference_id": 5710,
-    "title": "Kemuel",
+    "content_id": 806041,
+    "reference_id": 4998,
+    "title": "Heth",
     "media_type": "Text",
-    "index_reference": "kemuel",
+    "index_reference": "heth",
     "language": "fra",
-    "content": "<h1>KEMUEL</h1><ol><li><p>Troisième fils de Nachor (le frère du patriarche Abraham). Il était le père d&apos;Aram (<a href=\"https://ref.ly/Gen22:21\">Gn 22.21</a>).</p></li><li><p>Un fils de Schiphtan de la tribu d&apos;Éphraïm. Il était l&apos;un des douze hommes choisis pour diviser le pays parmi les tribus israélites (<a href=\"https://ref.ly/Num34:24\">Nb 34.24</a>).</p></li><li><p>Le père de Haschabia. Il était un dirigeant des Lévites pendant le règne du roi David (<a href=\"https://ref.ly/1Chr27:17\">1Ch 27.17</a>).</p></li></ol>",
+    "content": "<h1>HETH*</h1><p>Ancêtre des Héthiens (ou Hittites) et descendant de Canaan, dans la lignée de Cham (<a href=\"https://ref.ly/Gen10:15\">Gn 10.15</a> ; <a href=\"https://ref.ly/1Chr1:13\">1Ch 1.13</a>). <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5029\" data-resourceType=\"TyndaleBibleDictionary\">Héthiens, Hittites</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01022021",
-          "start_ref_usfm": "GEN 22:21",
-          "end_ref": "01022021",
-          "end_ref_usfm": "GEN 22:21"
+          "start_ref": "01010015",
+          "start_ref_usfm": "GEN 10:15",
+          "end_ref": "01010015",
+          "end_ref_usfm": "GEN 10:15"
         },
         {
-          "start_ref": "04034024",
-          "start_ref_usfm": "NUM 34:24",
-          "end_ref": "04034024",
-          "end_ref_usfm": "NUM 34:24"
-        },
-        {
-          "start_ref": "13027017",
-          "start_ref_usfm": "1CH 27:17",
-          "end_ref": "13027017",
-          "end_ref_usfm": "1CH 27:17"
+          "start_ref": "13001013",
+          "start_ref_usfm": "1CH 1:13",
+          "end_ref": "13001013",
+          "end_ref_usfm": "1CH 1:13"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5029,
+          "content_id": 806042,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Héthiens, Hittites",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

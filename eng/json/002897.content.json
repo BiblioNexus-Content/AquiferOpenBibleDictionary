@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 6150,
-    "reference_id": 5318,
-    "title": "Jabez (Place)",
+    "content_id": 6149,
+    "reference_id": 5317,
+    "title": "Jabez (Person)",
     "media_type": "Text",
-    "index_reference": "jabez (place)",
+    "index_reference": "jabez (person)",
     "language": "eng",
-    "content": "<h1>JABEZ (Place)</h1><p>City that was probably located in Judah and was inhabited by scribes (<a href=\"https://ref.ly/1Chr2:55\">1&nbsp;Chr 2:55</a>).</p>",
+    "content": "<h1>JABEZ (Person)</h1><p>Member of Judah’s tribe who was noted for his godliness. He prayed for God’s protection, and his prayer was answered (<a href=\"https://ref.ly/1Chr4:9-1Chr4:10\">1&nbsp;Chr 4:9–10</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13002055",
-          "start_ref_usfm": "1CH 2:55",
-          "end_ref": "13002055",
-          "end_ref_usfm": "1CH 2:55"
+          "start_ref": "13004009",
+          "start_ref_usfm": "1CH 4:9",
+          "end_ref": "13004010",
+          "end_ref_usfm": "1CH 4:10"
         }
       ],
       "resource": []

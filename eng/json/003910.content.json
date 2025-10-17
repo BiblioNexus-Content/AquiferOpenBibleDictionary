@@ -1,27 +1,34 @@
 [
   {
-    "content_id": 7170,
-    "reference_id": 6338,
-    "title": "Mithcah, Mithkah",
+    "content_id": 7169,
+    "reference_id": 6337,
+    "title": "Mite",
     "media_type": "Text",
-    "index_reference": "mithcah, mithkah",
+    "index_reference": "mite",
     "language": "eng",
-    "content": "<h1>MITHCAH, MITHKAH</h1><p>One of the temporary camping places of the Israelites during their wilderness wanderings. <a href=\"https://ref.ly/Num33:28-Num33:29\">Numbers 33:28–29</a> mentions it as between Terah and Hashmonah.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8231\" data-resourceType=\"TyndaleBibleDictionary\">Wilderness Wanderings</span>.</p>",
+    "content": "<h1>MITE</h1><p>A small bronze or copper coin. It is worth a fraction of a cent. <a href=\"https://ref.ly/Mark12:42\">Mark 12:42</a> in the King James Version uses this term. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3779\" data-resourceType=\"TyndaleBibleDictionary\">Coins</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6362\" data-resourceType=\"TyndaleBibleDictionary\">Money</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04033028",
-          "start_ref_usfm": "NUM 33:28",
-          "end_ref": "04033029",
-          "end_ref_usfm": "NUM 33:29"
+          "start_ref": "41012042",
+          "start_ref_usfm": "MRK 12:42",
+          "end_ref": "41012042",
+          "end_ref_usfm": "MRK 12:42"
         }
       ],
       "resource": [
         {
-          "reference_id": 8231,
-          "content_id": 9063,
+          "reference_id": 3779,
+          "content_id": 4611,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Wilderness Wanderings",
+          "label": "Coins",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6362,
+          "content_id": 7194,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Money",
           "language": "eng"
         }
       ]

@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 6914,
-    "reference_id": 6082,
-    "title": "Manahath (Person)",
+    "content_id": 6913,
+    "reference_id": 6081,
+    "title": "Manaen",
     "media_type": "Text",
-    "index_reference": "manahath (person)",
+    "index_reference": "manaen",
     "language": "eng",
-    "content": "<h1>MANAHATH (Person)</h1><p>One of Shobal’s five sons (<a href=\"https://ref.ly/Gen36:23\">Gn 36:23</a>; <a href=\"https://ref.ly/1Chr1:40\">1&nbsp;Chr 1:40</a>).</p>",
+    "content": "<h1>MANAEN</h1><p>One of the prophets and teachers in the church at Antioch (<a href=\"https://ref.ly/Acts13:1\">Acts 13:1</a>). The Bible identifies him as a close companion of Herod the tetrarch. (A tetrarch was a ruler who governed one of four parts of a region.) The name Manaen is a Greek form of the Hebrew name Menahem.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036023",
-          "start_ref_usfm": "GEN 36:23",
-          "end_ref": "01036023",
-          "end_ref_usfm": "GEN 36:23"
-        },
-        {
-          "start_ref": "13001040",
-          "start_ref_usfm": "1CH 1:40",
-          "end_ref": "13001040",
-          "end_ref_usfm": "1CH 1:40"
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013001",
+          "end_ref_usfm": "ACT 13:1"
         }
       ],
       "resource": []

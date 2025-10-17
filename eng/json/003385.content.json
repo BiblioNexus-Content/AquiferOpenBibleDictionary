@@ -1,23 +1,22 @@
 [
   {
-    "content_id": 6648,
-    "reference_id": 5816,
-    "title": "Kor",
+    "content_id": 6642,
+    "reference_id": 5810,
+    "title": "Kona",
     "media_type": "Text",
-    "index_reference": "kor",
+    "index_reference": "kona",
     "language": "eng",
-    "content": "<h1>KOR*</h1><p>Dry commodity measure equivalent to one homer (about 3.8 to 7.5 bushels). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Weights and Measures</span>.</p>",
+    "content": "<h1>KONA</h1><p>Town referred to in the apocryphal book of Judith (<a href=\"https://ref.ly/Jdt4:4\">Jdt 4:4</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 8219,
-          "content_id": 9051,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Weights and Measures",
-          "language": "eng"
+          "start_ref": "69004004",
+          "start_ref_usfm": "JDT 4:4",
+          "end_ref": "69004004",
+          "end_ref_usfm": "JDT 4:4"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

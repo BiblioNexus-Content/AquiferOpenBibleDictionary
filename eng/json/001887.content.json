@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5144,
-    "reference_id": 4312,
-    "title": "Esek",
+    "content_id": 5143,
+    "reference_id": 4311,
+    "title": "Esdris",
     "media_type": "Text",
-    "index_reference": "esek",
+    "index_reference": "esdris",
     "language": "eng",
-    "content": "<h1>ESEK*</h1><p>Name Isaac gave to a well dug by his servants in the valley of Gerar (<a href=\"https://ref.ly/Gen26:20\">Gn 26:20</a>; see nlt mg). The name means “argument.” When the herdsmen of Gerar claimed it belonged to them, Isaac relinquished Esek and another well, called Sitnah, to induce the men of Gerar to allow him to live peacefully in the land.</p>",
+    "content": "<h1>ESDRIS</h1><p>Mentioned in <a href=\"https://ref.ly/2Macc12:36\">2&nbsp;Maccabees 12:36</a> as an army officer under Judas Maccabeus. Some Greek texts and the kjv read Gorgias, which may be either a place or a person.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01026020",
-          "start_ref_usfm": "GEN 26:20",
-          "end_ref": "01026020",
-          "end_ref_usfm": "GEN 26:20"
+          "start_ref": "79012036",
+          "start_ref_usfm": "2MA 12:36",
+          "end_ref": "79012036",
+          "end_ref_usfm": "2MA 12:36"
         }
       ],
       "resource": []

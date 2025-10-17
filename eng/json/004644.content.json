@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 7907,
-    "reference_id": 7075,
-    "title": "Ragau",
+    "content_id": 7906,
+    "reference_id": 7074,
+    "title": "Raddai",
     "media_type": "Text",
-    "index_reference": "ragau",
+    "index_reference": "raddai",
     "language": "eng",
-    "content": "<h1>RAGAU</h1><p>The King James Version spelling of Reu, Peleg’s son, in <a href=\"https://ref.ly/Luke3:35\">Luke 3:35</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7186\" data-resourceType=\"TyndaleBibleDictionary\">Reu</span>.</p>",
+    "content": "<h1>RADDAI</h1><p>Fifth of Jesse’s seven sons and the brother of David from Judah’s tribe (<a href=\"https://ref.ly/1Chr2:14\">1&nbsp;Chr 2:14</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "42003035",
-          "start_ref_usfm": "LUK 3:35",
-          "end_ref": "42003035",
-          "end_ref_usfm": "LUK 3:35"
+          "start_ref": "13002014",
+          "start_ref_usfm": "1CH 2:14",
+          "end_ref": "13002014",
+          "end_ref_usfm": "1CH 2:14"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 7186,
-          "content_id": 8018,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Reu",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,30 +1,40 @@
 [
   {
-    "content_id": 759784,
-    "reference_id": 4718,
-    "title": "Gunita",
+    "content_id": 759770,
+    "reference_id": 4625,
+    "title": "Gideoni",
     "media_type": "Text",
-    "index_reference": "gunita",
+    "index_reference": "gideoni",
     "language": "por",
-    "content": "<h1>GUNITA</h1><p>Um descendente de Guni, filho de Naftali (<a href=\"https://ref.ly/Num26:48\">Nm 26.48</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4719\" data-resourceType=\"TyndaleBibleDictionary\">Guni #1</span>.</p>",
+    "content": "<h1>GIDEONI</h1><p>Gideoni era o pai de Abidã. Abidã era o líder da tribo de Benjamim quando os israelitas estavam viajando pelo deserto do Sinai após escaparem do Egito (<a href=\"https://ref.ly/Num1:11\">Nm 1.11</a>; <a href=\"https://ref.ly/Num2:22\">2.22</a>; <a href=\"https://ref.ly/Num10:24\">10.24</a>). Como líder tribal, Gideoni apresentou a oferta da tribo durante a cerimônia de dedicação do tabernáculo (<a href=\"https://ref.ly/Num7:60-Num7:65\">7.60–65</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04026048",
-          "start_ref_usfm": "NUM 26:48",
-          "end_ref": "04026048",
-          "end_ref_usfm": "NUM 26:48"
+          "start_ref": "04001011",
+          "start_ref_usfm": "NUM 1:11",
+          "end_ref": "04001011",
+          "end_ref_usfm": "NUM 1:11"
+        },
+        {
+          "start_ref": "04002022",
+          "start_ref_usfm": "NUM 2:22",
+          "end_ref": "04002022",
+          "end_ref_usfm": "NUM 2:22"
+        },
+        {
+          "start_ref": "04010024",
+          "start_ref_usfm": "NUM 10:24",
+          "end_ref": "04010024",
+          "end_ref_usfm": "NUM 10:24"
+        },
+        {
+          "start_ref": "04007060",
+          "start_ref_usfm": "NUM 7:60",
+          "end_ref": "04007065",
+          "end_ref_usfm": "NUM 7:65"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4719,
-          "content_id": 717056,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Guni",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

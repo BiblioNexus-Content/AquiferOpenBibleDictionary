@@ -1,28 +1,23 @@
 [
   {
-    "content_id": 5094,
-    "reference_id": 4262,
-    "title": "En-Shemesh",
+    "content_id": 5093,
+    "reference_id": 4261,
+    "title": "Enrollment",
     "media_type": "Text",
-    "index_reference": "en-shemesh",
+    "index_reference": "enrollment",
     "language": "eng",
-    "content": "<h1>EN-SHEMESH</h1><p>Place mentioned only in <a href=\"https://ref.ly/Josh15:7\">Joshua 15:7</a> and <a href=\"https://ref.ly/Josh18:17\">18:17</a> as a boundary marker between Judah’s northern border and Benjamin’s southern border. The usual identification is with ’Ain el-Hod, about three miles (4.8&nbsp;kilometers) east of Jerusalem on the road to Jericho. On the basis of a tradition that the apostles drank there, it is sometimes referred to as the Spring of the Apostles.</p>",
+    "content": "<h1>ENROLLMENT</h1><p>A registration of people according to tribe, family, and position. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3625\" data-resourceType=\"TyndaleBibleDictionary\">Census</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "06015007",
-          "start_ref_usfm": "JOS 15:7",
-          "end_ref": "06015007",
-          "end_ref_usfm": "JOS 15:7"
-        },
-        {
-          "start_ref": "06018017",
-          "start_ref_usfm": "JOS 18:17",
-          "end_ref": "06018017",
-          "end_ref_usfm": "JOS 18:17"
+          "reference_id": 3625,
+          "content_id": 4457,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Census",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

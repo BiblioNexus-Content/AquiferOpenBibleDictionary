@@ -1,21 +1,14 @@
 [
   {
-    "content_id": 7427,
-    "reference_id": 6595,
-    "title": "Northeaster",
+    "content_id": 7428,
+    "reference_id": 6596,
+    "title": "North, North Country",
     "media_type": "Text",
-    "index_reference": "northeaster",
+    "index_reference": "north, north country",
     "language": "eng",
-    "content": "<h1>NORTHEASTER</h1><p>A name given to the stormy wind of <a href=\"https://ref.ly/Acts27:14\">Acts 27:14</a>. Paul encountered the northeaster on his journey to Rome. Against Paul&apos;s advice, the ship left a harbor near Lasea. They sailed close to the coast of Crete as a gentle breeze pushed them along. Probably when they were less than 14.5 kilometers (9 miles) from shore, a sudden violent storm threatened their small boat. </p><p>Luke, who wrote Acts, calls this storm a typhoon (in the King James Version it is called a &quot;tempestuous wind&quot;). The name of this wind was Euroclydon, which means &quot;the southwest wind that stirs up waves.&quot;</p>",
+    "content": "<h1>NORTH, NORTH COUNTRY</h1><p>Cardinal point on a compass opposite the south, often having the connotation of “dark,” perhaps because the north side is often in shadow. In biblical literature, notably in the books of Joshua and Ezekiel, the term “north” is used frequently to designate direction, whether of tribal boundaries or of a temple.</p><p>An enemy from the north is mentioned at least 40 times in the prophecies of Jeremiah, Ezekiel, Daniel, and Zechariah. During the time of the exile (Jeremiah and Ezekiel), it referred to invaders who came from the East, pushed westward north of the Syrian desert, and then turned south to invade Judah from the north. Hence, they were viewed as invading from the “north country”; this latter phrase occurs at least 10 times in Jeremiah and Zechariah.</p><p>Jerusalem is vulnerable only from the north. The topography of the country is such that seldom in history has any invader conquered the Holy City from any direction except from the northern approach. The city was protected by deep valleys on each of the other three sides. In biblical times only the Egyptians and the Philistines threatened Jerusalem from the west; even the Philistines, during the time of Saul, were successful only in the areas north of Jerusalem. In Daniel the “king of the north” doubtless refers to Syrian forces in mortal combat with the “king of the south” (Egypt).</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "44027014",
-          "start_ref_usfm": "ACT 27:14",
-          "end_ref": "44027014",
-          "end_ref_usfm": "ACT 27:14"
-        }
-      ],
+      "passage": [],
       "resource": []
     }
   }

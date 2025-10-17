@@ -1,20 +1,33 @@
 [
   {
-    "content_id": 6997,
-    "reference_id": 6165,
-    "title": "Meal Offering",
+    "content_id": 6996,
+    "reference_id": 6164,
+    "title": "Meah, Tower of",
     "media_type": "Text",
-    "index_reference": "meal offering",
+    "index_reference": "meah, tower of",
     "language": "eng",
-    "content": "<h1>MEAL OFFERING*</h1><p>An offering of grain or fine flour. It&nbsp;has also been translated “grain offering” (nlt, niv), “cereal offering” (rsv) and “meat offering” (kjv). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6630\" data-resourceType=\"TyndaleBibleDictionary\">Offerings and Sacrifices</span>.</p>",
+    "content": "<h1>MEAH*, Tower of</h1><p>KJV translation for “Tower of the Hundred” in <a href=\"https://ref.ly/Neh3:1\">Nehemiah 3:1</a> and <a href=\"https://ref.ly/Neh12:39\">12:39</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5111\" data-resourceType=\"TyndaleBibleDictionary\">Hundred, Tower of the</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "16003001",
+          "start_ref_usfm": "NEH 3:1",
+          "end_ref": "16003001",
+          "end_ref_usfm": "NEH 3:1"
+        },
+        {
+          "start_ref": "16012039",
+          "start_ref_usfm": "NEH 12:39",
+          "end_ref": "16012039",
+          "end_ref_usfm": "NEH 12:39"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 6630,
-          "content_id": 7462,
+          "reference_id": 5111,
+          "content_id": 5943,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Offerings and Sacrifices",
+          "label": "Hundred, Tower of the",
           "language": "eng"
         }
       ]

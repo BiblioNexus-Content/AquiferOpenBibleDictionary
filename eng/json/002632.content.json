@@ -1,27 +1,20 @@
 [
   {
-    "content_id": 5882,
-    "reference_id": 5050,
-    "title": "Holy of Holies",
+    "content_id": 5881,
+    "reference_id": 5049,
+    "title": "Holy Ghost",
     "media_type": "Text",
-    "index_reference": "holy of holies",
+    "index_reference": "holy ghost",
     "language": "eng",
-    "content": "<h1>HOLY OF HOLIES*</h1><p>Inner room of the tabernacle and temple in which the ark of the covenant was kept. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7864\" data-resourceType=\"TyndaleBibleDictionary\">Tabernacle</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7950\" data-resourceType=\"TyndaleBibleDictionary\">Temple</span>.</p>",
+    "content": "<h1>HOLY GHOST*</h1><p>KJV rendering of Holy Spirit. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7769\" data-resourceType=\"TyndaleBibleDictionary\">Spirit of God</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 7864,
-          "content_id": 8696,
+          "reference_id": 7769,
+          "content_id": 8601,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Tabernacle",
-          "language": "eng"
-        },
-        {
-          "reference_id": 7950,
-          "content_id": 8782,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Temple",
+          "label": "Spirit of God",
           "language": "eng"
         }
       ]

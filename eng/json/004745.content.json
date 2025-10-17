@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 8009,
-    "reference_id": 7177,
-    "title": "Resheph",
+    "content_id": 8008,
+    "reference_id": 7176,
+    "title": "Resen",
     "media_type": "Text",
-    "index_reference": "resheph",
+    "index_reference": "resen",
     "language": "eng",
-    "content": "<h1>RESHEPH</h1><p>Rephah’s son, a descendant of Ephraim and an ancestor of Joshua, son of Nun (<a href=\"https://ref.ly/1Chr7:25\">1&nbsp;Chr 7:25</a>).</p>",
+    "content": "<h1>RESEN</h1><p>City built by Nimrod between Nineveh and Calah (<a href=\"https://ref.ly/Gen10:12\">Gn 10:12</a>). It was part of the complex known as&nbsp;“the great city” and could have been a suburb of Nineveh. Some interpreters suggest it was a waterwork between Nineveh and Calah.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13007025",
-          "start_ref_usfm": "1CH 7:25",
-          "end_ref": "13007025",
-          "end_ref_usfm": "1CH 7:25"
+          "start_ref": "01010012",
+          "start_ref_usfm": "GEN 10:12",
+          "end_ref": "01010012",
+          "end_ref_usfm": "GEN 10:12"
         }
       ],
       "resource": []

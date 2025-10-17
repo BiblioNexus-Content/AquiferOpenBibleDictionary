@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 5955,
-    "reference_id": 5123,
-    "title": "Husbandman, Husbandry",
+    "content_id": 5956,
+    "reference_id": 5124,
+    "title": "Husband",
     "media_type": "Text",
-    "index_reference": "husbandman, husbandry",
+    "index_reference": "husband",
     "language": "eng",
-    "content": "<h1>HUSBANDMAN*, HUSBANDRY*</h1><p>Occupation and practice of farming and animal production; kjv rendering of farmer, tenant farmer, plowman, tiller, and vinedresser. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2592\" data-resourceType=\"TyndaleBibleDictionary\">Agriculture</span>.</p>",
+    "content": "<h1>HUSBAND</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4403\" data-resourceType=\"TyndaleBibleDictionary\">Family Life and Relations</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 2592,
-          "content_id": 3424,
+          "reference_id": 4403,
+          "content_id": 5235,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Agriculture",
+          "label": "Family Life and Relations",
           "language": "eng"
         }
       ]

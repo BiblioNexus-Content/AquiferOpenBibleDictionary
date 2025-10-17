@@ -1,52 +1,90 @@
 [
   {
-    "content_id": 816015,
-    "reference_id": 5975,
-    "title": "Listra",
+    "content_id": 760050,
+    "reference_id": 8256,
+    "title": "Lã",
     "media_type": "Text",
-    "index_reference": "listra",
+    "index_reference": "lã",
     "language": "por",
-    "content": "<h1>LISTRA</h1><p>Uma cidade localizada na região da Licaônia, dentro da província romana da Galácia.</p><h2>Listra no Novo Testamento</h2><p>As principais histórias sobre Listra na Bíblia vêm do livro de Atos, com uma menção em <a href=\"https://ref.ly/2Tim3:11\">2 Timóteo 3.11</a>. Durante a primeira viagem missionária de Paulo, ele e Barnabé chegaram a Listra após enfrentarem oposição na cidade vizinha de Icônio. Eles continuaram a visitar Derbe e as áreas ao redor dessas cidades (<a href=\"https://ref.ly/Acts14:6\">At 14.6</a>).</p><p>Enquanto estava em Listra, Paulo curou um homem que não podia andar (v. <a href=\"https://ref.ly/Acts14:8\">8</a>). Ao verem esse milagre, as pessoas locais ficaram muito animadas. Eles acreditavam que Barnabé era Zeus (o rei dos deuses gregos) e Paulo era Hermes (o mensageiro dos deuses gregos). Eles pensaram que Paulo era Hermes porque ele era o principal orador, já que Hermes era conhecido por ser um mensageiro que entregava palavras dos deuses às pessoas (vv. <a href=\"https://ref.ly/Acts14:9-Acts14:21\">9–21</a>). Em algumas versões da Bíblia em português, Zeus e Hermes são chamados por seus nomes latinos, Júpiter e Mercúrio.</p><h2>Cultura local e religião</h2><p>A maioria das pessoas em Listra pertencia a um pequeno grupo da região da Anatólia. Elas falavam sua própria língua local, conhecida pelos pesquisadores a partir de antigas inscrições em pedra encontradas na área. As pessoas ainda falavam essa língua até o final do século VI d.C. O antigo sistema de vilarejo da Anatólia continuou nesta cidade mercantil, mesmo depois que os romanos assumiram o controle da cidade.</p><p>Zeus era considerado o mais poderoso de todos os deuses gregos, e Hermes era seu filho que servia como mensageiro entre os deuses e os humanos. O povo de Listra acreditava fortemente nesses deuses. Descobertas arqueológicas apoiam o que Lucas escreveu no livro de Atos sobre isso. Pesquisadores encontraram uma pedra antiga com uma inscrição que fala sobre a dedicação de uma estátua de Hermes a Zeus. Outra pedra com uma inscrição sobre “Zeus diante da cidade”, o que ajuda a explicar <a href=\"https://ref.ly/Acts14:13\">Atos 14.13</a>, onde menciona &quot;o sacerdote de Zeus, cujo templo estava em frente da cidade”.</p><h2>Localização e conexões</h2><p>Derbe e Listra pertenciam à mesma região política. Icônio estava localizada em outra região política. A geografia, o comércio e a vida social de Listra eram mais parecidos com Icônio do que com Derbe, apesar da fronteira política que os separava. Parece que as duas cidades se comunicavam com frequência. <a href=\"https://ref.ly/Acts16:1-Acts16:2\">Atos 16.1–2</a> liga Listra e Icônio como lugares onde Timóteo era bem conhecido e respeitado.</p>",
+    "content": "<h1>LÃ</h1><p>A fibra de lã, produzida a partir do pelo de ovelhas, era um produto importante no antigo Oriente Próximo.</p><p>O rei Mesa de Moabe, um criador de ovelhas, enviava a lã de 100.000 carneiros como tributo ao rei Acabe de Israel todos os anos (<a href=\"https://ref.ly/2Kgs3:4\">2Rs 3.4</a>). O povo de Damasco comercializava lã com os mercadores de Tiro (<a href=\"https://ref.ly/Ezek27:18\">Ez 27.18</a>). Vestimentas de lã eram comumente usadas pelos israelitas (<a href=\"https://ref.ly/Lev13:47-Lev13:59\">Lv 13.47–59</a>; <a href=\"https://ref.ly/Isa51:8\">Is 51.8</a>; <a href=\"https://ref.ly/Hos2:5,Hos2:9\">Os 2.5,9</a>). Vestimentas de lã misturadas com tecido de linho eram proibidas (<a href=\"https://ref.ly/Deut22:11\">Dt 22.11</a>). De fato, usar qualquer lã era proibido para os sacerdotes israelitas que serviam no átrio interno do santuário (<a href=\"https://ref.ly/Ezek44:17\">Ez 44.17</a>).</p><p>A lã é, em certos contextos, um símbolo bíblico de brancura e pureza. É uma comparação para:</p><ul><li><p>redenção (<a href=\"https://ref.ly/Isa1:18\">Is 1.18</a>),</p></li><li><p>o cabelo daquele que sempre existiu, ou, Ancião de Dias (<a href=\"https://ref.ly/Dan7:9\">Dn 7.9</a>), e</p></li><li><p>o cabelo e a cabeça do Filho do Homem (<a href=\"https://ref.ly/Rev1:14\">Ap 1.14</a>).</p></li></ul><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3766\" data-resourceType=\"TyndaleBibleDictionary\">Tecido e fabricação de tecidos</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44014006",
-          "start_ref_usfm": "ACT 14:6",
-          "end_ref": "44014006",
-          "end_ref_usfm": "ACT 14:6"
+          "start_ref": "05022011",
+          "start_ref_usfm": "DEU 22:11",
+          "end_ref": "05022011",
+          "end_ref_usfm": "DEU 22:11"
         },
         {
-          "start_ref": "44014008",
-          "start_ref_usfm": "ACT 14:8",
-          "end_ref": "44014008",
-          "end_ref_usfm": "ACT 14:8"
+          "start_ref": "12003004",
+          "start_ref_usfm": "2KI 3:4",
+          "end_ref": "12003004",
+          "end_ref_usfm": "2KI 3:4"
         },
         {
-          "start_ref": "44014013",
-          "start_ref_usfm": "ACT 14:13",
-          "end_ref": "44014013",
-          "end_ref_usfm": "ACT 14:13"
+          "start_ref": "23001018",
+          "start_ref_usfm": "ISA 1:18",
+          "end_ref": "23001018",
+          "end_ref_usfm": "ISA 1:18"
         },
         {
-          "start_ref": "55003011",
-          "start_ref_usfm": "2TI 3:11",
-          "end_ref": "55003011",
-          "end_ref_usfm": "2TI 3:11"
+          "start_ref": "23051008",
+          "start_ref_usfm": "ISA 51:8",
+          "end_ref": "23051008",
+          "end_ref_usfm": "ISA 51:8"
         },
         {
-          "start_ref": "44016001",
-          "start_ref_usfm": "ACT 16:1",
-          "end_ref": "44016002",
-          "end_ref_usfm": "ACT 16:2"
+          "start_ref": "26027018",
+          "start_ref_usfm": "EZK 27:18",
+          "end_ref": "26027018",
+          "end_ref_usfm": "EZK 27:18"
         },
         {
-          "start_ref": "44014009",
-          "start_ref_usfm": "ACT 14:9",
-          "end_ref": "44014021",
-          "end_ref_usfm": "ACT 14:21"
+          "start_ref": "26044017",
+          "start_ref_usfm": "EZK 44:17",
+          "end_ref": "26044017",
+          "end_ref_usfm": "EZK 44:17"
+        },
+        {
+          "start_ref": "27007009",
+          "start_ref_usfm": "DAN 7:9",
+          "end_ref": "27007009",
+          "end_ref_usfm": "DAN 7:9"
+        },
+        {
+          "start_ref": "28002005",
+          "start_ref_usfm": "HOS 2:5",
+          "end_ref": "28002005",
+          "end_ref_usfm": "HOS 2:5"
+        },
+        {
+          "start_ref": "28002009",
+          "start_ref_usfm": "HOS 2:9",
+          "end_ref": "28002009",
+          "end_ref_usfm": "HOS 2:9"
+        },
+        {
+          "start_ref": "66001014",
+          "start_ref_usfm": "REV 1:14",
+          "end_ref": "66001014",
+          "end_ref_usfm": "REV 1:14"
+        },
+        {
+          "start_ref": "03013047",
+          "start_ref_usfm": "LEV 13:47",
+          "end_ref": "03013059",
+          "end_ref_usfm": "LEV 13:59"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3766,
+          "content_id": 716970,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Tecido e fabricação de tecidos",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

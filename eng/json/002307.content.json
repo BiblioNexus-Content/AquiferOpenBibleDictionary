@@ -1,25 +1,31 @@
 [
   {
-    "content_id": 5562,
-    "reference_id": 4730,
-    "title": "Hacaliah",
+    "content_id": 5561,
+    "reference_id": 4729,
+    "title": "Habor",
     "media_type": "Text",
-    "index_reference": "hacaliah",
+    "index_reference": "habor",
     "language": "eng",
-    "content": "<h1>HACALIAH</h1><p>Nehemiah’s father (<a href=\"https://ref.ly/Neh1:1\">Neh 1:1</a>; <a href=\"https://ref.ly/Neh10:1\">10:1</a>).</p>",
+    "content": "<h1>HABOR</h1><p>Modern Habur (Chaboras) River. The Habor River runs from the mountains in north-central Assyria, in Gozan, into the Euphrates River at a junction about 250 miles (402 kilometers) south and west of Nineveh. Numerous tributaries feed the Habor farther to the north. The OT names the river as the site to which King Shalmaneser carried the captive Israelites (<a href=\"https://ref.ly/2Kgs17:6\">2&nbsp;Kgs 17:6</a>; <a href=\"https://ref.ly/2Kgs18:11\">18:11</a>; <a href=\"https://ref.ly/1Chr5:26\">1&nbsp;Chr 5:26</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "16001001",
-          "start_ref_usfm": "NEH 1:1",
-          "end_ref": "16001001",
-          "end_ref_usfm": "NEH 1:1"
+          "start_ref": "12017006",
+          "start_ref_usfm": "2KI 17:6",
+          "end_ref": "12017006",
+          "end_ref_usfm": "2KI 17:6"
         },
         {
-          "start_ref": "16010001",
-          "start_ref_usfm": "NEH 10:1",
-          "end_ref": "16010001",
-          "end_ref_usfm": "NEH 10:1"
+          "start_ref": "12018011",
+          "start_ref_usfm": "2KI 18:11",
+          "end_ref": "12018011",
+          "end_ref_usfm": "2KI 18:11"
+        },
+        {
+          "start_ref": "13005026",
+          "start_ref_usfm": "1CH 5:26",
+          "end_ref": "13005026",
+          "end_ref_usfm": "1CH 5:26"
         }
       ],
       "resource": []

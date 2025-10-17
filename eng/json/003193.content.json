@@ -1,22 +1,43 @@
 [
   {
-    "content_id": 6452,
-    "reference_id": 5620,
-    "title": "Joshah",
+    "content_id": 6450,
+    "reference_id": 5618,
+    "title": "Joses",
     "media_type": "Text",
-    "index_reference": "joshah",
+    "index_reference": "joses",
     "language": "eng",
-    "content": "<h1>JOSHAH</h1><p>Prince in Simeon’s tribe (<a href=\"https://ref.ly/1Chr4:34\">1&nbsp;Chr 4:34</a>).</p>",
+    "content": "<h1>JOSES</h1><ol><li><p>An alternate spelling for Joseph, Mary’s son, in <a href=\"https://ref.ly/Mark6:3\">Mark 6:3</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5617\" data-resourceType=\"TyndaleBibleDictionary\">Joseph #7</span>.</p></li><li><p>The King James Version spelling for Joseph. He was also called Barnabas in <a href=\"https://ref.ly/Acts4:36\">Acts 4:36</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3180\" data-resourceType=\"TyndaleBibleDictionary\">Barnabas</span>.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13004034",
-          "start_ref_usfm": "1CH 4:34",
-          "end_ref": "13004034",
-          "end_ref_usfm": "1CH 4:34"
+          "start_ref": "41006003",
+          "start_ref_usfm": "MRK 6:3",
+          "end_ref": "41006003",
+          "end_ref_usfm": "MRK 6:3"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3180,
+          "content_id": 4012,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Barnabas",
+          "language": "eng"
+        },
+        {
+          "reference_id": 5617,
+          "content_id": 6449,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Joseph",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

@@ -1,23 +1,22 @@
 [
   {
-    "content_id": 7739,
-    "reference_id": 6907,
-    "title": "Pim",
+    "content_id": 7738,
+    "reference_id": 6906,
+    "title": "Piltai",
     "media_type": "Text",
-    "index_reference": "pim",
+    "index_reference": "piltai",
     "language": "eng",
-    "content": "<h1>PIM*</h1><p>Weight measurement equivalent to about two-thirds of a shekel. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Weights and Measures</span>.</p>",
+    "content": "<h1>PILTAI</h1><p>Priest and head of Modiah’s house during the days of Joiakim the high priest in the postexilic period (<a href=\"https://ref.ly/Neh12:17\">Neh 12:17</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 8219,
-          "content_id": 9051,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Weights and Measures",
-          "language": "eng"
+          "start_ref": "16012017",
+          "start_ref_usfm": "NEH 12:17",
+          "end_ref": "16012017",
+          "end_ref_usfm": "NEH 12:17"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

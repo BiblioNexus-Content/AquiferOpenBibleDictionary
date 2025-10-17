@@ -1,58 +1,72 @@
 [
   {
-    "content_id": 7533,
-    "reference_id": 6701,
-    "title": "Outcast",
+    "content_id": 7531,
+    "reference_id": 6699,
+    "title": "Othniel",
     "media_type": "Text",
-    "index_reference": "outcast",
+    "index_reference": "othniel",
     "language": "eng",
-    "content": "<h1>OUTCAST</h1><p>English translation of two related Hebrew terms whose primary meanings are to push away, banish, or cast out. In five of seven passages the term refers to exiles from Israel who are to be regathered by the Lord (<a href=\"https://ref.ly/Ps147:2\">Ps 147:2</a>; <a href=\"https://ref.ly/Isa11:12\">Is 11:12</a>; <a href=\"https://ref.ly/Isa27:13\">27:13</a>; <a href=\"https://ref.ly/Isa56:8\">56:8</a>; <a href=\"https://ref.ly/Jer30:17\">Jer 30:17</a>). In two other passages it refers to fugitives from Moab (<a href=\"https://ref.ly/Isa16:3-Isa16:4\">Is 16:3–4</a>) and from Elam (<a href=\"https://ref.ly/Jer49:36\">Jer 49:36</a>).</p>",
+    "content": "<h1>OTHNIEL</h1><p>Judge of Israel, mentioned as the son of Kenaz and Caleb’s nephew (or perhaps brother), who delivered Israel from the tyranny of Cushan-rishathaim, and who earlier distinguished himself by capturing Debir (<a href=\"https://ref.ly/Josh15:15-Josh15:17\">Jos 15:15–17</a>; <a href=\"https://ref.ly/Judg1:11-Judg1:13\">Jgs 1:11–13</a>; <a href=\"https://ref.ly/Judg3:8-Judg3:11\">3:8–11</a>).</p><p>At Caleb’s prompting (promising his daughter Achsah to anyone who could conquer Debir), Othniel took Kiriath-sepher (Debir) and received Achsah for his wife. When Caleb gave her and her land as a present, Achsah asked for a water source and was given the upper springs and the lower springs (<a href=\"https://ref.ly/Josh15:19\">Jos 15:19</a>; <a href=\"https://ref.ly/Judg1:15\">Jgs 1:15</a>).</p><p>Later, Othniel delivered the Israelites from the oppressive Cushan-rishathaim, king of Mesopotamia (Aram-naharaim), whom the Israelites had served for eight years on account of their sin (<a href=\"https://ref.ly/Judg3:7\">Jgs 3:7</a>). When the people cried for relief, the Lord raised up Othniel. Delivering them, he was described as someone that the “Spirit of the Lord came upon” (v <a href=\"https://ref.ly/Judg3:10\">10</a>). The effects of his work as judge lasted for a generation (vv <a href=\"https://ref.ly/Judg3:9-Judg3:11\">9–11</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5658\" data-resourceType=\"TyndaleBibleDictionary\">Judges, Book of</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "19147002",
-          "start_ref_usfm": "PSA 147:2",
-          "end_ref": "19147002",
-          "end_ref_usfm": "PSA 147:2"
+          "start_ref": "06015019",
+          "start_ref_usfm": "JOS 15:19",
+          "end_ref": "06015019",
+          "end_ref_usfm": "JOS 15:19"
         },
         {
-          "start_ref": "23011012",
-          "start_ref_usfm": "ISA 11:12",
-          "end_ref": "23011012",
-          "end_ref_usfm": "ISA 11:12"
+          "start_ref": "07001015",
+          "start_ref_usfm": "JDG 1:15",
+          "end_ref": "07001015",
+          "end_ref_usfm": "JDG 1:15"
         },
         {
-          "start_ref": "23027013",
-          "start_ref_usfm": "ISA 27:13",
-          "end_ref": "23027013",
-          "end_ref_usfm": "ISA 27:13"
+          "start_ref": "07003007",
+          "start_ref_usfm": "JDG 3:7",
+          "end_ref": "07003007",
+          "end_ref_usfm": "JDG 3:7"
         },
         {
-          "start_ref": "23056008",
-          "start_ref_usfm": "ISA 56:8",
-          "end_ref": "23056008",
-          "end_ref_usfm": "ISA 56:8"
+          "start_ref": "07003010",
+          "start_ref_usfm": "JDG 3:10",
+          "end_ref": "07003010",
+          "end_ref_usfm": "JDG 3:10"
         },
         {
-          "start_ref": "24030017",
-          "start_ref_usfm": "JER 30:17",
-          "end_ref": "24030017",
-          "end_ref_usfm": "JER 30:17"
+          "start_ref": "07003008",
+          "start_ref_usfm": "JDG 3:8",
+          "end_ref": "07003011",
+          "end_ref_usfm": "JDG 3:11"
         },
         {
-          "start_ref": "24049036",
-          "start_ref_usfm": "JER 49:36",
-          "end_ref": "24049036",
-          "end_ref_usfm": "JER 49:36"
+          "start_ref": "07003009",
+          "start_ref_usfm": "JDG 3:9",
+          "end_ref": "07003011",
+          "end_ref_usfm": "JDG 3:11"
         },
         {
-          "start_ref": "23016003",
-          "start_ref_usfm": "ISA 16:3",
-          "end_ref": "23016004",
-          "end_ref_usfm": "ISA 16:4"
+          "start_ref": "07001011",
+          "start_ref_usfm": "JDG 1:11",
+          "end_ref": "07001013",
+          "end_ref_usfm": "JDG 1:13"
+        },
+        {
+          "start_ref": "06015015",
+          "start_ref_usfm": "JOS 15:15",
+          "end_ref": "06015017",
+          "end_ref_usfm": "JOS 15:17"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5658,
+          "content_id": 6490,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Judges, Book of",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

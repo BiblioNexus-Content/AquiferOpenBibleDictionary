@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 7346,
-    "reference_id": 6514,
-    "title": "Nehum",
+    "content_id": 7345,
+    "reference_id": 6513,
+    "title": "Nehiloth",
     "media_type": "Text",
-    "index_reference": "nehum",
+    "index_reference": "nehiloth",
     "language": "eng",
-    "content": "<h1>NEHUM*</h1><p>One of the men listed in <a href=\"https://ref.ly/Neh7:7\">Nehemiah 7:7</a> who returned with Zerubbabel to Palestine following the Babylonian captivity. His name is alternately spelled Rehum in <a href=\"https://ref.ly/Ezra2:2\">Ezra 2:2</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7154\" data-resourceType=\"TyndaleBibleDictionary\">Rehum #1</span>.</p>",
+    "content": "<h1>NEHILOTH*</h1><p>Hebrew term in the superscription of <a href=\"https://ref.ly/Ps5:1-Ps5:12\">Psalm 5</a> (kjv); musical cue, meaning “flutes,” describing the kind of musical accompaniment for the performance of the psalm. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6416\" data-resourceType=\"TyndaleBibleDictionary\">Music</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002002",
-          "start_ref_usfm": "EZR 2:2",
-          "end_ref": "15002002",
-          "end_ref_usfm": "EZR 2:2"
-        },
-        {
-          "start_ref": "16007007",
-          "start_ref_usfm": "NEH 7:7",
-          "end_ref": "16007007",
-          "end_ref_usfm": "NEH 7:7"
+          "start_ref": "19005001",
+          "start_ref_usfm": "PSA 5:1",
+          "end_ref": "19005012",
+          "end_ref_usfm": "PSA 5:12"
         }
       ],
       "resource": [
         {
-          "reference_id": 7154,
-          "content_id": 7986,
+          "reference_id": 6416,
+          "content_id": 7248,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Rehum",
+          "label": "Music",
           "language": "eng"
         }
       ]

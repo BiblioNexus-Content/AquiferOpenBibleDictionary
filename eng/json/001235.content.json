@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 4489,
-    "reference_id": 3657,
-    "title": "Chaspho",
+    "content_id": 4488,
+    "reference_id": 3656,
+    "title": "Charran",
     "media_type": "Text",
-    "index_reference": "chaspho",
+    "index_reference": "charran",
     "language": "eng",
-    "content": "<h1>CHASPHO</h1><p>Chaspho was a town east of the Sea of Galilee. It is mentioned in 1 and 2 Maccabees.</p><p>Judas and Jonathan Maccabeus led their army into the region of Transjordan. They captured Chaspho, along with Maked, Bosor, and other cities in Gilead (<a href=\"https://ref.ly/1Macc5:36\">1&nbsp;Maccabees 5:36</a>). </p><p>Most scholars think that Chaspho is the same place called <em>Caspin</em> in <a href=\"https://ref.ly/2Macc12:13\">2&nbsp;Maccabees 12:13</a>. Some believe Chaspho was located at el-Muzeirib in the Hauran plain or at Tell el-Jamid by the Yarmuk River. But today, most scholars place it at Khisfin, about 16 kilometers (10 miles) east of the Sea of Galilee.</p>",
+    "content": "<h1>CHARRAN</h1><p>The King James Version spelling of Haran, a city in Mesopotamia (<a href=\"https://ref.ly/Acts7:2-Acts7:4\">Acts 7:2–4</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4827\" data-resourceType=\"TyndaleBibleDictionary\">Haran (Place)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "78005036",
-          "start_ref_usfm": "1MA 5:36",
-          "end_ref": "78005036",
-          "end_ref_usfm": "1MA 5:36"
-        },
-        {
-          "start_ref": "79012013",
-          "start_ref_usfm": "2MA 12:13",
-          "end_ref": "79012013",
-          "end_ref_usfm": "2MA 12:13"
+          "start_ref": "44007002",
+          "start_ref_usfm": "ACT 7:2",
+          "end_ref": "44007004",
+          "end_ref_usfm": "ACT 7:4"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4827,
+          "content_id": 5659,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Haran (Place)",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

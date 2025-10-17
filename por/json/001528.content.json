@@ -1,40 +1,55 @@
 [
   {
-    "content_id": 816061,
-    "reference_id": 6943,
-    "title": "Ponto",
+    "content_id": 716954,
+    "reference_id": 3501,
+    "title": "Peitoral, Couraça",
     "media_type": "Text",
-    "index_reference": "ponto",
+    "index_reference": "peitoral, couraça",
     "language": "por",
-    "content": "<h1>PONTO</h1><p>Província romana no nordeste da Ásia Menor, localizada ao longo da costa sul do Mar Negro. Galácia, Capadócia e Armênia faziam fronteira com o Ponto. Por volta de 1000 a.C., os primeiros gregos começaram a colonizar a costa sudeste do Mar Negro, fundando Sinope e Trebizonda. Foi aqui que Xenofonte e seus homens chegaram ao mar após sua grande aventura oriental. O famoso geógrafo Estrabão, responsável pelo conhecimento da história antiga do Ponto, nasceu na cidade interiorana de Amasia. Mitrídates Eupator, rei de Amasia, foi, segundo os romanos, o inimigo mais formidável que a república já enfrentou. Ele travou três guerras contra os romanos até sua derrota final por Pompeu por volta de 60 a.C.</p><p>Áquila, o fabricante de tendas que, com sua esposa, Priscila, foi um colaborador útil do apóstolo Paulo, nasceu em Ponto. Ao contrário de Paulo, no entanto, ele não era cidadão romano; portanto, estava sujeito ao edito de Cláudio e foi expulso de Roma por ser judeu (<a href=\"https://ref.ly/Acts18:2\">At 18.2</a>; <a href=\"https://ref.ly/Acts22:25-Acts22:28\">22.25–28</a>).</p><p>Os cristãos que residiam lá nos dias de Pedro (<a href=\"https://ref.ly/1Pet1:1\">1Pe 1.1</a>) provavelmente eram convertidos daqueles que retornaram de Jerusalém após o primeiro Pentecostes, quando Pedro falou (<a href=\"https://ref.ly/Acts2:9\">At 2.9</a>).</p>",
+    "content": "<h1>PEITORAL, COURAÇA</h1><ol><li><p>Uma parte das vestes cerimoniais do sumo sacerdote (<a href=\"https://ref.ly/Exod25:7\">Êx 25.7</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6984\" data-resourceType=\"TyndaleBibleDictionary\">Sacerdotes e levitas</span>.</p></li><li><p>Uma peça de armadura usada para proteger o peito. A palavra é usada simbolicamente em várias passagens. <a href=\"https://ref.ly/Isa59:17\">Isaías 59.17</a> diz que Deus vestiu a justiça como armadura. Ele fez isso para se vingar de seus inimigos. O apóstolo Paulo exortou os cristãos a usarem uma couraça de justiça para resistir ao diabo (<a href=\"https://ref.ly/Eph6:14\">Ef 6.14</a>). Ele também os exortou a usarem uma couraça de fé e amor enquanto aguardam o retorno de Cristo (<a href=\"https://ref.ly/1Thess5:8\">1 Ts 5.8</a>).</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2918\" data-resourceType=\"TyndaleBibleDictionary\">Armadura e armas</span>.</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44002009",
-          "start_ref_usfm": "ACT 2:9",
-          "end_ref": "44002009",
-          "end_ref_usfm": "ACT 2:9"
+          "start_ref": "02025007",
+          "start_ref_usfm": "EXO 25:7",
+          "end_ref": "02025007",
+          "end_ref_usfm": "EXO 25:7"
         },
         {
-          "start_ref": "44018002",
-          "start_ref_usfm": "ACT 18:2",
-          "end_ref": "44018002",
-          "end_ref_usfm": "ACT 18:2"
+          "start_ref": "23059017",
+          "start_ref_usfm": "ISA 59:17",
+          "end_ref": "23059017",
+          "end_ref_usfm": "ISA 59:17"
         },
         {
-          "start_ref": "60001001",
-          "start_ref_usfm": "1PE 1:1",
-          "end_ref": "60001001",
-          "end_ref_usfm": "1PE 1:1"
+          "start_ref": "49006014",
+          "start_ref_usfm": "EPH 6:14",
+          "end_ref": "49006014",
+          "end_ref_usfm": "EPH 6:14"
         },
         {
-          "start_ref": "44022025",
-          "start_ref_usfm": "ACT 22:25",
-          "end_ref": "44022028",
-          "end_ref_usfm": "ACT 22:28"
+          "start_ref": "52005008",
+          "start_ref_usfm": "1TH 5:8",
+          "end_ref": "52005008",
+          "end_ref_usfm": "1TH 5:8"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2918,
+          "content_id": 759625,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Armadura e armas",
+          "language": "por"
+        },
+        {
+          "reference_id": 6984,
+          "content_id": 125319,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Sacerdotes E Levitas",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

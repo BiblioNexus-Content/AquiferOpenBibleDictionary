@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 6138,
-    "reference_id": 5306,
-    "title": "Jaasau",
+    "content_id": 6136,
+    "reference_id": 5304,
+    "title": "Jaareshiah",
     "media_type": "Text",
-    "index_reference": "jaasau",
+    "index_reference": "jaareshiah",
     "language": "eng",
-    "content": "<h1>JAASAU*</h1><p>KJV spelling of Jaasu, Bani’s son, in <a href=\"https://ref.ly/Ezra10:37\">Ezra 10:37</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5308\" data-resourceType=\"TyndaleBibleDictionary\">Jaasu</span>.</p>",
+    "content": "<h1>JAARESHIAH</h1><p>Jeroham’s son, a Benjamite leader who lived in Jerusalem (<a href=\"https://ref.ly/1Chr8:27\">1&nbsp;Chr 8:27</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15010037",
-          "start_ref_usfm": "EZR 10:37",
-          "end_ref": "15010037",
-          "end_ref_usfm": "EZR 10:37"
+          "start_ref": "13008027",
+          "start_ref_usfm": "1CH 8:27",
+          "end_ref": "13008027",
+          "end_ref_usfm": "1CH 8:27"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5308,
-          "content_id": 6140,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Jaasu",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

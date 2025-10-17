@@ -1,31 +1,25 @@
 [
   {
-    "content_id": 6057,
-    "reference_id": 5225,
-    "title": "Ir",
+    "content_id": 6042,
+    "reference_id": 5210,
+    "title": "Iphtah-El",
     "media_type": "Text",
-    "index_reference": "ir",
+    "index_reference": "iphtah-el",
     "language": "eng",
-    "content": "<h1>IR</h1><p>Ir was a man from the tribe of Benjamin. He was the father of Shuppim and Huppim (<a href=\"https://ref.ly/1Chr7:12\">1&nbsp;Chronicles 7:12</a>). Ir may be identical with Iri in verse <a href=\"https://ref.ly/1Chr7:7\">7</a>. In <a href=\"https://ref.ly/Num24:19\">Numbers 24:19</a>, the same Hebrew word is not used as a name. Instead, it is translated as &quot;the city&quot; in the King James Version and the New International Version.</p>",
+    "content": "<h1>IPHTAH-EL</h1><p>Valley on Asher and Zebulun’s border (<a href=\"https://ref.ly/Josh19:14,Josh19:27\">Jos 19:14, 27</a>), possibly the modern Sahl el-Battof.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04024019",
-          "start_ref_usfm": "NUM 24:19",
-          "end_ref": "04024019",
-          "end_ref_usfm": "NUM 24:19"
+          "start_ref": "06019014",
+          "start_ref_usfm": "JOS 19:14",
+          "end_ref": "06019014",
+          "end_ref_usfm": "JOS 19:14"
         },
         {
-          "start_ref": "13007007",
-          "start_ref_usfm": "1CH 7:7",
-          "end_ref": "13007007",
-          "end_ref_usfm": "1CH 7:7"
-        },
-        {
-          "start_ref": "13007012",
-          "start_ref_usfm": "1CH 7:12",
-          "end_ref": "13007012",
-          "end_ref_usfm": "1CH 7:12"
+          "start_ref": "06019027",
+          "start_ref_usfm": "JOS 19:27",
+          "end_ref": "06019027",
+          "end_ref_usfm": "JOS 19:27"
         }
       ],
       "resource": []

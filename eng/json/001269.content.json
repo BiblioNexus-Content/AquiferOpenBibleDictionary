@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4521,
-    "reference_id": 3689,
-    "title": "Childless",
+    "content_id": 4525,
+    "reference_id": 3693,
+    "title": "Child",
     "media_type": "Text",
-    "index_reference": "childless",
+    "index_reference": "child",
     "language": "eng",
-    "content": "<h1>CHILDLESS</h1><p>A word used to describe someone who does<span> not have a child or children. </span><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3182\" data-resourceType=\"TyndaleBibleDictionary\">Barrenness</span>.</p>",
+    "content": "<h1>CHILD</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4403\" data-resourceType=\"TyndaleBibleDictionary\">Family Life and Relations</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 3182,
-          "content_id": 4014,
+          "reference_id": 4403,
+          "content_id": 5235,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Barrenness",
+          "label": "Family Life and Relations",
           "language": "eng"
         }
       ]

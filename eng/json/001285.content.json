@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 4538,
-    "reference_id": 3706,
-    "title": "Chloe",
+    "content_id": 4537,
+    "reference_id": 3705,
+    "title": "Chiun",
     "media_type": "Text",
-    "index_reference": "chloe",
+    "index_reference": "chiun",
     "language": "eng",
-    "content": "<h1>CHLOE</h1><p>Woman whose household members (possibly slaves) informed Paul in Ephesus of arguments in the Corinthian church (<a href=\"https://ref.ly/1Cor1:11\">1&nbsp;Cor 1:11</a>). It is not known whether Chloe lived in Corinth or Ephesus, or even whether she herself was a believer.</p>",
+    "content": "<h1>CHIUN*</h1><p>KJV form of Kaiwan, an Assyrian astral deity, in <a href=\"https://ref.ly/Amos5:26\">Amos 5:26</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5683\" data-resourceType=\"TyndaleBibleDictionary\">Kaiwan</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "46001011",
-          "start_ref_usfm": "1CO 1:11",
-          "end_ref": "46001011",
-          "end_ref_usfm": "1CO 1:11"
+          "start_ref": "30005026",
+          "start_ref_usfm": "AMO 5:26",
+          "end_ref": "30005026",
+          "end_ref_usfm": "AMO 5:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 5683,
+          "content_id": 6515,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Kaiwan",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

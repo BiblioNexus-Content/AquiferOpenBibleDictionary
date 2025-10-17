@@ -1,25 +1,31 @@
 [
   {
-    "content_id": 4763,
-    "reference_id": 3931,
-    "title": "Dathema",
+    "content_id": 4762,
+    "reference_id": 3930,
+    "title": "Dathan",
     "media_type": "Text",
-    "index_reference": "dathema",
+    "index_reference": "dathan",
     "language": "eng",
-    "content": "<h1>DATHEMA</h1><p>A fortress in Bashan where Jews took refuge during the Maccabean revolt (<a href=\"https://ref.ly/1Macc5:9\">1&nbsp;Macc 5:9</a>). Here they hid from Timothy until Judas the Maccabee rescued them by defeating the enemy (v <a href=\"https://ref.ly/1Macc5:29\">29</a>). The location of Dathema has not been identified by modern archeologists.</p>",
+    "content": "<h1>DATHAN</h1><p>A son of Eliab and brother of Abiram from the tribe of Reuben. He was one of the leaders of Israel. Along with Korah, Dathan rebelled against Moses. This happened during the wilderness wanderings of Israel (<a href=\"https://ref.ly/Num16:1-Num16:27\">Numbers 16:1–27</a>; <a href=\"https://ref.ly/Num26:9\">26:9</a>; <a href=\"https://ref.ly/Ps106:17\">Psalm 106:17</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "78005009",
-          "start_ref_usfm": "1MA 5:9",
-          "end_ref": "78005009",
-          "end_ref_usfm": "1MA 5:9"
+          "start_ref": "04026009",
+          "start_ref_usfm": "NUM 26:9",
+          "end_ref": "04026009",
+          "end_ref_usfm": "NUM 26:9"
         },
         {
-          "start_ref": "78005029",
-          "start_ref_usfm": "1MA 5:29",
-          "end_ref": "78005029",
-          "end_ref_usfm": "1MA 5:29"
+          "start_ref": "19106017",
+          "start_ref_usfm": "PSA 106:17",
+          "end_ref": "19106017",
+          "end_ref_usfm": "PSA 106:17"
+        },
+        {
+          "start_ref": "04016001",
+          "start_ref_usfm": "NUM 16:1",
+          "end_ref": "04016027",
+          "end_ref_usfm": "NUM 16:27"
         }
       ],
       "resource": []

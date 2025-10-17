@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 7172,
-    "reference_id": 6340,
-    "title": "Mithredath",
+    "content_id": 7171,
+    "reference_id": 6339,
+    "title": "Mithna",
     "media_type": "Text",
-    "index_reference": "mithredath",
+    "index_reference": "mithna",
     "language": "eng",
-    "content": "<h1>MITHREDATH</h1><p>1. Name of the treasurer of King Cyrus of Persia, who was given charge of the sacred vessels to give to the Judean prince Sheshbazzar as the exiles prepared to return to Jerusalem (<a href=\"https://ref.ly/Ezra1:8\">Ezr 1:8</a>).</p><p>2. Persian officer stationed in Samaria who, along with others, wrote a letter to King Artaxerxes of Persia, protesting the restoration of the city and walls of Jerusalem (<a href=\"https://ref.ly/Ezra4:7\">Ezr 4:7</a>).</p>",
+    "content": "<h1>MITHNA</h1><p>Town of Joshaphat, one of David’s mighty warriors (<a href=\"https://ref.ly/1Chr11:43\">1&nbsp;Chr 11:43</a>, nlt). Other translations describe him as “the Mithnite.”</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15001008",
-          "start_ref_usfm": "EZR 1:8",
-          "end_ref": "15001008",
-          "end_ref_usfm": "EZR 1:8"
-        },
-        {
-          "start_ref": "15004007",
-          "start_ref_usfm": "EZR 4:7",
-          "end_ref": "15004007",
-          "end_ref_usfm": "EZR 4:7"
+          "start_ref": "13011043",
+          "start_ref_usfm": "1CH 11:43",
+          "end_ref": "13011043",
+          "end_ref_usfm": "1CH 11:43"
         }
       ],
       "resource": []

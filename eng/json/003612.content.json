@@ -1,31 +1,31 @@
 [
   {
-    "content_id": 6871,
-    "reference_id": 6039,
-    "title": "Mahath",
+    "content_id": 6870,
+    "reference_id": 6038,
+    "title": "Maharai",
     "media_type": "Text",
-    "index_reference": "mahath",
+    "index_reference": "maharai",
     "language": "eng",
-    "content": "<h1>MAHATH</h1><p>1. Levite, son of Amasai, and ancestor of Heman the temple singer in David’s time (<a href=\"https://ref.ly/1Chr6:35\">1&nbsp;Chr 6:35</a>).</p><p>2. Levite who assisted in the cleansing of the temple during Hezekiah’s time (<a href=\"https://ref.ly/2Chr29:12\">2&nbsp;Chr 29:12</a>). He was appointed an overseer of the contributions, the tithes, and the things dedicated to God (<a href=\"https://ref.ly/2Chr31:13\">31:13</a>).</p>",
+    "content": "<h1>MAHARAI</h1><p>One of the mighty men of King David. He was a Zerahite from Netophah in the hill country of Judah. David chose Maharai to be a commander in charge of 24,000 soldiers during the tenth month of each year (<a href=\"https://ref.ly/2Sam23:28\">2&nbsp;Samuel 23:28</a>; <a href=\"https://ref.ly/1Chr11:30\">1&nbsp;Chronicles 11:30</a>; <a href=\"https://ref.ly/1Chr27:13\">27:13</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13006035",
-          "start_ref_usfm": "1CH 6:35",
-          "end_ref": "13006035",
-          "end_ref_usfm": "1CH 6:35"
+          "start_ref": "10023028",
+          "start_ref_usfm": "2SA 23:28",
+          "end_ref": "10023028",
+          "end_ref_usfm": "2SA 23:28"
         },
         {
-          "start_ref": "14029012",
-          "start_ref_usfm": "2CH 29:12",
-          "end_ref": "14029012",
-          "end_ref_usfm": "2CH 29:12"
+          "start_ref": "13011030",
+          "start_ref_usfm": "1CH 11:30",
+          "end_ref": "13011030",
+          "end_ref_usfm": "1CH 11:30"
         },
         {
-          "start_ref": "14031013",
-          "start_ref_usfm": "2CH 31:13",
-          "end_ref": "14031013",
-          "end_ref_usfm": "2CH 31:13"
+          "start_ref": "13027013",
+          "start_ref_usfm": "1CH 27:13",
+          "end_ref": "13027013",
+          "end_ref_usfm": "1CH 27:13"
         }
       ],
       "resource": []

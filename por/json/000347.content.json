@@ -1,55 +1,28 @@
 [
   {
-    "content_id": 716951,
-    "reference_id": 3474,
-    "title": "Cabana",
+    "content_id": 682893,
+    "reference_id": 3539,
+    "title": "Buz (Pessoa)",
     "media_type": "Text",
-    "index_reference": "cabana",
+    "index_reference": "buz (pessoa)",
     "language": "por",
-    "content": "<h1>CABANA</h1><p>Uma pequena barraca ou abrigo temporário feito de galhos e paus. As cabanas eram construídas quando edifícios permanentes não estavam disponíveis. Elas ofereciam sombra durante o dia e proteção contra o orvalho e os ventos à noite (<a href=\"https://ref.ly/Gen33:17\">Gn 33.17</a>; <a href=\"https://ref.ly/Jonah4:5\">Jn 4.5</a>).</p><p>A palavra também é usada como uma figura de linguagem para algo frágil e facilmente destruído. Por exemplo, a palavra é traduzida como &quot;cabana&quot; em <a href=\"https://ref.ly/Job27:18\">Jó 27.18</a> e &quot;abrigo&quot; em <a href=\"https://ref.ly/Isa1:8\">Isaías 1.8</a>.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4416\" data-resourceType=\"TyndaleBibleDictionary\">Festas e festivais de Israel</span>.</p>",
+    "content": "<h1>BUZ (Pessoa)</h1><ol><li><p>Sobrinho de Abraão e um dos oito filhos de Naor (<a href=\"https://ref.ly/Gen22:21\">Gn 22.21</a>).</p></li><li><p>Um membro da tribo de Gade (<a href=\"https://ref.ly/1Chr5:14\">1Cr 5.14</a>).</p></li></ol>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01033017",
-          "start_ref_usfm": "GEN 33:17",
-          "end_ref": "01033017",
-          "end_ref_usfm": "GEN 33:17"
+          "start_ref": "01022021",
+          "start_ref_usfm": "GEN 22:21",
+          "end_ref": "01022021",
+          "end_ref_usfm": "GEN 22:21"
         },
         {
-          "start_ref": "18027018",
-          "start_ref_usfm": "JOB 27:18",
-          "end_ref": "18027018",
-          "end_ref_usfm": "JOB 27:18"
-        },
-        {
-          "start_ref": "23001008",
-          "start_ref_usfm": "ISA 1:8",
-          "end_ref": "23001008",
-          "end_ref_usfm": "ISA 1:8"
-        },
-        {
-          "start_ref": "32004005",
-          "start_ref_usfm": "JON 4:5",
-          "end_ref": "32004005",
-          "end_ref_usfm": "JON 4:5"
+          "start_ref": "13005014",
+          "start_ref_usfm": "1CH 5:14",
+          "end_ref": "13005014",
+          "end_ref_usfm": "1CH 5:14"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4416,
-          "content_id": 125259,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Festas E Festivais De Israel",
-          "language": "por"
-        },
-        {
-          "reference_id": 6786,
-          "content_id": 717217,
-          "resource_code": "Unknown",
-          "label": "Tenda",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,33 +1,20 @@
 [
   {
-    "content_id": 6164,
-    "reference_id": 5332,
-    "title": "Jadah",
+    "content_id": 6165,
+    "reference_id": 5333,
+    "title": "Jada",
     "media_type": "Text",
-    "index_reference": "jadah",
+    "index_reference": "jada",
     "language": "eng",
-    "content": "<h1>JADAH</h1><p>Variant of Jehoaddah (<a href=\"https://ref.ly/1Chr8:36\">1&nbsp;Chr 8:36</a>) and Jarah (<a href=\"https://ref.ly/1Chr9:42\">1&nbsp;Chr 9:42</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5439\" data-resourceType=\"TyndaleBibleDictionary\">Jehoadah, Jehoaddah</span>.</p>",
+    "content": "<h1>JADA</h1><p>Onam’s son from the tribe of Judah (<a href=\"https://ref.ly/1Chr2:28,1Chr2:32\">1&nbsp;Chronicles 2:28, 32</a>).</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "13008036",
-          "start_ref_usfm": "1CH 8:36",
-          "end_ref": "13008036",
-          "end_ref_usfm": "1CH 8:36"
-        },
-        {
-          "start_ref": "13009042",
-          "start_ref_usfm": "1CH 9:42",
-          "end_ref": "13009042",
-          "end_ref_usfm": "1CH 9:42"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5439,
-          "content_id": 6271,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Jehoadah, Jehoaddah",
+          "reference_id": 5336,
+          "content_id": 6168,
+          "resource_code": "Unknown",
+          "label": "Jade",
           "language": "eng"
         }
       ]

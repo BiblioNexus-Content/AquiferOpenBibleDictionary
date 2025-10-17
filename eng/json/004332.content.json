@@ -1,36 +1,22 @@
 [
   {
-    "content_id": 7591,
-    "reference_id": 6759,
-    "title": "Parsin",
+    "content_id": 7590,
+    "reference_id": 6758,
+    "title": "Parshandatha",
     "media_type": "Text",
-    "index_reference": "parsin",
+    "index_reference": "parshandatha",
     "language": "eng",
-    "content": "<h1>PARSIN</h1><p>An Aramaic word interpreted as &quot;divided&quot; (<a href=\"https://ref.ly/Dan5:25,Dan5:28\">Daniel 5:25, 28</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6215\" data-resourceType=\"TyndaleBibleDictionary\">Mene, Mene, Tekel, Parsin</span>.</p>",
+    "content": "<h1>PARSHANDATHA</h1><p>One of the ten sons of Haman killed by the Jews (<a href=\"https://ref.ly/Esth9:7\">Esther 9:7</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "27005025",
-          "start_ref_usfm": "DAN 5:25",
-          "end_ref": "27005025",
-          "end_ref_usfm": "DAN 5:25"
-        },
-        {
-          "start_ref": "27005028",
-          "start_ref_usfm": "DAN 5:28",
-          "end_ref": "27005028",
-          "end_ref_usfm": "DAN 5:28"
+          "start_ref": "17009007",
+          "start_ref_usfm": "EST 9:7",
+          "end_ref": "17009007",
+          "end_ref_usfm": "EST 9:7"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 6215,
-          "content_id": 7047,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Mene, Mene, Tekel, Parsin",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

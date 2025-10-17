@@ -1,19 +1,31 @@
 [
   {
-    "content_id": 6184,
-    "reference_id": 5352,
-    "title": "Jahzeiah",
+    "content_id": 6183,
+    "reference_id": 5351,
+    "title": "Jahzeel, Jahzeelite",
     "media_type": "Text",
-    "index_reference": "jahzeiah",
+    "index_reference": "jahzeel, jahzeelite",
     "language": "eng",
-    "content": "<h1>JAHZEIAH</h1><p>Tikvah’s son and one of the persons named in connection with the divorce proceedings between the Israelites and their foreign wives (<a href=\"https://ref.ly/Ezra10:15\">Ezr 10:15</a>). Opinions differ as to whether he was for or against the proceedings. While the Hebrew text can be justifiably read either way, the grammar favors the interpretation that Jahzeiah opposed the proceedings (see nlt).</p>",
+    "content": "<h1>JAHZEEL, JAHZEELITE</h1><p>Naphtali’s son (<a href=\"https://ref.ly/Gen46:24\">Gn 46:24</a>; <a href=\"https://ref.ly/1Chr7:13\">1&nbsp;Chr 7:13</a>) and founder of the Jahzeelite family (<a href=\"https://ref.ly/Num26:48\">Nm 26:48</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15010015",
-          "start_ref_usfm": "EZR 10:15",
-          "end_ref": "15010015",
-          "end_ref_usfm": "EZR 10:15"
+          "start_ref": "01046024",
+          "start_ref_usfm": "GEN 46:24",
+          "end_ref": "01046024",
+          "end_ref_usfm": "GEN 46:24"
+        },
+        {
+          "start_ref": "04026048",
+          "start_ref_usfm": "NUM 26:48",
+          "end_ref": "04026048",
+          "end_ref_usfm": "NUM 26:48"
+        },
+        {
+          "start_ref": "13007013",
+          "start_ref_usfm": "1CH 7:13",
+          "end_ref": "13007013",
+          "end_ref_usfm": "1CH 7:13"
         }
       ],
       "resource": []

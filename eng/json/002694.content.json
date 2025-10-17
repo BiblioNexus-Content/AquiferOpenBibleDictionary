@@ -1,33 +1,20 @@
 [
   {
-    "content_id": 5943,
-    "reference_id": 5111,
-    "title": "Hundred, Tower of the",
+    "content_id": 5942,
+    "reference_id": 5110,
+    "title": "Hunchback",
     "media_type": "Text",
-    "index_reference": "hundred, tower of the",
+    "index_reference": "hunchback",
     "language": "eng",
-    "content": "<h1>HUNDRED, Tower of the</h1><p>Tower at the northernmost part of the Jerusalem wall (near where the wall crosses over the Tyropeon Valley). It stood west of the Sheep Gate near the Tower of Hananel (<a href=\"https://ref.ly/Neh3:1\">Neh 3:1</a>; <a href=\"https://ref.ly/Neh12:39\">12:39</a>; kjv “tower of Meah”). <em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5501\" data-resourceType=\"TyndaleBibleDictionary\">Jerusalem</span>.</p>",
+    "content": "<h1>HUNCHBACK</h1><p>A hunchback is a physical condition where a person has an abnormally curved spine that creates a rounded or humped shape on their back.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3966\" data-resourceType=\"TyndaleBibleDictionary\">Deformity</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "16003001",
-          "start_ref_usfm": "NEH 3:1",
-          "end_ref": "16003001",
-          "end_ref_usfm": "NEH 3:1"
-        },
-        {
-          "start_ref": "16012039",
-          "start_ref_usfm": "NEH 12:39",
-          "end_ref": "16012039",
-          "end_ref_usfm": "NEH 12:39"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5501,
-          "content_id": 6333,
+          "reference_id": 3966,
+          "content_id": 4798,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Jerusalem",
+          "label": "Deformity",
           "language": "eng"
         }
       ]

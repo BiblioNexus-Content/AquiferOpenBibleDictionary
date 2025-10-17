@@ -1,30 +1,22 @@
 [
   {
-    "content_id": 5980,
-    "reference_id": 5148,
-    "title": "Ibzan",
+    "content_id": 5979,
+    "reference_id": 5147,
+    "title": "Ibsam",
     "media_type": "Text",
-    "index_reference": "ibzan",
+    "index_reference": "ibsam",
     "language": "eng",
-    "content": "<h1>IBZAN</h1><p>Judge who ruled over Israel, or part of it, for seven years (<a href=\"https://ref.ly/Judg12:8-Judg12:10\">Jgs 12:8–10</a>). Ibzan was a native of Bethlehem, probably of Zebulun, and was buried in his place of birth. Jewish tradition identified Ibzan with Boaz and consequently understood his native city to be Bethlehem in Judah. Ibzan had 30 sons and 30 daughters and was a man of wealth and high social standing.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5658\" data-resourceType=\"TyndaleBibleDictionary\">Judges, Book of</span>.</p>",
+    "content": "<h1>IBSAM</h1><p>Tola’s son from Issachar’s tribe (<a href=\"https://ref.ly/1Chr7:2\">1&nbsp;Chr 7:2</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "07012008",
-          "start_ref_usfm": "JDG 12:8",
-          "end_ref": "07012010",
-          "end_ref_usfm": "JDG 12:10"
+          "start_ref": "13007002",
+          "start_ref_usfm": "1CH 7:2",
+          "end_ref": "13007002",
+          "end_ref_usfm": "1CH 7:2"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 5658,
-          "content_id": 6490,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Judges, Book of",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 5393,
-    "reference_id": 4561,
-    "title": "Gebim",
+    "content_id": 5392,
+    "reference_id": 4560,
+    "title": "Geber",
     "media_type": "Text",
-    "index_reference": "gebim",
+    "index_reference": "geber",
     "language": "eng",
-    "content": "<h1>GEBIM</h1><p>Small town just north of Jerusalem. <a href=\"https://ref.ly/Isa10:31\">Isaiah 10:31</a> prophesied that its inhabitants would flee when the Assyrian army came to invade. Its exact location is unknown.</p>",
+    "content": "<h1>GEBER</h1><p>1. Alternate name for Ben-geber, one of Solomon’s commissariat officers, in <a href=\"https://ref.ly/1Kgs4:13\">1&nbsp;Kings 4:13</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3272\" data-resourceType=\"TyndaleBibleDictionary\">Ben-geber</span>.</p><p>2. Uri’s son, who was responsible for providing food for Solomon’s household. His territory was probably south of Ramoth-gilead (<a href=\"https://ref.ly/1Kgs4:19\">1&nbsp;Kgs 4:19</a>). Perhaps #1 and #2 were related.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "23010031",
-          "start_ref_usfm": "ISA 10:31",
-          "end_ref": "23010031",
-          "end_ref_usfm": "ISA 10:31"
+          "start_ref": "11004013",
+          "start_ref_usfm": "1KI 4:13",
+          "end_ref": "11004013",
+          "end_ref_usfm": "1KI 4:13"
+        },
+        {
+          "start_ref": "11004019",
+          "start_ref_usfm": "1KI 4:19",
+          "end_ref": "11004019",
+          "end_ref_usfm": "1KI 4:19"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3272,
+          "content_id": 4104,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Ben-Geber",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

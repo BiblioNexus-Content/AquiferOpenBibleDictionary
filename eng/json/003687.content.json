@@ -1,23 +1,46 @@
 [
   {
-    "content_id": 6947,
-    "reference_id": 6115,
-    "title": "Mari",
+    "content_id": 6945,
+    "reference_id": 6113,
+    "title": "Mareshah (Place)",
     "media_type": "Text",
-    "index_reference": "mari",
+    "index_reference": "mareshah (place)",
     "language": "eng",
-    "content": "<h1>MARI</h1><p>An influential city-state in eastern Syria that became powerful around 2000 BC. It was settled by Semitic nomads (wandering people) who adopted city life and adapted cuneiform (an ancient writing system) to their own language, Akkadian.</p><p>Mari was an outpost of the Sumerian civilization. It was significant because it was the capital of an empire extending over a great part of northern Mesopotamia, about 22 miles (35.4 kilometers) along the Euphrates River.</p><p>Archaeologists have found over 20,000 documents at Mari. These records help us rewrite the history of Western Asia. They also found a well-preserved palace with intact wall paintings and kitchen and bath installations. These items tell us a lot about life from 1810 to 1760 BC.</p><p>Mari was surrounded by a great defensive wall, protecting it from invading forces. One prominent building, a ziggurat (temple tower), rose high above the town, about 150 feet (45.6 meters) high. It was a tall pyramid with outside stairs leading to a shrine at the top and smaller temples at the base.</p><p>The royal palace was on about six acres (2.4 hectares) of land. The palace was built with extremely thick walls made of brick covered with clay and was 16 feet (4.9 meters) tall. A complex drainage system carried rainwater through its clay pipes 30 feet (9.1 meters) underground. The palace at Mari contained nearly 300 rooms. It was not only the royal residence but also the center of:</p><ul><li><p>Business </p></li><li><p>Diplomacy</p></li><li><p>Military leadership </p></li><li><p>Storage for merchants&apos; goods and military equipment</p></li></ul><p>The royal court ate and drank:</p><ul><li><p>Fish</p></li><li><p>Meat</p></li><li><p>Four varieties of bread</p></li><li><p>Cucumbers</p></li><li><p>Peas</p></li><li><p>Beans</p></li><li><p>Garlic</p></li><li><p>Dates</p></li><li><p>Grapes</p></li><li><p>Figs</p></li><li><p>Beer</p></li><li><p>Wine</p></li></ul><p>The religious practices involved sacrifices and temple prostitution.</p><p>The clay tablets from the archives of Mari reveal a lot about the daily life in the ancient kingdom. The records are written in two languages and cover various aspects of society during the reigns of Jahdun-Lim, the founder of Mari, and his son Zimri-Lim:</p><ul><li><p>The king held daily court sessions to handle state affairs, listen to officials, and address legal disputes.</p></li><li><p>His role extended into the religious sphere, where he participated in temple visits, officiated rituals, performed animal sacrifices, communicated with the gods, and attended religious feasts.</p></li><li><p>The king’s involvement in religion was so significant that he was sometimes regarded as divine.</p></li><li><p>He also managed the calendar, which included adding an extra month every three years to align with seasonal changes.</p></li></ul><p>The economic records show a diverse range of professions: </p><ul><li><p>Metalworkers</p></li><li><p>Weavers</p></li><li><p>Fullers</p></li><li><p>Gem cutters</p></li><li><p>Jewelers</p></li><li><p>Painters</p></li><li><p>Perfume makers </p></li><li><p>Boatmen</p></li><li><p>Carpenters</p></li><li><p>Leatherworkers</p></li><li><p>Fishermen</p></li><li><p>Potters</p></li><li><p>Masons. </p></li></ul><p>Payment for services was made through goods such as corn, wool, clothing, wine, or oil, with occasional payments in gold or silver.</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5196\" data-resourceType=\"TyndaleBibleDictionary\">Inscriptions</span>.</p>",
+    "content": "<h1>MARESHAH (Place)</h1><p>City (Greek Marisa<em>;</em> Josephus, “Marissa”) on the road from the coastal plain of Judah toward Hebron and Jerusalem. Remains of Jewish pottery indicate occupation from at least 800 BC. The site is now called Tel Mareshah.</p><p>At Israel’s occupation of Canaan, Mareshah was allotted by Joshua to Judah (<a href=\"https://ref.ly/Josh15:44\">Jos 15:44</a>). Later, at the division of the kingdom, Rehoboam fortified it as a protective outpost covering Jerusalem from the southwest, from which many invaders were to approach (<a href=\"https://ref.ly/2Chr11:8\">2&nbsp;Chr 11:8</a>). Zerah the Ethiopian, with a million men and three hundred chariots, penetrated as far as Mareshah and was defeated there by Asa (<a href=\"https://ref.ly/2Chr14:9\">14:9</a>). In the following reign, that of Jehoshaphat, the prophet Eliezer, born at Mareshah, foretold the destruction of the proud fleet the king had built (<a href=\"https://ref.ly/2Chr20:37\">20:37</a>).</p><p>The prophet Micah, who was born at Moresheth-gath (a few miles to the north), uttered a moving elegy upon the fate of the regions he knew from boyhood, as the Assyrians approached (whether under Sennacherib, 701 BC, or Sargon, 711 BC). Punning upon each familiar place-name, he warned Mareshah of a coming “possessor” (<a href=\"https://ref.ly/Mic1:15\">Mi 1:15</a>).</p>",
     "associations": {
-      "passage": [],
-      "resource": [
+      "passage": [
         {
-          "reference_id": 5196,
-          "content_id": 6028,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Inscriptions",
-          "language": "eng"
+          "start_ref": "06015044",
+          "start_ref_usfm": "JOS 15:44",
+          "end_ref": "06015044",
+          "end_ref_usfm": "JOS 15:44"
+        },
+        {
+          "start_ref": "14011008",
+          "start_ref_usfm": "2CH 11:8",
+          "end_ref": "14011008",
+          "end_ref_usfm": "2CH 11:8"
+        },
+        {
+          "start_ref": "14014009",
+          "start_ref_usfm": "2CH 14:9",
+          "end_ref": "14014009",
+          "end_ref_usfm": "2CH 14:9"
+        },
+        {
+          "start_ref": "14020037",
+          "start_ref_usfm": "2CH 20:37",
+          "end_ref": "14020037",
+          "end_ref_usfm": "2CH 20:37"
+        },
+        {
+          "start_ref": "33001015",
+          "start_ref_usfm": "MIC 1:15",
+          "end_ref": "33001015",
+          "end_ref_usfm": "MIC 1:15"
         }
-      ]
+      ],
+      "resource": []
     }
   }
 ]

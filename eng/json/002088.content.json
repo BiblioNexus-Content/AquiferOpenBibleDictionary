@@ -1,43 +1,28 @@
 [
   {
-    "content_id": 5340,
-    "reference_id": 4508,
-    "title": "Gadite",
+    "content_id": 5341,
+    "reference_id": 4509,
+    "title": "Gadi",
     "media_type": "Text",
-    "index_reference": "gadite",
+    "index_reference": "gadi",
     "language": "eng",
-    "content": "<h1>GADITE</h1><p>A member of the tribe of Gad (<a href=\"https://ref.ly/Deut3:12,Deut3:16\">Deuteronomy 3:12, 16</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4510\" data-resourceType=\"TyndaleBibleDictionary\">Gad (Person) #1</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4511\" data-resourceType=\"TyndaleBibleDictionary\">Gad, Tribe of</span>.</p>",
+    "content": "<h1>GADI</h1><p>Father of Menahem. Menahem revolted and killed Shallum, king of Israel, placing himself on the throne as king (<a href=\"https://ref.ly/2Kgs15:14,2Kgs15:17\">2&nbsp;Kgs 15:14, 17</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05003012",
-          "start_ref_usfm": "DEU 3:12",
-          "end_ref": "05003012",
-          "end_ref_usfm": "DEU 3:12"
+          "start_ref": "12015014",
+          "start_ref_usfm": "2KI 15:14",
+          "end_ref": "12015014",
+          "end_ref_usfm": "2KI 15:14"
         },
         {
-          "start_ref": "05003016",
-          "start_ref_usfm": "DEU 3:16",
-          "end_ref": "05003016",
-          "end_ref_usfm": "DEU 3:16"
+          "start_ref": "12015017",
+          "start_ref_usfm": "2KI 15:17",
+          "end_ref": "12015017",
+          "end_ref_usfm": "2KI 15:17"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4510,
-          "content_id": 5342,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Gad (Person)",
-          "language": "eng"
-        },
-        {
-          "reference_id": 4511,
-          "content_id": 5343,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Gad, Tribe of",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

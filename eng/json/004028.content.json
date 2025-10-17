@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 7284,
-    "reference_id": 6452,
-    "title": "Nahamani",
+    "content_id": 7285,
+    "reference_id": 6453,
+    "title": "Naham",
     "media_type": "Text",
-    "index_reference": "nahamani",
+    "index_reference": "naham",
     "language": "eng",
-    "content": "<h1>NAHAMANI</h1><p>One of the leading officials who returned with Zerubbabel to Palestine following the exile (<a href=\"https://ref.ly/Neh7:7\">Neh 7:7</a>). His name is omitted in the parallel list of returning officials in <a href=\"https://ref.ly/Ezra2:2\">Ezra 2:2</a>.</p>",
+    "content": "<h1>NAHAM</h1><p>Judahite chief and the brother of Hodiah’s wife (<a href=\"https://ref.ly/1Chr4:19\">1&nbsp;Chr 4:19</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "15002002",
-          "start_ref_usfm": "EZR 2:2",
-          "end_ref": "15002002",
-          "end_ref_usfm": "EZR 2:2"
-        },
-        {
-          "start_ref": "16007007",
-          "start_ref_usfm": "NEH 7:7",
-          "end_ref": "16007007",
-          "end_ref_usfm": "NEH 7:7"
+          "start_ref": "13004019",
+          "start_ref_usfm": "1CH 4:19",
+          "end_ref": "13004019",
+          "end_ref_usfm": "1CH 4:19"
         }
       ],
       "resource": []

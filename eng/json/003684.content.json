@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 6943,
-    "reference_id": 6111,
-    "title": "Mareal",
+    "content_id": 6942,
+    "reference_id": 6110,
+    "title": "Marduk",
     "media_type": "Text",
-    "index_reference": "mareal",
+    "index_reference": "marduk",
     "language": "eng",
-    "content": "<h1>MAREAL*</h1><p>Town defining part of the western border of&nbsp;the land allotted to Zebulun’s tribe for an inheritance. It was positioned between Sarid and Dabbesheth (<a href=\"https://ref.ly/Josh19:11\">Jos 19:11</a>, nlt “Maralah”).</p>",
+    "content": "<h1>MARDUK</h1><p>Supreme Babylonian deity, worshiped as the&nbsp;god of creation and destiny. Marduk (also called Bel) was originally the local city god of Babylon. However, as&nbsp;Babylon increased in power, Marduk achieved preeminence over the whole Mesopotamian pantheon of deities. His rise to supremacy is told in the creation epic <em>Enuma Elish,</em> where Marduk is credited with defeating Tiamat, primeval chaos; he then created the heavens and the earth. Zarpanit (Sarpanit) was Marduk’s consort, and the temple Esagila at Babylon was erected for them. Jeremiah foretold that Marduk would be put to shame for his inability to keep Babylon from destruction (<a href=\"https://ref.ly/Jer50:2\">Jer 50:2</a>; Merodach—the Hebrew pronunciation of Marduk).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06019011",
-          "start_ref_usfm": "JOS 19:11",
-          "end_ref": "06019011",
-          "end_ref_usfm": "JOS 19:11"
+          "start_ref": "24050002",
+          "start_ref_usfm": "JER 50:2",
+          "end_ref": "24050002",
+          "end_ref_usfm": "JER 50:2"
         }
       ],
       "resource": []

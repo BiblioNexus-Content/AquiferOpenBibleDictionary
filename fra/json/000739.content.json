@@ -1,48 +1,34 @@
 [
   {
-    "content_id": 713632,
-    "reference_id": 4157,
-    "title": "Onze, les",
+    "content_id": 785216,
+    "reference_id": 5941,
+    "title": "Loïs",
     "media_type": "Text",
-    "index_reference": "onze, les",
+    "index_reference": "loïs",
     "language": "fra",
-    "content": "<h1>ONZE, Les</h1><p>Un nom utilisé pour les disciples de Jésus après la résurrection de Jésus d&apos;entre les morts (<a href=\"https://ref.ly/Mark16:14\">Mc 16.14</a> ; <a href=\"https://ref.ly/Luke24:9,Luke24:33\">Lc 24.9, 33</a>) et lors de la fête juive de la Pentecôte (<a href=\"https://ref.ly/Acts2:14\">Ac 2.14</a>). Ce nom a été utilisé après le suicide de Judas Iscariot.</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2838\" data-resourceType=\"TyndaleBibleDictionary\">Apôtre, apostolat</span>.</p>",
+    "content": "<h1>LOÏS</h1><p>Grand-mère de Timothée (<a href=\"https://ref.ly/2Tim1:5\">2Tm 1.5</a>). Sa famille, y compris Eunice, la mère de Timothée, vivait à Lystre (<a href=\"https://ref.ly/Acts16:1\">Ac 16.1</a>). Loïs était une Juive engagée. Elle semble s&apos;être convertie au christianisme lors du premier voyage missionnaire de Paul (chap. <a href=\"https://ref.ly/Acts14:1-Acts14:28\">14</a>). Paul mentionne le fait que Timothée partageait la foi de sa grand-mère et de sa mère.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "41016014",
-          "start_ref_usfm": "MRK 16:14",
-          "end_ref": "41016014",
-          "end_ref_usfm": "MRK 16:14"
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016001",
+          "end_ref_usfm": "ACT 16:1"
         },
         {
-          "start_ref": "42024009",
-          "start_ref_usfm": "LUK 24:9",
-          "end_ref": "42024009",
-          "end_ref_usfm": "LUK 24:9"
+          "start_ref": "55001005",
+          "start_ref_usfm": "2TI 1:5",
+          "end_ref": "55001005",
+          "end_ref_usfm": "2TI 1:5"
         },
         {
-          "start_ref": "42024033",
-          "start_ref_usfm": "LUK 24:33",
-          "end_ref": "42024033",
-          "end_ref_usfm": "LUK 24:33"
-        },
-        {
-          "start_ref": "44002014",
-          "start_ref_usfm": "ACT 2:14",
-          "end_ref": "44002014",
-          "end_ref_usfm": "ACT 2:14"
+          "start_ref": "44014001",
+          "start_ref_usfm": "ACT 14:1",
+          "end_ref": "44014028",
+          "end_ref_usfm": "ACT 14:28"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 2838,
-          "content_id": 341249,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Apôtre, Apôtre",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

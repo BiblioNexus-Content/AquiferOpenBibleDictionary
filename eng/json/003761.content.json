@@ -1,19 +1,31 @@
 [
   {
-    "content_id": 7021,
-    "reference_id": 6189,
-    "title": "Mehujael",
+    "content_id": 7020,
+    "reference_id": 6188,
+    "title": "Meholah, Meholathite",
     "media_type": "Text",
-    "index_reference": "mehujael",
+    "index_reference": "meholah, meholathite",
     "language": "eng",
-    "content": "<h1>MEHUJAEL</h1><p>A son of Irad and the father of Methushael, in the family line of Cain (<a href=\"https://ref.ly/Gen4:18\">Genesis 4:18</a>).</p>",
+    "content": "<h1>MEHOLAH, MEHOLATHITE</h1><p>A place name used to describe Adriel, the son of Barzillai. Adriel was the husband of Merab, who was King Saul&apos;s oldest daughter (<a href=\"https://ref.ly/1Sam18:19\">1&nbsp;Samuel 18:19</a>; <a href=\"https://ref.ly/2Sam21:8\">2&nbsp;Samuel 21:8</a>). He probably came from Abel-meholah, an important city in the region of Gilead. The marriage between Adriel and Merab was likely a political arrangement made by Saul and accepted by David. This arrangement happened even though David was originally supposed to marry Merab himself (<a href=\"https://ref.ly/1Sam18:17-1Sam18:19\">1&nbsp;Samuel 18:17–19</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01004018",
-          "start_ref_usfm": "GEN 4:18",
-          "end_ref": "01004018",
-          "end_ref_usfm": "GEN 4:18"
+          "start_ref": "09018019",
+          "start_ref_usfm": "1SA 18:19",
+          "end_ref": "09018019",
+          "end_ref_usfm": "1SA 18:19"
+        },
+        {
+          "start_ref": "10021008",
+          "start_ref_usfm": "2SA 21:8",
+          "end_ref": "10021008",
+          "end_ref_usfm": "2SA 21:8"
+        },
+        {
+          "start_ref": "09018017",
+          "start_ref_usfm": "1SA 18:17",
+          "end_ref": "09018019",
+          "end_ref_usfm": "1SA 18:19"
         }
       ],
       "resource": []

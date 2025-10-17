@@ -1,27 +1,41 @@
 [
   {
-    "content_id": 5527,
-    "reference_id": 4695,
-    "title": "Grasshopper",
+    "content_id": 5526,
+    "reference_id": 4694,
+    "title": "Grape",
     "media_type": "Text",
-    "index_reference": "grasshopper",
+    "index_reference": "grape",
     "language": "eng",
-    "content": "<h1>GRASSHOPPER</h1><p>Plant-eating insect equipped with long hind legs for leaping. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals</span>.</p>",
+    "content": "<h1>GRAPE</h1><p>Smooth-skinned, juicy berry that grows in clusters on woody vines. Grapes are eaten fresh or dried, and are fermented for wine. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2592\" data-resourceType=\"TyndaleBibleDictionary\">Agriculture</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6929\" data-resourceType=\"TyndaleBibleDictionary\">Plants (Vine)</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8182\" data-resourceType=\"TyndaleBibleDictionary\">Vines, Vineyard</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"8240\" data-resourceType=\"TyndaleBibleDictionary\">Wine</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 2782,
-          "content_id": 3614,
+          "reference_id": 2592,
+          "content_id": 3424,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Animals",
+          "label": "Agriculture",
           "language": "eng"
         },
         {
-          "reference_id": 5934,
-          "content_id": 6766,
-          "resource_code": "Unknown",
-          "label": "Locusts",
+          "reference_id": 6929,
+          "content_id": 7761,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Plants",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8182,
+          "content_id": 9014,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Vines, Vineyard",
+          "language": "eng"
+        },
+        {
+          "reference_id": 8240,
+          "content_id": 9072,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Wine",
           "language": "eng"
         }
       ]

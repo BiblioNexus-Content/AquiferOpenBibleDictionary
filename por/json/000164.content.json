@@ -1,31 +1,37 @@
 [
   {
-    "content_id": 716912,
-    "reference_id": 2894,
-    "title": "Areli, Arelita",
+    "content_id": 716911,
+    "reference_id": 2892,
+    "title": "Arde, Ardita",
     "media_type": "Text",
-    "index_reference": "areli, arelita",
+    "index_reference": "arde, ardita",
     "language": "por",
-    "content": "<h1>ARELI, ARELITA</h1><p>Um dos sete filhos de Gade (<a href=\"https://ref.ly/Gen46:16\">Gn 46.16</a>). Após a praga de Baal-Peor, Moisés realizou um censo para se preparar para a guerra com os midianitas (<a href=\"https://ref.ly/Num25:6-Num25:18\">Nm 25.6–18</a>; <a href=\"https://ref.ly/Num26:17\">26.17</a>). Os descendentes de Areli, chamados de Arelitas, foram contados no censo.</p>",
+    "content": "<h1>ARDE, ARDITA</h1><p>O primogênito de Benjamim, Belá, teve nove filhos (<a href=\"https://ref.ly/1Chr8:1\">1Cr 8.1</a>; <a href=\"https://ref.ly/Num26:40\">Nm 26.40</a>). Arde, um dos nove filhos, é chamado de filho de Benjamim no sentido hebraico, significando descendente (<a href=\"https://ref.ly/Gen46:21\">Gn 46.21</a>). Ele foi o fundador da família Ardita, um grupo menor dentro da tribo maior de Benjamim. No livro de 1 Crônicas (<a href=\"https://ref.ly/1Chr8:3\">8.3</a>), Arde é chamado de Adar. Essa diferença na grafia é provavelmente devido a um erro cometido ao copiar o texto há muito tempo.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01046016",
-          "start_ref_usfm": "GEN 46:16",
-          "end_ref": "01046016",
-          "end_ref_usfm": "GEN 46:16"
+          "start_ref": "01046021",
+          "start_ref_usfm": "GEN 46:21",
+          "end_ref": "01046021",
+          "end_ref_usfm": "GEN 46:21"
         },
         {
-          "start_ref": "04026017",
-          "start_ref_usfm": "NUM 26:17",
-          "end_ref": "04026017",
-          "end_ref_usfm": "NUM 26:17"
+          "start_ref": "04026040",
+          "start_ref_usfm": "NUM 26:40",
+          "end_ref": "04026040",
+          "end_ref_usfm": "NUM 26:40"
         },
         {
-          "start_ref": "04025006",
-          "start_ref_usfm": "NUM 25:6",
-          "end_ref": "04025018",
-          "end_ref_usfm": "NUM 25:18"
+          "start_ref": "13008001",
+          "start_ref_usfm": "1CH 8:1",
+          "end_ref": "13008001",
+          "end_ref_usfm": "1CH 8:1"
+        },
+        {
+          "start_ref": "13008003",
+          "start_ref_usfm": "1CH 8:3",
+          "end_ref": "13008003",
+          "end_ref_usfm": "1CH 8:3"
         }
       ],
       "resource": []

@@ -1,33 +1,27 @@
 [
   {
-    "content_id": 717020,
-    "reference_id": 4231,
-    "title": "Elzafã",
+    "content_id": 682913,
+    "reference_id": 4152,
+    "title": "El-Elyon",
     "media_type": "Text",
-    "index_reference": "elzafã",
+    "index_reference": "el-elyon",
     "language": "por",
-    "content": "<h1>Elzafã</h1><p>Uma grafia alternativa de Elzafã, um chefe levita, em <a href=\"https://ref.ly/Exod6:22\">Êxodo 6.22</a> e <a href=\"https://ref.ly/Lev10:4\">Levítico 10.4</a>.</p><p><em>Veja também </em><span data-bnType=\"resourceReference\" data-resourceId=\"4198\" data-resourceType=\"TyndaleBibleDictionary\">Elzafã #1</span>.</p>",
+    "content": "<h1>EL-ELYON*</h1><p>Hebraico para “Deus Altíssimo” (<a href=\"https://ref.ly/Gen14:18\">Gn 14.18</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4667\" data-resourceType=\"TyndaleBibleDictionary\">Deus, Nomes de</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "02006022",
-          "start_ref_usfm": "EXO 6:22",
-          "end_ref": "02006022",
-          "end_ref_usfm": "EXO 6:22"
-        },
-        {
-          "start_ref": "03010004",
-          "start_ref_usfm": "LEV 10:4",
-          "end_ref": "03010004",
-          "end_ref_usfm": "LEV 10:4"
+          "start_ref": "01014018",
+          "start_ref_usfm": "GEN 14:18",
+          "end_ref": "01014018",
+          "end_ref_usfm": "GEN 14:18"
         }
       ],
       "resource": [
         {
-          "reference_id": 4198,
-          "content_id": 717016,
+          "reference_id": 4667,
+          "content_id": 161818,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Elzafã",
+          "label": "Nomes De Deus",
           "language": "por"
         }
       ]

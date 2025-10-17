@@ -1,55 +1,43 @@
 [
   {
-    "content_id": 717287,
-    "reference_id": 7609,
-    "title": "Sobal",
+    "content_id": 816089,
+    "reference_id": 7385,
+    "title": "Selêucia",
     "media_type": "Text",
-    "index_reference": "sobal",
+    "index_reference": "selêucia",
     "language": "por",
-    "content": "<h1>SOBAL</h1><p>1. Um dos sete filhos de Seir, o horita, em Edom (<a href=\"https://ref.ly/Gen36:20\">Gn 36.20</a>; <a href=\"https://ref.ly/1Chr1:38\">1Cr 1.38</a>). Sobal tornou-se pai de cinco filhos (<a href=\"https://ref.ly/Gen36:23\">Gn 36.23</a>; <a href=\"https://ref.ly/1Chr1:40\">1Cr 1.40</a>) e foi um chefe entre os horitas (<a href=\"https://ref.ly/Gen36:29\">Gn 36.29</a>);</p><p>2. Hur, filho, pai de Haroé e fundador das famílias de Quiriate-Jearim (<a href=\"https://ref.ly/1Chr2:50-1Chr2:52\">1Cr 2.50–52</a>);</p><p>3. Um dos cinco filhos de Judá e pai de Reaías (<a href=\"https://ref.ly/1Chr4:1-1Chr4:2\">1Cr 4.1–2</a>); talvez o mesmo que o número 2 acima.</p>",
+    "content": "<h1>SELÊUCIA</h1><p>Um nome dado a várias cidades antigas no Oriente Próximo. Todas essas cidades foram fundadas por Seleuco I Nicátor, que governou de 312 a 281 a.C.</p><p>A Selêucia mais importante está na Síria. Esta Selêucia serviu como a cidade portuária de Antioquia, localizada no canto nordeste do Mediterrâneo. Ela fica a oito quilômetros ao norte da foz do rio Orontes e a 24 quilômetros de Antioquia.</p><p>Seleuco I construiu esta cidade em 301 a.C. e a fortaleceu com muralhas e defesas para proteger sua capital de ataques do oeste. Com o tempo, diferentes governantes lutaram pelo controle de Selêucia. Os governantes selêucidas da Síria e os ptolomeus do Egito travaram muitas batalhas para controlar a cidade (<a href=\"https://ref.ly/Dan11:7-Dan11:9\">Dn 11.7–9</a>; <a href=\"https://ref.ly/1Macc11:8-1Macc11:19\">1Mc 11.8–19</a>). Em 109 a.C., após os governantes selêucidas se libertarem do controle egípcio, eles tornaram Selêucia uma cidade independente com o direito de cunhar sua própria moeda.</p><p>Quando os romanos chegaram a esta região, seu líder Pompeu declarou Selêucia uma &quot;cidade livre&quot;. No entanto, ele encerrou o poder dos governantes selêucidas e criou a província romana da Síria. Selêucia tornou-se um importante porto de entrada para as regiões orientais. Os romanos melhoraram tanto o porto natural quanto as defesas da cidade.</p><p>Nos tempos do Novo Testamento, Selêucia permaneceu uma cidade livre. Era a casa dos navios da marinha de Roma na Síria. Barnabé, Saulo e João Marcos partiram daqui em sua primeira viagem missionária e retornaram a Antioquia via Selêucia (<a href=\"https://ref.ly/Acts13:4-Acts13:5\">At 13.4–5</a>; <a href=\"https://ref.ly/Acts14:26\">14.26</a>). Mais tarde, na segunda viagem missionária de Paulo, Paulo e seus companheiros novamente partiram de Selêucia (<a href=\"https://ref.ly/Acts15:39-Acts15:41\">15.39–41</a>). A cidade era bonita, com muitos edifícios públicos. Tinha um templo e um anfiteatro (um teatro ao ar livre) que foi esculpido na lateral de um penhasco.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01036020",
-          "start_ref_usfm": "GEN 36:20",
-          "end_ref": "01036020",
-          "end_ref_usfm": "GEN 36:20"
+          "start_ref": "44014026",
+          "start_ref_usfm": "ACT 14:26",
+          "end_ref": "44014026",
+          "end_ref_usfm": "ACT 14:26"
         },
         {
-          "start_ref": "01036023",
-          "start_ref_usfm": "GEN 36:23",
-          "end_ref": "01036023",
-          "end_ref_usfm": "GEN 36:23"
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
         },
         {
-          "start_ref": "01036029",
-          "start_ref_usfm": "GEN 36:29",
-          "end_ref": "01036029",
-          "end_ref_usfm": "GEN 36:29"
+          "start_ref": "27011007",
+          "start_ref_usfm": "DAN 11:7",
+          "end_ref": "27011009",
+          "end_ref_usfm": "DAN 11:9"
         },
         {
-          "start_ref": "13001038",
-          "start_ref_usfm": "1CH 1:38",
-          "end_ref": "13001038",
-          "end_ref_usfm": "1CH 1:38"
+          "start_ref": "78011008",
+          "start_ref_usfm": "1MA 11:8",
+          "end_ref": "78011019",
+          "end_ref_usfm": "1MA 11:19"
         },
         {
-          "start_ref": "13001040",
-          "start_ref_usfm": "1CH 1:40",
-          "end_ref": "13001040",
-          "end_ref_usfm": "1CH 1:40"
-        },
-        {
-          "start_ref": "13002050",
-          "start_ref_usfm": "1CH 2:50",
-          "end_ref": "13002052",
-          "end_ref_usfm": "1CH 2:52"
-        },
-        {
-          "start_ref": "13004001",
-          "start_ref_usfm": "1CH 4:1",
-          "end_ref": "13004002",
-          "end_ref_usfm": "1CH 4:2"
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
         }
       ],
       "resource": []

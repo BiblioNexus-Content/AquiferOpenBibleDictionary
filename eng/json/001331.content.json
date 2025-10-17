@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 4581,
-    "reference_id": 3749,
-    "title": "Claudia",
+    "content_id": 4580,
+    "reference_id": 3748,
+    "title": "Clauda",
     "media_type": "Text",
-    "index_reference": "claudia",
+    "index_reference": "clauda",
     "language": "eng",
-    "content": "<h1>CLAUDIA</h1><p>A Christian woman known to the apostle Paul and to Timothy (<a href=\"https://ref.ly/2Tim4:21\">2&nbsp;Timothy 4:21</a>).</p>",
+    "content": "<h1>CLAUDA</h1><p>The ancient name (and variant spelling) of a small island south of Crete (<a href=\"https://ref.ly/Acts27:16\">Acts 27:16</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3617\" data-resourceType=\"TyndaleBibleDictionary\">Cauda</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "55004021",
-          "start_ref_usfm": "2TI 4:21",
-          "end_ref": "55004021",
-          "end_ref_usfm": "2TI 4:21"
+          "start_ref": "44027016",
+          "start_ref_usfm": "ACT 27:16",
+          "end_ref": "44027016",
+          "end_ref_usfm": "ACT 27:16"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3617,
+          "content_id": 4449,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Cauda",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

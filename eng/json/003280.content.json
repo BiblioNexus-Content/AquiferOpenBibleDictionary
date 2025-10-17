@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 6538,
-    "reference_id": 5706,
-    "title": "Kelita",
+    "content_id": 6537,
+    "reference_id": 5705,
+    "title": "Kelal",
     "media_type": "Text",
-    "index_reference": "kelita",
+    "index_reference": "kelal",
     "language": "eng",
-    "content": "<h1>KELITA</h1><p>A Levite sometimes thought to be the same as Kelaiah. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5704\" data-resourceType=\"TyndaleBibleDictionary\">Kelaiah</span>.</p>",
+    "content": "<h1>KELAL</h1><p>Another spelling for Chelal, son of Pahath-moab.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3662\" data-resourceType=\"TyndaleBibleDictionary\">Chelal</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 5704,
-          "content_id": 6536,
+          "reference_id": 3662,
+          "content_id": 4494,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Kelaiah",
+          "label": "Chelal",
           "language": "eng"
         }
       ]

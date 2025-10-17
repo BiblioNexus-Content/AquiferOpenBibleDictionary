@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 788747,
-    "reference_id": 7018,
-    "title": "Publius",
+    "content_id": 769272,
+    "reference_id": 6359,
+    "title": "Moloch",
     "media_type": "Text",
-    "index_reference": "publius",
+    "index_reference": "moloch",
     "language": "fra",
-    "content": "<h1>PUBLIUS</h1><p>Fonctionnaire important qui vivait sur l&apos;île de Malte. La Bible le mentionne dans <a href=\"https://ref.ly/Acts28:7-Acts28:8\">Actes 28.7–8</a>. Paul et ses compagnons ont fait naufrage sur Malte lors de leur voyage vers Rome. Publius les a accueillis et leur a offert un endroit où séjourner pour un court moment. Publius avait un père qui était très malade. Pendant la visite de Paul, celui-ci a guéri le père de Publius.</p>",
+    "content": "<h1>MOLOCH</h1><p>Une autre orthographe de Moloc, un dieu ammonite (<a href=\"https://ref.ly/Acts7:43\">Ac 7.43</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6302\" data-resourceType=\"TyndaleBibleDictionary\">Milcom</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44028007",
-          "start_ref_usfm": "ACT 28:7",
-          "end_ref": "44028008",
-          "end_ref_usfm": "ACT 28:8"
+          "start_ref": "44007043",
+          "start_ref_usfm": "ACT 7:43",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
         }
       ],
       "resource": []

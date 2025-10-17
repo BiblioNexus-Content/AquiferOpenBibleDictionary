@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 7037,
-    "reference_id": 6205,
-    "title": "Melki",
+    "content_id": 7036,
+    "reference_id": 6204,
+    "title": "Melita",
     "media_type": "Text",
-    "index_reference": "melki",
+    "index_reference": "melita",
     "language": "eng",
-    "content": "<h1>MELKI</h1><p>Melki is another spelling of the name Melchi.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6200\" data-resourceType=\"TyndaleBibleDictionary\">Melchi</span>.</p>",
+    "content": "<h1>MELITA</h1><p>The King James Version form of Malta, an island south of Sicily in the Mediterranean Sea (<a href=\"https://ref.ly/Acts28:1\">Acts 28:1</a>). This is where Paul&apos;s ship was wrecked during a storm while he was being transported to Rome as a prisoner.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6077\" data-resourceType=\"TyndaleBibleDictionary\">Malta</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "44028001",
+          "start_ref_usfm": "ACT 28:1",
+          "end_ref": "44028001",
+          "end_ref_usfm": "ACT 28:1"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 6200,
-          "content_id": 7032,
+          "reference_id": 6077,
+          "content_id": 6909,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Melchi",
+          "label": "Malta",
           "language": "eng"
         }
       ]

@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 4913,
-    "reference_id": 4081,
-    "title": "Earthenware",
+    "content_id": 4914,
+    "reference_id": 4082,
+    "title": "Earth, New",
     "media_type": "Text",
-    "index_reference": "earthenware",
+    "index_reference": "earth, new",
     "language": "eng",
-    "content": "<h1>EARTHENWARE</h1><p>Objects made from baked clay, such as pots, jars, and dishes. These items were common household containers in biblical times.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6963\" data-resourceType=\"TyndaleBibleDictionary\">Pottery</span>.</p>",
+    "content": "<h1>EARTH, New</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6550\" data-resourceType=\"TyndaleBibleDictionary\">New Heavens and New Earth</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 6963,
-          "content_id": 7795,
+          "reference_id": 6550,
+          "content_id": 7382,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Pottery",
+          "label": "New Heavens and New Earth",
           "language": "eng"
         }
       ]

@@ -1,79 +1,76 @@
 [
   {
-    "content_id": 759747,
-    "reference_id": 4377,
-    "title": "Expiação",
+    "content_id": 683005,
+    "reference_id": 5760,
+    "title": "Estrada Real",
     "media_type": "Text",
-    "index_reference": "expiação",
+    "index_reference": "estrada real",
     "language": "por",
-    "content": "<h1>EXPIAÇÃO*</h1><p>Expiação, purificação ou remoção do pecado ou de sua culpa. O termo aparece em algumas traduções em português (e.g. ARC) como “expiação” (<a href=\"https://ref.ly/Heb2:17\">Hb 2.17</a>) ou “propiciação” (<a href=\"https://ref.ly/Rom3:25\">Rm 3.25</a>; <a href=\"https://ref.ly/1John2:2\">1Jo 2.2</a>; <a href=\"https://ref.ly/1John4:10\">4.10</a>). “Expiação” também aparece em algumas traduções em português de certas passagens do AT (<a href=\"https://ref.ly/Num35:33\">Nm 35.33</a>; <a href=\"https://ref.ly/Deut32:43\">Dt 32.43</a>; <a href=\"https://ref.ly/1Sam3:14\">1Sm 3.14</a>; <a href=\"https://ref.ly/Isa27:9\">Is 27.9</a>). A palavra não aparece em traduções modernas da Bíblia.</p><p>A família de palavras hebraicas traduzidas como “expiação” refere-se fundamentalmente a uma solução para o pecado, e a associação mais comum é com a ideia de expiação. Expiação está relacionada à remoção da mancha do pecado e, portanto, o termo está associado a palavras como “perdoar”, “purificar”, “limpar” ou “expiar”.</p><p>Todas as referências no NT à expiação estão relacionadas ao sacrifício de Cristo pelo pecado humano. Na Bíblia, tanto a expiação quanto a propiciação fazem parte da obra de expiação de Deus. O sacrifício de Cristo tanto propicia (afasta) a ira de Deus quanto expia (cobre) o pecado humano. A obra redentora de Deus é tanto pessoal, ou relacional, quanto objetiva. Quando um contexto bíblico se concentra na ira de Deus, a propiciação está envolvida; quando o pecado humano é o foco, então a redenção proporciona expiação.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3035\" data-resourceType=\"TyndaleBibleDictionary\">Expiação</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6630\" data-resourceType=\"TyndaleBibleDictionary\">Ofertas e sacrifícios</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"7001\" data-resourceType=\"TyndaleBibleDictionary\">Propiciação</span>.</p>",
+    "content": "<h1>ESTRADA REAL*</h1><p>A estrada que corre de norte a sul através do planalto transjordaniano. Ela aparece no AT apenas duas vezes em pedidos dos israelitas para usar essa estrada ao passar por Edom (<a href=\"https://ref.ly/Num20:17\">Nm 20.17</a>) e pelo reino amorita de Hesbom (<a href=\"https://ref.ly/Num21:22\">21.22</a>). A rota também pode ser chamada simplesmente de “a estrada” (<a href=\"https://ref.ly/Num20:19\">20.19</a>). O segmento norte é chamado de “o caminho de Basã” (<a href=\"https://ref.ly/Num21:33\">Nm 21.33</a>; <a href=\"https://ref.ly/Deut3:1\">Dt 3.1</a>).</p><p>Esta estrada conectava Damasco com a rota das caravanas que passavam pelo Hijaz até o sul da Arábia e as ricas fontes de especiarias, perfumes e outros produtos exóticos (<a href=\"https://ref.ly/1Kgs10:2\">1Rs 10.2</a>; <a href=\"https://ref.ly/Ezek27:22\">Ez 27.22</a>). O controle sobre ela era um fator chave na geopolítica de Israel e seus rivais.</p><p>A topografia local limita as possíveis linhas de marcha a duas rotas paralelas. Existe uma dupla divisória ao longo de todo o planalto transjordaniano. Uma é criada pelos riachos mais curtos que cortam as montanhas de leste a oeste; eles deixam uma divisória cerca de 21 a 26 quilômetros a leste do Vale do Jordão. Os riachos maiores, o Yarmuk, Jaboque, Arnom e Zered, começam a cerca de 40 a 48 quilômetros a leste, geralmente correndo para o norte antes de curvar para oeste. A rota que os contorna a leste deve seguir as bordas do deserto árabe do norte. Embora esta última tenha um percurso mais fácil de seguir, passa por menos fontes boas de água e assentamentos onde suprimentos poderiam ser obtidos. A primeira, na divisória ocidental, tinha água abundante e era margeada por grandes cidades; no entanto, as caravanas tinham que negociar os desfiladeiros íngremes dos quatro grandes leitos secos.</p><p>O registro mais antigo de movimento ao longo desta rota está em <a href=\"https://ref.ly/Gen14:1-Gen14:24\">Gênesis 14</a>. Os quatro reis partiram de Astarote, a capital de Basã, para Hã no norte de Gileade, depois para Savé-Quiriataim no planalto Moabita, e finalmente para o Monte Seir até El-Parã. Os patriarcas provavelmente sempre usaram este caminho ao viajar para Canaã; Jacó passou por Gileade (<a href=\"https://ref.ly/Gen31:21\">Gn 31.21</a>) e estabeleceu uma base em Sucote antes de atravessar o Jordão para Canaã (<a href=\"https://ref.ly/Gen33:17\">33.17</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04035033",
-          "start_ref_usfm": "NUM 35:33",
-          "end_ref": "04035033",
-          "end_ref_usfm": "NUM 35:33"
+          "start_ref": "01031021",
+          "start_ref_usfm": "GEN 31:21",
+          "end_ref": "01031021",
+          "end_ref_usfm": "GEN 31:21"
         },
         {
-          "start_ref": "05032043",
-          "start_ref_usfm": "DEU 32:43",
-          "end_ref": "05032043",
-          "end_ref_usfm": "DEU 32:43"
+          "start_ref": "01033017",
+          "start_ref_usfm": "GEN 33:17",
+          "end_ref": "01033017",
+          "end_ref_usfm": "GEN 33:17"
         },
         {
-          "start_ref": "09003014",
-          "start_ref_usfm": "1SA 3:14",
-          "end_ref": "09003014",
-          "end_ref_usfm": "1SA 3:14"
+          "start_ref": "04020017",
+          "start_ref_usfm": "NUM 20:17",
+          "end_ref": "04020017",
+          "end_ref_usfm": "NUM 20:17"
         },
         {
-          "start_ref": "23027009",
-          "start_ref_usfm": "ISA 27:9",
-          "end_ref": "23027009",
-          "end_ref_usfm": "ISA 27:9"
+          "start_ref": "04020019",
+          "start_ref_usfm": "NUM 20:19",
+          "end_ref": "04020019",
+          "end_ref_usfm": "NUM 20:19"
         },
         {
-          "start_ref": "45003025",
-          "start_ref_usfm": "ROM 3:25",
-          "end_ref": "45003025",
-          "end_ref_usfm": "ROM 3:25"
+          "start_ref": "04021022",
+          "start_ref_usfm": "NUM 21:22",
+          "end_ref": "04021022",
+          "end_ref_usfm": "NUM 21:22"
         },
         {
-          "start_ref": "58002017",
-          "start_ref_usfm": "HEB 2:17",
-          "end_ref": "58002017",
-          "end_ref_usfm": "HEB 2:17"
+          "start_ref": "04021033",
+          "start_ref_usfm": "NUM 21:33",
+          "end_ref": "04021033",
+          "end_ref_usfm": "NUM 21:33"
         },
         {
-          "start_ref": "62002002",
-          "start_ref_usfm": "1JN 2:2",
-          "end_ref": "62002002",
-          "end_ref_usfm": "1JN 2:2"
+          "start_ref": "05003001",
+          "start_ref_usfm": "DEU 3:1",
+          "end_ref": "05003001",
+          "end_ref_usfm": "DEU 3:1"
         },
         {
-          "start_ref": "62004010",
-          "start_ref_usfm": "1JN 4:10",
-          "end_ref": "62004010",
-          "end_ref_usfm": "1JN 4:10"
+          "start_ref": "11010002",
+          "start_ref_usfm": "1KI 10:2",
+          "end_ref": "11010002",
+          "end_ref_usfm": "1KI 10:2"
+        },
+        {
+          "start_ref": "26027022",
+          "start_ref_usfm": "EZK 27:22",
+          "end_ref": "26027022",
+          "end_ref_usfm": "EZK 27:22"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014024",
+          "end_ref_usfm": "GEN 14:24"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 3035,
-          "content_id": 716921,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Expiação",
-          "language": "por"
-        },
-        {
-          "reference_id": 6630,
-          "content_id": 658701,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Ofertas e sacrifícios",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

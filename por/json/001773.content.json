@@ -1,48 +1,112 @@
 [
   {
-    "content_id": 658731,
-    "reference_id": 7415,
-    "title": "Sete",
+    "content_id": 717277,
+    "reference_id": 7448,
+    "title": "Samá",
     "media_type": "Text",
-    "index_reference": "sete",
+    "index_reference": "samá",
     "language": "por",
-    "content": "<h1>SETE</h1><p>O terceiro filho de Adão e Eva. Ele substituiu Abel, que Caim assassinou (<a href=\"https://ref.ly/Gen4:25\">Gn 4.25</a>). Sete aparece como o filho primogênito de Adão nas listas de família de <a href=\"https://ref.ly/Gen5:3-Gen5:8\">Gênesis 5.3–8</a>, <a href=\"https://ref.ly/1Chr1:1\">1 Crônicas 1.1</a>, e <a href=\"https://ref.ly/Luke3:38\">Lucas 3.38</a>. Foi através da linhagem de Sete que Jesus nasceu. Sete foi o pai de Enos e viveu 912 anos.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4580\" data-resourceType=\"TyndaleBibleDictionary\">A ancestralidade de Jesus Cristo</span>.</p>",
+    "content": "<h1>SAMÁ</h1><p>1. Um dos quatro filhos de Reuel, neto de Esaú e chefe na terra de Edom (<a href=\"https://ref.ly/Gen36:13,Gen36:17\">Gn 36.13,17</a>; <a href=\"https://ref.ly/1Chr1:37\">1Cr 1.37</a>).</p><p>2. Terceiro dos oito filhos de Jessé, irmão de Davi (<a href=\"https://ref.ly/1Sam16:9\">1Sm 16.9</a>; <a href=\"https://ref.ly/1Sam17:13\">17.13</a>) e pai de Jônatas (<a href=\"https://ref.ly/2Sam21:20-2Sam21:21\">2Sm 21.20–21</a>) e Jonadabe (<a href=\"https://ref.ly/2Sam13:3-2Sam13:39\">2Sm 13.3ss</a>.). Samá é alternadamente chamado de Simeia em <a href=\"https://ref.ly/1Chr2:13\">1 Crônicas 2.13,</a> <a href=\"https://ref.ly/1Chr20:7\">20.7 </a>e <a href=\"https://ref.ly/2Sam13:3\">2 Samuel 13.3</a>, e Simei em <a href=\"https://ref.ly/2Sam21:21\">21.21</a>.</p><p>3. Filho de Agé, o Hararita, e um dos membros da elite entre os valentes de Davi. Ele era renomado por sua posição corajosa contra os filisteus em Leí (<a href=\"https://ref.ly/2Sam23:11-2Sam23:12\">2Sm 23.11–12</a>).</p><p>4. Harodita é um dos 30 valentes de Davi. Ele foi listado entre Elanã e Elica (<a href=\"https://ref.ly/2Sam23:24-2Sam23:25\">2Sm 23.24–25</a>). A passagem paralela de <a href=\"https://ref.ly/1Chr11:27\">1 Crônicas 11.27</a> menciona Samote, a forma plural de Samá. Em <a href=\"https://ref.ly/1Chr27:8\">27.8</a>, Samute, o Iraíta, o comandante de uma divisão dos soldados de Davi, é sem dúvida o mesmo homem.</p><p>5. Hararita é um dos valentes de Davi, listado entre Jônatas e Aião (<a href=\"https://ref.ly/2Sam23:33\">2Sm 23.33</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01004025",
-          "start_ref_usfm": "GEN 4:25",
-          "end_ref": "01004025",
-          "end_ref_usfm": "GEN 4:25"
+          "start_ref": "01036013",
+          "start_ref_usfm": "GEN 36:13",
+          "end_ref": "01036013",
+          "end_ref_usfm": "GEN 36:13"
         },
         {
-          "start_ref": "13001001",
-          "start_ref_usfm": "1CH 1:1",
-          "end_ref": "13001001",
-          "end_ref_usfm": "1CH 1:1"
+          "start_ref": "01036017",
+          "start_ref_usfm": "GEN 36:17",
+          "end_ref": "01036017",
+          "end_ref_usfm": "GEN 36:17"
         },
         {
-          "start_ref": "42003038",
-          "start_ref_usfm": "LUK 3:38",
-          "end_ref": "42003038",
-          "end_ref_usfm": "LUK 3:38"
+          "start_ref": "09016009",
+          "start_ref_usfm": "1SA 16:9",
+          "end_ref": "09016009",
+          "end_ref_usfm": "1SA 16:9"
         },
         {
-          "start_ref": "01005003",
-          "start_ref_usfm": "GEN 5:3",
-          "end_ref": "01005008",
-          "end_ref_usfm": "GEN 5:8"
+          "start_ref": "09017013",
+          "start_ref_usfm": "1SA 17:13",
+          "end_ref": "09017013",
+          "end_ref_usfm": "1SA 17:13"
+        },
+        {
+          "start_ref": "10013003",
+          "start_ref_usfm": "2SA 13:3",
+          "end_ref": "10013003",
+          "end_ref_usfm": "2SA 13:3"
+        },
+        {
+          "start_ref": "10021021",
+          "start_ref_usfm": "2SA 21:21",
+          "end_ref": "10021021",
+          "end_ref_usfm": "2SA 21:21"
+        },
+        {
+          "start_ref": "10023033",
+          "start_ref_usfm": "2SA 23:33",
+          "end_ref": "10023033",
+          "end_ref_usfm": "2SA 23:33"
+        },
+        {
+          "start_ref": "13001037",
+          "start_ref_usfm": "1CH 1:37",
+          "end_ref": "13001037",
+          "end_ref_usfm": "1CH 1:37"
+        },
+        {
+          "start_ref": "13002013",
+          "start_ref_usfm": "1CH 2:13",
+          "end_ref": "13002013",
+          "end_ref_usfm": "1CH 2:13"
+        },
+        {
+          "start_ref": "13011027",
+          "start_ref_usfm": "1CH 11:27",
+          "end_ref": "13011027",
+          "end_ref_usfm": "1CH 11:27"
+        },
+        {
+          "start_ref": "13020007",
+          "start_ref_usfm": "1CH 20:7",
+          "end_ref": "13020007",
+          "end_ref_usfm": "1CH 20:7"
+        },
+        {
+          "start_ref": "13027008",
+          "start_ref_usfm": "1CH 27:8",
+          "end_ref": "13027008",
+          "end_ref_usfm": "1CH 27:8"
+        },
+        {
+          "start_ref": "10021020",
+          "start_ref_usfm": "2SA 21:20",
+          "end_ref": "10021021",
+          "end_ref_usfm": "2SA 21:21"
+        },
+        {
+          "start_ref": "10013003",
+          "start_ref_usfm": "2SA 13:3",
+          "end_ref": "10013039",
+          "end_ref_usfm": "2SA 13:39"
+        },
+        {
+          "start_ref": "10023011",
+          "start_ref_usfm": "2SA 23:11",
+          "end_ref": "10023012",
+          "end_ref_usfm": "2SA 23:12"
+        },
+        {
+          "start_ref": "10023024",
+          "start_ref_usfm": "2SA 23:24",
+          "end_ref": "10023025",
+          "end_ref_usfm": "2SA 23:25"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4580,
-          "content_id": 682940,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Genealogia de Jesus Cristo",
-          "language": "por"
-        }
-      ]
+      "resource": []
     }
   }
 ]

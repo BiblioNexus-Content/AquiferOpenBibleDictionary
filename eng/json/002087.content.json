@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5341,
-    "reference_id": 4509,
-    "title": "Gadi",
+    "content_id": 5338,
+    "reference_id": 4506,
+    "title": "Gadfly",
     "media_type": "Text",
-    "index_reference": "gadi",
+    "index_reference": "gadfly",
     "language": "eng",
-    "content": "<h1>GADI</h1><p>Father of Menahem. Menahem revolted and killed Shallum, king of Israel, placing himself on the throne as king (<a href=\"https://ref.ly/2Kgs15:14,2Kgs15:17\">2&nbsp;Kgs 15:14, 17</a>).</p>",
+    "content": "<h1>GADFLY</h1><p>Any of a number of large flies, including the horsefly and botfly, that irritate livestock. King Nebuchadnezzar is called a gadfly in the only biblical reference to this insect (<a href=\"https://ref.ly/Jer46:20\">Jer 46:20</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2782\" data-resourceType=\"TyndaleBibleDictionary\">Animals (Fly)</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "12015014",
-          "start_ref_usfm": "2KI 15:14",
-          "end_ref": "12015014",
-          "end_ref_usfm": "2KI 15:14"
-        },
-        {
-          "start_ref": "12015017",
-          "start_ref_usfm": "2KI 15:17",
-          "end_ref": "12015017",
-          "end_ref_usfm": "2KI 15:17"
+          "start_ref": "24046020",
+          "start_ref_usfm": "JER 46:20",
+          "end_ref": "24046020",
+          "end_ref_usfm": "JER 46:20"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 2782,
+          "content_id": 3614,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Animals",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

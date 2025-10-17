@@ -1,31 +1,25 @@
 [
   {
-    "content_id": 6114,
-    "reference_id": 5282,
-    "title": "Ithrite",
+    "content_id": 6113,
+    "reference_id": 5281,
+    "title": "Ithream",
     "media_type": "Text",
-    "index_reference": "ithrite",
+    "index_reference": "ithream",
     "language": "eng",
-    "content": "<h1>ITHRITE</h1><p>A family or clan that lived at Kiriath-jearim (<a href=\"https://ref.ly/1Chr2:53\">1&nbsp;Chronicles 2:53</a>). Two of King David&apos;s mighty warriors, Ira and Gareb, were Ithrites (<a href=\"https://ref.ly/2Sam23:38\">2&nbsp;Samuel 23:38</a>; <a href=\"https://ref.ly/1Chr11:40\">1&nbsp;Chronicles 11:40</a>; in the New Living Translation, they are described as being &quot;from Jattir&quot;). The name Ithrite may come from the place name Jattir or from a person named Jether.</p><p></p>",
+    "content": "<h1>ITHREAM</h1><p>The sixth son of King David. His wife Eglah gave birth to him at Hebron (<a href=\"https://ref.ly/2Sam3:5\">2&nbsp;Samuel 3:5</a>; <a href=\"https://ref.ly/1Chr3:3\">1&nbsp;Chronicles 3:3</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "10023038",
-          "start_ref_usfm": "2SA 23:38",
-          "end_ref": "10023038",
-          "end_ref_usfm": "2SA 23:38"
+          "start_ref": "10003005",
+          "start_ref_usfm": "2SA 3:5",
+          "end_ref": "10003005",
+          "end_ref_usfm": "2SA 3:5"
         },
         {
-          "start_ref": "13002053",
-          "start_ref_usfm": "1CH 2:53",
-          "end_ref": "13002053",
-          "end_ref_usfm": "1CH 2:53"
-        },
-        {
-          "start_ref": "13011040",
-          "start_ref_usfm": "1CH 11:40",
-          "end_ref": "13011040",
-          "end_ref_usfm": "1CH 11:40"
+          "start_ref": "13003003",
+          "start_ref_usfm": "1CH 3:3",
+          "end_ref": "13003003",
+          "end_ref_usfm": "1CH 3:3"
         }
       ],
       "resource": []

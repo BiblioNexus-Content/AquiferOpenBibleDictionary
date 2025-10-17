@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 5145,
-    "reference_id": 4313,
-    "title": "Eshan",
+    "content_id": 5144,
+    "reference_id": 4312,
+    "title": "Esek",
     "media_type": "Text",
-    "index_reference": "eshan",
+    "index_reference": "esek",
     "language": "eng",
-    "content": "<h1>ESHAN</h1><p>Town in the hill country of the territory allotted to Judah’s tribe for an inheritance (<a href=\"https://ref.ly/Josh15:52\">Jos 15:52</a>).</p>",
+    "content": "<h1>ESEK*</h1><p>Name Isaac gave to a well dug by his servants in the valley of Gerar (<a href=\"https://ref.ly/Gen26:20\">Gn 26:20</a>; see nlt mg). The name means “argument.” When the herdsmen of Gerar claimed it belonged to them, Isaac relinquished Esek and another well, called Sitnah, to induce the men of Gerar to allow him to live peacefully in the land.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015052",
-          "start_ref_usfm": "JOS 15:52",
-          "end_ref": "06015052",
-          "end_ref_usfm": "JOS 15:52"
+          "start_ref": "01026020",
+          "start_ref_usfm": "GEN 26:20",
+          "end_ref": "01026020",
+          "end_ref_usfm": "GEN 26:20"
         }
       ],
       "resource": []

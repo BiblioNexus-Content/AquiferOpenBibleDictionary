@@ -1,37 +1,25 @@
 [
   {
-    "content_id": 5594,
-    "reference_id": 4762,
-    "title": "Hagrite",
+    "content_id": 5595,
+    "reference_id": 4763,
+    "title": "Hagri",
     "media_type": "Text",
-    "index_reference": "hagrite",
+    "index_reference": "hagri",
     "language": "eng",
-    "content": "<h1>HAGRITE</h1><p>Arabian tribe descended from Hagar, Abraham’s concubine. Being nomads, the Hagrites roamed the desert east of Gilead. Relations between Israel and the Hagrites were usually hostile. During Saul’s reign, Reuben’s tribe fought them and were defeated (<a href=\"https://ref.ly/1Chr5:10\">1&nbsp;Chr 5:10</a>). Later, however, with the help of Gad and the half-tribe of Manasseh, Reuben was able to take their land and hold it until the exile (<a href=\"https://ref.ly/1Chr5:19-1Chr5:20\">1&nbsp;Chr 5:19–20</a>). In the light of that hostility, it is easy to understand Asaph’s prayer against them in <a href=\"https://ref.ly/Ps83:6\">Psalm 83:6</a>. David, on the other hand, made a Hagrite, Jaziz, the steward of all his flocks (<a href=\"https://ref.ly/1Chr27:31\">1&nbsp;Chr 27:31</a>).</p>",
+    "content": "<h1>HAGRI</h1><p>The father of Mibhar, according to <a href=\"https://ref.ly/1Chr11:38\">1&nbsp;Chronicles 11:38</a>. However, in the similar list found in <a href=\"https://ref.ly/2Sam23:36\">2&nbsp;Samuel 23:36</a>, the text says &quot;Bani, the Gadite&quot; instead of &quot;Mibhar, son of Hagri.&quot; Because of textual difficulties in the 1 Chronicles passage, scholars think the reading in 2 Samuel is probably more accurate.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13005010",
-          "start_ref_usfm": "1CH 5:10",
-          "end_ref": "13005010",
-          "end_ref_usfm": "1CH 5:10"
+          "start_ref": "10023036",
+          "start_ref_usfm": "2SA 23:36",
+          "end_ref": "10023036",
+          "end_ref_usfm": "2SA 23:36"
         },
         {
-          "start_ref": "13027031",
-          "start_ref_usfm": "1CH 27:31",
-          "end_ref": "13027031",
-          "end_ref_usfm": "1CH 27:31"
-        },
-        {
-          "start_ref": "19083006",
-          "start_ref_usfm": "PSA 83:6",
-          "end_ref": "19083006",
-          "end_ref_usfm": "PSA 83:6"
-        },
-        {
-          "start_ref": "13005019",
-          "start_ref_usfm": "1CH 5:19",
-          "end_ref": "13005020",
-          "end_ref_usfm": "1CH 5:20"
+          "start_ref": "13011038",
+          "start_ref_usfm": "1CH 11:38",
+          "end_ref": "13011038",
+          "end_ref_usfm": "1CH 11:38"
         }
       ],
       "resource": []

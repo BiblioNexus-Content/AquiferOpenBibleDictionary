@@ -1,40 +1,65 @@
 [
   {
-    "content_id": 7213,
-    "reference_id": 6381,
-    "title": "Moses’ Seat",
+    "content_id": 7211,
+    "reference_id": 6379,
+    "title": "Moses, Books of",
     "media_type": "Text",
-    "index_reference": "moses’ seat",
+    "index_reference": "moses, books of",
     "language": "eng",
-    "content": "<h1>MOSES’S SEAT</h1><p>A phrase that appears only in <a href=\"https://ref.ly/Matt23:2\">Matthew 23:2</a>. There, Jesus talks about the scribes and Pharisees sitting on Moses&apos;s Seat.</p><p>In Bible times, where someone sat often showed how important they were (<a href=\"https://ref.ly/Matt23:6\">Matthew 23:6</a>). Sitting on &quot;Moses&apos;s Seat&quot; meant having a respected position and the right to explain Moses&apos;s laws.</p><p>The scribes were seen as continuing Moses&apos;s authority. People looked to them to explain what Moses taught.</p><p>In <a href=\"https://ref.ly/Matt23:2\">Matthew 23:2</a>, Jesus does not seem to question their right. He tells people to follow what the scribes and Pharisees say when they teach Moses&apos;s laws correctly. But Jesus warns people not to copy what these teachers do because the scribes and Pharisees do not practice what they preach.</p><p>At other times, Jesus spoke against the scribes&apos; and Pharisees&apos; traditions that did not match Moses&apos;s laws (<a href=\"https://ref.ly/Matt15:3-Matt15:6\">Matthew 15:3–6</a>; <a href=\"https://ref.ly/Matt23:4\">23:4</a>, <a href=\"https://ref.ly/Matt23:16-Matt23:22\">16–22</a>).</p>",
+    "content": "<h1>MOSES, Books of</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3992\" data-resourceType=\"TyndaleBibleDictionary\">Deuteronomy, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4374\" data-resourceType=\"TyndaleBibleDictionary\">Exodus, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"4582\" data-resourceType=\"TyndaleBibleDictionary\">Genesis, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5901\" data-resourceType=\"TyndaleBibleDictionary\">Leviticus, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6383\" data-resourceType=\"TyndaleBibleDictionary\">Moses</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6601\" data-resourceType=\"TyndaleBibleDictionary\">Numbers, Book of</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"6814\" data-resourceType=\"TyndaleBibleDictionary\">Pentateuch</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "40023002",
-          "start_ref_usfm": "MAT 23:2",
-          "end_ref": "40023002",
-          "end_ref_usfm": "MAT 23:2"
+          "reference_id": 3992,
+          "content_id": 4824,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Deuteronomy, Book of",
+          "language": "eng"
         },
         {
-          "start_ref": "40023006",
-          "start_ref_usfm": "MAT 23:6",
-          "end_ref": "40023006",
-          "end_ref_usfm": "MAT 23:6"
+          "reference_id": 4374,
+          "content_id": 5206,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Book of Exodus",
+          "language": "eng"
         },
         {
-          "start_ref": "40015003",
-          "start_ref_usfm": "MAT 15:3",
-          "end_ref": "40015006",
-          "end_ref_usfm": "MAT 15:6"
+          "reference_id": 4582,
+          "content_id": 5414,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Genesis, Book of",
+          "language": "eng"
         },
         {
-          "start_ref": "40023016",
-          "start_ref_usfm": "MAT 23:16",
-          "end_ref": "40023022",
-          "end_ref_usfm": "MAT 23:22"
+          "reference_id": 5901,
+          "content_id": 6733,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Leviticus, Book of",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6601,
+          "content_id": 7433,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Numbers, Book of",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6383,
+          "content_id": 7215,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Moses",
+          "language": "eng"
+        },
+        {
+          "reference_id": 6814,
+          "content_id": 7646,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Pentateuch",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 806112,
-    "reference_id": 7150,
-    "title": "Rehoboth Hir",
+    "content_id": 785228,
+    "reference_id": 6342,
+    "title": "Mytilène",
     "media_type": "Text",
-    "index_reference": "rehoboth hir",
+    "index_reference": "mytilène",
     "language": "fra",
-    "content": "<h1>REHOBOTH HIR</h1><p>Nom signifiant « larges espaces de la ville ». C&apos;était la deuxième ville construite par Nimrod le chasseur en Assyrie (<a href=\"https://ref.ly/Gen10:11\">Gn 10.11</a>). Les avis divergent quant à savoir s&apos;il s&apos;agissait d&apos;une municipalité distincte (une banlieue de Ninive) ou, puisque le nom de la ville n&apos;est pas mentionné dans la littérature assyrienne, de places ouvertes ou de larges rues à l&apos;intérieur de Ninive elle-même.</p>",
+    "content": "<h1>MYTILÈNE</h1><p>Mytilène est une ville principale située sur l&apos;île de Lesbos, dans la mer Égée, près de la côte nord-ouest de l&apos;Asie Mineure. C&apos;était un port maritime doté de deux ports. À l&apos;origine, elle a été construite sur une petite île séparée de Lesbos.</p><p>À l&apos;époque du Nouveau Testament, une chaussée surélevée traversait un étroit bras de mer, la reliant à l&apos;île principale. <a href=\"https://ref.ly/Acts20:14\">Actes 20.14</a> identifie Mytilène comme l&apos;un des lieux où Paul et ses compagnons de voyage se sont arrêtés pour la nuit, alors qu&apos;ils naviguaient vers Jérusalem.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01010011",
-          "start_ref_usfm": "GEN 10:11",
-          "end_ref": "01010011",
-          "end_ref_usfm": "GEN 10:11"
+          "start_ref": "44020014",
+          "start_ref_usfm": "ACT 20:14",
+          "end_ref": "44020014",
+          "end_ref_usfm": "ACT 20:14"
         }
       ],
       "resource": []

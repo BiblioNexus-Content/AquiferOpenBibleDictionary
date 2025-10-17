@@ -1,19 +1,25 @@
 [
   {
-    "content_id": 5915,
-    "reference_id": 5083,
-    "title": "Hosah (Place)",
+    "content_id": 5914,
+    "reference_id": 5082,
+    "title": "Hosah (Person)",
     "media_type": "Text",
-    "index_reference": "hosah (place)",
+    "index_reference": "hosah (person)",
     "language": "eng",
-    "content": "<h1>HOSAH (Place)</h1><p>City south of Tyre on Asher’s border (<a href=\"https://ref.ly/Josh19:29\">Jos 19:29</a>).</p>",
+    "content": "<h1>HOSAH (Person)</h1><p>Merarite Levite who guarded the gate of the tent where the sacred ark was kept (<a href=\"https://ref.ly/1Chr16:38\">1&nbsp;Chr 16:38</a>) when David brought it to Jerusalem. His gatekeeping responsibilities were shared by his sons (<a href=\"https://ref.ly/1Chr26:10-1Chr26:16\">26:10–16</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06019029",
-          "start_ref_usfm": "JOS 19:29",
-          "end_ref": "06019029",
-          "end_ref_usfm": "JOS 19:29"
+          "start_ref": "13016038",
+          "start_ref_usfm": "1CH 16:38",
+          "end_ref": "13016038",
+          "end_ref_usfm": "1CH 16:38"
+        },
+        {
+          "start_ref": "13026010",
+          "start_ref_usfm": "1CH 26:10",
+          "end_ref": "13026016",
+          "end_ref_usfm": "1CH 26:16"
         }
       ],
       "resource": []

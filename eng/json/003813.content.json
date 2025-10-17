@@ -1,19 +1,31 @@
 [
   {
-    "content_id": 7073,
-    "reference_id": 6241,
-    "title": "Merom, Waters of",
+    "content_id": 7071,
+    "reference_id": 6239,
+    "title": "Merodach-Baladan",
     "media_type": "Text",
-    "index_reference": "merom, waters of",
+    "index_reference": "merodach-baladan",
     "language": "eng",
-    "content": "<h1>MEROM*, Waters of</h1><p>Site of Joshua’s victory over Jabin, king of Hazor, and his allies, mentioned only twice in the Bible (<a href=\"https://ref.ly/Josh11:5-Josh11:7\">Jos 11:5–7</a>). Jabin’s allies included Jobab, the king of Madon, and the kings of Shimron, Achshaph, and the northern hill country, as well as those of the lowland south of the Sea of Galilee. The site of the battle is not clear but a likely place for “the waters of Merom” is near the foot of Har Merom (on modern Israeli maps), or on older maps, Jabel Marun—the highest mountain in Israel (3,962 feet, or 1,207.1 meters). Near the base of the mountain is the town of Merom, where several roads leading into northern Galilee converge. It is on the road between Hazor and Acco on the coast; hence, it was a convenient place for Joshua’s enemies to rendezvous. Merom is about eight miles (12.9 kilometers) southwest of Hazor. The “waters of Merom,” therefore, would be the springs that emerge from the mountain to flow down Wadi Leimun into the Sea of Galilee. Merom is mentioned in Egyptian texts of the second millennium BC associated with the campaigns of Thutmose III. The Assyrian monarch Tiglath-pileser III also reported his expedition into this region in 733–732 BC, at the time when he conquered Damascus. The allied forces defeated by Joshua fled northwest, in the direction of Sidon, suggesting an attack by Joshua from the southeast, from the area west of the Sea of Galilee, the natural approach from the south.</p>",
+    "content": "<h1>MERODACH-BALADAN</h1><p>Name meaning “Marduk has given a son!” <a href=\"https://ref.ly/2Kgs20:12-2Kgs20:19\">Second Kings 20:12–19</a> and <a href=\"https://ref.ly/Isa39:1-Isa39:8\">Isaiah 39</a> present a parallel account of Merodach-baladan, son of Baladan, king of Babylon, sending envoys to King Hezekiah of Judah.</p><p>Shalmaneser V, king of Assyria, captured Samaria in 722 BC and threatened King Hezekiah in Jerusalem but then died within a year’s time. Sargon II succeeded him in 722 BC. At that time Merodach-baladan, living south of Babylon in the land called Bit-Yakin, formed an alliance with the Elamites and seized the throne of Babylon, referred to as the second jewel of the Assyrian crown. Sargon II immediately made efforts to regain Babylon as a province in the Assyrian Empire. He must not have been successful initially, for Merodach-baladan reigned over Babylon for 10 years. In 710 BC Sargon succeeded in defeating him and captured the Babylonian fortresses. Merodach-baladan escaped. After Sargon died in 705 BC, Merodach-baladan, in 703 BC, was able to recapture and hold the throne of Babylon for a short period. It is considered most plausible that during this short reign Merodach-baladan sent envoys to Hezekiah in Jerusalem, as he also is thought to have sent them to Edom, Moab, Ammon, and others, seeking to form an alliance against Assyria. The Arabian desert between Babylon and Palestine made such an alliance ineffective, and the new king of Assyria, Sennacherib, thoroughly destroyed Merodach-baladan and then turned to the nations on Palestinian soil.</p><p>Isaiah rebuked Hezekiah for receiving the envoys from Babylon, the province that had broken away from the Assyrian Empire and that in a very short time was again forced into the Assyrian Empire. In Isaiah’s rebuke lies the prediction that Babylon would become the invading and despoiling nation in the future. Hezekiah, knowing Assyria’s power and Babylon’s inability to cope with it at that time, felt quite safe as far as Babylon was concerned (<a href=\"https://ref.ly/2Kgs20:19\">2&nbsp;Kgs 20:19</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06011005",
-          "start_ref_usfm": "JOS 11:5",
-          "end_ref": "06011007",
-          "end_ref_usfm": "JOS 11:7"
+          "start_ref": "12020019",
+          "start_ref_usfm": "2KI 20:19",
+          "end_ref": "12020019",
+          "end_ref_usfm": "2KI 20:19"
+        },
+        {
+          "start_ref": "12020012",
+          "start_ref_usfm": "2KI 20:12",
+          "end_ref": "12020019",
+          "end_ref_usfm": "2KI 20:19"
+        },
+        {
+          "start_ref": "23039001",
+          "start_ref_usfm": "ISA 39:1",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
         }
       ],
       "resource": []

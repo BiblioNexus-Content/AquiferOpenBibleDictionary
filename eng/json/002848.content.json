@@ -1,27 +1,33 @@
 [
   {
-    "content_id": 6101,
-    "reference_id": 5269,
-    "title": "Isuah",
+    "content_id": 6100,
+    "reference_id": 5268,
+    "title": "Issue of Blood",
     "media_type": "Text",
-    "index_reference": "isuah",
+    "index_reference": "issue of blood",
     "language": "eng",
-    "content": "<h1>ISUAH*</h1><p>KJV spelling of Ishvah, Asher’s son, in <a href=\"https://ref.ly/1Chr7:30\">1&nbsp;Chronicles 7:30</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5253\" data-resourceType=\"TyndaleBibleDictionary\">Ishvah</span>.</p>",
+    "content": "<h1>ISSUE OF BLOOD</h1><p>The King James Version translation of &quot;suffered from bleeding&quot; or “hemorrhage” in <a href=\"https://ref.ly/Matt9:20\">Matthew 9:20</a> and <a href=\"https://ref.ly/Mark5:25\">Mark 5:25</a>. <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4966\" data-resourceType=\"TyndaleBibleDictionary\">Hemorrhage</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13007030",
-          "start_ref_usfm": "1CH 7:30",
-          "end_ref": "13007030",
-          "end_ref_usfm": "1CH 7:30"
+          "start_ref": "40009020",
+          "start_ref_usfm": "MAT 9:20",
+          "end_ref": "40009020",
+          "end_ref_usfm": "MAT 9:20"
+        },
+        {
+          "start_ref": "41005025",
+          "start_ref_usfm": "MRK 5:25",
+          "end_ref": "41005025",
+          "end_ref_usfm": "MRK 5:25"
         }
       ],
       "resource": [
         {
-          "reference_id": 5253,
-          "content_id": 6085,
+          "reference_id": 4966,
+          "content_id": 5798,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Ishvah",
+          "label": "Hemorrhage",
           "language": "eng"
         }
       ]

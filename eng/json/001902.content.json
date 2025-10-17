@@ -1,33 +1,20 @@
 [
   {
-    "content_id": 5159,
-    "reference_id": 4327,
-    "title": "Esrom",
+    "content_id": 5158,
+    "reference_id": 4326,
+    "title": "Espousal",
     "media_type": "Text",
-    "index_reference": "esrom",
+    "index_reference": "espousal",
     "language": "eng",
-    "content": "<h1>ESROM</h1><p>The spelling of Hezron, Perez’s son, in the King James Version in <a href=\"https://ref.ly/Matt1:3\">Matthew 1:3</a> and <a href=\"https://ref.ly/Luke3:33\">Luke 3:33</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5006\" data-resourceType=\"TyndaleBibleDictionary\">Hezron (Person) #2</span>.</p>",
+    "content": "<h1>ESPOUSAL*</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6123\" data-resourceType=\"TyndaleBibleDictionary\">Marriage, Marriage Customs</span>.</p>",
     "associations": {
-      "passage": [
-        {
-          "start_ref": "40001003",
-          "start_ref_usfm": "MAT 1:3",
-          "end_ref": "40001003",
-          "end_ref_usfm": "MAT 1:3"
-        },
-        {
-          "start_ref": "42003033",
-          "start_ref_usfm": "LUK 3:33",
-          "end_ref": "42003033",
-          "end_ref_usfm": "LUK 3:33"
-        }
-      ],
+      "passage": [],
       "resource": [
         {
-          "reference_id": 5006,
-          "content_id": 5838,
+          "reference_id": 6123,
+          "content_id": 6955,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Hezron (Person)",
+          "label": "Marriage, Marriage Customs",
           "language": "eng"
         }
       ]

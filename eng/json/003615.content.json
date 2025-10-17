@@ -1,25 +1,25 @@
 [
   {
-    "content_id": 6874,
-    "reference_id": 6042,
-    "title": "Maher-Shalal-Hash-Baz",
+    "content_id": 6873,
+    "reference_id": 6041,
+    "title": "Mahazioth",
     "media_type": "Text",
-    "index_reference": "maher-shalal-hash-baz",
+    "index_reference": "mahazioth",
     "language": "eng",
-    "content": "<h1>MAHER-SHALAL-HASH-BAZ</h1><p>Name of Isaiah’s son, meaning “swift to plunder and quick to spoil” (nlt mg), which prophetically described the imminent destruction to befall Damascus and Samaria by the hand of the Assyrians (<a href=\"https://ref.ly/Isa8:1,Isa8:3\">Is 8:1, 3</a>).</p>",
+    "content": "<h1>MAHAZIOTH</h1><p>One of the 14 sons of Heman the Kohathite, and head of the 23d course of tabernacle musicians who ministered with cymbals, harps, and lyres (<a href=\"https://ref.ly/1Chr25:4,1Chr25:30\">1&nbsp;Chr 25:4, 30</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "23008001",
-          "start_ref_usfm": "ISA 8:1",
-          "end_ref": "23008001",
-          "end_ref_usfm": "ISA 8:1"
+          "start_ref": "13025004",
+          "start_ref_usfm": "1CH 25:4",
+          "end_ref": "13025004",
+          "end_ref_usfm": "1CH 25:4"
         },
         {
-          "start_ref": "23008003",
-          "start_ref_usfm": "ISA 8:3",
-          "end_ref": "23008003",
-          "end_ref_usfm": "ISA 8:3"
+          "start_ref": "13025030",
+          "start_ref_usfm": "1CH 25:30",
+          "end_ref": "13025030",
+          "end_ref_usfm": "1CH 25:30"
         }
       ],
       "resource": []

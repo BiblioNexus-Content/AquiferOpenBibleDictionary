@@ -1,28 +1,23 @@
 [
   {
-    "content_id": 4316,
-    "reference_id": 3484,
-    "title": "Bowels",
+    "content_id": 4319,
+    "reference_id": 3487,
+    "title": "Bow",
     "media_type": "Text",
-    "index_reference": "bowels",
+    "index_reference": "bow",
     "language": "eng",
-    "content": "<h1>BOWELS</h1><p>The word <em>bowels</em> means the intestines (the lower part of the stomach area). The King James Version also uses this word as a metaphor to describe the place where a person feels pity, mercy, and tenderness (see <a href=\"https://ref.ly/Phil1:8\">Philippians 1:8</a>; <a href=\"https://ref.ly/Phil2:1-Phil2:2\">2:1–2</a>).</p>",
+    "content": "<h1>BOW</h1><p>A curved weapon that shoots arrows, used in biblical times for hunting and warfare.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"2884\" data-resourceType=\"TyndaleBibleDictionary\">Archer, Archery</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "50001008",
-          "start_ref_usfm": "PHP 1:8",
-          "end_ref": "50001008",
-          "end_ref_usfm": "PHP 1:8"
-        },
-        {
-          "start_ref": "50002001",
-          "start_ref_usfm": "PHP 2:1",
-          "end_ref": "50002002",
-          "end_ref_usfm": "PHP 2:2"
+          "reference_id": 2884,
+          "content_id": 3716,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Archer, Archery",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

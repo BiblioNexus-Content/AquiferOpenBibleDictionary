@@ -1,37 +1,49 @@
 [
   {
-    "content_id": 815889,
-    "reference_id": 3171,
-    "title": "Bárbaro",
+    "content_id": 759656,
+    "reference_id": 3216,
+    "title": "Barba",
     "media_type": "Text",
-    "index_reference": "bárbaro",
+    "index_reference": "barba",
     "language": "por",
-    "content": "<h1>BÁRBARO</h1><p>Um estrangeiro, especialmente alguém de uma cultura não considerada avançada ou desenvolvida. A palavra grega &quot;<em>barbarous</em>&quot;, que traduzimos como &quot;bárbaro&quot;, originalmente veio do som repetido sem sentido &quot;<em>bar-bar</em>&quot;. Esse som imita os sons desconhecidos das línguas estrangeiras. Os gregos se viam como o povo mais culto e usavam o termo para descrever qualquer pessoa que não fosse grega. Os romanos, que adotaram a cultura grega e se viam como iguais aos gregos, também usavam &quot;bárbaro&quot; para se referir a pessoas que não compartilhavam suas línguas ou costumes.</p><p>No Novo Testamento, a palavra &quot;bárbaro&quot; revela seus diferentes significados. A relação com a linguagem é evidente em uma declaração sobre o falar em línguas do Espírito Santo. Em <a href=\"https://ref.ly/1Cor14:11\">1 Coríntios 14.11,</a> Paulo menciona que se a linguagem espiritual de um cristão não for entendida, isso faria do orador um &quot;bárbaro&quot; para Paulo e vice-versa. Em <a href=\"https://ref.ly/Acts28:2-Acts28:4\">Atos 28.2–4</a>, Lucas descreve o povo de Malta como &quot;bárbaro&quot;, mas isso não foi para ser insultante. Em vez disso, destacou a bondade deles para com Paulo após seu naufrágio.</p><p>Paulo também usou o termo em um sentido mais amplo greco-romano, afirmando que estava em dívida tanto com gregos quanto com bárbaros (<a href=\"https://ref.ly/Rom1:14\">Rm 1.14</a>). Paulo enfatizou que o evangelho de Jesus Cristo é para todos, dizendo: “Aqui não há grego nem judeu, circuncidado ou incircuncidado, bárbaro, cita, escravo ou livre, mas Cristo é tudo e está em todos” (<a href=\"https://ref.ly/Col3:11\">Cl 3.11</a>).</p>",
+    "content": "<h1>BARBA</h1><p>O cabelo que cresce na parte inferior do rosto de um homem é chamado de barba.</p><p>Uma barba era usada como um sinal de maturidade entre as pessoas do antigo Oriente Próximo, incluindo os israelitas. Em Israel, o cuidado com a barba tinha significado religioso (<a href=\"https://ref.ly/Lev19:27\">Lv 19.27</a>). As leis em Levítico ordenavam que os sacerdotes não raspassem suas cabeças nem aparassem suas barbas (<a href=\"https://ref.ly/Lev21:5-Lev21:6\">Lv 21.5–6</a>). Davi enviou mensageiros a um rei amonita, que foram humilhados ao terem um lado de suas barbas raspado pelos amonitas. Esse insulto, entre outros, levou à guerra (<a href=\"https://ref.ly/2Sam10:1-2Sam10:8\">2Sm 10.1–8</a>).</p><p>Às vezes, era apropriado raspar a barba. Se alguém pudesse ter lepra na cabeça ou no rosto, era necessário raspar ao redor da mancha para verificar (<a href=\"https://ref.ly/Lev13:29-Lev13:37\">Lv 13.29–37</a>). Uma cabeça raspada, lamentação e uso de pano de saco eram maneiras de sinalizar a desgraça futura (<a href=\"https://ref.ly/Isa15:1-Isa15:3\">Is 15.1–3</a>). Esdras representou o desastre espiritual de Israel arrancando cabelo da cabeça e da barba (<a href=\"https://ref.ly/Ezra9:3\">Ed 9.3</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "45001014",
-          "start_ref_usfm": "ROM 1:14",
-          "end_ref": "45001014",
-          "end_ref_usfm": "ROM 1:14"
+          "start_ref": "03019027",
+          "start_ref_usfm": "LEV 19:27",
+          "end_ref": "03019027",
+          "end_ref_usfm": "LEV 19:27"
         },
         {
-          "start_ref": "46014011",
-          "start_ref_usfm": "1CO 14:11",
-          "end_ref": "46014011",
-          "end_ref_usfm": "1CO 14:11"
+          "start_ref": "15009003",
+          "start_ref_usfm": "EZR 9:3",
+          "end_ref": "15009003",
+          "end_ref_usfm": "EZR 9:3"
         },
         {
-          "start_ref": "51003011",
-          "start_ref_usfm": "COL 3:11",
-          "end_ref": "51003011",
-          "end_ref_usfm": "COL 3:11"
+          "start_ref": "03021005",
+          "start_ref_usfm": "LEV 21:5",
+          "end_ref": "03021006",
+          "end_ref_usfm": "LEV 21:6"
         },
         {
-          "start_ref": "44028002",
-          "start_ref_usfm": "ACT 28:2",
-          "end_ref": "44028004",
-          "end_ref_usfm": "ACT 28:4"
+          "start_ref": "10010001",
+          "start_ref_usfm": "2SA 10:1",
+          "end_ref": "10010008",
+          "end_ref_usfm": "2SA 10:8"
+        },
+        {
+          "start_ref": "03013029",
+          "start_ref_usfm": "LEV 13:29",
+          "end_ref": "03013037",
+          "end_ref_usfm": "LEV 13:37"
+        },
+        {
+          "start_ref": "23015001",
+          "start_ref_usfm": "ISA 15:1",
+          "end_ref": "23015003",
+          "end_ref_usfm": "ISA 15:3"
         }
       ],
       "resource": []

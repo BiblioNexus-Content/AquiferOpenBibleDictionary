@@ -1,22 +1,30 @@
 [
   {
-    "content_id": 7121,
-    "reference_id": 6289,
-    "title": "Middin",
+    "content_id": 7120,
+    "reference_id": 6288,
+    "title": "Micri",
     "media_type": "Text",
-    "index_reference": "middin",
+    "index_reference": "micri",
     "language": "eng",
-    "content": "<h1>MIDDIN</h1><p>One of the six cities in the wilderness west of the Dead Sea allotted to Judah’s tribe for an inheritance, located between Beth-arabah and Secacah (<a href=\"https://ref.ly/Josh15:61\">Jos 15:61</a>).</p>",
+    "content": "<h1>MICRI</h1><p>Micri is another way to spell Michri.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6284\" data-resourceType=\"TyndaleBibleDictionary\">Michri</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06015061",
-          "start_ref_usfm": "JOS 15:61",
-          "end_ref": "06015061",
-          "end_ref_usfm": "JOS 15:61"
+          "start_ref": "13009008",
+          "start_ref_usfm": "1CH 9:8",
+          "end_ref": "13009008",
+          "end_ref_usfm": "1CH 9:8"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6284,
+          "content_id": 7116,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Michri",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

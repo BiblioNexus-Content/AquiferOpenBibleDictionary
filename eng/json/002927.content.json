@@ -1,19 +1,19 @@
 [
   {
-    "content_id": 6179,
-    "reference_id": 5347,
-    "title": "Jahdo",
+    "content_id": 6178,
+    "reference_id": 5346,
+    "title": "Jahdiel",
     "media_type": "Text",
-    "index_reference": "jahdo",
+    "index_reference": "jahdiel",
     "language": "eng",
-    "content": "<h1>JAHDO</h1><p>Gadite, son of Buz and a forefather of a number of valiant men who were registered during the reigns of King Jeroboam of Israel (793–753 BC) and King Jotham of Judah (750–735 BC; <a href=\"https://ref.ly/1Chr5:14\">1&nbsp;Chr 5:14</a>).</p>",
+    "content": "<h1>JAHDIEL</h1><p>One of the family heads of Manasseh’s tribe dwelling east of the Jordan following the allotment of the land (<a href=\"https://ref.ly/1Chr5:24\">1&nbsp;Chr 5:24</a>). He was noted as one of the mighty warriors in his tribe.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13005014",
-          "start_ref_usfm": "1CH 5:14",
-          "end_ref": "13005014",
-          "end_ref_usfm": "1CH 5:14"
+          "start_ref": "13005024",
+          "start_ref_usfm": "1CH 5:24",
+          "end_ref": "13005024",
+          "end_ref_usfm": "1CH 5:24"
         }
       ],
       "resource": []

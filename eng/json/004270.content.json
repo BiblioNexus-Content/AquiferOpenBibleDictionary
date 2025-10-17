@@ -1,15 +1,36 @@
 [
   {
-    "content_id": 7528,
-    "reference_id": 6696,
-    "title": "Ossuary",
+    "content_id": 7527,
+    "reference_id": 6695,
+    "title": "Ossifrage",
     "media_type": "Text",
-    "index_reference": "ossuary",
+    "index_reference": "ossifrage",
     "language": "eng",
-    "content": "<h1>OSSUARY*</h1><p>A small stone coffin (Latin, <em>ossuarium</em>), vase, or casket for the reception of the calcined remains of the dead, or a sepulchral house, where the bones of the dead were deposited. <em>Sarcophagus</em> was the name given by the Greeks and Romans to a big stone coffin. Some religious ideas were involved in calling a coffin a “body eater” (Greek, sarx<em>,</em> “flesh,” and phagein<em>,</em> “to eat”). In many cases, the burial was not completed until the bones were taken up from the earth or from the sarcophagus. The bones were cleaned and put into their final deposit, that is, into an ossuary, usually a small coffin of stone. The tendency to postpone the final burial, where it involves exhumation or the collection of bones, is accentuated by making a common ossuary for a number of the departed. This exhuming and collecting the bones is connected with the idea of final reunion with one’s fathers.</p>",
+    "content": "<h1>OSSIFRAGE*</h1><p>Largest of the vulture family, also known as the bearded vulture, considered ceremonially unclean (<a href=\"https://ref.ly/Lev11:13\">Lv 11:13</a>; <a href=\"https://ref.ly/Deut14:12\">Dt 14:12</a>, kjv). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Birds (Lammergeier)</span>.</p>",
     "associations": {
-      "passage": [],
-      "resource": []
+      "passage": [
+        {
+          "start_ref": "03011013",
+          "start_ref_usfm": "LEV 11:13",
+          "end_ref": "03011013",
+          "end_ref_usfm": "LEV 11:13"
+        },
+        {
+          "start_ref": "05014012",
+          "start_ref_usfm": "DEU 14:12",
+          "end_ref": "05014012",
+          "end_ref_usfm": "DEU 14:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 3418,
+          "content_id": 4250,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Birds",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

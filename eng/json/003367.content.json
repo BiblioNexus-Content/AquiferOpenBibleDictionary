@@ -1,34 +1,27 @@
 [
   {
-    "content_id": 6625,
-    "reference_id": 5793,
-    "title": "Kisloth-Tabor",
+    "content_id": 6624,
+    "reference_id": 5792,
+    "title": "Kislon",
     "media_type": "Text",
-    "index_reference": "kisloth-tabor",
+    "index_reference": "kislon",
     "language": "eng",
-    "content": "<h1>KISLOTH-TABOR</h1><p>Another spelling of Chisloth-tabor, a city mentioned in <a href=\"https://ref.ly/Josh19:12\">Joshua 19:12</a>. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3684\" data-resourceType=\"TyndaleBibleDictionary\">Chesulloth</span>. <em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7871\" data-resourceType=\"TyndaleBibleDictionary\">Tabor (Place)</span>.</p>",
+    "content": "<h1>KISLON</h1><p>Another spelling of Chislon, the father of Elidad.</p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3701\" data-resourceType=\"TyndaleBibleDictionary\">Chislon</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "06019012",
-          "start_ref_usfm": "JOS 19:12",
-          "end_ref": "06019012",
-          "end_ref_usfm": "JOS 19:12"
+          "start_ref": "04034021",
+          "start_ref_usfm": "NUM 34:21",
+          "end_ref": "04034021",
+          "end_ref_usfm": "NUM 34:21"
         }
       ],
       "resource": [
         {
-          "reference_id": 5735,
-          "content_id": 6567,
-          "resource_code": "Unknown",
-          "label": "Kesulloth",
-          "language": "eng"
-        },
-        {
-          "reference_id": 7871,
-          "content_id": 8703,
+          "reference_id": 3701,
+          "content_id": 4533,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Tabor (Place)",
+          "label": "Chislon",
           "language": "eng"
         }
       ]

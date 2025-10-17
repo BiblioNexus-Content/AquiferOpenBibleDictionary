@@ -1,66 +1,58 @@
 [
   {
-    "content_id": 805966,
-    "reference_id": 2866,
-    "title": "Aram-Naharaïm",
+    "content_id": 785149,
+    "reference_id": 2804,
+    "title": "Antioche de Pisidie",
     "media_type": "Text",
-    "index_reference": "aram-naharaïm",
+    "index_reference": "antioche de pisidie",
     "language": "fra",
-    "content": "<h1>ARAM-NAHARAÏM</h1><p>Mot hébreu signifiant « Aram des deux rivières », qui se réfère à la région délimitée par le haut Euphrate et les rivières du Habur. Traduit par « Mésopotamie » (<a href=\"https://ref.ly/Deut23:4\">Dt 23.4</a>, Version LSG).</p><p>La grande ville de cette région était Charan, où se sont arrêtés Térach et Abram. C&apos;est aussi là que Térach est mort (<a href=\"https://ref.ly/Gen11:31-Gen11:32\">Gn 11.31–32</a>). Un serviteur d&apos;Abram (plus tard appelé Abraham) retournera dans la même région pour chercher une épouse pour Isaac, le fils d&apos;Abraham (<a href=\"https://ref.ly/Gen24:1-Gen24:10\">Gn 24.1–10</a>). Jacob, le fils d&apos;Isaac, y retournera également pour y chercher une épouse (<a href=\"https://ref.ly/Gen28:1-Gen28:5\">Gn 28.1–5</a>). Paddan-Aram est un autre nom pour Aram-Naharaïm. Aram-Naharaïm était le foyer de Balaam, un prophète païen (<a href=\"https://ref.ly/Deut23:4\">Dt 23.4</a>).</p><p>Cuschan-Rischeathaïm, roi d&apos;Aram-Naharaïm, était un oppresseur d&apos;Israël pendant la période des juges (<a href=\"https://ref.ly/Judg3:8-Judg3:11\">Jg 3.8–11</a>). Plus tard, pendant les guerres du roi David contre Ammon, il devra affronter des charretiers mercenaires engagés des centres araméens d&apos;Aram-Naharaïm, les Syriens de Maaca et de Tsoba (<a href=\"https://ref.ly/1Chr19:6\">1Ch 19.6</a> ; voir le titre de <a href=\"https://ref.ly/Ps60:1\">Ps 60</a>). <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7853\" data-resourceType=\"TyndaleBibleDictionary\">Syrie, Syriens</span>.</p>",
+    "content": "<h1>ANTIOCHE DE PISIDIE</h1><p>Ville en Asie Mineure située entre les districts de Phrygie et de Pisidie. L&apos;apôtre Paul s&apos;y est rendu pour introduire l&apos;Évangile. Paul a été invité par les anciens de la synagogue à Antioche. Ils l&apos;ont invité à délivrer tout message d&apos;encouragement qu&apos;il pourrait avoir à leur apporter lors de leur réunion du sabbat ou du samedi (<a href=\"https://ref.ly/Acts13:14-Acts13:15\">Ac 13.14–15</a>).</p><p>Selon le récit dans Actes, beaucoup ont désiré en entendre davantage (<a href=\"https://ref.ly/Acts13:42\">13.42</a>). Certains des dirigeants juifs étaient jaloux de Paul parce qu&apos;il était populaire. Ils ont commencé à dire des choses nuisibles à son sujet (<a href=\"https://ref.ly/Acts13:45\">13.45</a>). Paul s&apos;est alors tourné vers les auditeurs gentils (<a href=\"https://ref.ly/Acts13:46-Acts13:48\">13.46–48</a>). Certaines des autorités juives l&apos;ont forcé à quitter la ville (<a href=\"https://ref.ly/Acts13:50\">13.50</a>). Les mêmes Juifs d&apos;Antioche ont continué à attaquer Paul alors qu&apos;il voyageait vers Lystre (<a href=\"https://ref.ly/Acts14:19\">Ac 14.19</a>). Paul a traversé Antioche une deuxième fois en se rendant à Perge et Attalie (<a href=\"https://ref.ly/Acts14:21\">14.21</a>).</p><p>La ville d&apos;Antioche a été construite vers 300 av. J.‑C. par Séleucos Nicator. Il a nommé la ville d&apos;après son fils, Antiochos I. À la suite de la conquête romaine en 188 av. J.‑C., la région a été déclarée libre de la domination des rois séleucides. Les Romains ont immédiatement commencé à la rendre plus semblable à leurs villes. Vers 36 av. J.‑C., Antoine a intégré Antioche au territoire du roi galate, Amyntas. À la mort d&apos;Amyntas 11 ans plus tard, la ville a obtenu le statut de colonie et est devenue Césarée Antiochela. Elle était la capitale de la Galatie méridionale.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "05023004",
-          "start_ref_usfm": "DEU 23:4",
-          "end_ref": "05023004",
-          "end_ref_usfm": "DEU 23:4"
+          "start_ref": "44013042",
+          "start_ref_usfm": "ACT 13:42",
+          "end_ref": "44013042",
+          "end_ref_usfm": "ACT 13:42"
         },
         {
-          "start_ref": "13019006",
-          "start_ref_usfm": "1CH 19:6",
-          "end_ref": "13019006",
-          "end_ref_usfm": "1CH 19:6"
+          "start_ref": "44013045",
+          "start_ref_usfm": "ACT 13:45",
+          "end_ref": "44013045",
+          "end_ref_usfm": "ACT 13:45"
         },
         {
-          "start_ref": "19060001",
-          "start_ref_usfm": "PSA 60:1",
-          "end_ref": "19060001",
-          "end_ref_usfm": "PSA 60:1"
+          "start_ref": "44013050",
+          "start_ref_usfm": "ACT 13:50",
+          "end_ref": "44013050",
+          "end_ref_usfm": "ACT 13:50"
         },
         {
-          "start_ref": "01011031",
-          "start_ref_usfm": "GEN 11:31",
-          "end_ref": "01011032",
-          "end_ref_usfm": "GEN 11:32"
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014019",
+          "end_ref_usfm": "ACT 14:19"
         },
         {
-          "start_ref": "01024001",
-          "start_ref_usfm": "GEN 24:1",
-          "end_ref": "01024010",
-          "end_ref_usfm": "GEN 24:10"
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014021",
+          "end_ref_usfm": "ACT 14:21"
         },
         {
-          "start_ref": "01028001",
-          "start_ref_usfm": "GEN 28:1",
-          "end_ref": "01028005",
-          "end_ref_usfm": "GEN 28:5"
+          "start_ref": "44013014",
+          "start_ref_usfm": "ACT 13:14",
+          "end_ref": "44013015",
+          "end_ref_usfm": "ACT 13:15"
         },
         {
-          "start_ref": "07003008",
-          "start_ref_usfm": "JDG 3:8",
-          "end_ref": "07003011",
-          "end_ref_usfm": "JDG 3:11"
+          "start_ref": "44013046",
+          "start_ref_usfm": "ACT 13:46",
+          "end_ref": "44013048",
+          "end_ref_usfm": "ACT 13:48"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 7853,
-          "content_id": 785269,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Syrie, Syriens",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

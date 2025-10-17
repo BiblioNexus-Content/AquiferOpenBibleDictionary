@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 769281,
-    "reference_id": 7173,
-    "title": "Remphan",
+    "content_id": 811853,
+    "reference_id": 6459,
+    "title": "Nachor (Lieu)",
     "media_type": "Text",
-    "index_reference": "remphan",
+    "index_reference": "nachor (lieu)",
     "language": "fra",
-    "content": "<h1>REMPHAN</h1><p>Divinité païenne mentionnée par Étienne dans <a href=\"https://ref.ly/Acts7:43\">Actes 7.43</a> (NBS « Raiphân »; TOB2010, NFC « Rephân »; BDS « Rompha »). Étienne a cité le texte d&apos;<a href=\"https://ref.ly/Amos5:26\">Amon 5.26</a> pour montrer comment les Israélites adoraient de faux dieux pendant leur séjour dans le désert.</p><p>Étienne citait la Septante (la traduction grecque de l&apos;Ancien Testament). Les traducteurs de la Septante ont compris le mot hébreu <em>kaiwan</em> comme une référence au dieu assyrien de Saturne, ou possiblement au dieu égyptien saturnien, Repa.</p><p>Certains experts soutiennent qu&apos;<a href=\"https://ref.ly/Amos5:26\">Amos 5.26</a> ne nomme pas du tout de divinités anciennes spécifiques, mais fait simplement une référence générale au faux culte pratiqué par les Israélites dans le désert.</p>",
+    "content": "<h1>NACHOR (Lieu)</h1><p>Ville du nord-ouest de la Mésopotamie ; domicile de Rébecca, l&apos;épouse d&apos;Isaac, et de Nachor, le frère d&apos;Abraham (<a href=\"https://ref.ly/Gen24:10\">Gn 24.10</a>). Nachor est fréquemment mentionnée dans les documents de Mari (18e siècle av. J.‑C.) comme la ville de Nakhur, située près de Charan dans la vallée de la rivière Balikh. Cette ville était probablement le foyer de certains des anciens Habiru. Son emplacement est inconnu.</p><p><em>Voir aussi</em> <span data-bnType=\"resourceReference\" data-resourceId=\"6458\" data-resourceType=\"TyndaleBibleDictionary\">Nachor (personne) n° 2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "30005026",
-          "start_ref_usfm": "AMO 5:26",
-          "end_ref": "30005026",
-          "end_ref_usfm": "AMO 5:26"
-        },
-        {
-          "start_ref": "44007043",
-          "start_ref_usfm": "ACT 7:43",
-          "end_ref": "44007043",
-          "end_ref_usfm": "ACT 7:43"
+          "start_ref": "01024010",
+          "start_ref_usfm": "GEN 24:10",
+          "end_ref": "01024010",
+          "end_ref_usfm": "GEN 24:10"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 6458,
+          "content_id": 806090,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Nachor (Personne)",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]

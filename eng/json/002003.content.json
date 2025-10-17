@@ -1,20 +1,27 @@
 [
   {
-    "content_id": 5268,
-    "reference_id": 4436,
-    "title": "Fir Tree",
+    "content_id": 5259,
+    "reference_id": 4427,
+    "title": "Finger (Measure)",
     "media_type": "Text",
-    "index_reference": "fir tree",
+    "index_reference": "finger (measure)",
     "language": "eng",
-    "content": "<h1>FIR TREE</h1><p>A translation of several Hebrew words in the Old Testament that might refer to a tree with cones (conifer trees). Experts cannot identify exactly which tree this is.</p><p>Fir tree is a general term for various evergreen trees that have flat needles and upright cones. Most likely, most of the references to fir trees in the Bible are actually talking about pine, cypress, or juniper trees. The only true fir tree in Israel and the surrounding areas grows in the higher parts of Lebanon and the mountains to the north. <em>Abies cilicica</em> grows to a height of 9.1 to 22.9 meters (30 to 75 feet) and many people grow it for various uses.</p>",
+    "content": "<h1>FINGER* (Measure)</h1><p>Linear measure equivalent to the width of a finger (<a href=\"https://ref.ly/Jer52:21\">Jer 52:21</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"8219\" data-resourceType=\"TyndaleBibleDictionary\">Weights and Measures</span>.</p>",
     "associations": {
-      "passage": [],
+      "passage": [
+        {
+          "start_ref": "24052021",
+          "start_ref_usfm": "JER 52:21",
+          "end_ref": "24052021",
+          "end_ref_usfm": "JER 52:21"
+        }
+      ],
       "resource": [
         {
-          "reference_id": 6929,
-          "content_id": 7761,
-          "resource_code": "Unknown",
-          "label": "Plants",
+          "reference_id": 8219,
+          "content_id": 9051,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Weights and Measures",
           "language": "eng"
         }
       ]

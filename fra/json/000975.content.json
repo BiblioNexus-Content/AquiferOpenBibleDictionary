@@ -1,30 +1,34 @@
 [
   {
-    "content_id": 785268,
-    "reference_id": 7847,
-    "title": "Symeon",
+    "content_id": 811865,
+    "reference_id": 6961,
+    "title": "Potage",
     "media_type": "Text",
-    "index_reference": "symeon",
+    "index_reference": "potage",
     "language": "fra",
-    "content": "<h1>SYMÉON</h1><p>Orthographe alternative de Siméon, le nom d&apos;un des membres de l&apos;Église à Antioche (<a href=\"https://ref.ly/Acts13:1\">Ac 13.1</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7669\" data-resourceType=\"TyndaleBibleDictionary\">Siméon (Personne) n° 4</span>.</p>",
+    "content": "<h1>POTAGE*</h1><p>Ragoût de légumes rouges souvent servi dans l&apos;Ancien Testament (<a href=\"https://ref.ly/Hag2:12\">Ag 2.12</a>). Le potage était fait de lentilles, d&apos;herbes, d&apos;oignons et parfois de viande. Son arôme s&apos;est avéré suffisamment fort pour que le droit d&apos;aînesse d&apos;Ésaü soit transféré à Jacob (<a href=\"https://ref.ly/Gen25:29-Gen25:34\">Gn 25.29–34</a>). Les disciples d&apos;Élisée appréciaient ce plat (<a href=\"https://ref.ly/2Kgs4:38-2Kgs4:41\">2R 4.38–41</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "44013001",
-          "start_ref_usfm": "ACT 13:1",
-          "end_ref": "44013001",
-          "end_ref_usfm": "ACT 13:1"
+          "start_ref": "37002012",
+          "start_ref_usfm": "HAG 2:12",
+          "end_ref": "37002012",
+          "end_ref_usfm": "HAG 2:12"
+        },
+        {
+          "start_ref": "12004038",
+          "start_ref_usfm": "2KI 4:38",
+          "end_ref": "12004041",
+          "end_ref_usfm": "2KI 4:41"
+        },
+        {
+          "start_ref": "01025029",
+          "start_ref_usfm": "GEN 25:29",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 7669,
-          "content_id": 785259,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Siméon (Personne)",
-          "language": "fra"
-        }
-      ]
+      "resource": []
     }
   }
 ]

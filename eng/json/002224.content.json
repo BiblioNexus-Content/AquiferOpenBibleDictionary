@@ -1,36 +1,28 @@
 [
   {
-    "content_id": 5481,
-    "reference_id": 4649,
-    "title": "Gittite",
+    "content_id": 5480,
+    "reference_id": 4648,
+    "title": "Gittaim",
     "media_type": "Text",
-    "index_reference": "gittite",
+    "index_reference": "gittaim",
     "language": "eng",
-    "content": "<h1>GITTITE</h1><p>A person who lived in Gath, which was a Philistine city (<a href=\"https://ref.ly/2Sam6:10-2Sam6:11\">2&nbsp;Samuel 6:10–11</a>; <a href=\"https://ref.ly/1Chr13:13\">1&nbsp;Chronicles 13:13</a>). </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4547\" data-resourceType=\"TyndaleBibleDictionary\">Gath</span>.</p>",
+    "content": "<h1>GITTAIM</h1><p>A town in the territory of Benjamin where the people of Beeroth fled to find safety. They stayed there under official protection (<a href=\"https://ref.ly/2Sam4:3\">2&nbsp;Samuel 4:3</a>). <a href=\"https://ref.ly/Neh11:33\">Nehemiah 11:33</a> lists Gittaim as one of the places where Jewish people settled after returning from exile in Babylon.</p><p>The two references may indicate two different places. If so, the second Gittaim may be northwest of Jerusalem. But some scholars believe that there is only one Gittaim, the one near Beeroth.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "13013013",
-          "start_ref_usfm": "1CH 13:13",
-          "end_ref": "13013013",
-          "end_ref_usfm": "1CH 13:13"
+          "start_ref": "10004003",
+          "start_ref_usfm": "2SA 4:3",
+          "end_ref": "10004003",
+          "end_ref_usfm": "2SA 4:3"
         },
         {
-          "start_ref": "10006010",
-          "start_ref_usfm": "2SA 6:10",
-          "end_ref": "10006011",
-          "end_ref_usfm": "2SA 6:11"
+          "start_ref": "16011033",
+          "start_ref_usfm": "NEH 11:33",
+          "end_ref": "16011033",
+          "end_ref_usfm": "NEH 11:33"
         }
       ],
-      "resource": [
-        {
-          "reference_id": 4547,
-          "content_id": 5379,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Gath",
-          "language": "eng"
-        }
-      ]
+      "resource": []
     }
   }
 ]

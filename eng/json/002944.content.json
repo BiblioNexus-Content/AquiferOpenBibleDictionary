@@ -1,40 +1,23 @@
 [
   {
-    "content_id": 6197,
-    "reference_id": 5365,
-    "title": "Jalam",
+    "content_id": 6195,
+    "reference_id": 5363,
+    "title": "Jakinite",
     "media_type": "Text",
-    "index_reference": "jalam",
+    "index_reference": "jakinite",
     "language": "eng",
-    "content": "<h1>JALAM</h1><p>Esau’s son and chief of an Edomite clan (<a href=\"https://ref.ly/Gen36:5,Gen36:14,Gen36:18\">Gn 36:5, 14, 18</a>; <a href=\"https://ref.ly/1Chr1:35\">1&nbsp;Chr 1:35</a>).</p>",
+    "content": "<h1>JAKINITE</h1><p>Another spelling for Jachinite. </p><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"5324\" data-resourceType=\"TyndaleBibleDictionary\">Jachinite</span>.</p>",
     "associations": {
-      "passage": [
+      "passage": [],
+      "resource": [
         {
-          "start_ref": "01036005",
-          "start_ref_usfm": "GEN 36:5",
-          "end_ref": "01036005",
-          "end_ref_usfm": "GEN 36:5"
-        },
-        {
-          "start_ref": "01036014",
-          "start_ref_usfm": "GEN 36:14",
-          "end_ref": "01036014",
-          "end_ref_usfm": "GEN 36:14"
-        },
-        {
-          "start_ref": "01036018",
-          "start_ref_usfm": "GEN 36:18",
-          "end_ref": "01036018",
-          "end_ref_usfm": "GEN 36:18"
-        },
-        {
-          "start_ref": "13001035",
-          "start_ref_usfm": "1CH 1:35",
-          "end_ref": "13001035",
-          "end_ref_usfm": "1CH 1:35"
+          "reference_id": 5324,
+          "content_id": 6156,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Jachinite",
+          "language": "eng"
         }
-      ],
-      "resource": []
+      ]
     }
   }
 ]

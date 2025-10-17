@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 759855,
-    "reference_id": 5701,
-    "title": "Queelata",
+    "content_id": 759815,
+    "reference_id": 5061,
+    "title": "Poupa",
     "media_type": "Text",
-    "index_reference": "queelata",
+    "index_reference": "poupa",
     "language": "por",
-    "content": "<h1>QUEELATA</h1><p>Um dos lugares onde os israelitas acamparam durante sua jornada do Egito ao Monte Sinai. Estava localizado em algum lugar entre Rissa e Monte Sefer. (<a href=\"https://ref.ly/Num33:22-Num33:23\">Nm 33.22,23</a>).</p>",
+    "content": "<h1>POUPA</h1><p>Qualquer um de vários pássaros cantores do Velho Mundo; considerados impuros (<a href=\"https://ref.ly/Lev11:19\">Lv 11.19</a>; <a href=\"https://ref.ly/Deut14:18\">Dt 14.18</a>). <em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3418\" data-resourceType=\"TyndaleBibleDictionary\">Aves</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04033022",
-          "start_ref_usfm": "NUM 33:22",
-          "end_ref": "04033023",
-          "end_ref_usfm": "NUM 33:23"
+          "start_ref": "03011019",
+          "start_ref_usfm": "LEV 11:19",
+          "end_ref": "03011019",
+          "end_ref_usfm": "LEV 11:19"
+        },
+        {
+          "start_ref": "05014018",
+          "start_ref_usfm": "DEU 14:18",
+          "end_ref": "05014018",
+          "end_ref_usfm": "DEU 14:18"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 3418,
+          "content_id": 658615,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Pássaros",
+          "language": "por"
+        }
+      ]
     }
   }
 ]

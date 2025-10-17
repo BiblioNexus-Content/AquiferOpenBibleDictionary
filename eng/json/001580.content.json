@@ -1,22 +1,36 @@
 [
   {
-    "content_id": 4833,
-    "reference_id": 4001,
-    "title": "Diblaim",
+    "content_id": 4832,
+    "reference_id": 4000,
+    "title": "Diblah",
     "media_type": "Text",
-    "index_reference": "diblaim",
+    "index_reference": "diblah",
     "language": "eng",
-    "content": "<h1>DIBLAIM</h1><p>Father of Gomer, Hosea’s wife (<a href=\"https://ref.ly/Hos1:3\">Hos 1:3</a>). The name Diblaim is thought by some to be an allusion to Gomer’s harlotry, since the name means “raisin cakes” and raisin cakes were used in ancient fertility-cult rites.</p>",
+    "content": "<h1>DIBLAH*</h1><p>ASV form of Riblah, the name of the place from which King Nebuchadnezzar directed operations against Jerusalem in 588–586 BC (<a href=\"https://ref.ly/Ezek6:14\">Ez 6:14</a>; cf. <a href=\"https://ref.ly/Jer52:9-Jer52:27\">Jer 52:9–27</a>). <em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7201\" data-resourceType=\"TyndaleBibleDictionary\">Riblah</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "28001003",
-          "start_ref_usfm": "HOS 1:3",
-          "end_ref": "28001003",
-          "end_ref_usfm": "HOS 1:3"
+          "start_ref": "26006014",
+          "start_ref_usfm": "EZK 6:14",
+          "end_ref": "26006014",
+          "end_ref_usfm": "EZK 6:14"
+        },
+        {
+          "start_ref": "24052009",
+          "start_ref_usfm": "JER 52:9",
+          "end_ref": "24052027",
+          "end_ref_usfm": "JER 52:27"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 7201,
+          "content_id": 8033,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Riblah",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

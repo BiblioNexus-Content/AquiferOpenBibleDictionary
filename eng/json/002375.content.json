@@ -1,28 +1,30 @@
 [
   {
-    "content_id": 5628,
-    "reference_id": 4796,
-    "title": "Hamon-Gog",
+    "content_id": 5627,
+    "reference_id": 4795,
+    "title": "Hamonah",
     "media_type": "Text",
-    "index_reference": "hamon-gog",
+    "index_reference": "hamonah",
     "language": "eng",
-    "content": "<h1>HAMON-GOG*</h1><p>Valley in the Transjordan where the dead of the armies of Gog (Gog’s “hordes”) will be buried (<a href=\"https://ref.ly/Ezek39:11,Ezek39:15\">Ez 39:11, 15</a>).</p>",
+    "content": "<h1>HAMONAH</h1><p>Name of site meaning “horde” in the Transjordan where the marauding armies of Gog will be destroyed by the Israelites (<a href=\"https://ref.ly/Ezek39:16\">Ez 39:16</a>).</p><p><em>See also</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4669\" data-resourceType=\"TyndaleBibleDictionary\">Gog #2</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "26039011",
-          "start_ref_usfm": "EZK 39:11",
-          "end_ref": "26039011",
-          "end_ref_usfm": "EZK 39:11"
-        },
-        {
-          "start_ref": "26039015",
-          "start_ref_usfm": "EZK 39:15",
-          "end_ref": "26039015",
-          "end_ref_usfm": "EZK 39:15"
+          "start_ref": "26039016",
+          "start_ref_usfm": "EZK 39:16",
+          "end_ref": "26039016",
+          "end_ref_usfm": "EZK 39:16"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4669,
+          "content_id": 5501,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Gog",
+          "language": "eng"
+        }
+      ]
     }
   }
 ]

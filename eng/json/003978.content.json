@@ -1,20 +1,20 @@
 [
   {
-    "content_id": 7236,
-    "reference_id": 6404,
-    "title": "Mount Tabor",
+    "content_id": 7235,
+    "reference_id": 6403,
+    "title": "Mount Sinai",
     "media_type": "Text",
-    "index_reference": "mount tabor",
+    "index_reference": "mount sinai",
     "language": "eng",
-    "content": "<h1>MOUNT TABOR</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7869\" data-resourceType=\"TyndaleBibleDictionary\">Tabor, Mount</span>.</p>",
+    "content": "<h1>MOUNT SINAI</h1><p><em>See</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7681\" data-resourceType=\"TyndaleBibleDictionary\">Sina, Sinai</span>.</p>",
     "associations": {
       "passage": [],
       "resource": [
         {
-          "reference_id": 7869,
-          "content_id": 8701,
+          "reference_id": 7681,
+          "content_id": 8513,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Tabor, Mount",
+          "label": "Sina, Sinai",
           "language": "eng"
         }
       ]

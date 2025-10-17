@@ -1,40 +1,45 @@
 [
   {
-    "content_id": 759917,
-    "reference_id": 6584,
-    "title": "Noba (Lugar)",
+    "content_id": 717186,
+    "reference_id": 6411,
+    "title": "Mupim",
     "media_type": "Text",
-    "index_reference": "noba (lugar)",
+    "index_reference": "mupim",
     "language": "por",
-    "content": "<h1>NOBA (Lugar)</h1><ol><li><p>Uma cidade a leste do rio Jordão. Anteriormente, era chamada de Quenate. A cidade foi dada a Noba, o manassita, como sua herança, e ele a renomeou em sua homenagem (<a href=\"https://ref.ly/Num32:42\">Nm 32.42</a>). Noba pode ser o mesmo lugar que Canatha, que era a cidade mais oriental da Decápolis durante o período em que os romanos governavam a área.</p><p><em>Veja também</em> <span data-bnType=\"resourceReference\" data-resourceId=\"3958\" data-resourceType=\"TyndaleBibleDictionary\">Decápolis</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"5687\" data-resourceType=\"TyndaleBibleDictionary\">Canatha</span>.</p></li><li><p>Um lugar perto da cidade gadita de Jogbeá, a leste do rio Jordão. Era próximo ao local onde o juiz Gideão emboscou os midianitas (<a href=\"https://ref.ly/Judg8:11\">Jz 8.11</a>).</p></li></ol>",
+    "content": "<h1>MUPIM</h1><p>Um dos dez filhos de Benjamim (<a href=\"https://ref.ly/Gen46:21\">Gn 46.21</a>). Ele é chamado em outros lugares de Sufã (<a href=\"https://ref.ly/Num26:39\">Nm 26.39</a>) e Supim (<a href=\"https://ref.ly/1Chr7:12\">1Cr 7.12</a>). Ele pode ser a mesma pessoa que Sefufã (<a href=\"https://ref.ly/1Chr8:5\">1Cr 8.5</a>).</p><p><em>Veja</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7538\" data-resourceType=\"TyndaleBibleDictionary\">Sufã</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "04032042",
-          "start_ref_usfm": "NUM 32:42",
-          "end_ref": "04032042",
-          "end_ref_usfm": "NUM 32:42"
+          "start_ref": "01046021",
+          "start_ref_usfm": "GEN 46:21",
+          "end_ref": "01046021",
+          "end_ref_usfm": "GEN 46:21"
         },
         {
-          "start_ref": "07008011",
-          "start_ref_usfm": "JDG 8:11",
-          "end_ref": "07008011",
-          "end_ref_usfm": "JDG 8:11"
+          "start_ref": "04026039",
+          "start_ref_usfm": "NUM 26:39",
+          "end_ref": "04026039",
+          "end_ref_usfm": "NUM 26:39"
+        },
+        {
+          "start_ref": "13007012",
+          "start_ref_usfm": "1CH 7:12",
+          "end_ref": "13007012",
+          "end_ref_usfm": "1CH 7:12"
+        },
+        {
+          "start_ref": "13008005",
+          "start_ref_usfm": "1CH 8:5",
+          "end_ref": "13008005",
+          "end_ref_usfm": "1CH 8:5"
         }
       ],
       "resource": [
         {
-          "reference_id": 3958,
-          "content_id": 161802,
+          "reference_id": 7538,
+          "content_id": 717281,
           "resource_code": "TyndaleBibleDictionary",
-          "label": "Decápolis*",
-          "language": "por"
-        },
-        {
-          "reference_id": 5687,
-          "content_id": 759853,
-          "resource_code": "TyndaleBibleDictionary",
-          "label": "Kanata",
+          "label": "Sufã",
           "language": "por"
         }
       ]

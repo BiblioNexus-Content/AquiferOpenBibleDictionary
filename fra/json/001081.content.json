@@ -1,25 +1,19 @@
 [
   {
-    "content_id": 811886,
-    "reference_id": 8395,
-    "title": "Zimran",
+    "content_id": 756983,
+    "reference_id": 7548,
+    "title": "Schéthar",
     "media_type": "Text",
-    "index_reference": "zimran",
+    "index_reference": "schéthar",
     "language": "fra",
-    "content": "<h1>ZIMRAN</h1><p>Un des fils d&apos;Abraham par Ketura (<a href=\"https://ref.ly/Gen25:2\">Gn 25.2</a> ; <a href=\"https://ref.ly/1Chr1:32\">1Ch 1.32</a>). Contrairement aux autres fils d&apos;Abraham et de Ketura, il y a peu de preuves que Zimran soit associé à un groupe tribal ultérieur.</p>",
+    "content": "<h1>SCHÉTHAR</h1><p>Un des sept conseillers du roi Assuérus. Lorsque la reine Vasthi s&apos;est opposée à l&apos;ordre du roi, Schéthar conseillera au roi de la destituer en tant que reine et de chercher une nouvelle reine, pour servir d&apos;exemple de discipline domestique (<a href=\"https://ref.ly/Esth1:14\">Est 1.14</a>).</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01025002",
-          "start_ref_usfm": "GEN 25:2",
-          "end_ref": "01025002",
-          "end_ref_usfm": "GEN 25:2"
-        },
-        {
-          "start_ref": "13001032",
-          "start_ref_usfm": "1CH 1:32",
-          "end_ref": "13001032",
-          "end_ref_usfm": "1CH 1:32"
+          "start_ref": "17001014",
+          "start_ref_usfm": "EST 1:14",
+          "end_ref": "17001014",
+          "end_ref_usfm": "EST 1:14"
         }
       ],
       "resource": []

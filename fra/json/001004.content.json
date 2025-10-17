@@ -1,40 +1,36 @@
 [
   {
-    "content_id": 811881,
-    "reference_id": 7946,
-    "title": "Théma (Personne)",
+    "content_id": 756978,
+    "reference_id": 7034,
+    "title": "Pur",
     "media_type": "Text",
-    "index_reference": "théma (personne)",
+    "index_reference": "pur",
     "language": "fra",
-    "content": "<h1>THÉMA (Personne)</h1><p>Neuvième fils d&apos;Ismaël, devenu chef d&apos;une puissante tribu nomade dans le désert nord-arabique (<a href=\"https://ref.ly/Gen25:15\">Gn 25.15</a> ; <a href=\"https://ref.ly/1Chr1:30\">1Ch 1.30</a> ; <a href=\"https://ref.ly/Jer25:23\">Jr 25.23</a>). Les descendants de Théma étaient principalement des commerçants de caravanes qui contrôlaient l&apos;accès aux routes importantes à travers le désert (<a href=\"https://ref.ly/Job6:19\">Jb 6.19</a>). Théma était également associé à un territoire et à une ville. <em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"7947\" data-resourceType=\"TyndaleBibleDictionary\">Théma (Lieu)</span>.</p>",
+    "content": "<h1>PUR</h1><p>Un mot hébreu qui signifie « lot » (utilisé dans le tirage au sort pour décider de quelque chose). Le nom de la fête juive de Pourim vient de ce mot. Haman, un ennemi des Juifs, a tiré le <em>pur</em> (lot) pour choisir quel jour détruire le peuple juif. La fête de Purim célèbre le salut des Juifs face au plan d&apos;Haman (<a href=\"https://ref.ly/Esth3:7\">Est 3.7</a> ; <a href=\"https://ref.ly/Esth9:24-Esth9:26\">9.24–26</a>).</p><p><em>Voir</em> <span data-bnType=\"resourceReference\" data-resourceId=\"4416\" data-resourceType=\"TyndaleBibleDictionary\">Fêtes et festivals d&apos;Israël</span>.</p>",
     "associations": {
       "passage": [
         {
-          "start_ref": "01025015",
-          "start_ref_usfm": "GEN 25:15",
-          "end_ref": "01025015",
-          "end_ref_usfm": "GEN 25:15"
+          "start_ref": "17003007",
+          "start_ref_usfm": "EST 3:7",
+          "end_ref": "17003007",
+          "end_ref_usfm": "EST 3:7"
         },
         {
-          "start_ref": "13001030",
-          "start_ref_usfm": "1CH 1:30",
-          "end_ref": "13001030",
-          "end_ref_usfm": "1CH 1:30"
-        },
-        {
-          "start_ref": "18006019",
-          "start_ref_usfm": "JOB 6:19",
-          "end_ref": "18006019",
-          "end_ref_usfm": "JOB 6:19"
-        },
-        {
-          "start_ref": "24025023",
-          "start_ref_usfm": "JER 25:23",
-          "end_ref": "24025023",
-          "end_ref_usfm": "JER 25:23"
+          "start_ref": "17009024",
+          "start_ref_usfm": "EST 9:24",
+          "end_ref": "17009026",
+          "end_ref_usfm": "EST 9:26"
         }
       ],
-      "resource": []
+      "resource": [
+        {
+          "reference_id": 4416,
+          "content_id": 341259,
+          "resource_code": "TyndaleBibleDictionary",
+          "label": "Fêtes et festivals d'Israël",
+          "language": "fra"
+        }
+      ]
     }
   }
 ]
